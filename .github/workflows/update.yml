@@ -10,7 +10,10 @@ jobs:
     name: Update
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: true
       - run: sudo sh -c 'apt update && apt install ldnsutils golang-go sqlite3'
       - run: go install github.com/monoidic/dns-tools@latest
       - run: ./scan.sh prework
