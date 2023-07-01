@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113016 600 900 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113018 3600 4800 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1572,8 +1572,6 @@ redbull.ni.	0	IN	NS	pdns91.ultradns.com.
 redbull.ni.	0	IN	NS	pdns91.ultradns.net.
 redbull.ni.	0	IN	NS	pdns91.ultradns.org.
 refrigiwear.ni.	0	IN	NS	ns01.trademarkarea.com.
-regdocument.ni.	0	IN	NS	dns1.dondns.com.
-regdocument.ni.	0	IN	NS	dns2.dondns.com.
 registra-domi.ni.	0	IN	NS	ns.hostpoint.ch.
 registra-domi.ni.	0	IN	NS	ns2.hostpoint.ch.
 registra-domi.ni.	0	IN	NS	ns3.hostpoint.ch.
