@@ -1,30 +1,16 @@
-xn--ygbi2ammx.	0	IN	SOA	ns1.pnina.ps. radwanm.pnina.ps. 2023012913 86400 7200 3600000 172800
+xn--ygbi2ammx.	0	IN	SOA	ns1.pnina.ps. radwanm.pnina.ps. 2023063021 86400 7200 3600000 172800
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ote.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	dns1.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
-xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1674990524"
+xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1688151709"
 059.xn--ygbi2ammx.	0	IN	NS	ns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	dns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	gns.paltel.net.
-amana.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-amana.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
-amana-fx.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-amana-fx.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
-amanaforex.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-amanaforex.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
-amanatrade.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-amanatrade.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
 bridgestone.xn--ygbi2ammx.	0	IN	NS	rns1.rightsdns.com.
 bridgestone.xn--ygbi2ammx.	0	IN	NS	rns2.rightsdns.com.
-forex.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-forex.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
-forexpalestine.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-forexpalestine.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
-gazaforex.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-gazaforex.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
 hokoomati.xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
 hokoomati.xn--ygbi2ammx.	0	IN	NS	dns4.pna.ps.
 hokoomati.xn--ygbi2ammx.	0	IN	NS	dns5.gov.ps.
@@ -47,8 +33,6 @@ ooredoomoblie.xn--ygbi2ammx.	0	IN	NS	ns2.wataniya-palestine.com.
 ooredoomoblie.xn--ygbi2ammx.	0	IN	NS	ns3.wataniya-palestine.com.
 ooredoomoblie.xn--ygbi2ammx.	0	IN	NS	ns4.wataniya-palestine.com.
 ooredoomoblie.xn--ygbi2ammx.	0	IN	NS	ns5.wataniya-palestine.com.
-palestineexchange.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-palestineexchange.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
 palpost.xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
 palpost.xn--ygbi2ammx.	0	IN	NS	dns4.pna.ps.
 palpost.xn--ygbi2ammx.	0	IN	NS	dns5.gov.ps.
@@ -67,8 +51,6 @@ super3g.xn--ygbi2ammx.	0	IN	NS	ns2.wataniya-palestine.com.
 super3g.xn--ygbi2ammx.	0	IN	NS	ns3.wataniya-palestine.com.
 super3g.xn--ygbi2ammx.	0	IN	NS	ns4.wataniya-palestine.com.
 super3g.xn--ygbi2ammx.	0	IN	NS	ns5.wataniya-palestine.com.
-trade.xn--ygbi2ammx.	0	IN	NS	ns1.amana-fx.com.
-trade.xn--ygbi2ammx.	0	IN	NS	ns2.amana-fx.com.
 tudor.xn--ygbi2ammx.	0	IN	NS	dns1.p02.nsone.net.
 tudor.xn--ygbi2ammx.	0	IN	NS	dns2.p02.nsone.net.
 tudor.xn--ygbi2ammx.	0	IN	NS	dns3.p02.nsone.net.
@@ -180,8 +162,8 @@ xn--fhbao.xn--ygbi2ammx.	0	IN	NS	dns2.cscdns.net.
 xn--igbakbafci2lmebebo7b7ac.xn--ygbi2ammx.	0	IN	NS	nsgbr.comlaude.co.uk.
 xn--igbakbafci2lmebebo7b7ac.xn--ygbi2ammx.	0	IN	NS	nssui.comlaude.ch.
 xn--igbakbafci2lmebebo7b7ac.xn--ygbi2ammx.	0	IN	NS	nsusa.comlaude.net.
+xn--igbhbd3au2k.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
 xn--igbhbd3au2k.xn--ygbi2ammx.	0	IN	NS	ns1.domainmanager.com.
-xn--igbhbd3au2k.xn--ygbi2ammx.	0	IN	NS	ns2.domainmanager.com.
 xn--igbi0gfp.xn--ygbi2ammx.	0	IN	NS	ns1.markmonitor.com.
 xn--igbi0gfp.xn--ygbi2ammx.	0	IN	NS	ns2.markmonitor.com.
 xn--igbi0gfp.xn--ygbi2ammx.	0	IN	NS	ns3.markmonitor.com.
@@ -247,17 +229,16 @@ xn--kgbg6a1dhegpcv.xn--ygbi2ammx.	0	IN	NS	a10-67.akam.net.
 xn--kgbg6a1dhegpcv.xn--ygbi2ammx.	0	IN	NS	a13-67.akam.net.
 xn--kgbg6a1dhegpcv.xn--ygbi2ammx.	0	IN	NS	a14-65.akam.net.
 xn--kgbg6a1dhegpcv.xn--ygbi2ammx.	0	IN	NS	a18-64.akam.net.
-xn--lgbb4cwb5a.xn--ygbi2ammx.	0	IN	NS	a.ns14.net.
-xn--lgbb4cwb5a.xn--ygbi2ammx.	0	IN	NS	b.ns14.net.
-xn--lgbb4cwb5a.xn--ygbi2ammx.	0	IN	NS	c.ns14.net.
+xn--lgbb4cwb5a.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
+xn--lgbb4cwb5a.xn--ygbi2ammx.	0	IN	NS	ns2.parkingcrew.net.
 xn--mgb0dcdyb.xn--ygbi2ammx.	0	IN	NS	ns.paltel.net.
 xn--mgb0dcdyb.xn--ygbi2ammx.	0	IN	NS	dns.paltel.net.
 xn--mgb0dcdyb.xn--ygbi2ammx.	0	IN	NS	gns.paltel.net.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns.nokia.com.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns2.nokia.com.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns3.nokia.com.
-xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns63.hosting24.com.
-xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns64.hosting24.com.
+xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
+xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns2.parkingcrew.net.
 xn--mgba4ad6fabi6adew.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
 xn--mgba4ad6fabi6adew.xn--ygbi2ammx.	0	IN	NS	dns2.cscdns.net.
 xn--mgba6fabgyd.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
@@ -291,9 +272,8 @@ xn--mgbacg0bo1jxb.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
 xn--mgbacg0bo1jxb.xn--ygbi2ammx.	0	IN	NS	dns2.cscdns.net.
 xn--mgbacpol9kc3acct.xn--ygbi2ammx.	0	IN	NS	ns1.tagidomains.com.
 xn--mgbacpol9kc3acct.xn--ygbi2ammx.	0	IN	NS	ns2.tagidomains.com.
-xn--mgbad0esc.xn--ygbi2ammx.	0	IN	NS	ns1.meganameservers.eu.
-xn--mgbad0esc.xn--ygbi2ammx.	0	IN	NS	ns2.meganameservers.eu.
-xn--mgbad0esc.xn--ygbi2ammx.	0	IN	NS	ns3.meganameservers.eu.
+xn--mgbad0esc.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
+xn--mgbad0esc.xn--ygbi2ammx.	0	IN	NS	ns2.parkingcrew.net.
 xn--mgbafb3b4fldeadh1eg.xn--ygbi2ammx.	0	IN	NS	ns1.tagidomains.com.
 xn--mgbafb3b4fldeadh1eg.xn--ygbi2ammx.	0	IN	NS	ns2.tagidomains.com.
 xn--mgbag4a0a5fybc.xn--ygbi2ammx.	0	IN	NS	ns1.sahara.com.sa.
@@ -388,9 +368,8 @@ xn--mgbth7di3a.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
 xn--mgbth7di3a.xn--ygbi2ammx.	0	IN	NS	dns2.cscdns.net.
 xn--mgbu3ee.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
 xn--mgbu3ee.xn--ygbi2ammx.	0	IN	NS	dns2.cscdns.net.
-xn--mgbuw0b.xn--ygbi2ammx.	0	IN	NS	ns1.meganameservers.eu.
-xn--mgbuw0b.xn--ygbi2ammx.	0	IN	NS	ns2.meganameservers.eu.
-xn--mgbuw0b.xn--ygbi2ammx.	0	IN	NS	ns3.meganameservers.eu.
+xn--mgbuw0b.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
+xn--mgbuw0b.xn--ygbi2ammx.	0	IN	NS	ns2.parkingcrew.net.
 xn--mgby2cbdchp.xn--ygbi2ammx.	0	IN	NS	ns1.sahara.com.sa.
 xn--mgby2cbdchp.xn--ygbi2ammx.	0	IN	NS	ns2.sahara.com.sa.
 xn--mgbz0cciu.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
