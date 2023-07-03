@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023063001 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023070301 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -100,6 +100,8 @@ acomin.cv.	0	IN	NS	ns3.dnstarvos.com.
 acomin.cv.	0	IN	NS	ns4.dnstarvos.com.
 acount.cv.	0	IN	NS	ns1.acount.cv.
 acount.cv.	0	IN	NS	ns2.acount.cv.
+ns1.acount.cv.	0	IN	A	153.92.222.93
+ns2.acount.cv.	0	IN	A	153.92.222.93
 actionteam.cv.	0	IN	NS	ns1.md-8.webhostbox.net.
 actionteam.cv.	0	IN	NS	ns2.md-8.webhostbox.net.
 acv.cv.	0	IN	NS	ns1.ativehosting.com.

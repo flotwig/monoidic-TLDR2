@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023063022 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070314 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -412,6 +412,8 @@ aristanetworks.gp.	0	IN	NS	ns2.101domain.com.
 arkeaonlife.gp.	0	IN	NS	ns1.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns2.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns3.arkea.com.
+armos.gp.	0	IN	NS	ns106.ovh.net.
+armos.gp.	0	IN	NS	dns106.ovh.net.
 aroma-zone.gp.	0	IN	NS	a.ns.mailclub.fr.
 aroma-zone.gp.	0	IN	NS	b.ns.mailclub.eu.
 aroma-zone.gp.	0	IN	NS	c.ns.mailclub.com.
@@ -1703,6 +1705,7 @@ esim.gp.	0	IN	NS	ns2.netim.net.
 esim.gp.	0	IN	NS	ns3.netim.net.
 espaceautos.gp.	0	IN	NS	ns113.ovh.net.
 espaceautos.gp.	0	IN	NS	dns113.ovh.net.
+espaceinterieur.gp.	0	IN	NS	vps-204e817f.vps.ovh.net.
 espaceocean.gp.	0	IN	NS	ns11.ovh.net.
 espaceocean.gp.	0	IN	NS	dns11.ovh.net.
 esri.gp.	0	IN	NS	ns1-park.esri.com.
