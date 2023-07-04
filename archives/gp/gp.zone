@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070314 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070413 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2922,6 +2922,10 @@ lasvegas.gp.	0	IN	NS	ns3.netim.net.
 latif.gp.	0	IN	NS	ns.mywapblog.com.
 latitudesud.gp.	0	IN	NS	ns14.ovh.net.
 latitudesud.gp.	0	IN	NS	dns14.ovh.net.
+laufen.gp.	0	IN	NS	ns1.ascio.com.
+laufen.gp.	0	IN	NS	ns2.ascio.com.
+laufen.gp.	0	IN	NS	ns3.ascio.com.
+laufen.gp.	0	IN	NS	ns4.ascio.com.
 laurent.gp.	0	IN	NS	ns-65-b.gandi.net.
 laurent.gp.	0	IN	NS	ns-114-a.gandi.net.
 laurent.gp.	0	IN	NS	ns-173-c.gandi.net.

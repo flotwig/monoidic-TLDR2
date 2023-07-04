@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113021 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113023 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1165,6 +1165,10 @@ maccosmetics.ni.	0	IN	NS	ns2.elcompanies.com.
 maccosmetics.ni.	0	IN	NS	ns3.elcompanies.com.
 maccosmetics.ni.	0	IN	NS	ns4.elcompanies.com.
 maccosmetics.ni.	0	IN	NS	ns5.elcompanies.com.
+mag.ni.	0	IN	NS	ns1-05.azure-dns.com.
+mag.ni.	0	IN	NS	ns2-05.azure-dns.net.
+mag.ni.	0	IN	NS	ns3-05.azure-dns.org.
+mag.ni.	0	IN	NS	ns4-05.azure-dns.info.
 manchas.ni.	0	IN	NS	aaron.ns.cloudflare.com.
 manchas.ni.	0	IN	NS	coraline.ns.cloudflare.com.
 mango.ni.	0	IN	NS	ns-224.awsdns-28.com.
@@ -1626,8 +1630,6 @@ scalperscompany.ni.	0	IN	NS	dns9.servidoresdns.net.
 scalperscompany.ni.	0	IN	NS	dns10.servidoresdns.net.
 seainsure.ni.	0	IN	NS	ns1.softlayer.com.
 seainsure.ni.	0	IN	NS	ns2.softlayer.com.
-seamoney.ni.	0	IN	NS	ns1.softlayer.com.
-seamoney.ni.	0	IN	NS	ns2.softlayer.com.
 seat.ni.	0	IN	NS	ns1.gedas.es.
 seat.ni.	0	IN	NS	ns2.gedas.es.
 senhasegura.ni.	0	IN	NS	ns1.101domain.com.
