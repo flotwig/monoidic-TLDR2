@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070413 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070511 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -4973,6 +4973,8 @@ tipiak.gp.	0	IN	NS	ns4.imagescreations.eu.
 titiri.gp.	0	IN	NS	ns1.francedns.com.
 titiri.gp.	0	IN	NS	ns2.francedns.com.
 titiri.gp.	0	IN	NS	ns3.francedns.com.
+tllppy.gp.	0	IN	NS	ns1.101domain.com.
+tllppy.gp.	0	IN	NS	ns2.101domain.com.
 tmall.gp.	0	IN	NS	ns1.sedoparking.com.
 tmall.gp.	0	IN	NS	ns2.sedoparking.com.
 to.gp.	0	IN	NS	dns1.comlaude-dns.com.
