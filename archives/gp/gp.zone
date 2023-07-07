@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070616 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023070716 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1853,8 +1853,8 @@ feuvert.gp.	0	IN	NS	c.ns.mailclub.com.
 feuvertantilles.gp.	0	IN	NS	a.ns.mailclub.fr.
 feuvertantilles.gp.	0	IN	NS	b.ns.mailclub.eu.
 feuvertantilles.gp.	0	IN	NS	c.ns.mailclub.com.
-feyvin.gp.	0	IN	NS	mira.ns.cloudflare.com.
-feyvin.gp.	0	IN	NS	donald.ns.cloudflare.com.
+feyvin.gp.	0	IN	NS	kai.ns.cloudflare.com.
+feyvin.gp.	0	IN	NS	tara.ns.cloudflare.com.
 ff.gp.	0	IN	NS	ns1.bodis.com.
 ff.gp.	0	IN	NS	ns2.bodis.com.
 fi.gp.	0	IN	NS	ns1.bodis.com.
@@ -2883,6 +2883,8 @@ lactld.gp.	0	IN	NS	dns5.cloudns.net.
 lactld.gp.	0	IN	NS	dns6.cloudns.net.
 ladesirade.gp.	0	IN	NS	ns1nl.mochahost.com.
 ladesirade.gp.	0	IN	NS	ns2nl.mochahost.com.
+lafemmechic.gp.	0	IN	NS	ns1.ikoula.fr.
+lafemmechic.gp.	0	IN	NS	ns2.ikoula.fr.
 lagence.gp.	0	IN	NS	ns17.ovh.net.
 lagence.gp.	0	IN	NS	dns17.ovh.net.
 lagup.gp.	0	IN	NS	ns1.bdmi.net.
@@ -2913,6 +2915,8 @@ lapostemobile.gp.	0	IN	NS	ns3.nameshield.net.
 lapostemobile.gp.	0	IN	NS	obs.ns1.fr.
 lapub.gp.	0	IN	NS	trey.ns.cloudflare.com.
 lapub.gp.	0	IN	NS	elaine.ns.cloudflare.com.
+lasaladerie.gp.	0	IN	NS	ns1.ikoula.fr.
+lasaladerie.gp.	0	IN	NS	ns2.ikoula.fr.
 laselectiondescomptoirs.gp.	0	IN	NS	ns1.francedns.com.
 laselectiondescomptoirs.gp.	0	IN	NS	ns2.francedns.com.
 laselectiondescomptoirs.gp.	0	IN	NS	ns3.francedns.com.
@@ -5205,6 +5209,8 @@ venoa.gp.	0	IN	NS	ns2.netim.net.
 venoa.gp.	0	IN	NS	ns3.netim.net.
 venoa.gp.	0	IN	NS	ns4.netim.net.
 venoa.gp.	0	IN	NS	ns5.netim.net.
+venteauto.gp.	0	IN	NS	ns1.karib-tech.com.
+venteauto.gp.	0	IN	NS	ns2.karib-tech.com.
 veolia-eau.gp.	0	IN	NS	ns1.iptwins.net.
 veolia-eau.gp.	0	IN	NS	ns2.iptwins.net.
 veolia-eau.gp.	0	IN	NS	ns3.iptwins.com.

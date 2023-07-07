@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113026 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113027 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -818,8 +818,6 @@ hbomax.ni.	0	IN	NS	ns4.markmonitor.com.
 hbomax.ni.	0	IN	NS	ns5.markmonitor.com.
 hbomax.ni.	0	IN	NS	ns6.markmonitor.com.
 hbomax.ni.	0	IN	NS	ns7.markmonitor.com.
-health.ni.	0	IN	NS	ns1.alka.systems.
-health.ni.	0	IN	NS	ns2.alka.systems.
 henribendel.ni.	0	IN	NS	ns1.markmonitor.com.
 henribendel.ni.	0	IN	NS	ns2.markmonitor.com.
 henribendel.ni.	0	IN	NS	ns3.markmonitor.com.
