@@ -14,6 +14,8 @@
 * `arpa.` via `f.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `g.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `k.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
+* `ba.` via `ns.ba.`: [Click here to view zone data.](archives/ba/ba.zone)
+* `ba.` via `sava.utic.net.ba.`: [Click here to view zone data.](archives/ba/ba.zone)
 * `cd.` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cd.` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cv.` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv.zone)
