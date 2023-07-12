@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689113101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689199501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -263,8 +263,8 @@ alcatel.mw.	0	IN	NS	ns3.nokia.com.
 alcatel.mw.	0	IN	NS	ns4.nokia.com.
 alcatel.mw.	0	IN	NS	ns5.nokia.com.
 alcatel.mw.	0	IN	NS	ns6.nokia.com.
-aleksandrconsulting.mw.	0	IN	NS	ns321.websitewelcome.com.
-aleksandrconsulting.mw.	0	IN	NS	ns322.websitewelcome.com.
+aleksandrconsulting.mw.	0	IN	NS	ns1.node1427.myfcloud.com.
+aleksandrconsulting.mw.	0	IN	NS	ns2.node1427.myfcloud.com.
 alfa-laval.mw.	0	IN	NS	unit.nmugroup.com.
 alfa-laval.mw.	0	IN	NS	origo.nmugroup.com.
 alfa-laval.mw.	0	IN	NS	vertex.nmugroup.se.
@@ -3091,8 +3091,9 @@ neef.mw.	0	IN	NS	ns1.bdsmw.com.
 neef.mw.	0	IN	NS	ns2.bdsmw.com.
 neef.mw.	0	IN	NS	ns3.bdsmw.com.
 neef.mw.	0	IN	NS	ns4.bdsmw.com.
-neno.mw.	0	IN	NS	ns15.afriregister.com.
-neno.mw.	0	IN	NS	ns25.afriregister.com.
+neno.mw.	0	IN	NS	ns1.netim.net.
+neno.mw.	0	IN	NS	ns2.netim.net.
+neno.mw.	0	IN	NS	ns3.netim.net.
 nestle.mw.	0	IN	NS	amsdns1.nestle.com.
 nestle.mw.	0	IN	NS	aoadns1.nestle.com.
 nestle.mw.	0	IN	NS	ctrdns1.nestle.com.
@@ -3622,10 +3623,6 @@ reishi.mw.	0	IN	NS	ns3.instradns.com.
 relaxdays.mw.	0	IN	NS	ns01.trademarkarea.com.
 relaxdays.mw.	0	IN	NS	ns02.trademarkarea.com.
 relaxdays.mw.	0	IN	NS	ns03.trademarkarea.com.
-renaissanceseeds.mw.	0	IN	NS	ns1.bluehost.com.
-renaissanceseeds.mw.	0	IN	NS	ns2.bluehost.com.
-renaissanceseeds.mw.	0	IN	NS	dns1.namecheaphosting.com.
-renaissanceseeds.mw.	0	IN	NS	dns2.namecheaphosting.com.
 renault.mw.	0	IN	NS	indom10.indomco.com.
 renault.mw.	0	IN	NS	indom20.indomco.net.
 renault.mw.	0	IN	NS	indom30.indomco.fr.

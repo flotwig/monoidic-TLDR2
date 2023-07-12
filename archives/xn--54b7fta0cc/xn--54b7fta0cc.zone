@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023071209 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023071309 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -425,8 +425,6 @@ xn--j5b6a8bel1do8e.xn--54b7fta0cc.	0	IN	NS	202.56.230.5.
 xn--j5b6a8bel1do8e.xn--54b7fta0cc.	0	IN	NS	202.56.230.6.
 xn--j5b6fa1ab.xn--54b7fta0cc.	0	IN	NS	ns1.fnfserver.com.
 xn--j5b6fa1ab.xn--54b7fta0cc.	0	IN	NS	ns2.fnfserver.com.
-xn--j5b9aa7c8db.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
-xn--j5b9aa7c8db.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc.	0	IN	NS	ns1.bangladesh.gov.bd.
 xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc.	0	IN	NS	ns2.bangladesh.gov.bd.
 xn--j5ba4f9bc3bb.xn--54b7fta0cc.	0	IN	NS	ns1.speedydns.net.
