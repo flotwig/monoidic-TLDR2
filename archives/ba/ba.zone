@@ -1,4 +1,4 @@
-ba.	0	IN	SOA	bosna.utic.net.ba. hostmaster.bosna.utic.net.ba. 1689283801 14400 3600 604800 86400
+ba.	0	IN	SOA	bosna.utic.net.ba. hostmaster.bosna.utic.net.ba. 1689366601 14400 3600 604800 86400
 ba.	0	IN	NS	ns.ba.
 ba.	0	IN	NS	lim.utic.net.ba.
 ba.	0	IN	NS	una.utic.net.ba.
@@ -4351,6 +4351,10 @@ apotekamedica.ba.	0	IN	NS	ns.au-globaldns.com.
 apotekamedica.ba.	0	IN	NS	ns.cn-globaldns.com.
 apotekamedica.ba.	0	IN	NS	ns.eu-globaldns.com.
 apotekamedica.ba.	0	IN	NS	ns.us-globaldns.com.
+apotekamedikament.ba.	0	IN	NS	ns5.ns35.de.
+apotekamedikament.ba.	0	IN	NS	ns6.ns35.de.
+apotekamedikament.ba.	0	IN	NS	ns7.ns35.de.
+apotekamedikament.ba.	0	IN	NS	ns8.ns35.de.
 apotekamo.ba.	0	IN	NS	ada.ns.cloudflare.com.
 apotekamo.ba.	0	IN	NS	doug.ns.cloudflare.com.
 apotekanera.ba.	0	IN	NS	dns.fakat.net.
@@ -5305,18 +5309,16 @@ asa-sped.ba.	0	IN	NS	gail.ns.cloudflare.com.
 asa-sped.ba.	0	IN	NS	clint.ns.cloudflare.com.
 asabanka.ba.	0	IN	NS	sava.utic.net.ba.
 asabanka.ba.	0	IN	NS	linhost02.utic.net.ba.
-asabolnica.ba.	0	IN	NS	ns1-03.azure-dns.com.
-asabolnica.ba.	0	IN	NS	ns2-03.azure-dns.net.
-asabolnica.ba.	0	IN	NS	ns3-03.azure-dns.org.
-asabolnica.ba.	0	IN	NS	ns4-03.azure-dns.info.
+asabolnica.ba.	0	IN	NS	tia.ns.cloudflare.com.
+asabolnica.ba.	0	IN	NS	johnathan.ns.cloudflare.com.
 asacentral.ba.	0	IN	NS	gail.ns.cloudflare.com.
 asacentral.ba.	0	IN	NS	clint.ns.cloudflare.com.
 asacompany.ba.	0	IN	NS	ns1.fantasticno.com.
 asacompany.ba.	0	IN	NS	ns2.fantasticno.com.
 asafinance.ba.	0	IN	NS	ns1.establish.ba.
 asafinance.ba.	0	IN	NS	ns2.establish.ba.
-asagradnja.ba.	0	IN	NS	anita.ns.cloudflare.com.
-asagradnja.ba.	0	IN	NS	jaime.ns.cloudflare.com.
+asagradnja.ba.	0	IN	NS	tia.ns.cloudflare.com.
+asagradnja.ba.	0	IN	NS	johnathan.ns.cloudflare.com.
 asainstitut.ba.	0	IN	NS	tia.ns.cloudflare.com.
 asainstitut.ba.	0	IN	NS	johnathan.ns.cloudflare.com.
 asak-aparati.ba.	0	IN	NS	ns41.cloudns.net.
@@ -5529,6 +5531,11 @@ asko.ba.	0	IN	NS	ns.us-globaldns.com.
 askom.ba.	0	IN	NS	ns.eu-globaldns.com.
 askom.ba.	0	IN	NS	sava.utic.net.ba.
 askom.ba.	0	IN	NS	sigma.global.ba.
+asksigma.ba.	0	IN	NS	ns.au-globaldns.com.
+asksigma.ba.	0	IN	NS	ns.cn-globaldns.com.
+asksigma.ba.	0	IN	NS	ns.eu-globaldns.ba.
+asksigma.ba.	0	IN	NS	ns.eu-globaldns.com.
+asksigma.ba.	0	IN	NS	ns.us-globaldns.com.
 aslelic.ba.	0	IN	NS	ns10.edgespot.net.
 aslelic.ba.	0	IN	NS	ns20.edgespot.net.
 aslogistics.ba.	0	IN	NS	ns-106.awsdns-13.com.
@@ -6276,8 +6283,8 @@ autopatosnice.ba.	0	IN	NS	dns.fakat.net.
 autopatosnice.ba.	0	IN	NS	dns2.fakat.net.
 autopatosnice.ba.	0	IN	NS	dns3.fakat.net.
 autopatosnice.ba.	0	IN	NS	dns4.fakat.net.
-autopijaca.ba.	0	IN	NS	art.ns.cloudflare.com.
-autopijaca.ba.	0	IN	NS	mary.ns.cloudflare.com.
+autopijaca.ba.	0	IN	NS	bonnie.ns.cloudflare.com.
+autopijaca.ba.	0	IN	NS	darwin.ns.cloudflare.com.
 autopin.ba.	0	IN	NS	ns1.digitalocean.com.
 autopin.ba.	0	IN	NS	ns2.digitalocean.com.
 autopin.ba.	0	IN	NS	ns3.digitalocean.com.
@@ -11013,6 +11020,11 @@ bosniagrafit.ba.	0	IN	NS	ns126.hosting24.com.
 bosniagranit.ba.	0	IN	NS	ns.second-ns.com.
 bosniagranit.ba.	0	IN	NS	ns1.your-server.de.
 bosniagranit.ba.	0	IN	NS	ns3.second-ns.de.
+bosnian-lights.ba.	0	IN	NS	ns.au-globaldns.com.
+bosnian-lights.ba.	0	IN	NS	ns.cn-globaldns.com.
+bosnian-lights.ba.	0	IN	NS	ns.eu-globaldns.ba.
+bosnian-lights.ba.	0	IN	NS	ns.eu-globaldns.com.
+bosnian-lights.ba.	0	IN	NS	ns.us-globaldns.com.
 bosniankingdom.ba.	0	IN	NS	helium.ns.hetzner.de.
 bosniankingdom.ba.	0	IN	NS	oxygen.ns.hetzner.com.
 bosniankingdom.ba.	0	IN	NS	hydrogen.ns.hetzner.com.
@@ -12946,9 +12958,8 @@ centerplus.ba.	0	IN	NS	dns.fakat.net.
 centerplus.ba.	0	IN	NS	dns2.fakat.net.
 centerplus.ba.	0	IN	NS	dns3.fakat.net.
 centerplus.ba.	0	IN	NS	dns4.fakat.net.
-centifolia.ba.	0	IN	NS	a.dns.gandi.net.
-centifolia.ba.	0	IN	NS	b.dns.gandi.net.
-centifolia.ba.	0	IN	NS	c.dns.gandi.net.
+centifolia.ba.	0	IN	NS	lee.ns.cloudflare.com.
+centifolia.ba.	0	IN	NS	kate.ns.cloudflare.com.
 centohost.ba.	0	IN	NS	ns.au-globaldns.com.
 centohost.ba.	0	IN	NS	ns.cn-globaldns.com.
 centohost.ba.	0	IN	NS	ns.eu-globaldns.ba.
@@ -13470,6 +13481,11 @@ cijenajezakon.ba.	0	IN	NS	dns3.fakat.net.
 cijenajezakon.ba.	0	IN	NS	dns4.fakat.net.
 cijenaservisa.ba.	0	IN	NS	jake.ns.cloudflare.com.
 cijenaservisa.ba.	0	IN	NS	olga.ns.cloudflare.com.
+cijene.ba.	0	IN	NS	ns.au-globaldns.com.
+cijene.ba.	0	IN	NS	ns.cn-globaldns.com.
+cijene.ba.	0	IN	NS	ns.eu-globaldns.ba.
+cijene.ba.	0	IN	NS	ns.eu-globaldns.com.
+cijene.ba.	0	IN	NS	ns.us-globaldns.com.
 cijeneguma.ba.	0	IN	NS	ns1.herchost.de.
 cijeneguma.ba.	0	IN	NS	ns2.herchost.de.
 cijenelaptopa.ba.	0	IN	NS	lila.ns.cloudflare.com.
@@ -14186,10 +14202,6 @@ coke.ba.	0	IN	NS	ns1-09.azure-dns.com.
 coke.ba.	0	IN	NS	ns2-09.azure-dns.net.
 coke.ba.	0	IN	NS	ns3-09.azure-dns.org.
 coke.ba.	0	IN	NS	ns4-09.azure-dns.info.
-cokebbq.ba.	0	IN	NS	ns.au-globaldns.com.
-cokebbq.ba.	0	IN	NS	ns.cn-globaldns.com.
-cokebbq.ba.	0	IN	NS	ns.eu-globaldns.com.
-cokebbq.ba.	0	IN	NS	ns.us-globaldns.com.
 cokebbqpromo.ba.	0	IN	NS	ns.au-globaldns.com.
 cokebbqpromo.ba.	0	IN	NS	ns.cn-globaldns.com.
 cokebbqpromo.ba.	0	IN	NS	ns.eu-globaldns.ba.
@@ -14547,7 +14559,7 @@ connecto.ba.	0	IN	NS	ns5.linode.com.
 connectpeople.ba.	0	IN	NS	ns1.site5.com.
 connectpeople.ba.	0	IN	NS	ns2.site5.com.
 connectum.ba.	0	IN	NS	dns5.internet.ba.
-connectum.ba.	0	IN	NS	srv9.internet.ba.
+connectum.ba.	0	IN	NS	srv205-33.internet.ba.
 connexit.ba.	0	IN	NS	ns1671.websitewelcome.com.
 connexit.ba.	0	IN	NS	ns1672.websitewelcome.com.
 conra.ba.	0	IN	NS	dns.fakat.net.
@@ -21264,6 +21276,8 @@ elevate.ba.	0	IN	NS	ns2.siteground.net.
 eleving.ba.	0	IN	NS	ns01.trademarkarea.com.
 eleving.ba.	0	IN	NS	ns02.trademarkarea.com.
 eleving.ba.	0	IN	NS	ns03.trademarkarea.com.
+elex.ba.	0	IN	NS	dns5.internet.ba.
+elex.ba.	0	IN	NS	srv205-33.internet.ba.
 elez.ba.	0	IN	NS	ns.au-globaldns.com.
 elez.ba.	0	IN	NS	ns.cn-globaldns.com.
 elez.ba.	0	IN	NS	ns.eu-globaldns.com.
@@ -25387,6 +25401,11 @@ fkradnik.ba.	0	IN	NS	eva.ns.cloudflare.com.
 fkradnik.ba.	0	IN	NS	chance.ns.cloudflare.com.
 fkrespekt.ba.	0	IN	NS	ns1.webstudiohost.com.
 fkrespekt.ba.	0	IN	NS	ns2.webstudiohost.com.
+fkrudar.ba.	0	IN	NS	ns.au-globaldns.com.
+fkrudar.ba.	0	IN	NS	ns.cn-globaldns.com.
+fkrudar.ba.	0	IN	NS	ns.eu-globaldns.ba.
+fkrudar.ba.	0	IN	NS	ns.eu-globaldns.com.
+fkrudar.ba.	0	IN	NS	ns.us-globaldns.com.
 fksarajevo.ba.	0	IN	NS	paityn.ns.cloudflare.com.
 fksarajevo.ba.	0	IN	NS	thaddeus.ns.cloudflare.com.
 fksloboda.ba.	0	IN	NS	ns-28.awsdns-03.com.
@@ -26441,8 +26460,8 @@ frilenser.ba.	0	IN	NS	dns.fakat.net.
 frilenser.ba.	0	IN	NS	dns2.fakat.net.
 frilenser.ba.	0	IN	NS	dns3.fakat.net.
 frilenser.ba.	0	IN	NS	dns4.fakat.net.
-frimaco.ba.	0	IN	NS	dns1.namecheaphosting.com.
-frimaco.ba.	0	IN	NS	dns2.namecheaphosting.com.
+frimaco.ba.	0	IN	NS	dns1.cdn.hr.
+frimaco.ba.	0	IN	NS	dns2.cdn.hr.
 frisa.ba.	0	IN	NS	ns1.global.ba.
 frisa.ba.	0	IN	NS	ns1.bh-hosting.com.
 frisbo.ba.	0	IN	NS	ns-154.awsdns-19.com.
@@ -37801,6 +37820,10 @@ klimebijeljina.ba.	0	IN	NS	ns1.itsystem.io.
 klimebijeljina.ba.	0	IN	NS	ns2.itsystem.io.
 klimebn.ba.	0	IN	NS	ns1.itsystem.io.
 klimebn.ba.	0	IN	NS	ns2.itsystem.io.
+klinika.ba.	0	IN	NS	ns.au-globaldns.com.
+klinika.ba.	0	IN	NS	ns.cn-globaldns.com.
+klinika.ba.	0	IN	NS	ns.eu-globaldns.com.
+klinika.ba.	0	IN	NS	ns.us-globaldns.com.
 klinika-svjetlost.ba.	0	IN	NS	helium.ns.hetzner.de.
 klinika-svjetlost.ba.	0	IN	NS	oxygen.ns.hetzner.com.
 klinika-svjetlost.ba.	0	IN	NS	hydrogen.ns.hetzner.com.
@@ -38386,6 +38409,11 @@ konfor.ba.	0	IN	NS	dns3.fakat.net.
 konfor.ba.	0	IN	NS	dns4.fakat.net.
 kongres.ba.	0	IN	NS	lila.ns.cloudflare.com.
 kongres.ba.	0	IN	NS	lloyd.ns.cloudflare.com.
+kongresfarmaceuta.ba.	0	IN	NS	ns.au-globaldns.com.
+kongresfarmaceuta.ba.	0	IN	NS	ns.cn-globaldns.com.
+kongresfarmaceuta.ba.	0	IN	NS	ns.eu-globaldns.ba.
+kongresfarmaceuta.ba.	0	IN	NS	ns.eu-globaldns.com.
+kongresfarmaceuta.ba.	0	IN	NS	ns.us-globaldns.com.
 kongreshematologa.ba.	0	IN	NS	dns.fakat.net.
 kongreshematologa.ba.	0	IN	NS	dns2.fakat.net.
 kongreshematologa.ba.	0	IN	NS	dns3.fakat.net.
@@ -40675,8 +40703,6 @@ letsbet.ba.	0	IN	NS	eu.atakdomain.com.
 letsbet.ba.	0	IN	NS	tr.atakdomain.com.
 letsdoit.ba.	0	IN	NS	lila.ns.cloudflare.com.
 letsdoit.ba.	0	IN	NS	lloyd.ns.cloudflare.com.
-letseat.ba.	0	IN	NS	ns1.crohost.net.
-letseat.ba.	0	IN	NS	ns2.crohost.net.
 letsgo.ba.	0	IN	NS	ns63.domaincontrol.com.
 letsgo.ba.	0	IN	NS	ns64.domaincontrol.com.
 letybo.ba.	0	IN	NS	ns1.world4you.at.
@@ -41846,8 +41872,6 @@ lpzgradiska.ba.	0	IN	NS	ns.eu-globaldns.com.
 lpzgradiska.ba.	0	IN	NS	ns1.crohost.net.
 ls-home.ba.	0	IN	NS	ns1.ls-home.ba.
 ls-home.ba.	0	IN	NS	ns2.ls-home.ba.
-ns1.ls-home.ba.	0	IN	A	162.254.38.51
-ns2.ls-home.ba.	0	IN	A	162.254.38.51
 ls2.ba.	0	IN	NS	ns.au-globaldns.com.
 ls2.ba.	0	IN	NS	ns.cn-globaldns.com.
 ls2.ba.	0	IN	NS	ns.eu-globaldns.ba.
@@ -45472,6 +45496,8 @@ mikromotor.ba.	0	IN	NS	ns.eu-globaldns.com.
 mikromotor.ba.	0	IN	NS	ns.us-globaldns.com.
 mikron.ba.	0	IN	NS	ns1.allianc.net.
 mikron.ba.	0	IN	NS	ns2.allianc.net.
+mikropigmentacija.ba.	0	IN	NS	ivan.ns.cloudflare.com.
+mikropigmentacija.ba.	0	IN	NS	ruth.ns.cloudflare.com.
 mikroprint.ba.	0	IN	NS	ns.au-globaldns.com.
 mikroprint.ba.	0	IN	NS	ns.cn-globaldns.com.
 mikroprint.ba.	0	IN	NS	ns.eu-globaldns.com.
@@ -48273,8 +48299,6 @@ mybimal.ba.	0	IN	NS	dns.fakat.net.
 mybimal.ba.	0	IN	NS	dns2.fakat.net.
 mybimal.ba.	0	IN	NS	dns3.fakat.net.
 mybimal.ba.	0	IN	NS	dns4.fakat.net.
-mybook.ba.	0	IN	NS	ns1.lanaco.com.
-mybook.ba.	0	IN	NS	ns2.lanaco.com.
 mycase.ba.	0	IN	NS	chris.nswhitelabel.com.
 mycase.ba.	0	IN	NS	elena.nswhitelabel.com.
 mycbd.ba.	0	IN	NS	ns1.regery.net.
@@ -49712,10 +49736,8 @@ newhorizons.ba.	0	IN	NS	dns1.cscdns.net.
 newhorizons.ba.	0	IN	NS	dns2.cscdns.net.
 newhotel.ba.	0	IN	NS	ns1.thetexta.net.
 newhotel.ba.	0	IN	NS	ns2.thetexta.net.
-newideas.ba.	0	IN	NS	dns.fakat.net.
-newideas.ba.	0	IN	NS	dns2.fakat.net.
-newideas.ba.	0	IN	NS	dns3.fakat.net.
-newideas.ba.	0	IN	NS	dns4.fakat.net.
+newideas.ba.	0	IN	NS	ns1.lanaco.com.
+newideas.ba.	0	IN	NS	ns2.lanaco.com.
 newish.ba.	0	IN	NS	dns.fakat.net.
 newish.ba.	0	IN	NS	dns2.fakat.net.
 newish.ba.	0	IN	NS	dns3.fakat.net.
@@ -51644,8 +51666,8 @@ omarrentacar.ba.	0	IN	NS	ns.eu-globaldns.com.
 omarrentacar.ba.	0	IN	NS	ns.us-globaldns.com.
 ombori.ba.	0	IN	NS	john.ns.cloudflare.com.
 ombori.ba.	0	IN	NS	emily.ns.cloudflare.com.
-omc.ba.	0	IN	NS	ns63.domaincontrol.com.
-omc.ba.	0	IN	NS	ns64.domaincontrol.com.
+omc.ba.	0	IN	NS	ns35.domaincontrol.com.
+omc.ba.	0	IN	NS	ns36.domaincontrol.com.
 omcdoo.ba.	0	IN	NS	ns1.web387.com.
 omcdoo.ba.	0	IN	NS	ns2.web387.com.
 omedia.ba.	0	IN	NS	dns.fakat.net.
@@ -53420,6 +53442,8 @@ paramountplus.ba.	0	IN	NS	dns4.p09.nsone.net.
 paramountplus.ba.	0	IN	NS	ns0004.secondary.cloudflare.com.
 paraolimpijskikomitet.ba.	0	IN	NS	ns1.ams32.siteground.eu.
 paraolimpijskikomitet.ba.	0	IN	NS	ns2.ams32.siteground.eu.
+paraplegicarikladusa.ba.	0	IN	NS	sava.utic.net.ba.
+paraplegicarikladusa.ba.	0	IN	NS	linhost04.utic.net.ba.
 parapost.ba.	0	IN	NS	ns10.webhostprovider.net.
 parapost.ba.	0	IN	NS	ns11.webhostprovider.net.
 parfem.ba.	0	IN	NS	dns1.siel.si.
@@ -54067,6 +54091,8 @@ penti.ba.	0	IN	NS	ns1.contabo.net.
 penti.ba.	0	IN	NS	ns2.contabo.net.
 penti.ba.	0	IN	NS	ns4.linode.com.
 penti.ba.	0	IN	NS	ns5.linode.com.
+penzionerskidom.ba.	0	IN	NS	sava.utic.net.ba.
+penzionerskidom.ba.	0	IN	NS	winhost01.utic.net.ba.
 peo.ba.	0	IN	NS	ns.peo.ba.
 peo.ba.	0	IN	NS	ns02.europronet.ba.
 ns.peo.ba.	0	IN	A	80.65.162.150
@@ -55718,8 +55744,6 @@ ns.porsche-club-bosniaandherzegovina.ba.	0	IN	A	80.65.162.78
 porschebh.ba.	0	IN	NS	dns1.porsche.co.at.
 porschebh.ba.	0	IN	NS	dns2.porsche.co.at.
 porschebh.ba.	0	IN	NS	dns3.porsche.co.at.
-porschebh-trgovci.ba.	0	IN	NS	ns1.global.ba.
-porschebh-trgovci.ba.	0	IN	NS	ns1.bh-hosting.com.
 porscheimmobh.ba.	0	IN	NS	dns1.porsche.co.at.
 porscheimmobh.ba.	0	IN	NS	dns2.porsche.co.at.
 porscheimmobh.ba.	0	IN	NS	dns3.porsche.co.at.
@@ -57294,10 +57318,6 @@ projektovanje.ba.	0	IN	NS	ns.au-globaldns.com.
 projektovanje.ba.	0	IN	NS	ns.cn-globaldns.com.
 projektovanje.ba.	0	IN	NS	ns.eu-globaldns.com.
 projektovanje.ba.	0	IN	NS	ns.us-globaldns.com.
-proker.ba.	0	IN	NS	dns.fakat.net.
-proker.ba.	0	IN	NS	dns2.fakat.net.
-proker.ba.	0	IN	NS	dns3.fakat.net.
-proker.ba.	0	IN	NS	dns4.fakat.net.
 prokolekt.ba.	0	IN	NS	ns1.hehe.si.
 prokolekt.ba.	0	IN	NS	ns2.hehe.si.
 prokon.ba.	0	IN	NS	ns5.edgespot.net.
@@ -61312,9 +61332,8 @@ sagaenergy.ba.	0	IN	NS	ns.au-globaldns.com.
 sagaenergy.ba.	0	IN	NS	ns.cn-globaldns.com.
 sagaenergy.ba.	0	IN	NS	ns.eu-globaldns.com.
 sagaenergy.ba.	0	IN	NS	ns.us-globaldns.com.
-sagafurniture.ba.	0	IN	NS	ns1.first-ns.de.
-sagafurniture.ba.	0	IN	NS	robotns2.second-ns.de.
-sagafurniture.ba.	0	IN	NS	robotns3.second-ns.com.
+sagafurniture.ba.	0	IN	NS	ns1.crohost.net.
+sagafurniture.ba.	0	IN	NS	ns2.crohost.net.
 sagax.ba.	0	IN	NS	dns01.dipcon.com.
 sagax.ba.	0	IN	NS	dns02.ports.se.
 sagax.ba.	0	IN	NS	dns03.ports.se.
@@ -61553,6 +61572,10 @@ samirinspekt.ba.	0	IN	NS	dns3.fakat.net.
 samirinspekt.ba.	0	IN	NS	dns4.fakat.net.
 sammontana.ba.	0	IN	NS	ns1.register.it.
 sammontana.ba.	0	IN	NS	ns2.register.it.
+samo.ba.	0	IN	NS	dns.fakat.net.
+samo.ba.	0	IN	NS	dns2.fakat.net.
+samo.ba.	0	IN	NS	dns3.fakat.net.
+samo.ba.	0	IN	NS	dns4.fakat.net.
 samoborka.ba.	0	IN	NS	ns18.global.ba.
 samoborka.ba.	0	IN	NS	ns18.bh-hosting.com.
 samon.ba.	0	IN	NS	dns.fakat.net.
@@ -66005,10 +66028,6 @@ sportvision.ba.	0	IN	NS	host01.novakovic-business-solutions.org.
 sportvision.ba.	0	IN	NS	host02.novakovic-business-solutions.org.
 sportvision.ba.	0	IN	NS	host03.novakovic-business-solutions.org.
 sportvision.ba.	0	IN	NS	host04.novakovic-business-solutions.org.
-sportwear.ba.	0	IN	NS	ns.au-globaldns.com.
-sportwear.ba.	0	IN	NS	ns.cn-globaldns.com.
-sportwear.ba.	0	IN	NS	ns.eu-globaldns.com.
-sportwear.ba.	0	IN	NS	ns.us-globaldns.com.
 sportzdk.ba.	0	IN	NS	eric.ns.cloudflare.com.
 sportzdk.ba.	0	IN	NS	iris.ns.cloudflare.com.
 sportzona.ba.	0	IN	NS	ns1.lanaco.com.
@@ -66741,10 +66760,6 @@ steelart.ba.	0	IN	NS	dns3.fakat.net.
 steelart.ba.	0	IN	NS	dns4.fakat.net.
 steelcase.ba.	0	IN	NS	ns18.global.ba.
 steelcase.ba.	0	IN	NS	ns18.bh-hosting.com.
-steelhorse.ba.	0	IN	NS	ns.au-globaldns.com.
-steelhorse.ba.	0	IN	NS	ns.cn-globaldns.com.
-steelhorse.ba.	0	IN	NS	ns.eu-globaldns.com.
-steelhorse.ba.	0	IN	NS	ns.us-globaldns.com.
 steelproject.ba.	0	IN	NS	ns.au-globaldns.com.
 steelproject.ba.	0	IN	NS	ns.cn-globaldns.com.
 steelproject.ba.	0	IN	NS	ns.eu-globaldns.com.
@@ -78059,8 +78074,6 @@ zik-mo.ba.	0	IN	NS	dns2.fakat.net.
 zik-mo.ba.	0	IN	NS	dns3.fakat.net.
 ziko.ba.	0	IN	NS	ns1.mediatemple.net.
 ziko.ba.	0	IN	NS	ns2.mediatemple.net.
-zikr.ba.	0	IN	NS	lakas.ns.cloudflare.com.
-zikr.ba.	0	IN	NS	amanda.ns.cloudflare.com.
 zilavka.ba.	0	IN	NS	ns.klub.hr.
 zilavka.ba.	0	IN	NS	ns2.klub.hr.
 zilbesiran.ba.	0	IN	NS	nsgbr.comlaude.co.uk.
