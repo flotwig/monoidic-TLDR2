@@ -686,6 +686,8 @@ federalexpress.mp.	0	IN	NS	ns.fedex.com.
 federalexpress.mp.	0	IN	NS	ns0.fedex.com.
 fedex.mp.	0	IN	NS	ns.fedex.com.
 fedex.mp.	0	IN	NS	ns0.fedex.com.
+felix.mp.	0	IN	NS	ns1.dns-parking.com.
+felix.mp.	0	IN	NS	ns2.dns-parking.com.
 feltka.mp.	0	IN	NS	ns1.stablehost.com.
 feltka.mp.	0	IN	NS	ns2.stablehost.com.
 five.mp.	0	IN	NS	reza.ns.cloudflare.com.
@@ -1640,6 +1642,8 @@ rvge.mp.	0	IN	NS	noel.ns.cloudflare.com.
 rvge.mp.	0	IN	NS	naomi.ns.cloudflare.com.
 ryse.mp.	0	IN	NS	dale.ns.cloudflare.com.
 ryse.mp.	0	IN	NS	dora.ns.cloudflare.com.
+saesrpg.mp.	0	IN	NS	jay.ns.cloudflare.com.
+saesrpg.mp.	0	IN	NS	rosa.ns.cloudflare.com.
 saipan.mp.	0	IN	NS	ns1.siteground.net.
 saipan.mp.	0	IN	NS	ns2.siteground.net.
 salesforce.mp.	0	IN	NS	dns01.salesforce.com.
