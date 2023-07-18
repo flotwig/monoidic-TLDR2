@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689631501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689717901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -506,6 +506,10 @@ barclays.mw.	0	IN	NS	ns1.barclays.co.uk.
 barclays.mw.	0	IN	NS	ns2.barclays.co.uk.
 barco.mw.	0	IN	NS	ns1.markmonitor.com.
 barco.mw.	0	IN	NS	ns3.markmonitor.com.
+bartlett.mw.	0	IN	NS	ns1.bdsmw.com.
+bartlett.mw.	0	IN	NS	ns2.bdsmw.com.
+bartlett.mw.	0	IN	NS	ns3.bdsmw.com.
+bartlett.mw.	0	IN	NS	ns4.bdsmw.com.
 bartlett-org.mw.	0	IN	NS	ns1.bdsmw.com.
 bartlett-org.mw.	0	IN	NS	ns2.bdsmw.com.
 bartlett-org.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -2385,6 +2389,8 @@ kyndryl.mw.	0	IN	NS	nsusa.comlaude.net.
 l.mw.	0	IN	NS	ns1.netim.net.
 l.mw.	0	IN	NS	ns2.netim.net.
 l.mw.	0	IN	NS	ns3.netim.net.
+lab.mw.	0	IN	NS	ns5.afriregister.co.ke.
+lab.mw.	0	IN	NS	ns6.afriregister.co.ke.
 lacoste.mw.	0	IN	NS	ns1.markmonitor.com.
 lacoste.mw.	0	IN	NS	ns2.markmonitor.com.
 lacoste.mw.	0	IN	NS	ns3.markmonitor.com.
@@ -3275,6 +3281,8 @@ olaplex.mw.	0	IN	NS	ns-460.awsdns-57.com.
 olaplex.mw.	0	IN	NS	ns-647.awsdns-16.net.
 olaplex.mw.	0	IN	NS	ns-1436.awsdns-51.org.
 olaplex.mw.	0	IN	NS	ns-1990.awsdns-56.co.uk.
+olliv.mw.	0	IN	NS	garret.ns.cloudflare.com.
+olliv.mw.	0	IN	NS	alexandra.ns.cloudflare.com.
 olx.mw.	0	IN	NS	pdns2.ultradns.net.
 olx.mw.	0	IN	NS	pdns6.ultradns.co.uk.
 on.mw.	0	IN	NS	ns1.nik.io.
