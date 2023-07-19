@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689717901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1689804301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -557,8 +557,6 @@ beltech.mw.	0	IN	NS	kellen.ns.cloudflare.com.
 beltech.mw.	0	IN	NS	nataly.ns.cloudflare.com.
 benankhoma.mw.	0	IN	NS	ns3011.mochahost.com.
 benankhoma.mw.	0	IN	NS	ns4011.mochahost.com.
-beninvest.mw.	0	IN	NS	ns1.bluehost.com.
-beninvest.mw.	0	IN	NS	ns2.bluehost.com.
 bensonandhedges.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
 bensonandhedges.mw.	0	IN	NS	nssui.comlaude.ch.
 bensonandhedges.mw.	0	IN	NS	nsusa.comlaude.net.
