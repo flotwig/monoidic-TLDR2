@@ -1319,9 +1319,8 @@ mymail.mp.	0	IN	NS	ns2.regery.net.
 mymail.mp.	0	IN	NS	ns3.regery.net.
 myne.mp.	0	IN	NS	dns1.namecheaphosting.com.
 myne.mp.	0	IN	NS	dns2.namecheaphosting.com.
-myriad.mp.	0	IN	NS	ns1.101domain.com.
-myriad.mp.	0	IN	NS	ns2.101domain.com.
-myriad.mp.	0	IN	NS	ns5.101domain.com.
+myriad.mp.	0	IN	NS	isabel.ns.cloudflare.com.
+myriad.mp.	0	IN	NS	joaquin.ns.cloudflare.com.
 mysky.mp.	0	IN	NS	ns1.markmonitor.com.
 mysky.mp.	0	IN	NS	ns3.markmonitor.com.
 mysta.mp.	0	IN	NS	ns1.dnsimple.com.
@@ -1855,9 +1854,6 @@ therightnowclimatefund.mp.	0	IN	NS	ns5.markmonitor.com.
 thescore.mp.	0	IN	NS	ns1.101domain.com.
 thescore.mp.	0	IN	NS	ns2.101domain.com.
 thescore.mp.	0	IN	NS	ns5.101domain.com.
-theswa.mp.	0	IN	NS	ns1.dreamhost.com.
-theswa.mp.	0	IN	NS	ns2.dreamhost.com.
-theswa.mp.	0	IN	NS	ns3.dreamhost.com.
 thewebchi.mp.	0	IN	NS	ines.ns.cloudflare.com.
 thewebchi.mp.	0	IN	NS	terin.ns.cloudflare.com.
 ticketmaster.mp.	0	IN	NS	ns1.nic.mp.
