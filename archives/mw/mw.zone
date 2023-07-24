@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690149901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690236301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -406,6 +406,8 @@ astellaspharma.mw.	0	IN	NS	ns4.markmonitor.com.
 astellaspharma.mw.	0	IN	NS	ns5.markmonitor.com.
 astellaspharma.mw.	0	IN	NS	ns6.markmonitor.com.
 astellaspharma.mw.	0	IN	NS	ns7.markmonitor.com.
+asum.mw.	0	IN	NS	james.ns.cloudflare.com.
+asum.mw.	0	IN	NS	amanda.ns.cloudflare.com.
 aswap.mw.	0	IN	NS	dns1.namecheaphosting.com.
 aswap.mw.	0	IN	NS	dns2.namecheaphosting.com.
 at.mw.	0	IN	NS	dns1.safenames.com.
@@ -4192,8 +4194,6 @@ titanium.mw.	0	IN	NS	trace.ns.cloudflare.com.
 titanium.mw.	0	IN	NS	samara.ns.cloudflare.com.
 titaniumcity.mw.	0	IN	NS	trace.ns.cloudflare.com.
 titaniumcity.mw.	0	IN	NS	samara.ns.cloudflare.com.
-tiyeni.mw.	0	IN	NS	ns1.industrialimagination.com.
-tiyeni.mw.	0	IN	NS	ns2.industrialimagination.com.
 tklegal.mw.	0	IN	NS	dns1.50webs.com.
 tklegal.mw.	0	IN	NS	dns2.50webs.com.
 tld.mw.	0	IN	NS	ns.gransy.com.

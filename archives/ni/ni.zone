@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113029 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113032 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -106,6 +106,9 @@ alphabet.ni.	0	IN	NS	ns1.google.com.
 alphabet.ni.	0	IN	NS	ns2.google.com.
 alphabet.ni.	0	IN	NS	ns3.google.com.
 alphabet.ni.	0	IN	NS	ns4.google.com.
+alstom.ni.	0	IN	NS	ns2.observatoiredesmarques.fr.
+alstom.ni.	0	IN	NS	ns3.nameshield.net.
+alstom.ni.	0	IN	NS	obs.ns1.fr.
 alum.ni.	0	IN	NS	ns1.101domain.com.
 alum.ni.	0	IN	NS	ns2.101domain.com.
 amarinconnect.ni.	0	IN	NS	ns1.101domain.com.
