@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690301101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690409101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2325,6 +2325,8 @@ kaspersky.mw.	0	IN	NS	ns1.markmonitor.com.
 kaspersky.mw.	0	IN	NS	ns2.markmonitor.com.
 katawaccapchurch.mw.	0	IN	NS	dns1.namecheaphosting.com.
 katawaccapchurch.mw.	0	IN	NS	dns2.namecheaphosting.com.
+kcr.mw.	0	IN	NS	ns1.md-85.webhostbox.net.
+kcr.mw.	0	IN	NS	ns2.md-85.webhostbox.net.
 kcs.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 kcs.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 kep.mw.	0	IN	NS	ns01.trademarkarea.com.
