@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690754702 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1690841101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1928,6 +1928,8 @@ hopetv.mw.	0	IN	NS	domwe.sdn.mw.
 hopetv.mw.	0	IN	NS	nyala.sdnp.org.mw.
 hortinetfoods.mw.	0	IN	NS	ns1.linthipe3.com.
 hortinetfoods.mw.	0	IN	NS	ns2.linthipe3.com.
+host.mw.	0	IN	NS	alice.ns.cloudflare.com.
+host.mw.	0	IN	NS	bayan.ns.cloudflare.com.
 hostinger.mw.	0	IN	NS	ns1.dns-parking.com.
 hostinger.mw.	0	IN	NS	ns2.dns-parking.com.
 hotel.mw.	0	IN	NS	1.dnsservers.de.
@@ -4100,9 +4102,6 @@ tatamotors.mw.	0	IN	NS	ns-272.awsdns-34.com.
 tatamotors.mw.	0	IN	NS	ns-518.awsdns-00.net.
 tatamotors.mw.	0	IN	NS	ns-1444.awsdns-52.org.
 tatamotors.mw.	0	IN	NS	ns-1679.awsdns-17.co.uk.
-tavitu.mw.	0	IN	NS	ns1.memset.com.
-tavitu.mw.	0	IN	NS	ns2.memset.com.
-tavitu.mw.	0	IN	NS	ns3.memset.com.
 tbtest.mw.	0	IN	NS	domwe.sdn.mw.
 tbtest.mw.	0	IN	NS	nyala.sdnp.org.mw.
 tc.mw.	0	IN	NS	ns1.dns-parking.com.
