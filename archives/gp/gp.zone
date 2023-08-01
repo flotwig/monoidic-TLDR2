@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023073123 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023080122 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -968,8 +968,6 @@ cconseil.gp.	0	IN	NS	ns1045.ui-dns.de.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.biz.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.com.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.org.
-ccs.gp.	0	IN	NS	ns1.ikoula.fr.
-ccs.gp.	0	IN	NS	ns2.ikoula.fr.
 cctldbox.gp.	0	IN	NS	dns1.cscdns.net.
 cctldbox.gp.	0	IN	NS	dns2.cscdns.net.
 cdiscount.gp.	0	IN	NS	dns1.cscdns.net.
@@ -1361,14 +1359,12 @@ dixie.gp.	0	IN	NS	dns1.cscdns.net.
 dixie.gp.	0	IN	NS	dns2.cscdns.net.
 dixieathome-gp.gp.	0	IN	NS	dns1.cscdns.net.
 dixieathome-gp.gp.	0	IN	NS	dns2.cscdns.net.
-dixiecosmart.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
-dixiecosmart.gp.	0	IN	NS	nssui.comlaude.ch.
-dixiecosmart.gp.	0	IN	NS	nsusa.comlaude.net.
+dixiecosmart.gp.	0	IN	NS	dns1.cscdns.net.
+dixiecosmart.gp.	0	IN	NS	dns2.cscdns.net.
 dixieeasynap.gp.	0	IN	NS	dns1.cscdns.net.
 dixieeasynap.gp.	0	IN	NS	dns2.cscdns.net.
-dixieecosmart.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
-dixieecosmart.gp.	0	IN	NS	nssui.comlaude.ch.
-dixieecosmart.gp.	0	IN	NS	nsusa.comlaude.net.
+dixieecosmart.gp.	0	IN	NS	dns1.cscdns.net.
+dixieecosmart.gp.	0	IN	NS	dns2.cscdns.net.
 dixiesmarttop.gp.	0	IN	NS	dns1.cscdns.net.
 dixiesmarttop.gp.	0	IN	NS	dns2.cscdns.net.
 dixiesmarttop-gp.gp.	0	IN	NS	dns1.cscdns.net.
@@ -1417,8 +1413,6 @@ domains.gp.	0	IN	NS	dns1.cloudns.net.
 domains.gp.	0	IN	NS	dns2.cloudns.net.
 domex.gp.	0	IN	NS	ns10.ovh.net.
 domex.gp.	0	IN	NS	dns10.ovh.net.
-domiciliation.gp.	0	IN	NS	ns1.ikoula.fr.
-domiciliation.gp.	0	IN	NS	ns2.ikoula.fr.
 domini.gp.	0	IN	NS	ns1.register.it.
 domini.gp.	0	IN	NS	ns2.register.it.
 dominiando.gp.	0	IN	NS	ns.dominiando.it.
@@ -1530,12 +1524,10 @@ ecooking.gp.	0	IN	NS	ns1.eurodns.com.
 ecooking.gp.	0	IN	NS	ns2.eurodns.com.
 ecooking.gp.	0	IN	NS	ns3.eurodns.com.
 ecooking.gp.	0	IN	NS	ns4.eurodns.com.
-ecosmart.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
-ecosmart.gp.	0	IN	NS	nssui.comlaude.ch.
-ecosmart.gp.	0	IN	NS	nsusa.comlaude.net.
-ecosmartgp.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
-ecosmartgp.gp.	0	IN	NS	nssui.comlaude.ch.
-ecosmartgp.gp.	0	IN	NS	nsusa.comlaude.net.
+ecosmart.gp.	0	IN	NS	dns1.cscdns.net.
+ecosmart.gp.	0	IN	NS	dns2.cscdns.net.
+ecosmartgp.gp.	0	IN	NS	dns1.cscdns.net.
+ecosmartgp.gp.	0	IN	NS	dns2.cscdns.net.
 ecotec.gp.	0	IN	NS	ns1.o2switch.net.
 ecotec.gp.	0	IN	NS	ns2.o2switch.net.
 ecp.gp.	0	IN	NS	ns1.101domain.com.
@@ -1794,8 +1786,6 @@ fantasticservices.gp.	0	IN	NS	ns02.trademarkarea.com.
 fantasticservices.gp.	0	IN	NS	ns03.trademarkarea.com.
 fareva.gp.	0	IN	NS	ns01.dns-oid.com.
 fareva.gp.	0	IN	NS	ns02.dns-oid.com.
-fashionaddict.gp.	0	IN	NS	ns1.ikoula.fr.
-fashionaddict.gp.	0	IN	NS	ns2.ikoula.fr.
 faure.gp.	0	IN	NS	ns2.cloudns.net.
 faure.gp.	0	IN	NS	dns106.ovh.net.
 fb.gp.	0	IN	NS	ns1.dan.com.
@@ -1933,6 +1923,8 @@ fst.gp.	0	IN	NS	dns1.p06.nsone.net.
 fst.gp.	0	IN	NS	dns2.p06.nsone.net.
 fst.gp.	0	IN	NS	dns3.p06.nsone.net.
 fst.gp.	0	IN	NS	dns4.p06.nsone.net.
+ftc.gp.	0	IN	NS	ns16.ovh.net.
+ftc.gp.	0	IN	NS	dns16.ovh.net.
 fujitsu.gp.	0	IN	NS	rns1.rightsdns.com.
 fujitsu.gp.	0	IN	NS	rns2.rightsdns.com.
 fund.gp.	0	IN	NS	ns1.sedoparking.com.
@@ -2090,8 +2082,6 @@ go.gp.	0	IN	NS	ns1.undeveloped.com.
 go.gp.	0	IN	NS	ns2.undeveloped.com.
 go-digital.gp.	0	IN	NS	ns1.imos.net.
 go-digital.gp.	0	IN	NS	ns2.imos.net.
-gobebego.gp.	0	IN	NS	ns1.ikoula.fr.
-gobebego.gp.	0	IN	NS	ns2.ikoula.fr.
 godaddy.gp.	0	IN	NS	cns1.secureserver.net.
 godaddy.gp.	0	IN	NS	cns2.secureserver.net.
 goldman-sachs.gp.	0	IN	NS	dns1.cscdns.net.
@@ -2141,9 +2131,8 @@ gpeasynap.gp.	0	IN	NS	dns1.cscdns.net.
 gpeasynap.gp.	0	IN	NS	dns2.cscdns.net.
 gpeasynapdispenser.gp.	0	IN	NS	dns1.cscdns.net.
 gpeasynapdispenser.gp.	0	IN	NS	dns2.cscdns.net.
-gpecosmart.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
-gpecosmart.gp.	0	IN	NS	nssui.comlaude.ch.
-gpecosmart.gp.	0	IN	NS	nsusa.comlaude.net.
+gpecosmart.gp.	0	IN	NS	dns1.cscdns.net.
+gpecosmart.gp.	0	IN	NS	dns2.cscdns.net.
 gpmarathon.gp.	0	IN	NS	dns1.cscdns.net.
 gpmarathon.gp.	0	IN	NS	dns2.cscdns.net.
 gpmarathonbrand.gp.	0	IN	NS	dns1.cscdns.net.
@@ -2381,8 +2370,6 @@ hotelstonight.gp.	0	IN	NS	3.dnsservers.de.
 hotelstonight.gp.	0	IN	NS	4.dns-servers.eu.
 hotfrog.gp.	0	IN	NS	ns0.telstra.net.
 hotfrog.gp.	0	IN	NS	ns1.telstra.net.
-housesbys.gp.	0	IN	NS	ns1.ikoula.fr.
-housesbys.gp.	0	IN	NS	ns2.ikoula.fr.
 hrs.gp.	0	IN	NS	1.dnsservers.de.
 hrs.gp.	0	IN	NS	2.dns-servers.eu.
 hrs.gp.	0	IN	NS	3.dnsservers.de.
@@ -2542,10 +2529,6 @@ ir.gp.	0	IN	NS	ns1.website.org.
 ir.gp.	0	IN	NS	ns2.website.org.
 ireps.gp.	0	IN	NS	ns19.ovh.net.
 ireps.gp.	0	IN	NS	dns19.ovh.net.
-iron.gp.	0	IN	NS	ns1.ikoula.fr.
-iron.gp.	0	IN	NS	ns2.ikoula.fr.
-iron-jarry.gp.	0	IN	NS	ns1.ikoula.fr.
-iron-jarry.gp.	0	IN	NS	ns2.ikoula.fr.
 isabela.gp.	0	IN	NS	dns5.cloudns.net.
 isabela.gp.	0	IN	NS	dns6.cloudns.net.
 isleden.gp.	0	IN	NS	ns106.ovh.net.
@@ -3372,8 +3355,8 @@ miele.gp.	0	IN	NS	ns7.markmonitor.com.
 milimalis.gp.	0	IN	NS	ns-187-a.gandi.net.
 milimalis.gp.	0	IN	NS	ns-197-b.gandi.net.
 milimalis.gp.	0	IN	NS	ns-198-c.gandi.net.
-mindtraining.gp.	0	IN	NS	ns0.wixdns.net.
-mindtraining.gp.	0	IN	NS	ns1.wixdns.net.
+mindtraining.gp.	0	IN	NS	ns31.infomaniak.com.
+mindtraining.gp.	0	IN	NS	ns32.infomaniak.com.
 minecraft.gp.	0	IN	NS	ns1.g-portal.com.
 minecraft.gp.	0	IN	NS	ns2.g-portal.com.
 minelli.gp.	0	IN	NS	a.ns.mailclub.fr.
@@ -3420,8 +3403,6 @@ monop.gp.	0	IN	NS	dns1.cscdns.net.
 monop.gp.	0	IN	NS	dns2.cscdns.net.
 monoprix.gp.	0	IN	NS	dns1.cscdns.net.
 monoprix.gp.	0	IN	NS	dns2.cscdns.net.
-monsupport.gp.	0	IN	NS	ns1.ikoula.fr.
-monsupport.gp.	0	IN	NS	ns2.ikoula.fr.
 moodys.gp.	0	IN	NS	ns1.moodys.com.
 moodys.gp.	0	IN	NS	ns2.moodys.com.
 moodys.gp.	0	IN	NS	ns3.moodys.com.
@@ -3731,8 +3712,6 @@ ntgroup.gp.	0	IN	NS	dns104.ovh.net.
 ns1.ntgroup.gp.	0	IN	A	91.121.134.32
 ns10.ntgroup.gp.	0	IN	A	85.159.233.58
 ns20.ntgroup.gp.	0	IN	A	69.197.63.53
-numerologie.gp.	0	IN	NS	ns1.ikoula.fr.
-numerologie.gp.	0	IN	NS	ns2.ikoula.fr.
 nwt.gp.	0	IN	NS	ns112.ovh.net.
 nwt.gp.	0	IN	NS	dns112.ovh.net.
 o.gp.	0	IN	NS	ns1.website.org.
@@ -4296,8 +4275,6 @@ repassage.gp.	0	IN	NS	ns15.wixdns.net.
 repetto.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 repetto.gp.	0	IN	NS	ns3.nameshield.net.
 repetto.gp.	0	IN	NS	obs.ns1.fr.
-replay.gp.	0	IN	NS	ns1.ikoula.fr.
-replay.gp.	0	IN	NS	ns2.ikoula.fr.
 report.gp.	0	IN	NS	lisa.ns.cloudflare.com.
 report.gp.	0	IN	NS	julian.ns.cloudflare.com.
 reporter.gp.	0	IN	NS	lisa.ns.cloudflare.com.
@@ -4650,8 +4627,6 @@ sodipa.gp.	0	IN	NS	ip102.ip-213-186-60.eu.
 sodipa.gp.	0	IN	NS	sdns2.ovh.net.
 sogedi.gp.	0	IN	NS	ns12.ovh.net.
 sogedi.gp.	0	IN	NS	dns12.ovh.net.
-solideregroup.gp.	0	IN	NS	ns1.ikoula.fr.
-solideregroup.gp.	0	IN	NS	ns2.ikoula.fr.
 somfy.gp.	0	IN	NS	ns.domainnetwork.se.
 somfy.gp.	0	IN	NS	ns2.domainnetwork.se.
 somfy.gp.	0	IN	NS	ns3.domainnetwork.com.
@@ -4786,9 +4761,6 @@ sunnycars.gp.	0	IN	NS	a.ns14.net.
 sunnycars.gp.	0	IN	NS	b.ns14.net.
 sunnycars.gp.	0	IN	NS	c.ns14.net.
 sunnycars.gp.	0	IN	NS	d.ns14.net.
-sunsetcar.gp.	0	IN	NS	nsa.n0c.com.
-sunsetcar.gp.	0	IN	NS	nsb.n0c.com.
-sunsetcar.gp.	0	IN	NS	nsc.n0c.com.
 sunzil.gp.	0	IN	NS	ns20.ovh.net.
 sunzil.gp.	0	IN	NS	dns20.ovh.net.
 supermarchebio.gp.	0	IN	NS	ns1.francedns.com.
@@ -4954,8 +4926,6 @@ toppro-moteurs.gp.	0	IN	NS	ns12.ovh.net.
 toppro-moteurs.gp.	0	IN	NS	dns12.ovh.net.
 toppromoteurs.gp.	0	IN	NS	ns12.ovh.net.
 toppromoteurs.gp.	0	IN	NS	dns12.ovh.net.
-toprent.gp.	0	IN	NS	ns1.ikoula.fr.
-toprent.gp.	0	IN	NS	ns2.ikoula.fr.
 tork.gp.	0	IN	NS	melkor.sgn.sca.se.
 tork.gp.	0	IN	NS	tilion.sgn.sca.se.
 toshiba.gp.	0	IN	NS	ns1.markmonitor.com.
