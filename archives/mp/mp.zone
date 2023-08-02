@@ -186,6 +186,10 @@ asos.mp.	0	IN	NS	dns1.p09.nsone.net.
 asos.mp.	0	IN	NS	dns2.p09.nsone.net.
 asos.mp.	0	IN	NS	dns3.p09.nsone.net.
 asos.mp.	0	IN	NS	dns4.p09.nsone.net.
+atla.mp.	0	IN	NS	ns-504.awsdns-63.com.
+atla.mp.	0	IN	NS	ns-911.awsdns-49.net.
+atla.mp.	0	IN	NS	ns-1493.awsdns-58.org.
+atla.mp.	0	IN	NS	ns-1847.awsdns-38.co.uk.
 auca.mp.	0	IN	NS	ns1.dnsexit.com.
 auca.mp.	0	IN	NS	ns2.dnsexit.com.
 auca.mp.	0	IN	NS	ns3.dnsexit.com.
@@ -762,6 +766,10 @@ globalexpansion.mp.	0	IN	NS	pam.ns.cloudflare.com.
 globalexpansion.mp.	0	IN	NS	michael.ns.cloudflare.com.
 gmail.mp.	0	IN	NS	ns1.google.com.
 gmail.mp.	0	IN	NS	ns2.google.com.
+go.mp.	0	IN	NS	ns-151.awsdns-18.com.
+go.mp.	0	IN	NS	ns-903.awsdns-48.net.
+go.mp.	0	IN	NS	ns-1459.awsdns-54.org.
+go.mp.	0	IN	NS	ns-1960.awsdns-53.co.uk.
 godaddy.mp.	0	IN	NS	cns1.secureserver.net.
 godaddy.mp.	0	IN	NS	cns2.secureserver.net.
 goldfinch.mp.	0	IN	NS	hans.ns.cloudflare.com.

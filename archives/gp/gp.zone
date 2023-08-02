@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023080122 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023080215 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -968,6 +968,8 @@ cconseil.gp.	0	IN	NS	ns1045.ui-dns.de.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.biz.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.com.
 cconseil.gp.	0	IN	NS	ns1045.ui-dns.org.
+ccs.gp.	0	IN	NS	ns1.ikoula.fr.
+ccs.gp.	0	IN	NS	ns2.ikoula.fr.
 cctldbox.gp.	0	IN	NS	dns1.cscdns.net.
 cctldbox.gp.	0	IN	NS	dns2.cscdns.net.
 cdiscount.gp.	0	IN	NS	dns1.cscdns.net.
@@ -4275,6 +4277,8 @@ repassage.gp.	0	IN	NS	ns15.wixdns.net.
 repetto.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 repetto.gp.	0	IN	NS	ns3.nameshield.net.
 repetto.gp.	0	IN	NS	obs.ns1.fr.
+replay.gp.	0	IN	NS	ns1.ikoula.fr.
+replay.gp.	0	IN	NS	ns2.ikoula.fr.
 report.gp.	0	IN	NS	lisa.ns.cloudflare.com.
 report.gp.	0	IN	NS	julian.ns.cloudflare.com.
 reporter.gp.	0	IN	NS	lisa.ns.cloudflare.com.
@@ -5107,8 +5111,8 @@ vanille.gp.	0	IN	NS	ns11.ovh.net.
 vanille.gp.	0	IN	NS	dns11.ovh.net.
 vanityfair.gp.	0	IN	NS	dns1.cscdns.net.
 vanityfair.gp.	0	IN	NS	dns2.cscdns.net.
-vasa.gp.	0	IN	NS	ns1.amenworld.com.
-vasa.gp.	0	IN	NS	ns2.amenworld.com.
+vasseur.gp.	0	IN	NS	ns1.o2switch.net.
+vasseur.gp.	0	IN	NS	ns2.o2switch.net.
 vatel.gp.	0	IN	NS	ns.vatelconnect.com.
 vatel.gp.	0	IN	NS	sdns2.ovh.net.
 vbet.gp.	0	IN	NS	ns1.eurodns.com.
