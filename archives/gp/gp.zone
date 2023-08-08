@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023080723 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023080810 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -5120,6 +5120,8 @@ vanille.gp.	0	IN	NS	ns11.ovh.net.
 vanille.gp.	0	IN	NS	dns11.ovh.net.
 vanityfair.gp.	0	IN	NS	dns1.cscdns.net.
 vanityfair.gp.	0	IN	NS	dns2.cscdns.net.
+vasa.gp.	0	IN	NS	ns1.amenworld.com.
+vasa.gp.	0	IN	NS	ns2.amenworld.com.
 vasseur.gp.	0	IN	NS	ns1.o2switch.net.
 vasseur.gp.	0	IN	NS	ns2.o2switch.net.
 vatel.gp.	0	IN	NS	ns.vatelconnect.com.

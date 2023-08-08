@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113042 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113043 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1391,6 +1391,8 @@ nicixproject.ni.	0	IN	NS	ns1.bluehost.com.
 nicixproject.ni.	0	IN	NS	ns2.bluehost.com.
 nicnicaragua.ni.	0	IN	NS	ns.ni.
 nicnicaragua.ni.	0	IN	NS	ns2.ni.
+nico.ni.	0	IN	NS	ns13.ovh.net.
+nico.ni.	0	IN	NS	dns13.ovh.net.
 niel.ni.	0	IN	NS	ns-36-a.gandi.net.
 niel.ni.	0	IN	NS	ns-239-b.gandi.net.
 nikon.ni.	0	IN	NS	ns1.webhosting.jp.

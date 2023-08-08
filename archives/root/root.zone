@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023080701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023080803 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -12337,25 +12337,6 @@ b0.nic.nokia.	0	IN	A	65.22.149.17
 b0.nic.nokia.	0	IN	AAAA	2a01:8840:93::17
 c0.nic.nokia.	0	IN	A	65.22.150.17
 c0.nic.nokia.	0	IN	AAAA	2a01:8840:94::17
-northwesternmutual.	0	IN	NS	a.nic.northwesternmutual.
-northwesternmutual.	0	IN	NS	b.nic.northwesternmutual.
-northwesternmutual.	0	IN	NS	c.nic.northwesternmutual.
-northwesternmutual.	0	IN	NS	ns1.dns.nic.northwesternmutual.
-northwesternmutual.	0	IN	NS	ns2.dns.nic.northwesternmutual.
-northwesternmutual.	0	IN	NS	ns3.dns.nic.northwesternmutual.
-northwesternmutual.	0	IN	DS	47770 8 2 4aeb92ff7440bda088571ddd7fc9868579584f4a1455ee860394e81db1dd64f9
-a.nic.northwesternmutual.	0	IN	A	37.209.192.9
-a.nic.northwesternmutual.	0	IN	AAAA	2001:dcd:1::9
-b.nic.northwesternmutual.	0	IN	A	37.209.194.9
-b.nic.northwesternmutual.	0	IN	AAAA	2001:dcd:2::9
-c.nic.northwesternmutual.	0	IN	A	37.209.196.9
-c.nic.northwesternmutual.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.northwesternmutual.	0	IN	A	156.154.144.124
-ns1.dns.nic.northwesternmutual.	0	IN	AAAA	2610:a1:1071::7c
-ns2.dns.nic.northwesternmutual.	0	IN	A	156.154.145.124
-ns2.dns.nic.northwesternmutual.	0	IN	AAAA	2610:a1:1072::7c
-ns3.dns.nic.northwesternmutual.	0	IN	A	156.154.159.124
-ns3.dns.nic.northwesternmutual.	0	IN	AAAA	2610:a1:1073::7c
 norton.	0	IN	NS	ac1.nstld.com.
 norton.	0	IN	NS	ac2.nstld.com.
 norton.	0	IN	NS	ac3.nstld.com.
@@ -13104,6 +13085,7 @@ ns2.tiare.net.pg.	0	IN	A	202.165.192.24
 ph.	0	IN	NS	ph.communitydns.net.
 ph.	0	IN	NS	ns2.cuhk.edu.hk.
 ph.	0	IN	NS	ns4.apnic.net.
+ph.	0	IN	DS	29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 pharmacy.	0	IN	NS	dns1.nic.pharmacy.
 pharmacy.	0	IN	NS	dns2.nic.pharmacy.
 pharmacy.	0	IN	NS	dns3.nic.pharmacy.
@@ -17557,8 +17539,7 @@ d.dns.tw.	0	IN	AAAA	2001:4541:9010:7::186
 e.dns.tw.	0	IN	A	211.20.231.11
 e.dns.tw.	0	IN	AAAA	2001:b000:1e0:c000::11
 f.dns.tw.	0	IN	A	163.28.1.10
-g.dns.tw.	0	IN	A	220.229.225.195
-g.dns.tw.	0	IN	AAAA	2001:cd8:400::195
+g.dns.tw.	0	IN	A	34.141.111.176
 h.dns.tw.	0	IN	A	204.61.216.119
 h.dns.tw.	0	IN	AAAA	2001:500:14:6119:ad::1
 tz.	0	IN	NS	ns.anycast.co.tz.

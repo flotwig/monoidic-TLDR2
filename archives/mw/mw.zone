@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1691445901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1691532301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1625,6 +1625,8 @@ fonbet.mw.	0	IN	NS	ns5.101domain.com.
 forcepoint.mw.	0	IN	NS	ns01.trademarkarea.com.
 forcepoint.mw.	0	IN	NS	ns02.trademarkarea.com.
 forcepoint.mw.	0	IN	NS	ns03.trademarkarea.com.
+forexbrokers.mw.	0	IN	NS	joan.ns.cloudflare.com.
+forexbrokers.mw.	0	IN	NS	johnathan.ns.cloudflare.com.
 fortebet.mw.	0	IN	NS	ns1.onlydomains.com.
 fortebet.mw.	0	IN	NS	ns2.onlydomains.com.
 fortebet.mw.	0	IN	NS	ns3.onlydomains.com.
@@ -2985,6 +2987,8 @@ mpc.mw.	0	IN	NS	ns2.mota-engil.pt.
 mpc.mw.	0	IN	NS	ns3.mota-engil.pt.
 mphunzitsisacco.mw.	0	IN	NS	proxy2.africa-online.net.
 mphunzitsisacco.mw.	0	IN	NS	proxy3.africa-online.net.
+mponelaenterprises.mw.	0	IN	NS	ns2.globemw.com.
+mponelaenterprises.mw.	0	IN	NS	ns3.globemw.com.
 mra.mw.	0	IN	NS	proxy2.africa-online.net.
 mra.mw.	0	IN	NS	proxy3.africa-online.net.
 mrdrmp.mw.	0	IN	NS	ns1.bdsmw.com.
