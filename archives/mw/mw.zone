@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1691532301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1691618701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -4067,8 +4067,6 @@ stihl.mw.	0	IN	NS	ns2.plusserver.com.
 stihl.mw.	0	IN	NS	ns3.plusserver.com.
 stjosephn.mw.	0	IN	NS	proxy2.africa-online.net.
 stjosephn.mw.	0	IN	NS	proxy3.africa-online.net.
-stlukesnursingcollege.mw.	0	IN	NS	ns321.websitewelcome.com.
-stlukesnursingcollege.mw.	0	IN	NS	ns322.websitewelcome.com.
 stmariagoretti.mw.	0	IN	NS	ns1.bdsmw.com.
 stmariagoretti.mw.	0	IN	NS	ns2.bdsmw.com.
 stmariagoretti.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -4223,8 +4221,6 @@ timelapse.mw.	0	IN	NS	ns02.trademarkarea.com.
 timelapse.mw.	0	IN	NS	ns03.trademarkarea.com.
 times.mw.	0	IN	NS	ruben.ns.cloudflare.com.
 times.mw.	0	IN	NS	savanna.ns.cloudflare.com.
-timmy.mw.	0	IN	NS	ns1.hostedbytimmy.com.
-timmy.mw.	0	IN	NS	ns2.hostedbytimmy.com.
 timotheos.mw.	0	IN	NS	ns1.onlydomains.com.
 timotheos.mw.	0	IN	NS	ns2.onlydomains.com.
 timotheos.mw.	0	IN	NS	ns3.onlydomains.com.
