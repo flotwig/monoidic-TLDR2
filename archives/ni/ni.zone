@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113043 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113045 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1391,8 +1391,10 @@ nicixproject.ni.	0	IN	NS	ns1.bluehost.com.
 nicixproject.ni.	0	IN	NS	ns2.bluehost.com.
 nicnicaragua.ni.	0	IN	NS	ns.ni.
 nicnicaragua.ni.	0	IN	NS	ns2.ni.
-nico.ni.	0	IN	NS	ns13.ovh.net.
-nico.ni.	0	IN	NS	dns13.ovh.net.
+nico.ni.	0	IN	NS	aida.ns.cloudflare.com.
+nico.ni.	0	IN	NS	ns200.anycast.me.
+nico.ni.	0	IN	NS	pablo.ns.cloudflare.com.
+nico.ni.	0	IN	NS	dns200.anycast.me.
 niel.ni.	0	IN	NS	ns-36-a.gandi.net.
 niel.ni.	0	IN	NS	ns-239-b.gandi.net.
 nikon.ni.	0	IN	NS	ns1.webhosting.jp.
@@ -1755,10 +1757,10 @@ tecnovial.ni.	0	IN	NS	dns11.hostingmediaweb.com.
 teledyne.ni.	0	IN	NS	dns1.ipmanagerinc.net.
 teledyne.ni.	0	IN	NS	dns2.ipmanagerinc.net.
 teledyne.ni.	0	IN	NS	dns3.ipmanagerinc.net.
-teleperformance.ni.	0	IN	NS	a.ns14.net.
-teleperformance.ni.	0	IN	NS	b.ns14.net.
-teleperformance.ni.	0	IN	NS	c.ns14.net.
-teleperformance.ni.	0	IN	NS	d.ns14.net.
+teleperformance.ni.	0	IN	NS	deffmns01.teleperformance.de.
+teleperformance.ni.	0	IN	NS	dor-ns-01.twenty4help.com.
+teleperformance.ni.	0	IN	NS	goe-ns-01.twenty4help.com.
+teleperformance.ni.	0	IN	NS	nlamsns01.teleperformance.nl.
 thedailymile.ni.	0	IN	NS	ns1.netnames.net.
 thedailymile.ni.	0	IN	NS	ns2.netnames.net.
 theflixies.ni.	0	IN	NS	r1.ns.netflix.net.
