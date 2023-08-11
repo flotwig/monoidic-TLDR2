@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113045 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113046 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1628,8 +1628,6 @@ scalpers.ni.	0	IN	NS	dns9.servidoresdns.net.
 scalpers.ni.	0	IN	NS	dns10.servidoresdns.net.
 scalperscompany.ni.	0	IN	NS	dns9.servidoresdns.net.
 scalperscompany.ni.	0	IN	NS	dns10.servidoresdns.net.
-seainsure.ni.	0	IN	NS	ns1.softlayer.com.
-seainsure.ni.	0	IN	NS	ns2.softlayer.com.
 seat.ni.	0	IN	NS	ns1.gedas.es.
 seat.ni.	0	IN	NS	ns2.gedas.es.
 senhasegura.ni.	0	IN	NS	ns1.101domain.com.

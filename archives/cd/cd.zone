@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023081022 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023081122 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1691706229"
+cd.	0	IN	TXT	"Generation Time: 1691792620"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -422,7 +422,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1691706230"
+ac.cd.	0	IN	TXT	"Generation Time: 1691792621"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -3510,6 +3510,10 @@ christian.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 christian.cd.	0	IN	NS	arch.ns.cloudflare.com.
 christmas.cd.	0	IN	NS	ns6720911517.a2dns.com.
 christmas.cd.	0	IN	NS	ns67209115170.a2dns.com.
+chrome.cd.	0	IN	NS	ns1.googledomains.com.
+chrome.cd.	0	IN	NS	ns2.googledomains.com.
+chrome.cd.	0	IN	NS	ns3.googledomains.com.
+chrome.cd.	0	IN	NS	ns4.googledomains.com.
 chroniquedunumerique.cd.	0	IN	NS	ns1.ipsolutions.cd.
 chroniquedunumerique.cd.	0	IN	NS	ns2.ipsolutions.cd.
 chronoconcept.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -3848,7 +3852,7 @@ colruyt-export.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	0	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
-com.cd.	0	IN	TXT	"Generation Time: 1691706231"
+com.cd.	0	IN	TXT	"Generation Time: 1691792622"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -4827,10 +4831,10 @@ deovuadi.cd.	0	IN	NS	ns1.scpt-network.cd.
 deovuadi.cd.	0	IN	NS	ns2.scpt-network.cd.
 deovuadicoaching.cd.	0	IN	NS	ns1.shivanet.net.
 deovuadicoaching.cd.	0	IN	NS	ns2.shivanet.net.
-depannage.cd.	0	IN	NS	ns1038.ui-dns.biz.
-depannage.cd.	0	IN	NS	ns1062.ui-dns.de.
-depannage.cd.	0	IN	NS	ns1079.ui-dns.com.
-depannage.cd.	0	IN	NS	ns1103.ui-dns.org.
+depannage.cd.	0	IN	NS	ns1045.ui-dns.de.
+depannage.cd.	0	IN	NS	ns1045.ui-dns.biz.
+depannage.cd.	0	IN	NS	ns1045.ui-dns.com.
+depannage.cd.	0	IN	NS	ns1045.ui-dns.org.
 depeche.cd.	0	IN	NS	ivan.ns.cloudflare.com.
 depeche.cd.	0	IN	NS	ulla.ns.cloudflare.com.
 deploy.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -5556,7 +5560,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1691706231"
+edu.cd.	0	IN	TXT	"Generation Time: 1691792622"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -7200,7 +7204,6 @@ gobet.cd.	0	IN	NS	ns2.alphadnszone.com.
 gobet.cd.	0	IN	NS	ns3.alphadnszone.com.
 gobet.cd.	0	IN	NS	ns4.alphadnszone.com.
 gobet.cd.	0	IN	NS	ns5.alphadnszone.com.
-gobet.cd.	0	IN	NS	ns6.alphadnszone.com.
 gobus.cd.	0	IN	NS	ns1.a2hosting.com.
 gobus.cd.	0	IN	NS	ns2.a2hosting.com.
 gobus.cd.	0	IN	NS	ns3.a2hosting.com.
@@ -7298,10 +7301,26 @@ google.cd.	0	IN	NS	ns1.google.com.
 google.cd.	0	IN	NS	ns2.google.com.
 google.cd.	0	IN	NS	ns3.google.com.
 google.cd.	0	IN	NS	ns4.google.com.
+googleads.cd.	0	IN	NS	ns1.googledomains.com.
+googleads.cd.	0	IN	NS	ns2.googledomains.com.
+googleads.cd.	0	IN	NS	ns3.googledomains.com.
+googleads.cd.	0	IN	NS	ns4.googledomains.com.
+googlecloud.cd.	0	IN	NS	ns1.googledomains.com.
+googlecloud.cd.	0	IN	NS	ns2.googledomains.com.
+googlecloud.cd.	0	IN	NS	ns3.googledomains.com.
+googlecloud.cd.	0	IN	NS	ns4.googledomains.com.
 googlee.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 googlee.cd.	0	IN	NS	arch.ns.cloudflare.com.
 googlemaps.cd.	0	IN	NS	ns1.markmonitor.com.
 googlemaps.cd.	0	IN	NS	ns3.markmonitor.com.
+googlepay.cd.	0	IN	NS	ns1.googledomains.com.
+googlepay.cd.	0	IN	NS	ns2.googledomains.com.
+googlepay.cd.	0	IN	NS	ns3.googledomains.com.
+googlepay.cd.	0	IN	NS	ns4.googledomains.com.
+googleworkspace.cd.	0	IN	NS	ns1.googledomains.com.
+googleworkspace.cd.	0	IN	NS	ns2.googledomains.com.
+googleworkspace.cd.	0	IN	NS	ns3.googledomains.com.
+googleworkspace.cd.	0	IN	NS	ns4.googledomains.com.
 goole.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 goole.cd.	0	IN	NS	arch.ns.cloudflare.com.
 gopher.cd.	0	IN	NS	ns1.lws-hosting.biz.
@@ -7331,7 +7350,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1691706233"
+gouv.cd.	0	IN	TXT	"Generation Time: 1691792624"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -7693,7 +7712,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1691706231"
+gov.cd.	0	IN	TXT	"Generation Time: 1691792622"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -12340,7 +12359,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1691706231"
+net.cd.	0	IN	TXT	"Generation Time: 1691792622"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -13078,7 +13097,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1691706231"
+org.cd.	0	IN	TXT	"Generation Time: 1691792622"
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
 csc.org.cd.	0	IN	NS	ns2.4levels.net.
 egov.org.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -14497,10 +14516,10 @@ remede.cd.	0	IN	NS	ns1.amenworld.com.
 remede.cd.	0	IN	NS	ns2.amenworld.com.
 remix.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 remix.cd.	0	IN	NS	arch.ns.cloudflare.com.
-remorquage.cd.	0	IN	NS	ns1038.ui-dns.biz.
-remorquage.cd.	0	IN	NS	ns1062.ui-dns.de.
-remorquage.cd.	0	IN	NS	ns1079.ui-dns.com.
-remorquage.cd.	0	IN	NS	ns1103.ui-dns.org.
+remorquage.cd.	0	IN	NS	ns1045.ui-dns.de.
+remorquage.cd.	0	IN	NS	ns1045.ui-dns.biz.
+remorquage.cd.	0	IN	NS	ns1045.ui-dns.com.
+remorquage.cd.	0	IN	NS	ns1045.ui-dns.org.
 renadhoc.cd.	0	IN	NS	ns1.servershost.net.
 renadhoc.cd.	0	IN	NS	ns2.servershost.net.
 renafer.cd.	0	IN	NS	ns103.ovh.net.
@@ -16172,6 +16191,9 @@ sycamore.cd.	0	IN	NS	dns1.digitalug.com.
 sycamore.cd.	0	IN	NS	dns2.digitalug.com.
 sycamore.cd.	0	IN	NS	dns3.digitaug.com.
 sycamore.cd.	0	IN	NS	dns4.digitalug.com.
+sygepst.cd.	0	IN	NS	ns1.digitalocean.com.
+sygepst.cd.	0	IN	NS	ns2.digitalocean.com.
+sygepst.cd.	0	IN	NS	ns3.digitalocean.com.
 syke.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 syke.cd.	0	IN	NS	arch.ns.cloudflare.com.
 syllabus.cd.	0	IN	NS	ns14.wixdns.net.
@@ -17056,6 +17078,8 @@ ukarimuwny.cd.	0	IN	NS	ns3.gontcho.net.
 ukarimuwny.cd.	0	IN	NS	ns4.gontcho.net.
 ukweli.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 ukweli.cd.	0	IN	NS	arch.ns.cloudflare.com.
+uloyola.cd.	0	IN	NS	dns1.namecheaphosting.com.
+uloyola.cd.	0	IN	NS	dns2.namecheaphosting.com.
 ultracell.cd.	0	IN	NS	a.dns.gandi.net.
 ultracell.cd.	0	IN	NS	b.dns.gandi.net.
 ultracell.cd.	0	IN	NS	c.dns.gandi.net.
