@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023081209 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023081309 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -515,8 +515,8 @@ xn--p5b5bf5byb.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--p5b5bf5byb.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--p5b5bh5edp.xn--54b7fta0cc.	0	IN	NS	dns3.parkpage.foundationapi.com.
 xn--p5b5bh5edp.xn--54b7fta0cc.	0	IN	NS	dns4.parkpage.foundationapi.com.
-xn--p5b6axe.xn--54b7fta0cc.	0	IN	NS	ns1.greenithostbd.com.
-xn--p5b6axe.xn--54b7fta0cc.	0	IN	NS	ns2.greenithostbd.com.
+xn--p5b6axe.xn--54b7fta0cc.	0	IN	NS	ns3.greenithostbd.com.
+xn--p5b6axe.xn--54b7fta0cc.	0	IN	NS	ns4.greenithostbd.com.
 xn--p5b7a0cb9b6d.xn--54b7fta0cc.	0	IN	NS	ns1.sudokkho.com.
 xn--p5b7a0cb9b6d.xn--54b7fta0cc.	0	IN	NS	ns2.sudokkho.com.
 xn--p5b7a0cte.xn--54b7fta0cc.	0	IN	NS	ns1.sudokkho.com.
