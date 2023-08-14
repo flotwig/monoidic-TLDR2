@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081104 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081414 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2937,6 +2937,8 @@ legrand.gp.	0	IN	NS	lim.legrand.tm.fr.
 legrand.gp.	0	IN	NS	var.bticino.it.
 lemetayer.gp.	0	IN	NS	ns103.ovh.net.
 lemetayer.gp.	0	IN	NS	dns103.ovh.net.
+leon.gp.	0	IN	NS	dns1.cloudns.net.
+leon.gp.	0	IN	NS	dns2.cloudns.net.
 leon-grosse.gp.	0	IN	NS	ns-95.awsdns-11.com.
 leon-grosse.gp.	0	IN	NS	ns-562.awsdns-06.net.
 leon-grosse.gp.	0	IN	NS	ns-1303.awsdns-34.org.

@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1691964301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692050701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -798,8 +798,6 @@ bwin.mw.	0	IN	NS	dns5.itsfogo.com.
 bwin.mw.	0	IN	NS	dns6.itsfogo.com.
 by.mw.	0	IN	NS	igor.ns.cloudflare.com.
 by.mw.	0	IN	NS	lara.ns.cloudflare.com.
-bytes.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
-bytes.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
 c.mw.	0	IN	NS	ns1.netim.net.
 c.mw.	0	IN	NS	ns2.netim.net.
 c.mw.	0	IN	NS	ns3.netim.net.
@@ -3396,8 +3394,6 @@ p.mw.	0	IN	NS	ns2.netim.net.
 p.mw.	0	IN	NS	ns3.netim.net.
 pa.mw.	0	IN	NS	domwe.sdn.mw.
 pa.mw.	0	IN	NS	ns1pamw.agsmlw.org.
-pabwalo.mw.	0	IN	NS	ns73.domaincontrol.com.
-pabwalo.mw.	0	IN	NS	ns74.domaincontrol.com.
 pacificlimited.mw.	0	IN	NS	ns1.freelancemw.com.
 pacificlimited.mw.	0	IN	NS	ns2.freelancemw.com.
 pactilis.mw.	0	IN	NS	dns1.namebay.com.
@@ -4321,8 +4317,6 @@ travelwings.mw.	0	IN	NS	ns02.trademarkarea.com.
 travelwings.mw.	0	IN	NS	ns03.trademarkarea.com.
 trellidor.mw.	0	IN	NS	ns1.firsttech.net.
 trellidor.mw.	0	IN	NS	ns2.firsttech.net.
-trenchmedia.mw.	0	IN	NS	ns15.asurahosting.com.
-trenchmedia.mw.	0	IN	NS	ns16.asurahosting.com.
 tridentsecurity.mw.	0	IN	NS	ns1.bdsmw.com.
 tridentsecurity.mw.	0	IN	NS	ns2.bdsmw.com.
 tridentsecurity.mw.	0	IN	NS	ns3.bdsmw.com.
