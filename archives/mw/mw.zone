@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692050701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692137101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3471,8 +3471,8 @@ play.mw.	0	IN	NS	kyree.ns.cloudflare.com.
 plusrewards.mw.	0	IN	NS	ns1.lexsynergy.net.
 plusrewards.mw.	0	IN	NS	ns2.lexsynergy.us.
 plusrewards.mw.	0	IN	NS	ns3.lexsynergy.info.
-pml.mw.	0	IN	NS	ns1.inmotionhosting.com.
-pml.mw.	0	IN	NS	ns2.inmotionhosting.com.
+pml.mw.	0	IN	NS	ns1.nzathu.online.
+pml.mw.	0	IN	NS	ns2.nzathu.online.
 pmra.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 pmra.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 pokemon.mw.	0	IN	NS	a4.nstld.com.
@@ -3709,8 +3709,8 @@ reynolds.mw.	0	IN	NS	dns1.supremedns.com.
 reynolds.mw.	0	IN	NS	dns2.supremedns.com.
 reynolds.mw.	0	IN	NS	dns3.supremedns.com.
 reynolds.mw.	0	IN	NS	dns4.supremedns.com.
-rf.mw.	0	IN	NS	ns1.dan.com.
-rf.mw.	0	IN	NS	ns2.dan.com.
+rf.mw.	0	IN	NS	ns1.bodis.com.
+rf.mw.	0	IN	NS	ns2.bodis.com.
 rfa.mw.	0	IN	NS	ns1.bdsmw.com.
 rfa.mw.	0	IN	NS	ns2.bdsmw.com.
 rfa.mw.	0	IN	NS	ns3.bdsmw.com.
