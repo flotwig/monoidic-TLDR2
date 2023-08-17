@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692223501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692309901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -798,6 +798,8 @@ bwin.mw.	0	IN	NS	dns5.itsfogo.com.
 bwin.mw.	0	IN	NS	dns6.itsfogo.com.
 by.mw.	0	IN	NS	igor.ns.cloudflare.com.
 by.mw.	0	IN	NS	lara.ns.cloudflare.com.
+bytes.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
+bytes.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
 c.mw.	0	IN	NS	ns1.netim.net.
 c.mw.	0	IN	NS	ns2.netim.net.
 c.mw.	0	IN	NS	ns3.netim.net.
@@ -1199,6 +1201,8 @@ dell.mw.	0	IN	NS	ns3ak.dell.com.
 dell.mw.	0	IN	NS	ns3ns.dell.com.
 demeterseed.mw.	0	IN	NS	proxy2.africa-online.net.
 demeterseed.mw.	0	IN	NS	proxy3.africa-online.net.
+designprinters.mw.	0	IN	NS	ns1.linthipe3.com.
+designprinters.mw.	0	IN	NS	ns2.linthipe3.com.
 dev.mw.	0	IN	NS	duke.ns.cloudflare.com.
 dev.mw.	0	IN	NS	zainab.ns.cloudflare.com.
 dfs.mw.	0	IN	NS	ams-ns1.websitehostserver.net.
@@ -3003,6 +3007,8 @@ msd.mw.	0	IN	NS	ns6.customer.level3.net.
 msd.mw.	0	IN	NS	ns9.customer.level3.net.
 msd.mw.	0	IN	NS	cbru.br.ns.els-gms.att.net.
 msd.mw.	0	IN	NS	cmtu.mt.ns.els-gms.att.net.
+msika.mw.	0	IN	NS	ns69.domaincontrol.com.
+msika.mw.	0	IN	NS	ns70.domaincontrol.com.
 msn.mw.	0	IN	NS	ns1-09.azure-dns.com.
 msn.mw.	0	IN	NS	ns2-09.azure-dns.net.
 msn.mw.	0	IN	NS	ns3-09.azure-dns.org.
