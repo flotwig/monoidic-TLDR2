@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023081722 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023081822 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1692311027"
+cd.	0	IN	TXT	"Generation Time: 1692397426"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -422,7 +422,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1692311029"
+ac.cd.	0	IN	TXT	"Generation Time: 1692397428"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -2167,8 +2167,9 @@ bcdc.cd.	0	IN	NS	ns3-03.azure-dns.org.
 bcdc.cd.	0	IN	NS	ns4-03.azure-dns.info.
 bcdtravel.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 bcdtravel.cd.	0	IN	NS	arch.ns.cloudflare.com.
-bceco.cd.	0	IN	NS	ns0.itik.fr.
-bceco.cd.	0	IN	NS	srv02.itik.netensia.net.
+bceco.cd.	0	IN	NS	ns.est.breizh.guru.
+bceco.cd.	0	IN	NS	ns.nord.breizh.guru.
+bceco.cd.	0	IN	NS	ns.ouest.breizh.guru.
 bcktr.cd.	0	IN	NS	joel.ns.cloudflare.com.
 bcktr.cd.	0	IN	NS	barbara.ns.cloudflare.com.
 bcloud.cd.	0	IN	NS	nash.ns.cloudflare.com.
@@ -2346,6 +2347,8 @@ betsson.cd.	0	IN	NS	pdns142.ultradns.org.
 betteron.cd.	0	IN	NS	ns01.trademarkarea.com.
 betteron.cd.	0	IN	NS	ns02.trademarkarea.com.
 betteron.cd.	0	IN	NS	ns03.trademarkarea.com.
+betunit.cd.	0	IN	NS	ns1.scpt-network.cd.
+betunit.cd.	0	IN	NS	ns2.scpt-network.cd.
 betway.cd.	0	IN	NS	ns1.lexsynergy.net.
 betway.cd.	0	IN	NS	ns2.lexsynergy.us.
 betway.cd.	0	IN	NS	ns3.lexsynergy.info.
@@ -3874,7 +3877,7 @@ colruyt-export.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	0	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
-com.cd.	0	IN	TXT	"Generation Time: 1692311029"
+com.cd.	0	IN	TXT	"Generation Time: 1692397428"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -5589,7 +5592,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1692311029"
+edu.cd.	0	IN	TXT	"Generation Time: 1692397428"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -7388,7 +7391,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1692311031"
+gouv.cd.	0	IN	TXT	"Generation Time: 1692397430"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -7750,7 +7753,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1692311029"
+gov.cd.	0	IN	TXT	"Generation Time: 1692397428"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -10467,6 +10470,9 @@ lincolnelectric.cd.	0	IN	NS	ns1.markmonitor.com.
 lincolnelectric.cd.	0	IN	NS	ns2.markmonitor.com.
 lincolnelectric.cd.	0	IN	NS	ns3.markmonitor.com.
 lincolnelectric.cd.	0	IN	NS	ns4.markmonitor.com.
+lincolnelectric.cd.	0	IN	NS	ns5.markmonitor.com.
+lincolnelectric.cd.	0	IN	NS	ns6.markmonitor.com.
+lincolnelectric.cd.	0	IN	NS	ns7.markmonitor.com.
 linde.cd.	0	IN	NS	ns1.linde.com.
 linde.cd.	0	IN	NS	ns2.linde.com.
 linde.cd.	0	IN	NS	ns3.linde.com.
@@ -11072,11 +11078,12 @@ marchedelaliberteldk.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 marchedelaliberteldk.cd.	0	IN	NS	arch.ns.cloudflare.com.
 marchepourtous.cd.	0	IN	NS	dns5.eltech-congo.cd.
 marchepourtous.cd.	0	IN	NS	dns6.eltech-congo.cd.
-marchepublic.cd.	0	IN	NS	ns0.itik.fr.
-marchepublic.cd.	0	IN	NS	ns1.marchepublic.cd.
-ns1.marchepublic.cd.	0	IN	A	160.153.249.48
-marchespublics.cd.	0	IN	NS	ns0.itik.fr.
-marchespublics.cd.	0	IN	NS	ns1.marchepublic.cd.
+marchepublic.cd.	0	IN	NS	ns.est.breizh.guru.
+marchepublic.cd.	0	IN	NS	ns.nord.breizh.guru.
+marchepublic.cd.	0	IN	NS	ns.ouest.breizh.guru.
+marchespublics.cd.	0	IN	NS	ns.est.breizh.guru.
+marchespublics.cd.	0	IN	NS	ns.nord.breizh.guru.
+marchespublics.cd.	0	IN	NS	ns.ouest.breizh.guru.
 marcoborsato.cd.	0	IN	NS	ns1.image2day.com.
 marcoborsato.cd.	0	IN	NS	ns2.direct5.net.
 mariage.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -11941,6 +11948,7 @@ morecast.cd.	0	IN	NS	ns3.markmonitor.com.
 morecast.cd.	0	IN	NS	ns4.markmonitor.com.
 morecast.cd.	0	IN	NS	ns5.markmonitor.com.
 morecast.cd.	0	IN	NS	ns6.markmonitor.com.
+morecast.cd.	0	IN	NS	ns7.markmonitor.com.
 morgan-stanley.cd.	0	IN	NS	a4.nstld.com.
 morgan-stanley.cd.	0	IN	NS	f4.nstld.com.
 morgan-stanley.cd.	0	IN	NS	g4.nstld.com.
@@ -12405,7 +12413,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1692311029"
+net.cd.	0	IN	TXT	"Generation Time: 1692397428"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -13148,7 +13156,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1692311029"
+org.cd.	0	IN	TXT	"Generation Time: 1692397428"
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
 csc.org.cd.	0	IN	NS	ns2.4levels.net.
 egov.org.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -15377,6 +15385,11 @@ shop.cd.	0	IN	NS	ns2.websupport.sk.
 shop.cd.	0	IN	NS	ns3.websupport.sk.
 shop-twiga.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 shop-twiga.cd.	0	IN	NS	arch.ns.cloudflare.com.
+shopifyplus.cd.	0	IN	NS	ns1.markmonitor.com.
+shopifyplus.cd.	0	IN	NS	ns2.markmonitor.com.
+shopifyplus.cd.	0	IN	NS	ns3.markmonitor.com.
+shopifyplus.cd.	0	IN	NS	ns4.markmonitor.com.
+shopifyplus.cd.	0	IN	NS	ns5.markmonitor.com.
 shopit.cd.	0	IN	NS	becky.ns.cloudflare.com.
 shopit.cd.	0	IN	NS	graham.ns.cloudflare.com.
 shopmaster.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -15734,8 +15747,12 @@ solutech.cd.	0	IN	NS	ns58.superdomainzone.com.
 solutions.cd.	0	IN	NS	ns1.scpt-network.cd.
 solutions.cd.	0	IN	NS	ns2.scpt-network.cd.
 solvay.cd.	0	IN	NS	ns1.markmonitor.com.
+solvay.cd.	0	IN	NS	ns2.markmonitor.com.
 solvay.cd.	0	IN	NS	ns3.markmonitor.com.
+solvay.cd.	0	IN	NS	ns4.markmonitor.com.
+solvay.cd.	0	IN	NS	ns5.markmonitor.com.
 solvay.cd.	0	IN	NS	ns6.markmonitor.com.
+solvay.cd.	0	IN	NS	ns7.markmonitor.com.
 somanet.cd.	0	IN	NS	ns1.jofarsystems.com.
 somanet.cd.	0	IN	NS	ns2.jofarsystems.com.
 somba.cd.	0	IN	NS	ns1.francedns.com.
@@ -17006,6 +17023,7 @@ tullowoil.cd.	0	IN	NS	ns3.markmonitor.com.
 tullowoil.cd.	0	IN	NS	ns4.markmonitor.com.
 tullowoil.cd.	0	IN	NS	ns5.markmonitor.com.
 tullowoil.cd.	0	IN	NS	ns6.markmonitor.com.
+tullowoil.cd.	0	IN	NS	ns7.markmonitor.com.
 tumblr.cd.	0	IN	NS	ns1.p03.dynect.net.
 tumblr.cd.	0	IN	NS	ns2.p03.dynect.net.
 tumblr.cd.	0	IN	NS	ns3.p03.dynect.net.
@@ -18053,6 +18071,7 @@ worldremit.cd.	0	IN	NS	ns3.markmonitor.com.
 worldremit.cd.	0	IN	NS	ns4.markmonitor.com.
 worldremit.cd.	0	IN	NS	ns5.markmonitor.com.
 worldremit.cd.	0	IN	NS	ns6.markmonitor.com.
+worldremit.cd.	0	IN	NS	ns7.markmonitor.com.
 worldtrucker.cd.	0	IN	NS	a4.nstld.com.
 worldtrucker.cd.	0	IN	NS	f4.nstld.com.
 worldtrucker.cd.	0	IN	NS	g4.nstld.com.

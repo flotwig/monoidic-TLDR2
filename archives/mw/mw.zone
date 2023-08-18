@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692309901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692396302 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1624,6 +1624,8 @@ fnb.mw.	0	IN	NS	ns04.fnbconnect.co.za.
 fonbet.mw.	0	IN	NS	ns1.101domain.com.
 fonbet.mw.	0	IN	NS	ns2.101domain.com.
 fonbet.mw.	0	IN	NS	ns5.101domain.com.
+foodhut.mw.	0	IN	NS	ns1.bluehost.com.
+foodhut.mw.	0	IN	NS	ns2.bluehost.com.
 forcepoint.mw.	0	IN	NS	ns01.trademarkarea.com.
 forcepoint.mw.	0	IN	NS	ns02.trademarkarea.com.
 forcepoint.mw.	0	IN	NS	ns03.trademarkarea.com.
