@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692569101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692655501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -492,8 +492,8 @@ badoo.mw.	0	IN	NS	gss1.monopost.com.
 badoo.mw.	0	IN	NS	gss2.monopost.com.
 baidu.mw.	0	IN	NS	ns1.baidu.hk.
 baidu.mw.	0	IN	NS	ns2.baidu.hk.
-bakemans.mw.	0	IN	NS	ns11.asurahosting.com.
-bakemans.mw.	0	IN	NS	ns12.asurahosting.com.
+bakemans.mw.	0	IN	NS	ns105.asurahosting.com.
+bakemans.mw.	0	IN	NS	ns106.my-control-panel.com.
 bakertilly.mw.	0	IN	NS	ns1.namecity.com.
 bakertilly.mw.	0	IN	NS	ns2.namecity.com.
 bam.mw.	0	IN	NS	ns987.websitewelcome.com.
@@ -2902,10 +2902,10 @@ mlatho.mw.	0	IN	NS	ns2.onlydomains.com.
 mlatho.mw.	0	IN	NS	ns3.onlydomains.com.
 mlonyenicooperative.mw.	0	IN	NS	rs74a.registrar-servers.com.
 mlonyenicooperative.mw.	0	IN	NS	rs74b.registrar-servers.com.
-mlw.mw.	0	IN	NS	ns1-04.azure-dns.com.
-mlw.mw.	0	IN	NS	ns2-04.azure-dns.net.
-mlw.mw.	0	IN	NS	ns3-04.azure-dns.org.
-mlw.mw.	0	IN	NS	ns4-04.azure-dns.info.
+mlw.mw.	0	IN	NS	ns1-37.azure-dns.com.
+mlw.mw.	0	IN	NS	ns2-37.azure-dns.net.
+mlw.mw.	0	IN	NS	ns3-37.azure-dns.org.
+mlw.mw.	0	IN	NS	ns4-37.azure-dns.info.
 mm.mw.	0	IN	NS	marmot.dnspod.net.
 mm.mw.	0	IN	NS	fourteen.dnspod.net.
 mmandco.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3469,8 +3469,6 @@ piggscasino.mw.	0	IN	NS	ns1.instradns.com.
 piggscasino.mw.	0	IN	NS	ns2.instradns.com.
 pilmalawi.mw.	0	IN	NS	proxy2.africa-online.net.
 pilmalawi.mw.	0	IN	NS	proxy3.africa-online.net.
-pinstitute.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
-pinstitute.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 pinterest.mw.	0	IN	NS	ns1.markmonitor.com.
 pinterest.mw.	0	IN	NS	ns3.markmonitor.com.
 pizzahut.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
