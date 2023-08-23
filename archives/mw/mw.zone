@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692741901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1692828301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -865,6 +865,8 @@ castel.mw.	0	IN	NS	ns02.trademarkarea.com.
 castel.mw.	0	IN	NS	ns03.trademarkarea.com.
 castrocommercial.mw.	0	IN	NS	proxy2.africa-online.net.
 castrocommercial.mw.	0	IN	NS	proxy3.africa-online.net.
+catalogue.mw.	0	IN	NS	domwe.sdn.mw.
+catalogue.mw.	0	IN	NS	nyala.sdnp.org.mw.
 cbholdings.mw.	0	IN	NS	ns1.nzathu.online.
 cbholdings.mw.	0	IN	NS	ns2.nzathu.online.
 cbs.mw.	0	IN	NS	dns1.p09.nsone.net.
@@ -2604,10 +2606,18 @@ maersk-line.mw.	0	IN	NS	a8-67.akam.net.
 maersk-line.mw.	0	IN	NS	a13-67.akam.net.
 maersk-line.mw.	0	IN	NS	a18-64.akam.net.
 maersk-line.mw.	0	IN	NS	a22-65.akam.net.
-maerskline.mw.	0	IN	NS	dns1.cscdns.net.
-maerskline.mw.	0	IN	NS	dns2.cscdns.net.
-maersksealand.mw.	0	IN	NS	dns1.cscdns.net.
-maersksealand.mw.	0	IN	NS	dns2.cscdns.net.
+maerskline.mw.	0	IN	NS	a1-4.akam.net.
+maerskline.mw.	0	IN	NS	a3-66.akam.net.
+maerskline.mw.	0	IN	NS	a8-67.akam.net.
+maerskline.mw.	0	IN	NS	a13-67.akam.net.
+maerskline.mw.	0	IN	NS	a18-64.akam.net.
+maerskline.mw.	0	IN	NS	a22-65.akam.net.
+maersksealand.mw.	0	IN	NS	a1-4.akam.net.
+maersksealand.mw.	0	IN	NS	a3-66.akam.net.
+maersksealand.mw.	0	IN	NS	a8-67.akam.net.
+maersksealand.mw.	0	IN	NS	a13-67.akam.net.
+maersksealand.mw.	0	IN	NS	a18-64.akam.net.
+maersksealand.mw.	0	IN	NS	a22-65.akam.net.
 maeveproject.mw.	0	IN	NS	ns1.hostedbytimmy.com.
 maeveproject.mw.	0	IN	NS	ns2.hostedbytimmy.com.
 magga.mw.	0	IN	NS	dns1.50webs.com.
@@ -4246,10 +4256,6 @@ tld.mw.	0	IN	NS	ns2.gransy.com.
 tld.mw.	0	IN	NS	ns3.gransy.com.
 tld.mw.	0	IN	NS	ns4.gransy.com.
 tld.mw.	0	IN	NS	ns5.gransy.com.
-tm.mw.	0	IN	NS	ns1.bdsmw.com.
-tm.mw.	0	IN	NS	ns2.bdsmw.com.
-tm.mw.	0	IN	NS	ns3.bdsmw.com.
-tm.mw.	0	IN	NS	ns4.bdsmw.com.
 tmpartnership.mw.	0	IN	NS	ns1.cppvirtual.com.
 tmpartnership.mw.	0	IN	NS	ns2.cppvirtual.com.
 tnmbusinesstexts.mw.	0	IN	NS	ns1.bdsmw.com.
