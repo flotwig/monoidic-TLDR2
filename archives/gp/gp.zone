@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023082313 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023082522 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3394,6 +3394,8 @@ mls.gp.	0	IN	NS	mns01.domaincontrol.com.
 mls.gp.	0	IN	NS	mns02.domaincontrol.com.
 mm.gp.	0	IN	NS	ns1.sedoparking.com.
 mm.gp.	0	IN	NS	ns2.sedoparking.com.
+mobastyle.gp.	0	IN	NS	ns1-fr.mediaserv.net.
+mobastyle.gp.	0	IN	NS	ns1-gp.mediaserv.net.
 mobi.gp.	0	IN	NS	ns1.nic.gp.
 mobi.gp.	0	IN	NS	ns-gp.nic.fr.
 moet.gp.	0	IN	NS	a.ns.domainoo.fr.

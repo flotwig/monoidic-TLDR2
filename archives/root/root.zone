@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023082402 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023082502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4447,16 +4447,13 @@ cv.	0	IN	NS	cv01.dns.pt.
 ns.dns.cv.	0	IN	A	41.221.192.220
 cw.	0	IN	NS	cw.cctld.authdns.ripe.net.
 cw.	0	IN	NS	ns0.ja.net.
-cw.	0	IN	NS	ns1.uoc.cw.
-cw.	0	IN	NS	ns2.uoc.cw.
-cw.	0	IN	NS	ns3.uoc.cw.
+cw.	0	IN	NS	ns1.dns.cw.
 cw.	0	IN	NS	kadushi.curinfo.cw.
 cw.	0	IN	NS	ns01-server.curinfo.cw.
 kadushi.curinfo.cw.	0	IN	A	65.208.122.63
 ns01-server.curinfo.cw.	0	IN	A	65.208.122.36
-ns1.uoc.cw.	0	IN	A	198.93.177.21
-ns2.uoc.cw.	0	IN	A	190.112.254.244
-ns3.uoc.cw.	0	IN	A	200.26.199.99
+ns1.dns.cw.	0	IN	A	194.0.28.6
+ns1.dns.cw.	0	IN	AAAA	2001:678:2c:0:194:0:28:6
 cx.	0	IN	NS	ns.anycast.nic.cx.
 cx.	0	IN	NS	ns1.anycastdns.cz.
 cx.	0	IN	NS	ns2.anycastdns.cz.
