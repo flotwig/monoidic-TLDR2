@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023082522 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023082922 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -989,6 +989,8 @@ chatgpt.gp.	0	IN	NS	170.ns1.above.com.
 chatgpt.gp.	0	IN	NS	170.ns2.above.com.
 cherokee.gp.	0	IN	NS	ns1.cherokee-dc1.com.
 cherokee.gp.	0	IN	NS	ns2.cherokee-dc1.com.
+chevaliersaintgeorges.gp.	0	IN	NS	ns1.ikoula.fr.
+chevaliersaintgeorges.gp.	0	IN	NS	ns2.ikoula.fr.
 chez-dolmare.gp.	0	IN	NS	nsa.planethoster.net.
 chez-dolmare.gp.	0	IN	NS	nsb.planethoster.net.
 chez-dolmare.gp.	0	IN	NS	nsc.planethoster.net.
@@ -1415,6 +1417,8 @@ domains.gp.	0	IN	NS	dns1.cloudns.net.
 domains.gp.	0	IN	NS	dns2.cloudns.net.
 domex.gp.	0	IN	NS	ns10.ovh.net.
 domex.gp.	0	IN	NS	dns10.ovh.net.
+domiciliation.gp.	0	IN	NS	ns1.ikoula.fr.
+domiciliation.gp.	0	IN	NS	ns2.ikoula.fr.
 domini.gp.	0	IN	NS	ns1.register.it.
 domini.gp.	0	IN	NS	ns2.register.it.
 dominiando.gp.	0	IN	NS	ns.dominiando.it.
@@ -2696,6 +2700,8 @@ karukero.gp.	0	IN	NS	ns2.prodomaines.com.
 karulis.gp.	0	IN	NS	ns1.francedns.com.
 karulis.gp.	0	IN	NS	ns2.francedns.com.
 karulis.gp.	0	IN	NS	ns3.francedns.com.
+karumen.gp.	0	IN	NS	dns1.cloudns.net.
+karumen.gp.	0	IN	NS	dns2.cloudns.net.
 kaspersky.gp.	0	IN	NS	ns1.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns2.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns3.kasperskylabs.net.
