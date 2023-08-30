@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023082922 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023083022 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2700,8 +2700,8 @@ karukero.gp.	0	IN	NS	ns2.prodomaines.com.
 karulis.gp.	0	IN	NS	ns1.francedns.com.
 karulis.gp.	0	IN	NS	ns2.francedns.com.
 karulis.gp.	0	IN	NS	ns3.francedns.com.
-karumen.gp.	0	IN	NS	dns1.cloudns.net.
-karumen.gp.	0	IN	NS	dns2.cloudns.net.
+karumen.gp.	0	IN	NS	ns107.ovh.net.
+karumen.gp.	0	IN	NS	dns107.ovh.net.
 kaspersky.gp.	0	IN	NS	ns1.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns2.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns3.kasperskylabs.net.
@@ -3146,8 +3146,12 @@ maersk-line.gp.	0	IN	NS	a8-67.akam.net.
 maersk-line.gp.	0	IN	NS	a13-67.akam.net.
 maersk-line.gp.	0	IN	NS	a18-64.akam.net.
 maersk-line.gp.	0	IN	NS	a22-65.akam.net.
-maerskline.gp.	0	IN	NS	dns1.cscdns.net.
-maerskline.gp.	0	IN	NS	dns2.cscdns.net.
+maerskline.gp.	0	IN	NS	a1-4.akam.net.
+maerskline.gp.	0	IN	NS	a3-66.akam.net.
+maerskline.gp.	0	IN	NS	a8-67.akam.net.
+maerskline.gp.	0	IN	NS	a13-67.akam.net.
+maerskline.gp.	0	IN	NS	a18-64.akam.net.
+maerskline.gp.	0	IN	NS	a22-65.akam.net.
 mag.gp.	0	IN	NS	ns-104-a.gandi.net.
 mag.gp.	0	IN	NS	ns-197-c.gandi.net.
 mag.gp.	0	IN	NS	ns-252-b.gandi.net.
@@ -4601,6 +4605,8 @@ site.gp.	0	IN	NS	dns2.cloudns.net.
 sixt.gp.	0	IN	NS	b.ns14.net.
 sixt.gp.	0	IN	NS	c.ns14.net.
 sixt.gp.	0	IN	NS	d.ns14.net.
+sixtcarsales.gp.	0	IN	NS	ns13.ovh.net.
+sixtcarsales.gp.	0	IN	NS	dns13.ovh.net.
 skoda.gp.	0	IN	NS	isp2.viapraga.cz.
 skoda.gp.	0	IN	NS	skoda2.skoda-auto.cz.
 skoda.gp.	0	IN	NS	skoda3.skoda-auto.cz.
@@ -4622,6 +4628,9 @@ smart.gp.	0	IN	NS	ns1.corpinter.net.
 smart.gp.	0	IN	NS	ns2.corpinter.de.
 smart.gp.	0	IN	NS	ns3.corpinter.net.
 smart.gp.	0	IN	NS	ns4.corpinter.de.
+smarthome.gp.	0	IN	NS	ns1.netim.net.
+smarthome.gp.	0	IN	NS	ns2.netim.net.
+smarthome.gp.	0	IN	NS	ns3.netim.net.
 smartone.gp.	0	IN	NS	melkor.sgn.sca.se.
 smartone.gp.	0	IN	NS	tilion.sgn.sca.se.
 smarttop.gp.	0	IN	NS	dns1.cscdns.net.
