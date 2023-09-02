@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023090211 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023090309 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -6,6 +6,8 @@ xn--54b7fta0cc.	0	IN	DNSKEY	256 3 8 AwEAAbpZI/h1vLh2uHjMUY4uVSuYrYsAmKd32Ig0KPyF
 xn--54b7fta0cc.	0	IN	DNSKEY	257 3 8 AwEAAc3eAC/OU1vXWM5YuAll5A9JFZxMgrfy8vqpN3MZsoxNMZTJngfnaqWyJDKuNIVHlVtQbi8az2wqC6p11Wx4M75IOWs0NVpRhtNj3gppsk93g/3fN+inENeg8PUnwQboenYb4iijIQLcdLLw7WFjVNsJAL3N/P3VXVsvd/1aNROrr9tmSjvYUp2AJe6g6biIMEnRhBIKvaV9JV0pSa/m6GQeDB1g6sybvRd6XjJWKiB/JI8DrieMSncuqTRykbh8GrvHXu9Iqm6OBsWBrzDix5xT2gcyWL6SvhF+gfvuODdIOh58U2YI3YvTQ0T/4oxvf9vzPK5xhXMLWNRw94dZBYs= ;{id = 63049 (ksk), size = 2048b}
 xn----91d8adtl0acmirg8b2f1ai3vdb.xn--54b7fta0cc.	0	IN	NS	ns1.bangladesh.gov.bd.
 xn----91d8adtl0acmirg8b2f1ai3vdb.xn--54b7fta0cc.	0	IN	NS	ns2.bangladesh.gov.bd.
+xn----b1d8gacjs3al3dyb6ek3o.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
+xn----b1d8gacjs3al3dyb6ek3o.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
 xn----c1db5a7dq3ddt9a0ab4izccfd8xe.xn--54b7fta0cc.	0	IN	NS	ns1.dianadns.com.
 xn----c1db5a7dq3ddt9a0ab4izccfd8xe.xn--54b7fta0cc.	0	IN	NS	ns2.dianadns.com.
 xn----c1db5a7dq3ddt9a0ab4izccfd8xe.xn--54b7fta0cc.	0	IN	NS	ns3.dianadns.com.
@@ -124,8 +126,9 @@ xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc.	0	IN	NS	dns1.bdcom.com.
 xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc.	0	IN	NS	dns2.bdcom.com.
 xn--55bf4e.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--55bf4e.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
-xn--65bagjy9a0ef3i.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
-xn--65bagjy9a0ef3i.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
+xn--65bagjy9a0ef3i.xn--54b7fta0cc.	0	IN	NS	dns1.p01.nsone.net.
+xn--65bagjy9a0ef3i.xn--54b7fta0cc.	0	IN	NS	dns1.p06.nsone.net.
+xn--65bagjy9a0ef3i.xn--54b7fta0cc.	0	IN	NS	dns2.p01.nsone.net.
 xn--65bd5ctg.xn--54b7fta0cc.	0	IN	NS	ns5.zhostbd.com.
 xn--65bd5ctg.xn--54b7fta0cc.	0	IN	NS	ns6.zhostbd.com.
 xn--65be4bak4bp.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
@@ -150,6 +153,8 @@ xn--84b6a5c1an6dkc9i.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--84b6a5c1an6dkc9i.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
 xn--84b6av2c7dxb5c2b.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
 xn--84b6av2c7dxb5c2b.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
+xn--84ba2cwf5c5d.xn--54b7fta0cc.	0	IN	NS	eduso1.webhostns.com.
+xn--84ba2cwf5c5d.xn--54b7fta0cc.	0	IN	NS	eduso2.webhostns.com.
 xn--84bc9be.xn--54b7fta0cc.	0	IN	NS	ns1.digitalocean.com.
 xn--84bc9be.xn--54b7fta0cc.	0	IN	NS	ns2.digitalocean.com.
 xn--84bc9be.xn--54b7fta0cc.	0	IN	NS	ns3.digitalocean.com.
