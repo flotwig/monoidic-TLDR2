@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1693778701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1693865101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -170,8 +170,6 @@ acprotechs.mw.	0	IN	NS	proxy2.africa-online.net.
 acprotechs.mw.	0	IN	NS	proxy3.africa-online.net.
 acsl.mw.	0	IN	NS	ns2.globemw.com.
 acsl.mw.	0	IN	NS	ns3.globemw.com.
-active.mw.	0	IN	NS	maxdns.globemw.net.
-active.mw.	0	IN	NS	araliya.globemw.net.
 adam.mw.	0	IN	NS	bob.ns.cloudflare.com.
 adam.mw.	0	IN	NS	becky.ns.cloudflare.com.
 addressya.mw.	0	IN	NS	ns1.netim.net.
@@ -2124,8 +2122,10 @@ imosys.mw.	0	IN	NS	ns1.bdsmw.com.
 imosys.mw.	0	IN	NS	ns2.bdsmw.com.
 imosys.mw.	0	IN	NS	ns3.bdsmw.com.
 imosys.mw.	0	IN	NS	ns4.bdsmw.com.
-impacttax.mw.	0	IN	NS	ns1.websitehostserver.net.
-impacttax.mw.	0	IN	NS	ns2.websitehostserver.net.
+impacttax.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+impacttax.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
+impacttax.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
+impacttax.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 in.mw.	0	IN	NS	ns8367.hostgator.com.
 in.mw.	0	IN	NS	ns8368.hostgator.com.
 inditex.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
@@ -2353,8 +2353,6 @@ kaizenfarms.mw.	0	IN	NS	ams-ns1.websitehostserver.net.
 kaizenfarms.mw.	0	IN	NS	chi-ns1.websitehostserver.net.
 kaizenfarms.mw.	0	IN	NS	chi-ns2.websitehostserver.net.
 kaizenfarms.mw.	0	IN	NS	sgp-ns1.websitehostserver.net.
-kapitaccap.mw.	0	IN	NS	ns1.md-85.webhostbox.net.
-kapitaccap.mw.	0	IN	NS	ns2.md-85.webhostbox.net.
 karakasis.mw.	0	IN	NS	iris.ns.cloudflare.com.
 karakasis.mw.	0	IN	NS	derek.ns.cloudflare.com.
 karooooo.mw.	0	IN	NS	ns1.lexsynergy.net.
@@ -2362,8 +2360,10 @@ karooooo.mw.	0	IN	NS	ns2.lexsynergy.us.
 karooooo.mw.	0	IN	NS	ns3.lexsynergy.info.
 kasfreightmalawi.mw.	0	IN	NS	ns1.linthipe3.com.
 kasfreightmalawi.mw.	0	IN	NS	ns2.linthipe3.com.
-kasinthula.mw.	0	IN	NS	ns1.websitehostserver.net.
-kasinthula.mw.	0	IN	NS	ns2.websitehostserver.net.
+kasinthula.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+kasinthula.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
+kasinthula.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
+kasinthula.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 kaspersky.mw.	0	IN	NS	ns1.markmonitor.com.
 kaspersky.mw.	0	IN	NS	ns2.markmonitor.com.
 katawaccapchurch.mw.	0	IN	NS	dns1.namecheaphosting.com.
