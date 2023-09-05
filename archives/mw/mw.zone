@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1693865101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1693951501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -4359,8 +4359,10 @@ truckstore.mw.	0	IN	NS	ns1.corpinter.net.
 truckstore.mw.	0	IN	NS	ns2.corpinter.de.
 truckstore.mw.	0	IN	NS	ns3.corpinter.net.
 truckstore.mw.	0	IN	NS	ns4.corpinter.de.
-true.mw.	0	IN	NS	ns1.websitehostserver.net.
-true.mw.	0	IN	NS	ns2.websitehostserver.net.
+true.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+true.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
+true.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
+true.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 truniagen.mw.	0	IN	NS	ns01.trademarkarea.com.
 truniagen.mw.	0	IN	NS	ns02.trademarkarea.com.
 truniagen.mw.	0	IN	NS	ns03.trademarkarea.com.
