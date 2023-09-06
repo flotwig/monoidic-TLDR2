@@ -827,11 +827,6 @@ healthca.mp.	0	IN	NS	ns1.bluehost.com.
 healthca.mp.	0	IN	NS	ns2.bluehost.com.
 heatpu.mp.	0	IN	NS	ns1.digitalocean.com.
 heatpu.mp.	0	IN	NS	ns2.digitalocean.com.
-heffalu.mp.	0	IN	NS	b.ns.buddyns.com.
-heffalu.mp.	0	IN	NS	l.ns.buddyns.com.
-heffalu.mp.	0	IN	NS	ns1.m.ch4.science.
-heffalu.mp.	0	IN	NS	see.cdn.cx.
-heffalu.mp.	0	IN	NS	puck.nether.net.
 hellka.mp.	0	IN	NS	ed.ns.cloudflare.com.
 hellka.mp.	0	IN	NS	athena.ns.cloudflare.com.
 helper.mp.	0	IN	NS	kay.ns.cloudflare.com.
@@ -1350,10 +1345,8 @@ mysta.mp.	0	IN	NS	ns3.dnsimple.com.
 mysta.mp.	0	IN	NS	ns4.dnsimple.com.
 mysummercar.mp.	0	IN	NS	ns14.ovh.net.
 mysummercar.mp.	0	IN	NS	dns14.ovh.net.
-myvice.mp.	0	IN	NS	ns1.alexhost.md.
-myvice.mp.	0	IN	NS	ns2.alexhost.md.
-myvice.mp.	0	IN	NS	ns3.alexhost.md.
-myvice.mp.	0	IN	NS	ns4.alexhost.md.
+myvice.mp.	0	IN	NS	ns5.alexhost.md.
+myvice.mp.	0	IN	NS	ns6.alexhost.md.
 nalog.mp.	0	IN	NS	ns1.tildadns.com.
 nalog.mp.	0	IN	NS	ns2.tildadns.com.
 nanoa.mp.	0	IN	NS	maceio.ns.porkbun.com.
