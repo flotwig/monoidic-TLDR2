@@ -643,6 +643,8 @@ electropi.mp.	0	IN	NS	ns2.linode.com.
 electropi.mp.	0	IN	NS	ns3.linode.com.
 electropi.mp.	0	IN	NS	ns4.linode.com.
 electropi.mp.	0	IN	NS	ns5.linode.com.
+elysium.mp.	0	IN	NS	elle.ns.cloudflare.com.
+elysium.mp.	0	IN	NS	brett.ns.cloudflare.com.
 emeraldclub.mp.	0	IN	NS	ns1.markmonitor.com.
 emeraldclub.mp.	0	IN	NS	ns2.markmonitor.com.
 emeraldclub.mp.	0	IN	NS	ns3.markmonitor.com.
@@ -1176,6 +1178,9 @@ mason.mp.	0	IN	NS	coen.ns.cloudflare.com.
 mason.mp.	0	IN	NS	april.ns.cloudflare.com.
 mattju.mp.	0	IN	NS	david.ns.cloudflare.com.
 mattju.mp.	0	IN	NS	jocelyn.ns.cloudflare.com.
+mayurpant.mp.	0	IN	NS	ns1.dreamhost.com.
+mayurpant.mp.	0	IN	NS	ns2.dreamhost.com.
+mayurpant.mp.	0	IN	NS	ns3.dreamhost.com.
 mcsi.mp.	0	IN	NS	beth.ns.cloudflare.com.
 mcsi.mp.	0	IN	NS	dave.ns.cloudflare.com.
 meag.mp.	0	IN	NS	lisa.ns.cloudflare.com.
