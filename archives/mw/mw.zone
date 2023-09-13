@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1694556301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1694642701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -328,6 +328,8 @@ american-express.mw.	0	IN	NS	dns1.cscdns.net.
 american-express.mw.	0	IN	NS	dns2.cscdns.net.
 americanexpress.mw.	0	IN	NS	dns1.cscdns.net.
 americanexpress.mw.	0	IN	NS	dns2.cscdns.net.
+analytics.mw.	0	IN	NS	adrian.ns.cloudflare.com.
+analytics.mw.	0	IN	NS	mcgrory.ns.cloudflare.com.
 anamyla.mw.	0	IN	NS	proxy2.africa-online.net.
 anamyla.mw.	0	IN	NS	proxy3.africa-online.net.
 ant.mw.	0	IN	NS	jamie.ns.cloudflare.com.
@@ -2863,8 +2865,6 @@ midea.mw.	0	IN	NS	gtmcnc.midea.com.cn.
 midea.mw.	0	IN	NS	gtmnhct.midea.com.cn.
 midea.mw.	0	IN	NS	gtmpccw.midea.com.cn.
 midea.mw.	0	IN	NS	gtmnhcnc.midea.com.cn.
-mif.mw.	0	IN	NS	ns1.inmotionhosting.com.
-mif.mw.	0	IN	NS	ns2.inmotionhosting.com.
 mikoko.mw.	0	IN	NS	ns67.domaincontrol.com.
 mikoko.mw.	0	IN	NS	ns68.domaincontrol.com.
 mile.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
@@ -3428,8 +3428,6 @@ palku.mw.	0	IN	NS	maxdns.globemw.net.
 palku.mw.	0	IN	NS	araliya.globemw.net.
 palmconsulting.mw.	0	IN	NS	burt.ns.cloudflare.com.
 palmconsulting.mw.	0	IN	NS	love.ns.cloudflare.com.
-pamsika.mw.	0	IN	NS	ns1.linthipe3.com.
-pamsika.mw.	0	IN	NS	ns2.linthipe3.com.
 panasonic.mw.	0	IN	NS	rns1.rightsdns.com.
 panasonic.mw.	0	IN	NS	rns2.rightsdns.com.
 pawa.mw.	0	IN	NS	isla.ns.cloudflare.com.
@@ -4032,8 +4030,6 @@ sprint.mw.	0	IN	NS	reston-ns3.telemail.net.
 srwb.mw.	0	IN	NS	ns1.mtlonline.mw.
 srwb.mw.	0	IN	NS	ns2.mtlonline.mw.
 srwb.mw.	0	IN	NS	ns3.mtlonline.mw.
-ssacco.mw.	0	IN	NS	ns1.bdsmw.com.
-ssacco.mw.	0	IN	NS	ns2.bdsmw.com.
 ssbet.mw.	0	IN	NS	ns1-09.azure-dns.com.
 ssbet.mw.	0	IN	NS	ns2-09.azure-dns.net.
 ssbet.mw.	0	IN	NS	ns3-09.azure-dns.org.

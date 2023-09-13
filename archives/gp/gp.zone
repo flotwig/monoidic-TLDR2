@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023090514 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023091312 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3403,6 +3403,9 @@ moinschersdeguadeloupe.gp.	0	IN	NS	ns-165-b.gandi.net.
 moinschersdeguadeloupe.gp.	0	IN	NS	ns-210-c.gandi.net.
 moltonel.gp.	0	IN	NS	melkor.sgn.sca.se.
 moltonel.gp.	0	IN	NS	tilion.sgn.sca.se.
+moncommerce.gp.	0	IN	NS	ns1.netim.net.
+moncommerce.gp.	0	IN	NS	ns2.netim.net.
+moncommerce.gp.	0	IN	NS	ns3.netim.net.
 mondomaine.gp.	0	IN	NS	ns19.ovh.net.
 mondomaine.gp.	0	IN	NS	dns19.ovh.net.
 mondomaine-gp.gp.	0	IN	NS	dns1.cloudns.net.
