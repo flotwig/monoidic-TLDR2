@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1694729101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1694815502 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -231,6 +231,9 @@ aicpa.mw.	0	IN	NS	ns4.markmonitor.com.
 aicpa.mw.	0	IN	NS	ns5.markmonitor.com.
 aicpa.mw.	0	IN	NS	ns6.markmonitor.com.
 aicpa.mw.	0	IN	NS	ns7.markmonitor.com.
+airalo.mw.	0	IN	NS	ns01.trademarkarea.com.
+airalo.mw.	0	IN	NS	ns02.trademarkarea.com.
+airalo.mw.	0	IN	NS	ns03.trademarkarea.com.
 airbnb.mw.	0	IN	NS	ns1.markmonitor.com.
 airbnb.mw.	0	IN	NS	ns3.markmonitor.com.
 aircargo.mw.	0	IN	NS	dns1.namecheaphosting.com.

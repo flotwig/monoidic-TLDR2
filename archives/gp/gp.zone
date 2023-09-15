@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023091412 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023091517 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -268,6 +268,9 @@ aig.gp.	0	IN	NS	ns4012.mochahost.com.
 air.gp.	0	IN	NS	ns1.instradns.com.
 air.gp.	0	IN	NS	ns2.instradns.com.
 air.gp.	0	IN	NS	ns3.instradns.com.
+airalo.gp.	0	IN	NS	ns01.trademarkarea.com.
+airalo.gp.	0	IN	NS	ns02.trademarkarea.com.
+airalo.gp.	0	IN	NS	ns03.trademarkarea.com.
 aircaraibe.gp.	0	IN	NS	ns41.infomaniak.com.
 aircaraibe.gp.	0	IN	NS	ns42.infomaniak.com.
 aircaraibes.gp.	0	IN	NS	dns5.cloudns.net.
