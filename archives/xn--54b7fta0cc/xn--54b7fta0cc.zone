@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023091709 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023091809 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -19,8 +19,6 @@ xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc.	0	IN	NS	dns5.centriohost.com.
 xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc.	0	IN	NS	dns6.centriohost.com.
 xn--15brq5cbms.xn--54b7fta0cc.	0	IN	NS	ns5.eicra.net.
 xn--15brq5cbms.xn--54b7fta0cc.	0	IN	NS	ns6.eicra.net.
-xn--15bv1db.xn--54b7fta0cc.	0	IN	NS	isla.ns.cloudflare.com.
-xn--15bv1db.xn--54b7fta0cc.	0	IN	NS	jeff.ns.cloudflare.com.
 xn--15bw9a1abb.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--15bw9a1abb.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--35bnlj1b2bza0gd.xn--54b7fta0cc.	0	IN	NS	ns1.hostmight.com.
@@ -355,6 +353,8 @@ xn--b6bhbh4e8d.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--b6bi3ax.xn--54b7fta0cc.	0	IN	NS	ns1.bcc.gov.bd.
 xn--b6bkc7atm5h.xn--54b7fta0cc.	0	IN	NS	dee.ns.cloudflare.com.
 xn--b6bkc7atm5h.xn--54b7fta0cc.	0	IN	NS	moura.ns.cloudflare.com.
+xn--c5b7dta6d.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
+xn--c5b7dta6d.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
 xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
 xn--d5b2b8a1fsjma.xn--54b7fta0cc.	0	IN	NS	ns1.whitednszone.com.
