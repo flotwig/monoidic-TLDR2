@@ -1347,10 +1347,6 @@ myriad.mp.	0	IN	NS	isabel.ns.cloudflare.com.
 myriad.mp.	0	IN	NS	joaquin.ns.cloudflare.com.
 mysky.mp.	0	IN	NS	ns1.markmonitor.com.
 mysky.mp.	0	IN	NS	ns3.markmonitor.com.
-mysta.mp.	0	IN	NS	ns1.dnsimple.com.
-mysta.mp.	0	IN	NS	ns2.dnsimple.com.
-mysta.mp.	0	IN	NS	ns3.dnsimple.com.
-mysta.mp.	0	IN	NS	ns4.dnsimple.com.
 mysummercar.mp.	0	IN	NS	ns14.ovh.net.
 mysummercar.mp.	0	IN	NS	dns14.ovh.net.
 myvice.mp.	0	IN	NS	ns5.alexhost.md.
@@ -1965,6 +1961,8 @@ ups.mp.	0	IN	NS	dns1.cscdns.net.
 ups.mp.	0	IN	NS	dns2.cscdns.net.
 vandeka.mp.	0	IN	NS	ns1.siteground.net.
 vandeka.mp.	0	IN	NS	ns2.siteground.net.
+vanilla.mp.	0	IN	NS	elsa.ns.cloudflare.com.
+vanilla.mp.	0	IN	NS	joel.ns.cloudflare.com.
 vatech.mp.	0	IN	NS	dns1.namecheaphosting.com.
 vatech.mp.	0	IN	NS	dns2.namecheaphosting.com.
 vc-rp.mp.	0	IN	NS	ns1.shockhosting.net.
