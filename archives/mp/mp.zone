@@ -506,10 +506,8 @@ contentsquare.mp.	0	IN	NS	ns3.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns4.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns5.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns6.markmonitor.com.
-converge.mp.	0	IN	NS	ns-204.awsdns-25.com.
-converge.mp.	0	IN	NS	ns-652.awsdns-17.net.
-converge.mp.	0	IN	NS	ns-1396.awsdns-46.org.
-converge.mp.	0	IN	NS	ns-1697.awsdns-20.co.uk.
+converge.mp.	0	IN	NS	samara.ns.cloudflare.com.
+converge.mp.	0	IN	NS	patrick.ns.cloudflare.com.
 coredu.mp.	0	IN	NS	lynn.ns.cloudflare.com.
 coredu.mp.	0	IN	NS	amanda.ns.cloudflare.com.
 corona.mp.	0	IN	NS	ns1.101domain.com.
@@ -1942,6 +1940,8 @@ unblock.mp.	0	IN	NS	edns3.ultradns.biz.
 unblock.mp.	0	IN	NS	edns3.ultradns.com.
 unblock.mp.	0	IN	NS	edns3.ultradns.net.
 unblock.mp.	0	IN	NS	edns3.ultradns.org.
+undu.mp.	0	IN	NS	ns1.sparkedhost.us.
+undu.mp.	0	IN	NS	ns2.sparkedhost.us.
 unicreditcha.mp.	0	IN	NS	a1-65.akam.net.
 unicreditcha.mp.	0	IN	NS	a11-66.akam.net.
 unieuro.mp.	0	IN	NS	ns1.register.it.
