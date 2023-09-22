@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695333901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695420301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1503,6 +1503,8 @@ expediatravel.mw.	0	IN	NS	dns1.cscdns.net.
 expediatravel.mw.	0	IN	NS	dns2.cscdns.net.
 expediatravels.mw.	0	IN	NS	dns1.cscdns.net.
 expediatravels.mw.	0	IN	NS	dns2.cscdns.net.
+expedite.mw.	0	IN	NS	ns1.freehosting.com.
+expedite.mw.	0	IN	NS	ns2.freehosting.com.
 experts.mw.	0	IN	NS	ns1.instradns.com.
 experts.mw.	0	IN	NS	ns2.instradns.com.
 expo.mw.	0	IN	NS	ns1.101domain.com.
@@ -3457,6 +3459,8 @@ pcb.mw.	0	IN	NS	nyala.sdnp.org.mw.
 peterstuyvesant.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
 peterstuyvesant.mw.	0	IN	NS	nssui.comlaude.ch.
 peterstuyvesant.mw.	0	IN	NS	nsusa.comlaude.net.
+petroenergies.mw.	0	IN	NS	proxy2.africa-online.net.
+petroenergies.mw.	0	IN	NS	proxy3.africa-online.net.
 pfi.mw.	0	IN	NS	domwe.sdn.mw.
 pfi.mw.	0	IN	NS	nyala.sdnp.org.mw.
 pg.mw.	0	IN	NS	ns1.gcorelabs.net.
@@ -3870,6 +3874,8 @@ seb.mw.	0	IN	NS	ns1.seb.se.
 seb.mw.	0	IN	NS	ns2.sebgroup.com.
 seb.mw.	0	IN	NS	pdns1.cscdns.net.
 seb.mw.	0	IN	NS	pdns2.cscdns.net.
+secom.mw.	0	IN	NS	ns03.domaincontrol.com.
+secom.mw.	0	IN	NS	ns04.domaincontrol.com.
 select.mw.	0	IN	NS	ns6229.hostgator.com.
 select.mw.	0	IN	NS	ns6230.hostgator.com.
 selectafrica.mw.	0	IN	NS	ns1-01.azure-dns.com.
