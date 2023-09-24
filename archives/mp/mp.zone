@@ -506,10 +506,8 @@ contentsquare.mp.	0	IN	NS	ns3.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns4.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns5.markmonitor.com.
 contentsquare.mp.	0	IN	NS	ns6.markmonitor.com.
-converge.mp.	0	IN	NS	ns-204.awsdns-25.com.
-converge.mp.	0	IN	NS	ns-652.awsdns-17.net.
-converge.mp.	0	IN	NS	ns-1396.awsdns-46.org.
-converge.mp.	0	IN	NS	ns-1697.awsdns-20.co.uk.
+converge.mp.	0	IN	NS	samara.ns.cloudflare.com.
+converge.mp.	0	IN	NS	patrick.ns.cloudflare.com.
 coredu.mp.	0	IN	NS	lynn.ns.cloudflare.com.
 coredu.mp.	0	IN	NS	amanda.ns.cloudflare.com.
 corona.mp.	0	IN	NS	ns1.101domain.com.
@@ -1552,8 +1550,6 @@ philipmorris.mp.	0	IN	NS	dns31.register.com.
 philipmorris.mp.	0	IN	NS	dns32.register.com.
 pizzaexpress.mp.	0	IN	NS	ns1.netnames.net.
 pizzaexpress.mp.	0	IN	NS	ns2.netnames.net.
-plantronics.mp.	0	IN	NS	dns1.cscdns.net.
-plantronics.mp.	0	IN	NS	dns2.cscdns.net.
 playv.mp.	0	IN	NS	nero.ns.cloudflare.com.
 playv.mp.	0	IN	NS	marge.ns.cloudflare.com.
 plcy.mp.	0	IN	NS	ns-177.awsdns-22.com.
