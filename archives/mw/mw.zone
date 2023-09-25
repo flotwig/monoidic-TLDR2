@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695593101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695679502 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2097,10 +2097,10 @@ id.mw.	0	IN	NS	ns-141.awsdns-17.com.
 id.mw.	0	IN	NS	ns-892.awsdns-47.net.
 id.mw.	0	IN	NS	ns-1121.awsdns-12.org.
 id.mw.	0	IN	NS	ns-1599.awsdns-07.co.uk.
-idarp.mw.	0	IN	NS	ns-cloud-a1.googledomains.com.
-idarp.mw.	0	IN	NS	ns-cloud-a2.googledomains.com.
-idarp.mw.	0	IN	NS	ns-cloud-a3.googledomains.com.
-idarp.mw.	0	IN	NS	ns-cloud-a4.googledomains.com.
+idarp.mw.	0	IN	NS	ns-cloud-d1.googledomains.com.
+idarp.mw.	0	IN	NS	ns-cloud-d2.googledomains.com.
+idarp.mw.	0	IN	NS	ns-cloud-d3.googledomains.com.
+idarp.mw.	0	IN	NS	ns-cloud-d4.googledomains.com.
 idias.mw.	0	IN	NS	ns8075.hostgator.com.
 idias.mw.	0	IN	NS	ns8076.hostgator.com.
 idservice.mw.	0	IN	NS	ns1.markmonitor.com.
@@ -4188,8 +4188,6 @@ techplussolutions.mw.	0	IN	NS	a.cheerstolife.net.
 techplussolutions.mw.	0	IN	NS	b.cheerstolife.net.
 telestationers.mw.	0	IN	NS	proxy2.africa-online.net.
 telestationers.mw.	0	IN	NS	proxy3.africa-online.net.
-temalex.mw.	0	IN	NS	maxdns.globemw.net.
-temalex.mw.	0	IN	NS	araliya.globemw.net.
 tena.mw.	0	IN	NS	melkor.ngninfra.net.
 tena.mw.	0	IN	NS	tilion.ngninfra.net.
 teradata.mw.	0	IN	NS	ns-359.awsdns-44.com.

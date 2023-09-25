@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023092015 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023092519 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2109,6 +2109,8 @@ goldpassport.gp.	0	IN	NS	ns1.brandsight-dns.com.
 goldpassport.gp.	0	IN	NS	ns1.brandsight-dns.net.
 goldpassport.gp.	0	IN	NS	ns2.brandsight-dns.com.
 goldpassport.gp.	0	IN	NS	ns2.brandsight-dns.net.
+gong.gp.	0	IN	NS	dns1.cloudns.net.
+gong.gp.	0	IN	NS	dns2.cloudns.net.
 google.gp.	0	IN	NS	ns1.google.com.
 google.gp.	0	IN	NS	ns2.google.com.
 google.gp.	0	IN	NS	ns3.google.com.
