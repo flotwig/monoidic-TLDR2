@@ -422,6 +422,8 @@ carefree.mp.	0	IN	NS	dns3.p01.nsone.net.
 carefree.mp.	0	IN	NS	dns4.p01.nsone.net.
 carefree.mp.	0	IN	NS	ns01.kenvuedns.com.
 carefree.mp.	0	IN	NS	ns02.kenvuedns.com.
+casarte.mp.	0	IN	NS	ns1.brandcloudns.com.
+casarte.mp.	0	IN	NS	ns2.brandcloudns.com.
 caseworker.mp.	0	IN	NS	ns-cloud-d1.googledomains.com.
 caseworker.mp.	0	IN	NS	ns-cloud-d2.googledomains.com.
 caseworker.mp.	0	IN	NS	ns-cloud-d3.googledomains.com.
@@ -666,8 +668,6 @@ ericsson.mp.	0	IN	NS	ns2.ericsson.se.
 esim.mp.	0	IN	NS	ns01.trademarkarea.com.
 esim.mp.	0	IN	NS	ns02.trademarkarea.com.
 esim.mp.	0	IN	NS	ns03.trademarkarea.com.
-esports.mp.	0	IN	NS	ns1.uniregistrymarket.link.
-esports.mp.	0	IN	NS	ns2.uniregistrymarket.link.
 esportscores.mp.	0	IN	NS	ns1.101domain.com.
 esportscores.mp.	0	IN	NS	ns2.101domain.com.
 esportscores.mp.	0	IN	NS	ns5.101domain.com.
@@ -814,6 +814,8 @@ hacks.mp.	0	IN	NS	ns-1717.awsdns-22.co.uk.
 haferka.mp.	0	IN	NS	ns01.trademarkarea.com.
 haferka.mp.	0	IN	NS	ns02.trademarkarea.com.
 haferka.mp.	0	IN	NS	ns03.trademarkarea.com.
+haier.mp.	0	IN	NS	ns1.brandcloudns.com.
+haier.mp.	0	IN	NS	ns2.brandcloudns.com.
 harrypotter.mp.	0	IN	NS	ns1-b1.warnerbros.com.
 harrypotter.mp.	0	IN	NS	ns2-b1.warnerbros.com.
 harrypotter.mp.	0	IN	NS	ns3-b1.warnerbros.com.
@@ -1131,6 +1133,8 @@ liberty.mp.	0	IN	NS	darwin.ns.cloudflare.com.
 lifescan.mp.	0	IN	NS	ns1.jnj.com.
 lifescan.mp.	0	IN	NS	ns3.jnj.com.
 lifescan.mp.	0	IN	NS	ns5.jnj.com.
+limitless.mp.	0	IN	NS	ns6.extravm.org.
+limitless.mp.	0	IN	NS	ns7.extravm.org.
 linkju.mp.	0	IN	NS	elmo.ns.cloudflare.com.
 linkju.mp.	0	IN	NS	rihana.ns.cloudflare.com.
 listerine.mp.	0	IN	NS	dns1.p01.nsone.net.
