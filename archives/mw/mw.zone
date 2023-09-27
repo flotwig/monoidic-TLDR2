@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695765901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1695852301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -27,8 +27,6 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 14trees.mw.	0	IN	NS	ns02ch.holcim.com.
 188bet.mw.	0	IN	NS	ns1.instradns.com.
 188bet.mw.	0	IN	NS	ns2.instradns.com.
-1963.mw.	0	IN	NS	konnor.ns.cloudflare.com.
-1963.mw.	0	IN	NS	anastasia.ns.cloudflare.com.
 1st.mw.	0	IN	NS	ns1.bb-online.net.
 1st.mw.	0	IN	NS	ns2.bb-online.org.
 1st.mw.	0	IN	NS	ns3.bb-online.info.
@@ -764,8 +762,10 @@ brainytechnologies.mw.	0	IN	NS	ns1.dns-parking.com.
 brainytechnologies.mw.	0	IN	NS	ns2.dns-parking.com.
 brandsafrica.mw.	0	IN	NS	proxy2.africa-online.net.
 brandsafrica.mw.	0	IN	NS	proxy3.africa-online.net.
-bridgestone.mw.	0	IN	NS	rns1.rightsdns.com.
-bridgestone.mw.	0	IN	NS	rns2.rightsdns.com.
+bridgestone.mw.	0	IN	NS	ns-174.awsdns-21.com.
+bridgestone.mw.	0	IN	NS	ns-519.awsdns-00.net.
+bridgestone.mw.	0	IN	NS	ns-1073.awsdns-06.org.
+bridgestone.mw.	0	IN	NS	ns-1719.awsdns-22.co.uk.
 bridgestone-firestone.mw.	0	IN	NS	rns1.rightsdns.com.
 bridgestone-firestone.mw.	0	IN	NS	rns2.rightsdns.com.
 britishcouncil.mw.	0	IN	NS	udns1.cscdns.net.
@@ -2717,8 +2717,6 @@ marriott.mw.	0	IN	NS	ns-cloud-b3.googledomains.com.
 marriott.mw.	0	IN	NS	ns-cloud-b4.googledomains.com.
 marymount.mw.	0	IN	NS	pdns07.domaincontrol.com.
 marymount.mw.	0	IN	NS	pdns08.domaincontrol.com.
-masdap.mw.	0	IN	NS	domwe.sdn.mw.
-masdap.mw.	0	IN	NS	nyala.sdnp.org.mw.
 masm.mw.	0	IN	NS	ns1.bdsmw.com.
 masm.mw.	0	IN	NS	ns2.bdsmw.com.
 masm.mw.	0	IN	NS	ns3.bdsmw.com.
