@@ -497,8 +497,8 @@ columbiatristar.mp.	0	IN	NS	pdns71.ultradns.com.
 columbiatristar.mp.	0	IN	NS	pdns71.ultradns.net.
 columbiatristar.mp.	0	IN	NS	pdns71.ultradns.org.
 columbiatristar.mp.	0	IN	NS	pdns71.ultradns.info.
-com.mp.	0	IN	NS	eileen.dnspod.net.
-com.mp.	0	IN	NS	present.dnspod.net.
+com.mp.	0	IN	NS	dawn.ns.cloudflare.com.
+com.mp.	0	IN	NS	gabriel.ns.cloudflare.com.
 companyregister.mp.	0	IN	NS	ns1.wwdh.hu.
 companyregister.mp.	0	IN	NS	ns2.wwdh.hu.
 companyregister.mp.	0	IN	NS	ns3.wwdh.hu.
@@ -1156,6 +1156,8 @@ loli.mp.	0	IN	NS	ns1.huaweicloud-dns.cn.
 loli.mp.	0	IN	NS	ns1.huaweicloud-dns.com.
 loli.mp.	0	IN	NS	ns1.huaweicloud-dns.net.
 loli.mp.	0	IN	NS	ns1.huaweicloud-dns.org.
+m.mp.	0	IN	NS	bonnie.ns.cloudflare.com.
+m.mp.	0	IN	NS	elliott.ns.cloudflare.com.
 m3ga.mp.	0	IN	NS	ns1.regery.net.
 m3ga.mp.	0	IN	NS	ns2.regery.net.
 m3ga.mp.	0	IN	NS	ns3.regery.net.
@@ -1671,8 +1673,13 @@ rvge.mp.	0	IN	NS	noel.ns.cloudflare.com.
 rvge.mp.	0	IN	NS	naomi.ns.cloudflare.com.
 ryse.mp.	0	IN	NS	dale.ns.cloudflare.com.
 ryse.mp.	0	IN	NS	dora.ns.cloudflare.com.
+sa-mp.mp.	0	IN	NS	ns01.trademarkarea.com.
+sa-mp.mp.	0	IN	NS	ns02.trademarkarea.com.
+sa-mp.mp.	0	IN	NS	ns03.trademarkarea.com.
 saesrpg.mp.	0	IN	NS	jay.ns.cloudflare.com.
 saesrpg.mp.	0	IN	NS	rosa.ns.cloudflare.com.
+sagl.mp.	0	IN	NS	jamie.ns.cloudflare.com.
+sagl.mp.	0	IN	NS	hasslo.ns.cloudflare.com.
 saipan.mp.	0	IN	NS	ns1.siteground.net.
 saipan.mp.	0	IN	NS	ns2.siteground.net.
 salesforce.mp.	0	IN	NS	dns01.salesforce.com.
@@ -1683,6 +1690,9 @@ salesforce.mp.	0	IN	NS	dns05.salesforce.com.
 salesforce.mp.	0	IN	NS	dns06.salesforce.com.
 salonpas.mp.	0	IN	NS	rns1.rightsdns.com.
 salonpas.mp.	0	IN	NS	rns2.rightsdns.com.
+samp.mp.	0	IN	NS	ns01.trademarkarea.com.
+samp.mp.	0	IN	NS	ns02.trademarkarea.com.
+samp.mp.	0	IN	NS	ns03.trademarkarea.com.
 santos.mp.	0	IN	NS	margo.ns.cloudflare.com.
 santos.mp.	0	IN	NS	melinda.ns.cloudflare.com.
 sc.mp.	0	IN	NS	janet.ns.cloudflare.com.

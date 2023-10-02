@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023093020 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100222 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -7,6 +7,9 @@ gp.	0	IN	NS	ns-gp.nic.fr.
 gp.	0	IN	MX	10 ns1.nic.gp.
 0.gp.	0	IN	NS	ns3.kv.de.
 0.gp.	0	IN	NS	ns4.kv.de.
+00.gp.	0	IN	NS	pns41.cloudns.net.
+00.gp.	0	IN	NS	pns42.cloudns.net.
+00.gp.	0	IN	NS	pns43.cloudns.net.
 01net.gp.	0	IN	NS	a.ns.mailclub.fr.
 01net.gp.	0	IN	NS	b.ns.mailclub.eu.
 01net.gp.	0	IN	NS	c.ns.mailclub.com.
@@ -364,9 +367,7 @@ amazonvideo.gp.	0	IN	NS	ns4.markmonitor.com.
 amazonvideo.gp.	0	IN	NS	ns5.markmonitor.com.
 americamovil.gp.	0	IN	NS	dns01.amigokit.com.
 americamovil.gp.	0	IN	NS	dns1i.itelcel.com.
-amiimmobilier.gp.	0	IN	NS	ns1.francedns.com.
 amiimmobilier.gp.	0	IN	NS	ns2.francedns.com.
-amiimmobilier.gp.	0	IN	NS	ns3.francedns.com.
 anasa.gp.	0	IN	NS	ns1.digitalocean.com.
 anasa.gp.	0	IN	NS	ns2.digitalocean.com.
 angelsoft.gp.	0	IN	NS	dns1.cscdns.net.
@@ -701,8 +702,6 @@ bienvenue-en-guadeloupe.gp.	0	IN	NS	dns1.cloudns.net.
 bienvenue-en-guadeloupe.gp.	0	IN	NS	dns2.cloudns.net.
 bigmat.gp.	0	IN	NS	ns4.ikoula.com.
 bigmat.gp.	0	IN	NS	ns5.ikoula.com.
-bio.gp.	0	IN	NS	ns1.ikoula.fr.
-bio.gp.	0	IN	NS	ns2.ikoula.fr.
 bioderma.gp.	0	IN	NS	nsa.perf1.fr.
 bioderma.gp.	0	IN	NS	nsb.perf1.com.
 bioderma.gp.	0	IN	NS	nsc.perf1.com.
@@ -2235,9 +2234,6 @@ guadeloupehydrogene.gp.	0	IN	NS	ns3.netim.net.
 guadeloupepourlemploi.gp.	0	IN	NS	ns-1-a.gandi.net.
 guadeloupepourlemploi.gp.	0	IN	NS	ns-67-c.gandi.net.
 guadeloupepourlemploi.gp.	0	IN	NS	ns-151-b.gandi.net.
-guadeloupetlc.gp.	0	IN	NS	ns1.francedns.com.
-guadeloupetlc.gp.	0	IN	NS	ns2.francedns.com.
-guadeloupetlc.gp.	0	IN	NS	ns3.francedns.com.
 gucci.gp.	0	IN	NS	dns1.comlaude-dns.com.
 gucci.gp.	0	IN	NS	dns2.comlaude-dns.net.
 guccivault.gp.	0	IN	NS	dns1.comlaude-dns.com.
@@ -2733,8 +2729,6 @@ kiabi.gp.	0	IN	NS	ns-cloud-b3.googledomains.com.
 kiabi.gp.	0	IN	NS	ns-cloud-b4.googledomains.com.
 kideez.gp.	0	IN	NS	melkor.sgn.sca.se.
 kideez.gp.	0	IN	NS	tilion.sgn.sca.se.
-kienzle.gp.	0	IN	NS	srv10.k-itx.net.
-kienzle.gp.	0	IN	NS	srv11.k-itx.net.
 kikocosmetics.gp.	0	IN	NS	ns1.brandshelter.com.
 kikocosmetics.gp.	0	IN	NS	ns2.brandshelter.de.
 kikocosmetics.gp.	0	IN	NS	ns3.brandshelter.info.
@@ -3377,8 +3371,10 @@ miele.gp.	0	IN	NS	ns7.markmonitor.com.
 milimalis.gp.	0	IN	NS	ns-187-a.gandi.net.
 milimalis.gp.	0	IN	NS	ns-197-b.gandi.net.
 milimalis.gp.	0	IN	NS	ns-198-c.gandi.net.
-mindtraining.gp.	0	IN	NS	ns31.infomaniak.com.
-mindtraining.gp.	0	IN	NS	ns32.infomaniak.com.
+mindtraining.gp.	0	IN	NS	ns1.supercp.com.
+mindtraining.gp.	0	IN	NS	ns2.supercp.com.
+mindtraining.gp.	0	IN	NS	ns3.supercp.com.
+mindtraining.gp.	0	IN	NS	ns4.supercp.com.
 minecraft.gp.	0	IN	NS	ns1.g-portal.com.
 minecraft.gp.	0	IN	NS	ns2.g-portal.com.
 minelli.gp.	0	IN	NS	a.ns.mailclub.fr.
@@ -3868,8 +3864,6 @@ osca.gp.	0	IN	NS	ns2.francedns.com.
 osca.gp.	0	IN	NS	ns3.francedns.com.
 ose.gp.	0	IN	NS	ns103.ovh.net.
 ose.gp.	0	IN	NS	dns103.ovh.net.
-osram.gp.	0	IN	NS	dns1.cscdns.net.
-osram.gp.	0	IN	NS	dns2.cscdns.net.
 osteopathe.gp.	0	IN	NS	ns105.ovh.net.
 osteopathe.gp.	0	IN	NS	dns105.ovh.net.
 p.gp.	0	IN	NS	ns1.website.org.
@@ -4269,6 +4263,8 @@ rencontres.gp.	0	IN	NS	ns1.dating.sexy.
 rencontres.gp.	0	IN	NS	ns2.dating.sexy.
 renee.gp.	0	IN	NS	ns19.ovh.net.
 renee.gp.	0	IN	NS	dns19.ovh.net.
+renovationtoiture.gp.	0	IN	NS	dns1.cloudns.net.
+renovationtoiture.gp.	0	IN	NS	dns2.cloudns.net.
 rental-car.gp.	0	IN	NS	ns1.markmonitor.com.
 rental-car.gp.	0	IN	NS	ns3.markmonitor.com.
 rental-car.gp.	0	IN	NS	ns4.markmonitor.com.
@@ -4640,6 +4636,9 @@ smarthome.gp.	0	IN	NS	ns2.netim.net.
 smarthome.gp.	0	IN	NS	ns3.netim.net.
 smartone.gp.	0	IN	NS	melkor.sgn.sca.se.
 smartone.gp.	0	IN	NS	tilion.sgn.sca.se.
+smartphoneservices.gp.	0	IN	NS	ns1.netim.net.
+smartphoneservices.gp.	0	IN	NS	ns2.netim.net.
+smartphoneservices.gp.	0	IN	NS	ns3.netim.net.
 smarttop.gp.	0	IN	NS	dns1.cscdns.net.
 smarttop.gp.	0	IN	NS	dns2.cscdns.net.
 smarttoplid.gp.	0	IN	NS	dns1.cscdns.net.
@@ -4695,9 +4694,6 @@ sp.gp.	0	IN	NS	ns11.ovh.net.
 sp.gp.	0	IN	NS	dns11.ovh.net.
 sparkle.gp.	0	IN	NS	dns1.cscdns.net.
 sparkle.gp.	0	IN	NS	dns2.cscdns.net.
-spb.gp.	0	IN	NS	ns-62-b.gandi.net.
-spb.gp.	0	IN	NS	ns-76-a.gandi.net.
-spb.gp.	0	IN	NS	ns-81-c.gandi.net.
 specialistebio.gp.	0	IN	NS	ns1.francedns.com.
 specialistebio.gp.	0	IN	NS	ns2.francedns.com.
 specialistebio.gp.	0	IN	NS	ns3.francedns.com.
@@ -5024,10 +5020,6 @@ transitech.gp.	0	IN	NS	ns1045.ui-dns.com.
 transitech.gp.	0	IN	NS	ns1045.ui-dns.org.
 translogdata.gp.	0	IN	NS	ns104.ovh.net.
 translogdata.gp.	0	IN	NS	dns104.ovh.net.
-travaux.gp.	0	IN	NS	ns1045.ui-dns.de.
-travaux.gp.	0	IN	NS	ns1045.ui-dns.biz.
-travaux.gp.	0	IN	NS	ns1045.ui-dns.com.
-travaux.gp.	0	IN	NS	ns1045.ui-dns.org.
 tremplinpourlemploi.gp.	0	IN	NS	ns-10-a.gandi.net.
 tremplinpourlemploi.gp.	0	IN	NS	ns-73-c.gandi.net.
 tremplinpourlemploi.gp.	0	IN	NS	ns-164-b.gandi.net.
@@ -5040,10 +5032,6 @@ trilogik.gp.	0	IN	NS	ns1.ikoula.fr.
 trilogik.gp.	0	IN	NS	ns2.ikoula.fr.
 trinitas.gp.	0	IN	NS	ns61.1and1.fr.
 trinitas.gp.	0	IN	NS	ns62.1and1.fr.
-tropicalsoft.gp.	0	IN	NS	ns31.cloudns.net.
-tropicalsoft.gp.	0	IN	NS	ns32.cloudns.net.
-tropicalsoft.gp.	0	IN	NS	ns33.cloudns.net.
-tropicalsoft.gp.	0	IN	NS	ns34.cloudns.net.
 tropixa.gp.	0	IN	NS	ns101.ovh.net.
 tropixa.gp.	0	IN	NS	dns101.ovh.net.
 troweprice.gp.	0	IN	NS	edns1.ultradns.biz.
