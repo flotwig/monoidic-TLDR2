@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100222 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100321 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2485,11 +2485,10 @@ informatique.gp.	0	IN	NS	ns1.ikoula.fr.
 informatique.gp.	0	IN	NS	ns2.ikoula.fr.
 infos.gp.	0	IN	NS	ns1.ikoula.fr.
 infos.gp.	0	IN	NS	ns2.ikoula.fr.
-initial.gp.	0	IN	NS	ns1.markmonitor.com.
-initial.gp.	0	IN	NS	ns2.markmonitor.com.
-initial.gp.	0	IN	NS	ns3.markmonitor.com.
-initial.gp.	0	IN	NS	ns4.markmonitor.com.
-initial.gp.	0	IN	NS	ns5.markmonitor.com.
+initial.gp.	0	IN	NS	dns1.comlaude-dns.com.
+initial.gp.	0	IN	NS	dns2.comlaude-dns.net.
+initial.gp.	0	IN	NS	dns3.comlaude-dns.co.uk.
+initial.gp.	0	IN	NS	dns4.comlaude-dns.eu.
 initiativesfrancevictimes.gp.	0	IN	NS	ns104.ovh.net.
 initiativesfrancevictimes.gp.	0	IN	NS	dns104.ovh.net.
 inova.gp.	0	IN	NS	ns1.gandi.net.
@@ -4263,8 +4262,8 @@ rencontres.gp.	0	IN	NS	ns1.dating.sexy.
 rencontres.gp.	0	IN	NS	ns2.dating.sexy.
 renee.gp.	0	IN	NS	ns19.ovh.net.
 renee.gp.	0	IN	NS	dns19.ovh.net.
-renovationtoiture.gp.	0	IN	NS	dns1.cloudns.net.
-renovationtoiture.gp.	0	IN	NS	dns2.cloudns.net.
+renovationtoiture.gp.	0	IN	NS	dns1.namecheaphosting.com.
+renovationtoiture.gp.	0	IN	NS	dns2.namecheaphosting.com.
 rental-car.gp.	0	IN	NS	ns1.markmonitor.com.
 rental-car.gp.	0	IN	NS	ns3.markmonitor.com.
 rental-car.gp.	0	IN	NS	ns4.markmonitor.com.
@@ -4285,16 +4284,14 @@ rentalcars.gp.	0	IN	NS	ns3.markmonitor.com.
 rentalcars.gp.	0	IN	NS	ns4.markmonitor.com.
 rentalcars.gp.	0	IN	NS	ns5.markmonitor.com.
 rentalcars.gp.	0	IN	NS	ns6.markmonitor.com.
-rentokil.gp.	0	IN	NS	ns1.markmonitor.com.
-rentokil.gp.	0	IN	NS	ns2.markmonitor.com.
-rentokil.gp.	0	IN	NS	ns3.markmonitor.com.
-rentokil.gp.	0	IN	NS	ns4.markmonitor.com.
-rentokil.gp.	0	IN	NS	ns5.markmonitor.com.
-rentokil-initial.gp.	0	IN	NS	ns1.markmonitor.com.
-rentokil-initial.gp.	0	IN	NS	ns2.markmonitor.com.
-rentokil-initial.gp.	0	IN	NS	ns3.markmonitor.com.
-rentokil-initial.gp.	0	IN	NS	ns4.markmonitor.com.
-rentokil-initial.gp.	0	IN	NS	ns5.markmonitor.com.
+rentokil.gp.	0	IN	NS	dns1.comlaude-dns.com.
+rentokil.gp.	0	IN	NS	dns2.comlaude-dns.net.
+rentokil.gp.	0	IN	NS	dns3.comlaude-dns.co.uk.
+rentokil.gp.	0	IN	NS	dns4.comlaude-dns.eu.
+rentokil-initial.gp.	0	IN	NS	dns1.comlaude-dns.com.
+rentokil-initial.gp.	0	IN	NS	dns2.comlaude-dns.net.
+rentokil-initial.gp.	0	IN	NS	dns3.comlaude-dns.co.uk.
+rentokil-initial.gp.	0	IN	NS	dns4.comlaude-dns.eu.
 rentokilinitial.gp.	0	IN	NS	dns1.comlaude-dns.com.
 rentokilinitial.gp.	0	IN	NS	dns2.comlaude-dns.net.
 rentokilinitial.gp.	0	IN	NS	dns3.comlaude-dns.co.uk.
@@ -4636,6 +4633,8 @@ smarthome.gp.	0	IN	NS	ns2.netim.net.
 smarthome.gp.	0	IN	NS	ns3.netim.net.
 smartone.gp.	0	IN	NS	melkor.sgn.sca.se.
 smartone.gp.	0	IN	NS	tilion.sgn.sca.se.
+smartphone.gp.	0	IN	NS	dns1.cloudns.net.
+smartphone.gp.	0	IN	NS	dns2.cloudns.net.
 smartphoneservices.gp.	0	IN	NS	ns1.netim.net.
 smartphoneservices.gp.	0	IN	NS	ns2.netim.net.
 smartphoneservices.gp.	0	IN	NS	ns3.netim.net.
@@ -4694,6 +4693,9 @@ sp.gp.	0	IN	NS	ns11.ovh.net.
 sp.gp.	0	IN	NS	dns11.ovh.net.
 sparkle.gp.	0	IN	NS	dns1.cscdns.net.
 sparkle.gp.	0	IN	NS	dns2.cscdns.net.
+spb.gp.	0	IN	NS	ns-62-b.gandi.net.
+spb.gp.	0	IN	NS	ns-76-a.gandi.net.
+spb.gp.	0	IN	NS	ns-81-c.gandi.net.
 specialistebio.gp.	0	IN	NS	ns1.francedns.com.
 specialistebio.gp.	0	IN	NS	ns2.francedns.com.
 specialistebio.gp.	0	IN	NS	ns3.francedns.com.
