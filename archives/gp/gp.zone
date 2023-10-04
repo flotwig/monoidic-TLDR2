@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100321 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100416 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -402,8 +402,8 @@ arcgis.gp.	0	IN	NS	ns4.markmonitor.com.
 arcgis.gp.	0	IN	NS	ns5.markmonitor.com.
 arch.gp.	0	IN	NS	freedns1.registrar-servers.com.
 arch.gp.	0	IN	NS	freedns2.registrar-servers.com.
-arista.gp.	0	IN	NS	ns1.101domain.com.
-arista.gp.	0	IN	NS	ns2.101domain.com.
+arista.gp.	0	IN	NS	piers.ns.cloudflare.com.
+arista.gp.	0	IN	NS	eleanor.ns.cloudflare.com.
 aristanetworks.gp.	0	IN	NS	ns1.101domain.com.
 aristanetworks.gp.	0	IN	NS	ns2.101domain.com.
 arkeaonlife.gp.	0	IN	NS	ns1.arkea.com.
@@ -4633,11 +4633,10 @@ smarthome.gp.	0	IN	NS	ns2.netim.net.
 smarthome.gp.	0	IN	NS	ns3.netim.net.
 smartone.gp.	0	IN	NS	melkor.sgn.sca.se.
 smartone.gp.	0	IN	NS	tilion.sgn.sca.se.
-smartphone.gp.	0	IN	NS	dns1.cloudns.net.
-smartphone.gp.	0	IN	NS	dns2.cloudns.net.
-smartphoneservices.gp.	0	IN	NS	ns1.netim.net.
-smartphoneservices.gp.	0	IN	NS	ns2.netim.net.
-smartphoneservices.gp.	0	IN	NS	ns3.netim.net.
+smartphone.gp.	0	IN	NS	dns1.namecheaphosting.com.
+smartphone.gp.	0	IN	NS	dns2.namecheaphosting.com.
+smartphoneservices.gp.	0	IN	NS	dns1.namecheaphosting.com.
+smartphoneservices.gp.	0	IN	NS	dns2.namecheaphosting.com.
 smarttop.gp.	0	IN	NS	dns1.cscdns.net.
 smarttop.gp.	0	IN	NS	dns2.cscdns.net.
 smarttoplid.gp.	0	IN	NS	dns1.cscdns.net.

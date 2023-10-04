@@ -1,11 +1,11 @@
-xn--ygbi2ammx.	0	IN	SOA	ns1.pnina.ps. radwanm.pnina.ps. 2023100316 86400 7200 3600000 172800
+xn--ygbi2ammx.	0	IN	SOA	ns1.pnina.ps. radwanm.pnina.ps. 2023100414 86400 7200 3600000 172800
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ote.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	dns1.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
-xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1696341702"
+xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1696420914"
 059.xn--ygbi2ammx.	0	IN	NS	ns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	dns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	gns.paltel.net.
@@ -238,6 +238,9 @@ xn--mgb0dcdyb.xn--ygbi2ammx.	0	IN	NS	gns.paltel.net.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns.nokia.com.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns2.nokia.com.
 xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns3.nokia.com.
+xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns4.nokia.com.
+xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns5.nokia.com.
+xn--mgb9ciil.xn--ygbi2ammx.	0	IN	NS	ns6.nokia.com.
 xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns1.parkingcrew.net.
 xn--mgba0d6bu.xn--ygbi2ammx.	0	IN	NS	ns2.parkingcrew.net.
 xn--mgba4ad6fabi6adew.xn--ygbi2ammx.	0	IN	NS	dns1.cscdns.net.
