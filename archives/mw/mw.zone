@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1696802701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1696889101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -578,6 +578,9 @@ bershka.mw.	0	IN	NS	nssui.comlaude.ch.
 bershka.mw.	0	IN	NS	nsusa.comlaude.net.
 bet365.mw.	0	IN	NS	ns1.markmonitor.com.
 bet365.mw.	0	IN	NS	ns3.markmonitor.com.
+bet4.mw.	0	IN	NS	ns01.trademarkarea.com.
+bet4.mw.	0	IN	NS	ns02.trademarkarea.com.
+bet4.mw.	0	IN	NS	ns03.trademarkarea.com.
 betani.mw.	0	IN	NS	ns1.101domain.com.
 betani.mw.	0	IN	NS	ns2.101domain.com.
 betfox.mw.	0	IN	NS	ns01.trademarkarea.com.
@@ -1116,8 +1119,6 @@ cowi.mw.	0	IN	NS	ns1.eurodns.com.
 cowi.mw.	0	IN	NS	ns2.eurodns.com.
 cowi.mw.	0	IN	NS	ns3.eurodns.com.
 cowi.mw.	0	IN	NS	ns4.eurodns.com.
-cpp.mw.	0	IN	NS	cdns1.main-hosting.eu.
-cpp.mw.	0	IN	NS	cdns2.main-hosting.eu.
 cprds.mw.	0	IN	NS	ns8225.hostgator.com.
 cprds.mw.	0	IN	NS	ns8226.hostgator.com.
 cra.mw.	0	IN	NS	ns1.inpro5.fcomet.com.
@@ -1335,8 +1336,8 @@ ebay.mw.	0	IN	NS	ns6.markmonitor.com.
 ebay.mw.	0	IN	NS	ns7.markmonitor.com.
 ebet.mw.	0	IN	NS	lou.ns.cloudflare.com.
 ebet.mw.	0	IN	NS	rachel.ns.cloudflare.com.
-ebits.mw.	0	IN	NS	cns321.hostgator.com.
-ebits.mw.	0	IN	NS	cns322.hostgator.com.
+ebits.mw.	0	IN	NS	domwe.sdn.mw.
+ebits.mw.	0	IN	NS	nyala.sdnp.org.mw.
 eco-systems.mw.	0	IN	NS	ns1.dns-parking.com.
 eco-systems.mw.	0	IN	NS	ns2.dns-parking.com.
 ecooking.mw.	0	IN	NS	ns1.eurodns.com.
@@ -1455,6 +1456,8 @@ esim.mw.	0	IN	NS	ns2.netim.net.
 esim.mw.	0	IN	NS	ns3.netim.net.
 esl.mw.	0	IN	NS	ns1.bluehost.com.
 esl.mw.	0	IN	NS	ns2.bluehost.com.
+esports.mw.	0	IN	NS	dns1.namecheap.com.
+esports.mw.	0	IN	NS	dns2.namecheap.com.
 esri.mw.	0	IN	NS	dns1.emarkmonitor.com.
 esri.mw.	0	IN	NS	dns2.emarkmonitor.com.
 essity.mw.	0	IN	NS	melkor.ngninfra.net.
@@ -1866,10 +1869,6 @@ hao123.mw.	0	IN	NS	ns1.baidu.com.
 hao123.mw.	0	IN	NS	ns2.baidu.com.
 hao123.mw.	0	IN	NS	ns3.baidu.com.
 hao123.mw.	0	IN	NS	ns4.baidu.com.
-hardwareplumbing.mw.	0	IN	NS	ns1.bdsmw.com.
-hardwareplumbing.mw.	0	IN	NS	ns2.bdsmw.com.
-hardwareplumbing.mw.	0	IN	NS	ns3.bdsmw.com.
-hardwareplumbing.mw.	0	IN	NS	ns4.bdsmw.com.
 harrypotter.mw.	0	IN	NS	ns1-b1.warnerbros.com.
 harrypotter.mw.	0	IN	NS	ns2-b1.warnerbros.com.
 harrypotter.mw.	0	IN	NS	ns3-b1.warnerbros.com.
@@ -3225,8 +3224,6 @@ nexell.mw.	0	IN	NS	dns1.genhost.in.
 nexell.mw.	0	IN	NS	dns2.genhost.in.
 next.mw.	0	IN	NS	dns1.cscdns.net.
 next.mw.	0	IN	NS	dns2.cscdns.net.
-nfb.mw.	0	IN	NS	proxy2.africa-online.net.
-nfb.mw.	0	IN	NS	proxy3.africa-online.net.
 nft.mw.	0	IN	NS	ns1.sedoparking.com.
 nft.mw.	0	IN	NS	ns2.sedoparking.com.
 nfts.mw.	0	IN	NS	ns1.netim.net.
