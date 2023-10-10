@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1696889101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1696975501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -366,6 +366,8 @@ arcgis.mw.	0	IN	NS	ns6.markmonitor.com.
 arcgis.mw.	0	IN	NS	ns7.markmonitor.com.
 archdiocesebt.mw.	0	IN	NS	ns1.linthipe3.com.
 archdiocesebt.mw.	0	IN	NS	ns2.linthipe3.com.
+aristanetworks.mw.	0	IN	NS	piers.ns.cloudflare.com.
+aristanetworks.mw.	0	IN	NS	eleanor.ns.cloudflare.com.
 aroko.mw.	0	IN	NS	ns1.lexsynergy.net.
 aroko.mw.	0	IN	NS	ns2.lexsynergy.us.
 aroko.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -541,7 +543,7 @@ bbonline.mw.	0	IN	NS	ns1.bb-online.net.
 bbonline.mw.	0	IN	NS	ns2.bb-online.org.
 bbonline.mw.	0	IN	NS	ns3.bb-online.info.
 bbonline.mw.	0	IN	NS	ns4.bb-online.biz.
-bbonline.mw.	0	IN	DS	42826 8 1 6ce9168408215939df09524c89aec9cef489adb8
+bbonline.mw.	0	IN	DS	27712 8 1 94a8b35798b1ad4892e9c2ca63c75a224551d181
 bbva.mw.	0	IN	NS	ns1.bbvaedge.com.
 bbva.mw.	0	IN	NS	ns2.bbvaedge.com.
 bbva.mw.	0	IN	NS	a3-66.akam.net.
@@ -1346,6 +1348,9 @@ ecooking.mw.	0	IN	NS	ns3.eurodns.com.
 ecooking.mw.	0	IN	NS	ns4.eurodns.com.
 ecoplusconstruction.mw.	0	IN	NS	ns1-scorpio.vivawebhost.com.
 ecoplusconstruction.mw.	0	IN	NS	ns2-scorpio.vivawebhost.com.
+ed.mw.	0	IN	NS	ns1.netim.net.
+ed.mw.	0	IN	NS	ns2.netim.net.
+ed.mw.	0	IN	NS	ns3.netim.net.
 eddmartfoundation.mw.	0	IN	NS	ns1.digitalassociates.us.
 eddmartfoundation.mw.	0	IN	NS	ns2.digitalassociates.us.
 edelman.mw.	0	IN	NS	ns1.markmonitor.com.
@@ -1869,6 +1874,10 @@ hao123.mw.	0	IN	NS	ns1.baidu.com.
 hao123.mw.	0	IN	NS	ns2.baidu.com.
 hao123.mw.	0	IN	NS	ns3.baidu.com.
 hao123.mw.	0	IN	NS	ns4.baidu.com.
+hardwareplumbing.mw.	0	IN	NS	ns1.bdsmw.com.
+hardwareplumbing.mw.	0	IN	NS	ns2.bdsmw.com.
+hardwareplumbing.mw.	0	IN	NS	ns3.bdsmw.com.
+hardwareplumbing.mw.	0	IN	NS	ns4.bdsmw.com.
 harrypotter.mw.	0	IN	NS	ns1-b1.warnerbros.com.
 harrypotter.mw.	0	IN	NS	ns2-b1.warnerbros.com.
 harrypotter.mw.	0	IN	NS	ns3-b1.warnerbros.com.

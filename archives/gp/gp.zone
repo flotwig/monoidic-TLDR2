@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023100416 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023101022 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -404,8 +404,8 @@ arch.gp.	0	IN	NS	freedns1.registrar-servers.com.
 arch.gp.	0	IN	NS	freedns2.registrar-servers.com.
 arista.gp.	0	IN	NS	piers.ns.cloudflare.com.
 arista.gp.	0	IN	NS	eleanor.ns.cloudflare.com.
-aristanetworks.gp.	0	IN	NS	ns1.101domain.com.
-aristanetworks.gp.	0	IN	NS	ns2.101domain.com.
+aristanetworks.gp.	0	IN	NS	piers.ns.cloudflare.com.
+aristanetworks.gp.	0	IN	NS	eleanor.ns.cloudflare.com.
 arkeaonlife.gp.	0	IN	NS	ns1.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns2.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns3.arkea.com.
@@ -4102,8 +4102,8 @@ private.gp.	0	IN	NS	ns2.101domain.com.
 private.gp.	0	IN	NS	ns5.101domain.com.
 prixe.gp.	0	IN	NS	ip193.ip-176-31-217.eu.
 prixe.gp.	0	IN	NS	sdns2.ovh.net.
-procom.gp.	0	IN	NS	rex.ns.cloudflare.com.
-procom.gp.	0	IN	NS	april.ns.cloudflare.com.
+procom.gp.	0	IN	NS	ns61.1and1.fr.
+procom.gp.	0	IN	NS	ns62.1and1.fr.
 promidom.gp.	0	IN	NS	ns10.ovh.net.
 promidom.gp.	0	IN	NS	dns10.ovh.net.
 promocash.gp.	0	IN	NS	a.dns.gandi.net.
