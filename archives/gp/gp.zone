@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023101022 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023101119 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3447,6 +3447,8 @@ mot-mobility.gp.	0	IN	NS	ns2.mot.com.
 mot-mobility.gp.	0	IN	NS	ns3.mot.com.
 mot-mobility.gp.	0	IN	NS	ns4.mot.com.
 mot-mobility.gp.	0	IN	NS	ns5.mot.com.
+motivation.gp.	0	IN	NS	ns1.ikoula.fr.
+motivation.gp.	0	IN	NS	ns2.ikoula.fr.
 moto.gp.	0	IN	NS	ns2.he.net.
 moto.gp.	0	IN	NS	ns3.he.net.
 moto.gp.	0	IN	NS	ns4.he.net.

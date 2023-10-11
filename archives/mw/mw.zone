@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1696975501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697061901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2702,6 +2702,8 @@ mamn.mw.	0	IN	NS	ruben.ns.cloudflare.com.
 mamn.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 manaso.mw.	0	IN	NS	sns37.hostgator.in.
 manaso.mw.	0	IN	NS	sns38.hostgator.in.
+maneps.mw.	0	IN	NS	domwe.sdn.mw.
+maneps.mw.	0	IN	NS	nyala.sdnp.org.mw.
 maog.mw.	0	IN	NS	dns1.namecheaphosting.com.
 maog.mw.	0	IN	NS	dns2.namecheaphosting.com.
 mapd.mw.	0	IN	NS	proxy2.africa-online.net.
@@ -2878,6 +2880,10 @@ metaworkplace.mw.	0	IN	NS	ns2.lexsynergy.us.
 metaworkplace.mw.	0	IN	NS	ns3.lexsynergy.info.
 mfc.mw.	0	IN	NS	ns1.advancenet.co.za.
 mfc.mw.	0	IN	NS	ns2.advancenet.co.za.
+mhc.mw.	0	IN	NS	ns1.bdsmw.com.
+mhc.mw.	0	IN	NS	ns2.bdsmw.com.
+mhc.mw.	0	IN	NS	ns3.bdsmw.com.
+mhc.mw.	0	IN	NS	ns4.bdsmw.com.
 mia.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
 mia.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 mibawa.mw.	0	IN	NS	ns1.linthipe3.com.
