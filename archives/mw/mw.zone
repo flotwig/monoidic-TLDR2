@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697061901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697148301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -423,6 +423,9 @@ aswap.mw.	0	IN	NS	dns2.namecheaphosting.com.
 at.mw.	0	IN	NS	dns1.safenames.com.
 at.mw.	0	IN	NS	dns2.safenames.net.
 at.mw.	0	IN	NS	dns3.safenames.org.
+atlas.mw.	0	IN	NS	ns1.websiteserverbox.com.
+atlas.mw.	0	IN	NS	ns2.websiteserverbox.com.
+atlas.mw.	0	IN	NS	ns3.websiteserverbox.com.
 atlascopco.mw.	0	IN	NS	ns.domainnetwork.se.
 atlascopco.mw.	0	IN	NS	ns2.domainnetwork.se.
 atlashemp.mw.	0	IN	NS	ns1.industrialimagination.com.
@@ -2288,6 +2291,8 @@ j.mw.	0	IN	NS	ns2.netim.net.
 j.mw.	0	IN	NS	ns3.netim.net.
 jacobsdouweegberts.mw.	0	IN	NS	dns1.cscdns.net.
 jacobsdouweegberts.mw.	0	IN	NS	dns2.cscdns.net.
+janconsult.mw.	0	IN	NS	ns1.linthipe3.com.
+janconsult.mw.	0	IN	NS	ns2.linthipe3.com.
 jaquar.mw.	0	IN	NS	ns01.trademarkarea.com.
 jaquar.mw.	0	IN	NS	ns02.trademarkarea.com.
 jaquar.mw.	0	IN	NS	ns03.trademarkarea.com.
@@ -3689,8 +3694,8 @@ redcap.mw.	0	IN	NS	ns-305.awsdns-38.com.
 redcap.mw.	0	IN	NS	ns-859.awsdns-43.net.
 redcap.mw.	0	IN	NS	ns-1097.awsdns-09.org.
 redcap.mw.	0	IN	NS	ns-1706.awsdns-21.co.uk.
-redcross.mw.	0	IN	NS	ns1.mtlonline.mw.
-redcross.mw.	0	IN	NS	ns2.mtlonline.mw.
+redcross.mw.	0	IN	NS	ns1.host-ww.net.
+redcross.mw.	0	IN	NS	ns2.host-ww.net.
 reddit.mw.	0	IN	NS	ns1.markmonitor.com.
 reddit.mw.	0	IN	NS	ns2.markmonitor.com.
 reddit.mw.	0	IN	NS	ns3.markmonitor.com.
@@ -4167,6 +4172,9 @@ supersportbets.mw.	0	IN	NS	ns1-01.azure-dns.com.
 supersportbets.mw.	0	IN	NS	ns2-01.azure-dns.net.
 supersportbets.mw.	0	IN	NS	ns3-01.azure-dns.org.
 supersportbets.mw.	0	IN	NS	ns4-01.azure-dns.info.
+supraanimalnutrition.mw.	0	IN	NS	ns1.lexsynergy.net.
+supraanimalnutrition.mw.	0	IN	NS	ns2.lexsynergy.us.
+supraanimalnutrition.mw.	0	IN	NS	ns3.lexsynergy.info.
 swift.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 swift.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 swissquote.mw.	0	IN	NS	dns1.namebay.com.
