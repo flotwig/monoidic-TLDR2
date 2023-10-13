@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023101119 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023101321 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -702,6 +702,8 @@ bienvenue-en-guadeloupe.gp.	0	IN	NS	dns1.cloudns.net.
 bienvenue-en-guadeloupe.gp.	0	IN	NS	dns2.cloudns.net.
 bigmat.gp.	0	IN	NS	ns4.ikoula.com.
 bigmat.gp.	0	IN	NS	ns5.ikoula.com.
+bio.gp.	0	IN	NS	ns1.ikoula.fr.
+bio.gp.	0	IN	NS	ns2.ikoula.fr.
 bioderma.gp.	0	IN	NS	nsa.perf1.fr.
 bioderma.gp.	0	IN	NS	nsb.perf1.com.
 bioderma.gp.	0	IN	NS	nsc.perf1.com.
@@ -5023,6 +5025,10 @@ transitech.gp.	0	IN	NS	ns1045.ui-dns.com.
 transitech.gp.	0	IN	NS	ns1045.ui-dns.org.
 translogdata.gp.	0	IN	NS	ns104.ovh.net.
 translogdata.gp.	0	IN	NS	dns104.ovh.net.
+travaux.gp.	0	IN	NS	ns1045.ui-dns.de.
+travaux.gp.	0	IN	NS	ns1045.ui-dns.biz.
+travaux.gp.	0	IN	NS	ns1045.ui-dns.com.
+travaux.gp.	0	IN	NS	ns1045.ui-dns.org.
 tremplinpourlemploi.gp.	0	IN	NS	ns-10-a.gandi.net.
 tremplinpourlemploi.gp.	0	IN	NS	ns-73-c.gandi.net.
 tremplinpourlemploi.gp.	0	IN	NS	ns-164-b.gandi.net.
