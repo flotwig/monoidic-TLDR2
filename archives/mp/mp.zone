@@ -171,8 +171,8 @@ areav.mp.	0	IN	NS	ns.checkdomain.de.
 areav.mp.	0	IN	NS	ns2.checkdomain.de.
 arista.mp.	0	IN	NS	piers.ns.cloudflare.com.
 arista.mp.	0	IN	NS	eleanor.ns.cloudflare.com.
-aristanetworks.mp.	0	IN	NS	ns1.101domain.com.
-aristanetworks.mp.	0	IN	NS	ns2.101domain.com.
+aristanetworks.mp.	0	IN	NS	piers.ns.cloudflare.com.
+aristanetworks.mp.	0	IN	NS	eleanor.ns.cloudflare.com.
 arrow.mp.	0	IN	NS	pdns77.ultradns.biz.
 arrow.mp.	0	IN	NS	pdns77.ultradns.com.
 arrow.mp.	0	IN	NS	pdns77.ultradns.net.
@@ -1760,9 +1760,6 @@ skysports.mp.	0	IN	NS	ns1.markmonitor.com.
 skysports.mp.	0	IN	NS	ns3.markmonitor.com.
 skytravel.mp.	0	IN	NS	ns1.markmonitor.com.
 skytravel.mp.	0	IN	NS	ns3.markmonitor.com.
-smartsta.mp.	0	IN	NS	ns1.digitalocean.com.
-smartsta.mp.	0	IN	NS	ns2.digitalocean.com.
-smartsta.mp.	0	IN	NS	ns3.digitalocean.com.
 smus.mp.	0	IN	NS	ns1.yayhosting.dk.
 smus.mp.	0	IN	NS	ns2.yayhosting.dk.
 snowsta.mp.	0	IN	NS	ns1.digitalocean.com.
