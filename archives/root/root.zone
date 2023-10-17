@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023101602 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023101703 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14,7 +14,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023101602 1 241 95a1ddc88bb7114d3aacfdc89428312faedfe1666abdbda06a5afae7404dc39f13390a47d99a7328dfde036d7683a4dd
+.	0	IN	ZONEMD	2023101703 1 241 3da472fec2ce439cf41f15fd3394949425b537b4564cce7ad0c5b31671fb58946c4747839521c97dbaa9721892da896d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3450,7 +3450,6 @@ citadel.	0	IN	NS	a2.nic.citadel.
 citadel.	0	IN	NS	b0.nic.citadel.
 citadel.	0	IN	NS	c0.nic.citadel.
 citadel.	0	IN	DS	43942 8 2 6a252ba4b61331a3d35b5d06ae744643af83053295c42c0c2e65fcebba07834f
-citadel.	0	IN	DS	62107 8 2 cc98bfd74d46f2274b9a966f9d522161c6d2ea0d8621df3a6ac4f1d3b229dc7c
 a0.nic.citadel.	0	IN	A	65.22.112.33
 a0.nic.citadel.	0	IN	AAAA	2a01:8840:6e::33
 a2.nic.citadel.	0	IN	A	65.22.115.33
@@ -4885,9 +4884,6 @@ desi.	0	IN	NS	a.nic.desi.
 desi.	0	IN	NS	b.nic.desi.
 desi.	0	IN	NS	c.nic.desi.
 desi.	0	IN	NS	d.nic.desi.
-desi.	0	IN	DS	11020 8 2 5017e17ac3f43d2dcca968723fddb1b641765a38f53afba0469e33c9ac75c582
-desi.	0	IN	DS	32296 8 2 948f1b60d22606e7488f84c0ad2e0546376aeedfd15b6ded198127add5d8928f
-desi.	0	IN	DS	39859 8 2 1382964834be4f7bf4830a27955ec8f6a1557ec20479ae946f6910a131e54ab9
 a.nic.desi.	0	IN	A	194.169.218.81
 a.nic.desi.	0	IN	AAAA	2001:67c:13cc::1:81
 b.nic.desi.	0	IN	A	185.24.64.81
@@ -8911,6 +8907,8 @@ ir.	0	IN	NS	a.nic.ir.
 ir.	0	IN	NS	b.nic.ir.
 ir.	0	IN	NS	c.nic.ir.
 ir.	0	IN	NS	d.nic.ir.
+ir.	0	IN	DS	47300 13 2 7ab287956a55abd60dc8697c2049738fd5eeab6f2070152b015d59929521dada
+ir.	0	IN	DS	47300 13 4 fe3a9bfd3aed31cbd1e2f6b45c88d81b5cca68cdc9d46080c1c4afbd491ae3a9f6dfbfc4320111144c375d648ae3cdf6
 a.nic.ir.	0	IN	A	193.189.123.2
 a.nic.ir.	0	IN	AAAA	2001:678:b0:0:193:189:123:2
 b.nic.ir.	0	IN	A	193.189.122.83
@@ -16822,8 +16820,6 @@ tattoo.	0	IN	NS	c.nic.tattoo.
 tattoo.	0	IN	NS	x.nic.tattoo.
 tattoo.	0	IN	NS	y.nic.tattoo.
 tattoo.	0	IN	NS	z.nic.tattoo.
-tattoo.	0	IN	NS	ns1.uniregistry.net.
-tattoo.	0	IN	NS	ns2.uniregistry.info.
 tattoo.	0	IN	DS	20907 13 2 2eb5f4e97ebc340acc792395037d9bac16b3683099bc109abc2ea74e7d0d2555
 tattoo.	0	IN	DS	23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
 a.nic.tattoo.	0	IN	A	37.209.192.10

@@ -11,6 +11,8 @@ mp.	0	IN	NS	ns4.nic.mp.
 12-79.mp.	0	IN	NS	ns2.netsto.net.
 1800flowers.mp.	0	IN	NS	dns1.cscdns.net.
 1800flowers.mp.	0	IN	NS	dns2.cscdns.net.
+2krn.mp.	0	IN	NS	alan.ns.cloudflare.com.
+2krn.mp.	0	IN	NS	laylah.ns.cloudflare.com.
 3333.mp.	0	IN	NS	ns6.netsto.net.
 3333.mp.	0	IN	NS	ns7.netsto.net.
 3m.mp.	0	IN	NS	ns.3m.com.
@@ -390,6 +392,8 @@ bravo.mp.	0	IN	NS	evan.ns.cloudflare.com.
 bravo.mp.	0	IN	NS	tani.ns.cloudflare.com.
 breakout.mp.	0	IN	NS	ada.ns.cloudflare.com.
 breakout.mp.	0	IN	NS	matt.ns.cloudflare.com.
+briansclub.mp.	0	IN	NS	sandra.ns.cloudflare.com.
+briansclub.mp.	0	IN	NS	felicity.ns.cloudflare.com.
 bridgestone.mp.	0	IN	NS	dns1.cscdns.net.
 bridgestone.mp.	0	IN	NS	dns2.cscdns.net.
 btcpay.mp.	0	IN	NS	lynn.ns.cloudflare.com.
@@ -1097,10 +1101,8 @@ korteka.mp.	0	IN	NS	ns3-05.azure-dns.com.
 korteka.mp.	0	IN	NS	ns4-05.azure-dns.com.
 koton.mp.	0	IN	NS	fearow1.superonlinecorporate.com.
 koton.mp.	0	IN	NS	fearow2.superonlinecorporate.com.
-kraken.mp.	0	IN	NS	dns1.bacloud.com.
-kraken.mp.	0	IN	NS	dns1.laisvas.lt.
-kraken.mp.	0	IN	NS	dns2.bacloud.com.
-kraken.mp.	0	IN	NS	dns2.laisvas.lt.
+kraken.mp.	0	IN	NS	alan.ns.cloudflare.com.
+kraken.mp.	0	IN	NS	laylah.ns.cloudflare.com.
 kristina.mp.	0	IN	NS	pam.ns.cloudflare.com.
 kristina.mp.	0	IN	NS	eric.ns.cloudflare.com.
 kyndryl.mp.	0	IN	NS	dns1.comlaude-dns.com.
@@ -1140,6 +1142,8 @@ leovegas.mp.	0	IN	NS	dns01.dipcon.com.
 leovegas.mp.	0	IN	NS	dns02.ports.se.
 leovegas.mp.	0	IN	NS	dns03.ports.se.
 leovegas.mp.	0	IN	NS	dns04.ports.net.
+liam.mp.	0	IN	NS	coby.ns.cloudflare.com.
+liam.mp.	0	IN	NS	josephine.ns.cloudflare.com.
 liberty.mp.	0	IN	NS	deb.ns.cloudflare.com.
 liberty.mp.	0	IN	NS	darwin.ns.cloudflare.com.
 lifescan.mp.	0	IN	NS	ns1.jnj.com.
