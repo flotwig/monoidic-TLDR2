@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697666701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697753101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1322,6 +1322,8 @@ dstvondemand.mw.	0	IN	NS	ns1.mweb.co.za.
 dstvondemand.mw.	0	IN	NS	ns2.mweb.co.za.
 dvv-international.mw.	0	IN	NS	ns17.securenet-server.net.
 dvv-international.mw.	0	IN	NS	ns18.securenet-server.net.
+dynamicitcsolutions.mw.	0	IN	NS	dns1.supremepanel.com.
+dynamicitcsolutions.mw.	0	IN	NS	dns2.supremepanel.com.
 e.mw.	0	IN	NS	ns1.netim.net.
 e.mw.	0	IN	NS	ns2.netim.net.
 e.mw.	0	IN	NS	ns3.netim.net.
