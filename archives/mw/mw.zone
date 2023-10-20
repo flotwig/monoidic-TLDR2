@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697753101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1697839501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -602,10 +602,8 @@ betpawa.mw.	0	IN	NS	damian.ns.cloudflare.com.
 betpoa.mw.	0	IN	NS	ns1.onlydomains.com.
 betpoa.mw.	0	IN	NS	ns2.onlydomains.com.
 betpoa.mw.	0	IN	NS	ns3.onlydomains.com.
-betsafe.mw.	0	IN	NS	pdns142.ultradns.biz.
-betsafe.mw.	0	IN	NS	pdns142.ultradns.com.
-betsafe.mw.	0	IN	NS	pdns142.ultradns.net.
-betsafe.mw.	0	IN	NS	pdns142.ultradns.org.
+betsafe.mw.	0	IN	NS	dns1.cscdns.net.
+betsafe.mw.	0	IN	NS	dns2.cscdns.net.
 bettybingo.mw.	0	IN	NS	ns35.domaincontrol.com.
 bettybingo.mw.	0	IN	NS	ns36.domaincontrol.com.
 betway.mw.	0	IN	NS	karsyn.ns.cloudflare.com.
@@ -2214,6 +2212,8 @@ inside.mw.	0	IN	NS	ns-1499.awsdns-59.org.
 inside.mw.	0	IN	NS	ns-1610.awsdns-09.co.uk.
 insight.mw.	0	IN	NS	ns1.hostedbytimmy.com.
 insight.mw.	0	IN	NS	ns2.hostedbytimmy.com.
+inspiremarketing.mw.	0	IN	NS	ns1.inmotionhosting.com.
+inspiremarketing.mw.	0	IN	NS	ns2.inmotionhosting.com.
 instagram.mw.	0	IN	NS	a.ns.facebook.com.
 instagram.mw.	0	IN	NS	b.ns.facebook.com.
 instagram.mw.	0	IN	NS	c.ns.facebook.com.
