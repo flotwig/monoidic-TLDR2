@@ -11,7 +11,6 @@
 * `car.`
 * `cars.`
 * `christmas.`
-* `ci.`
 * `cy.`
 * `diet.`
 * `dz.`
