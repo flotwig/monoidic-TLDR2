@@ -412,10 +412,10 @@ bud.mp.	0	IN	NS	ns3.domainnetwork.com.
 budweiser.mp.	0	IN	NS	ns.domainnetwork.se.
 budweiser.mp.	0	IN	NS	ns2.domainnetwork.se.
 budweiser.mp.	0	IN	NS	ns3.domainnetwork.com.
-bugatti.mp.	0	IN	NS	ns-308.awsdns-38.com.
-bugatti.mp.	0	IN	NS	ns-928.awsdns-52.net.
-bugatti.mp.	0	IN	NS	ns-1415.awsdns-48.org.
-bugatti.mp.	0	IN	NS	ns-1588.awsdns-06.co.uk.
+bugatti.mp.	0	IN	NS	ns1-32.azure-dns.com.
+bugatti.mp.	0	IN	NS	ns2-32.azure-dns.net.
+bugatti.mp.	0	IN	NS	ns3-32.azure-dns.org.
+bugatti.mp.	0	IN	NS	ns4-32.azure-dns.info.
 cafe.mp.	0	IN	NS	javon.ns.cloudflare.com.
 cafe.mp.	0	IN	NS	harmony.ns.cloudflare.com.
 californiapsychics.mp.	0	IN	NS	ns1.netnames.net.
@@ -482,6 +482,9 @@ cloud.mp.	0	IN	NS	ns1.huaweicloud-dns.net.
 cloud.mp.	0	IN	NS	ns1.huaweicloud-dns.org.
 co.mp.	0	IN	NS	ns1.nic.net.mp.
 co.mp.	0	IN	NS	ns2.nic.net.mp.
+codeca.mp.	0	IN	NS	ns1.101domain.com.
+codeca.mp.	0	IN	NS	ns2.101domain.com.
+codeca.mp.	0	IN	NS	ns5.101domain.com.
 codman.mp.	0	IN	NS	dns1.cscdns.net.
 codman.mp.	0	IN	NS	dns2.cscdns.net.
 coin.mp.	0	IN	NS	ns3.wildcard.one.
