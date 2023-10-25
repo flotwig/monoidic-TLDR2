@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102414 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102518 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -5249,6 +5249,8 @@ vivo.gp.	0	IN	NS	ns1.brandcloudns.com.
 vivo.gp.	0	IN	NS	ns2.brandcloudns.com.
 vk.gp.	0	IN	NS	ns1.sedoparking.com.
 vk.gp.	0	IN	NS	ns2.sedoparking.com.
+vmoto.gp.	0	IN	NS	ns1.101domain.com.
+vmoto.gp.	0	IN	NS	ns2.101domain.com.
 vn.gp.	0	IN	NS	ns1.subdomain.net.
 vn.gp.	0	IN	NS	ns2.subdomain.net.
 vodafone.gp.	0	IN	NS	ns1.vodafone.com.
