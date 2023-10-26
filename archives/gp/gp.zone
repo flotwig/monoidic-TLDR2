@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102518 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102614 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2030,9 +2030,8 @@ georgiapacific-marathonbrand.gp.	0	IN	NS	dns1.cscdns.net.
 georgiapacific-marathonbrand.gp.	0	IN	NS	dns2.cscdns.net.
 georgiapacificen-vision.gp.	0	IN	NS	dns1.cscdns.net.
 georgiapacificen-vision.gp.	0	IN	NS	dns2.cscdns.net.
-germanautoparts.gp.	0	IN	NS	ns1.francedns.com.
-germanautoparts.gp.	0	IN	NS	ns2.francedns.com.
-germanautoparts.gp.	0	IN	NS	ns3.francedns.com.
+germanautoparts.gp.	0	IN	NS	ns1.siteground.net.
+germanautoparts.gp.	0	IN	NS	ns2.siteground.net.
 germany.gp.	0	IN	NS	ns1.nameserver.ie.
 germany.gp.	0	IN	NS	ns2.nameserver.ie.
 gernetic.gp.	0	IN	NS	ns1.prodomaines.com.
