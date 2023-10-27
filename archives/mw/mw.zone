@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1698357901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1698444301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2681,6 +2681,8 @@ malawiatcop.mw.	0	IN	NS	dns3.supremedns.com.
 malawiatcop.mw.	0	IN	NS	dns4.supremedns.com.
 malawicensus.mw.	0	IN	NS	proxy2.africa-online.net.
 malawicensus.mw.	0	IN	NS	proxy3.africa-online.net.
+malawidigital.mw.	0	IN	NS	domwe.sdn.mw.
+malawidigital.mw.	0	IN	NS	nyala.sdnp.org.mw.
 malawijudiciarycms.mw.	0	IN	NS	ns1.cp-34.webhostbox.net.
 malawijudiciarycms.mw.	0	IN	NS	ns2.cp-34.webhostbox.net.
 malawinatcom.mw.	0	IN	NS	ns871.websitewelcome.com.

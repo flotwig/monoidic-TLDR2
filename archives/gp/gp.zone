@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102614 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023102717 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3420,6 +3420,9 @@ moltonel.gp.	0	IN	NS	tilion.sgn.sca.se.
 moncommerce.gp.	0	IN	NS	ns1.netim.net.
 moncommerce.gp.	0	IN	NS	ns2.netim.net.
 moncommerce.gp.	0	IN	NS	ns3.netim.net.
+mondisjoncteuredf.gp.	0	IN	NS	ns1.netim.net.
+mondisjoncteuredf.gp.	0	IN	NS	ns2.netim.net.
+mondisjoncteuredf.gp.	0	IN	NS	ns3.netim.net.
 mondomaine.gp.	0	IN	NS	ns19.ovh.net.
 mondomaine.gp.	0	IN	NS	dns19.ovh.net.
 mondomaine-gp.gp.	0	IN	NS	dns1.cloudns.net.
@@ -4178,6 +4181,8 @@ quiltednorthern.gp.	0	IN	NS	dns1.cscdns.net.
 quiltednorthern.gp.	0	IN	NS	dns2.cscdns.net.
 r.gp.	0	IN	NS	ns1.website.org.
 r.gp.	0	IN	NS	ns2.website.org.
+r5volution.gp.	0	IN	NS	anna.renault.fr.
+r5volution.gp.	0	IN	NS	xenia.renault.fr.
 rabo.gp.	0	IN	NS	a3-67.akam.net.
 rabo.gp.	0	IN	NS	a7-64.akam.net.
 rabo.gp.	0	IN	NS	a1-191.akam.net.
