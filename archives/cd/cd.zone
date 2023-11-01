@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023103122 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023110122 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1698791033"
+cd.	0	IN	TXT	"Generation Time: 1698877551"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -442,7 +442,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1698791035"
+ac.cd.	0	IN	TXT	"Generation Time: 1698877553"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -1691,8 +1691,8 @@ armco.cd.	0	IN	NS	auth04.ns.de.uu.net.
 armco.cd.	0	IN	NS	auth54.ns.de.uu.net.
 armp-rdc.cd.	0	IN	NS	ns7.cloudcws.com.
 armp-rdc.cd.	0	IN	NS	ns8.cloudcws.com.
-arnl.cd.	0	IN	NS	cpanel13.lws-hosting.com.
-arnl.cd.	0	IN	NS	cpanel14.lws-hosting.com.
+arnl.cd.	0	IN	NS	ns17.lwsdns.com.
+arnl.cd.	0	IN	NS	ns18.lwsdns.com.
 arome.cd.	0	IN	NS	ns1.scpt-network.cd.
 arome.cd.	0	IN	NS	ns2.scpt-network.cd.
 aromesarl.cd.	0	IN	NS	ns3020.mochahost.com.
@@ -2503,10 +2503,10 @@ bilembo.cd.	0	IN	NS	ns1.uniteddns.net.
 bilembo.cd.	0	IN	NS	ns2.uniteddns.net.
 bilemboyabeton.cd.	0	IN	NS	vita.ns.cloudflare.com.
 bilemboyabeton.cd.	0	IN	NS	simon.ns.cloudflare.com.
-biliabio.cd.	0	IN	NS	ns1.guruhost.cloud.
-biliabio.cd.	0	IN	NS	ns2.guruhost.cloud.
-biliabio.cd.	0	IN	NS	ns3.guruhost.cloud.
-biliabio.cd.	0	IN	NS	ns4.guruhost.cloud.
+biliabio.cd.	0	IN	NS	ns1.massivegrid.net.
+biliabio.cd.	0	IN	NS	ns2.massivegrid.net.
+biliabio.cd.	0	IN	NS	ns3.massivegrid.net.
+biliabio.cd.	0	IN	NS	ns4.massivegrid.net.
 billet.cd.	0	IN	NS	ns8211.hostgator.com.
 billet.cd.	0	IN	NS	ns8212.hostgator.com.
 billetera.cd.	0	IN	NS	ns1.porterlogicshosting.com.
@@ -2669,6 +2669,9 @@ bmw-group.cd.	0	IN	NS	arch.ns.cloudflare.com.
 bmwgroup.cd.	0	IN	NS	ns1.ascio.com.
 bmwgroup.cd.	0	IN	NS	ns2.ascio.com.
 bmwgroup.cd.	0	IN	NS	ns3.ascio.com.
+bn.cd.	0	IN	NS	ns.inwx.com.
+bn.cd.	0	IN	NS	ns2.inwx.com.
+bn.cd.	0	IN	NS	ns3.inwx.eu.
 bnamed.cd.	0	IN	NS	ns.nscluster.be.
 bnamed.cd.	0	IN	NS	ns.nscluster.eu.
 bnamed.cd.	0	IN	NS	ns.nscluster.nl.
@@ -3410,8 +3413,8 @@ celebrex.cd.	0	IN	NS	ns2.pfizer.com.
 celebrex.cd.	0	IN	NS	ns3.pfizer.com.
 celebrio.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 celebrio.cd.	0	IN	NS	arch.ns.cloudflare.com.
-cellcoopri-unikin.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-cellcoopri-unikin.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+cellcoopri-unikin.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+cellcoopri-unikin.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 cellphone.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 cellphone.cd.	0	IN	NS	arch.ns.cloudflare.com.
 celltronix.cd.	0	IN	NS	ns1.cows.cd.
@@ -3605,8 +3608,8 @@ chinesetea.cd.	0	IN	NS	arch.ns.cloudflare.com.
 chip.cd.	0	IN	NS	ns1.web-dns1.com.
 chip.cd.	0	IN	NS	ns2.web-dns1.com.
 chip.cd.	0	IN	NS	ns3.web-dns1.com.
-choeurpilotepcu.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-choeurpilotepcu.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+choeurpilotepcu.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+choeurpilotepcu.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 chong.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 chong.cd.	0	IN	NS	arch.ns.cloudflare.com.
 chretien.cd.	0	IN	NS	ns1.bricesson.net.
@@ -3983,7 +3986,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1698791035"
+com.cd.	0	IN	TXT	"Generation Time: 1698877553"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -4215,8 +4218,8 @@ congofort.cd.	0	IN	NS	ns1.servershost.net.
 congofort.cd.	0	IN	NS	ns2.servershost.net.
 congofutur.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 congofutur.cd.	0	IN	NS	arch.ns.cloudflare.com.
-congogaming.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-congogaming.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+congogaming.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+congogaming.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 congogfi.cd.	0	IN	NS	ns108.ovh.net.
 congogfi.cd.	0	IN	NS	dns108.ovh.net.
 congoinfra.cd.	0	IN	NS	ns1.bhus-pp-wb10.webhostbox.net.
@@ -4273,8 +4276,8 @@ congomultiservices.cd.	0	IN	NS	ns1.privatedns.com.
 congomultiservices.cd.	0	IN	NS	ns2.privatedns.com.
 congonabiso.cd.	0	IN	NS	cpanel13.lws-hosting.com.
 congonabiso.cd.	0	IN	NS	cpanel14.lws-hosting.com.
-congonews.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-congonews.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+congonews.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+congonews.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 congonumerique.cd.	0	IN	NS	ns1.dns.cd.
 congonumerique.cd.	0	IN	NS	ns2.dns.cd.
 congoonline.cd.	0	IN	NS	ns1.cows.cd.
@@ -4409,8 +4412,8 @@ coolvapes.cd.	0	IN	NS	ns1.dns-parking.com.
 coolvapes.cd.	0	IN	NS	ns2.dns-parking.com.
 coop.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 coop.cd.	0	IN	NS	arch.ns.cloudflare.com.
-coordination-unikin.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-coordination-unikin.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+coordination-unikin.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+coordination-unikin.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 copak.cd.	0	IN	NS	ns1.francedns.com.
 copak.cd.	0	IN	NS	ns2.francedns.com.
 copak.cd.	0	IN	NS	ns3.francedns.com.
@@ -5720,7 +5723,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1698791035"
+edu.cd.	0	IN	TXT	"Generation Time: 1698877553"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -6175,8 +6178,8 @@ espacemailing.cd.	0	IN	NS	jay.ns.cloudflare.com.
 espacemailing.cd.	0	IN	NS	kay.ns.cloudflare.com.
 espacetropical.cd.	0	IN	NS	ns1.scpt-network.cd.
 espacetropical.cd.	0	IN	NS	ns2.scpt-network.cd.
-espd-unikin.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-espd-unikin.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+espd-unikin.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+espd-unikin.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 esperance.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 esperance.cd.	0	IN	NS	arch.ns.cloudflare.com.
 espkin.cd.	0	IN	NS	ns1.espkin.ac.cd.
@@ -6983,6 +6986,8 @@ foxtimes.cd.	0	IN	NS	ns1045.ui-dns.de.
 foxtimes.cd.	0	IN	NS	ns1045.ui-dns.biz.
 fpc.cd.	0	IN	NS	dns1.obambu.com.
 fpc.cd.	0	IN	NS	dns2.obambu.com.
+fpger.cd.	0	IN	NS	ns2.scpt-network.cd.
+fpger.cd.	0	IN	NS	ns100.nsresponse.com.
 fpi-rdc.cd.	0	IN	NS	ns3.combell.net.
 fpi-rdc.cd.	0	IN	NS	ns4.combell.net.
 fpm.cd.	0	IN	NS	ada.ns.cloudflare.com.
@@ -7581,7 +7586,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1698791037"
+gouv.cd.	0	IN	TXT	"Generation Time: 1698877555"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -7967,7 +7972,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1698791035"
+gov.cd.	0	IN	TXT	"Generation Time: 1698877553"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -8014,8 +8019,8 @@ grandhotelkinshasa.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 grandhotelkinshasa.cd.	0	IN	NS	arch.ns.cloudflare.com.
 grandjournal.cd.	0	IN	NS	ns1.a2hosting.com.
 grandjournal.cd.	0	IN	NS	ns2.a2hosting.com.
-grandkivumining.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-grandkivumining.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+grandkivumining.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+grandkivumining.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 grandmarche.cd.	0	IN	NS	ns1.onlydomains.com.
 grandmarche.cd.	0	IN	NS	ns2.onlydomains.com.
 grandmarche.cd.	0	IN	NS	ns3.onlydomains.com.
@@ -8482,8 +8487,8 @@ hopesmartsolutions.cd.	0	IN	NS	ns1.scpt-network.cd.
 hopesmartsolutions.cd.	0	IN	NS	ns2.scpt-network.cd.
 hopital.cd.	0	IN	NS	ns8211.hostgator.com.
 hopital.cd.	0	IN	NS	ns8212.hostgator.com.
-horizon.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-horizon.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+horizon.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+horizon.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 horsaison.cd.	0	IN	NS	ns1.o2switch.net.
 horsaison.cd.	0	IN	NS	ns2.o2switch.net.
 horse.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -9718,8 +9723,8 @@ katale.cd.	0	IN	NS	ns2.101domain.com.
 katale.cd.	0	IN	NS	ns5.101domain.com.
 katanga.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 katanga.cd.	0	IN	NS	arch.ns.cloudflare.com.
-katanga24news.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-katanga24news.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+katanga24news.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+katanga24news.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 katangaenergy.cd.	0	IN	NS	ns1.onlydomains.com.
 katangaenergy.cd.	0	IN	NS	ns2.onlydomains.com.
 katangaenergy.cd.	0	IN	NS	ns3.onlydomains.com.
@@ -10593,8 +10598,8 @@ lesnews.cd.	0	IN	NS	ns1.servershost.net.
 lesnews.cd.	0	IN	NS	ns2.servershost.net.
 lesocle.cd.	0	IN	NS	ns1.o2switch.net.
 lesocle.cd.	0	IN	NS	ns2.o2switch.net.
-lesommet-rdc.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-lesommet-rdc.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+lesommet-rdc.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+lesommet-rdc.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 lesommet243.cd.	0	IN	NS	ns1.uniteddns.net.
 lesommet243.cd.	0	IN	NS	ns2.uniteddns.net.
 lesorphelinsducoeur.cd.	0	IN	NS	ns1.cows.cd.
@@ -12176,8 +12181,8 @@ monbac.cd.	0	IN	NS	ns1.televerx.com.
 monbac.cd.	0	IN	NS	ns2.televerx.com.
 moncongo.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 moncongo.cd.	0	IN	NS	arch.ns.cloudflare.com.
-monecole.cd.	0	IN	NS	ns1.scpt-network.cd.
-monecole.cd.	0	IN	NS	ns2.scpt-network.cd.
+monecole.cd.	0	IN	NS	ns41.infomaniak.com.
+monecole.cd.	0	IN	NS	ns42.infomaniak.com.
 moneglise.cd.	0	IN	NS	dns1.namecheaphosting.com.
 moneglise.cd.	0	IN	NS	dns2.namecheaphosting.com.
 monentreprise.cd.	0	IN	NS	ns1.ipsolutions.cd.
@@ -12723,7 +12728,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1698791035"
+net.cd.	0	IN	TXT	"Generation Time: 1698877553"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -13484,7 +13489,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1698791035"
+org.cd.	0	IN	TXT	"Generation Time: 1698877553"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -14897,8 +14902,8 @@ redtube.cd.	0	IN	NS	sdns3.ultradns.biz.
 redtube.cd.	0	IN	NS	sdns3.ultradns.com.
 redtube.cd.	0	IN	NS	sdns3.ultradns.net.
 redtube.cd.	0	IN	NS	sdns3.ultradns.org.
-reforme.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-reforme.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+reforme.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+reforme.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 reforme-fonciere.cd.	0	IN	NS	ns1.scpt-network.cd.
 reforme-fonciere.cd.	0	IN	NS	ns2.scpt-network.cd.
 regalcongo.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -15822,6 +15827,10 @@ silverbackcigarettes.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 silverbackcigarettes.cd.	0	IN	NS	arch.ns.cloudflare.com.
 silverfinance.cd.	0	IN	NS	ns1.okpc-host.com.
 silverfinance.cd.	0	IN	NS	ns2.okpc-host.com.
+simbaworld.cd.	0	IN	NS	ns1.dnshostservices.com.
+simbaworld.cd.	0	IN	NS	ns2.dnshostservices.com.
+simbaworld.cd.	0	IN	NS	ns3.dnshostservices.com.
+simbaworld.cd.	0	IN	NS	ns4.dnshostservices.com.
 sime.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 sime.cd.	0	IN	NS	arch.ns.cloudflare.com.
 simmqwi.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -17662,8 +17671,8 @@ unitedpetroleum.cd.	0	IN	NS	demeter.is.co.za.
 unitedpetroleum.cd.	0	IN	NS	jupiter.is.co.za.
 unittrust.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 unittrust.cd.	0	IN	NS	arch.ns.cloudflare.com.
-uniuelesys.cd.	0	IN	NS	ns1.hitechosting.co.uk.
-uniuelesys.cd.	0	IN	NS	ns2.hitechosting.co.uk.
+uniuelesys.cd.	0	IN	NS	ns11.hitechosting.co.uk.
+uniuelesys.cd.	0	IN	NS	ns12.hitechosting.co.uk.
 univ-kindu.cd.	0	IN	NS	ns1.francedns.com.
 univ-kindu.cd.	0	IN	NS	ns2.francedns.com.
 univ-kindu.cd.	0	IN	NS	ns3.francedns.com.
@@ -17750,6 +17759,8 @@ urithi.cd.	0	IN	NS	ns42.cloudns.net.
 urithi.cd.	0	IN	NS	ns43.cloudns.net.
 url.cd.	0	IN	NS	ns1.dns.cd.
 url.cd.	0	IN	NS	ns2.dns.cd.
+urr.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
+urr.cd.	0	IN	NS	ns4.nitrowebhost.co.uk.
 usafi.cd.	0	IN	NS	ns1.dotcd.net.
 usafi.cd.	0	IN	NS	ns2.dotcd.net.
 usakin.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.

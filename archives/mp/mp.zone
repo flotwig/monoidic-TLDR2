@@ -1534,10 +1534,8 @@ onesync.mp.	0	IN	NS	ns-90-c.gandi.net.
 onesync.mp.	0	IN	NS	ns-222-a.gandi.net.
 onetouch.mp.	0	IN	NS	ns1.jnj.com.
 onetouch.mp.	0	IN	NS	ns3.jnj.com.
-onion.mp.	0	IN	NS	ns41.cloudns.net.
-onion.mp.	0	IN	NS	ns42.cloudns.net.
-onion.mp.	0	IN	NS	ns43.cloudns.net.
-onion.mp.	0	IN	NS	ns44.cloudns.net.
+onion.mp.	0	IN	NS	val.ns.cloudflare.com.
+onion.mp.	0	IN	NS	john.ns.cloudflare.com.
 open.mp.	0	IN	NS	olga.ns.cloudflare.com.
 open.mp.	0	IN	NS	gerald.ns.cloudflare.com.
 optus.mp.	0	IN	NS	ns1.optus.net.au.
@@ -2018,6 +2016,8 @@ vc-rp.mp.	0	IN	NS	ns2.shockhosting.net.
 vclub.mp.	0	IN	NS	ns1.regery.net.
 vclub.mp.	0	IN	NS	ns2.regery.net.
 vclub.mp.	0	IN	NS	ns3.regery.net.
+vega.mp.	0	IN	NS	ns1.siteground.net.
+vega.mp.	0	IN	NS	ns2.siteground.net.
 veldka.mp.	0	IN	NS	een.dnssrv.nl.
 veldka.mp.	0	IN	NS	drie.dnssrv.nl.
 veldka.mp.	0	IN	NS	twee.dnssrv.nl.
