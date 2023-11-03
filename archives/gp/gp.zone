@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110218 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110317 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2118,6 +2118,8 @@ googlemaps.gp.	0	IN	NS	ns3.markmonitor.com.
 gosier.gp.	0	IN	NS	ns1.gandi.net.
 gosier.gp.	0	IN	NS	ns2.gandi.net.
 gosier.gp.	0	IN	NS	ns3.gandi.net.
+goto.gp.	0	IN	NS	ns2.gigaparts.net.
+goto.gp.	0	IN	NS	raq44.gigaparts.net.
 govoyages.gp.	0	IN	NS	dns1.cscdns.net.
 govoyages.gp.	0	IN	NS	dns2.cscdns.net.
 gp.gp.	0	IN	NS	ns1.sedoparking.com.
