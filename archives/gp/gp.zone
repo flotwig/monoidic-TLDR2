@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110317 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110422 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1374,9 +1374,8 @@ dixiesmarttop-gp.gp.	0	IN	NS	dns1.cscdns.net.
 dixiesmarttop-gp.gp.	0	IN	NS	dns2.cscdns.net.
 dixieware.gp.	0	IN	NS	dns1.cscdns.net.
 dixieware.gp.	0	IN	NS	dns2.cscdns.net.
-dm.gp.	0	IN	NS	ns6.az.pl.
-dm.gp.	0	IN	NS	ns7.az.pl.
-dm.gp.	0	IN	NS	ns8.az.pl.
+dm.gp.	0	IN	NS	achiel.ns.cloudflare.com.
+dm.gp.	0	IN	NS	monroe.ns.cloudflare.com.
 dma.gp.	0	IN	NS	ns16.ovh.net.
 dma.gp.	0	IN	NS	dns16.ovh.net.
 ns.dma.gp.	0	IN	NS	94.124.155.169.gp.
