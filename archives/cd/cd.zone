@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023110521 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023110621 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1699223090"
+cd.	0	IN	TXT	"Generation Time: 1699309664"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -129,8 +129,8 @@ cd.	0	IN	TXT	"Generation Time: 1699223090"
 1subsea.cd.	0	IN	NS	arch.ns.cloudflare.com.
 1xbet.cd.	0	IN	NS	jobs.ns.cloudflare.com.
 1xbet.cd.	0	IN	NS	lily.ns.cloudflare.com.
-1xpro.cd.	0	IN	NS	ns1.dotcd.net.
-1xpro.cd.	0	IN	NS	ns2.dotcd.net.
+1xpro.cd.	0	IN	NS	cullen.ns.cloudflare.com.
+1xpro.cd.	0	IN	NS	surina.ns.cloudflare.com.
 2.cd.	0	IN	NS	ns-366.awsdns-45.com.
 2.cd.	0	IN	NS	ns-696.awsdns-23.net.
 2.cd.	0	IN	NS	ns-1412.awsdns-48.org.
@@ -442,7 +442,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1699223092"
+ac.cd.	0	IN	TXT	"Generation Time: 1699309666"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -1356,8 +1356,8 @@ altrav.cd.	0	IN	NS	ns1.shivanet.cd.
 altrav.cd.	0	IN	NS	ns2.shivanet.cd.
 altria.cd.	0	IN	NS	dns1.cscdns.net.
 altria.cd.	0	IN	NS	dns2.cscdns.net.
-altsa.cd.	0	IN	NS	ns15.domaincontrol.com.
-altsa.cd.	0	IN	NS	ns16.domaincontrol.com.
+altsa.cd.	0	IN	NS	ns1.webnetafrica.net.
+altsa.cd.	0	IN	NS	ns2.webnetafrica.net.
 altv.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 altv.cd.	0	IN	NS	arch.ns.cloudflare.com.
 alumniucc.cd.	0	IN	NS	dns1.namecheaphosting.com.
@@ -2193,6 +2193,8 @@ bayithservices.cd.	0	IN	NS	ns1.dotcd.net.
 bayithservices.cd.	0	IN	NS	ns2.dotcd.net.
 baywell.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 baywell.cd.	0	IN	NS	arch.ns.cloudflare.com.
+bazaar.cd.	0	IN	NS	ns1.hostarex.net.
+bazaar.cd.	0	IN	NS	ns2.hostarex.net.
 bazar.cd.	0	IN	NS	ns1.101domain.com.
 bazar.cd.	0	IN	NS	ns5.101domain.com.
 baziks.cd.	0	IN	NS	ns1.francedns.com.
@@ -2396,6 +2398,8 @@ betin.cd.	0	IN	NS	ns2.instradns.com.
 betin.cd.	0	IN	NS	ns3.instradns.com.
 betpawa.cd.	0	IN	NS	isla.ns.cloudflare.com.
 betpawa.cd.	0	IN	NS	damian.ns.cloudflare.com.
+betpower.cd.	0	IN	NS	ns7.jumpdns.net.
+betpower.cd.	0	IN	NS	ns8.jumpdns.net.
 betracsa.cd.	0	IN	NS	ns18.ovh.net.
 betracsa.cd.	0	IN	NS	dns18.ovh.net.
 bets10.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -3988,7 +3992,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1699223092"
+com.cd.	0	IN	TXT	"Generation Time: 1699309666"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -5554,6 +5558,8 @@ e-motion.cd.	0	IN	NS	ns5.kasserver.com.
 e-motion.cd.	0	IN	NS	ns6.kasserver.com.
 e-pharmacie.cd.	0	IN	NS	ns1.webmo.fr.
 e-pharmacie.cd.	0	IN	NS	ns2.webmo.fr.
+e-tax.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
+e-tax.cd.	0	IN	NS	ns4.nitrowebhost.co.uk.
 e-trade.cd.	0	IN	NS	ns1.domaindiscount24.net.
 e-trade.cd.	0	IN	NS	ns2.domaindiscount24.net.
 e-trade.cd.	0	IN	NS	ns3.domaindiscount24.net.
@@ -5727,7 +5733,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1699223092"
+edu.cd.	0	IN	TXT	"Generation Time: 1699309666"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -7593,7 +7599,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1699223095"
+gouv.cd.	0	IN	TXT	"Generation Time: 1699309669"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -7979,7 +7985,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1699223092"
+gov.cd.	0	IN	TXT	"Generation Time: 1699309666"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -8394,6 +8400,8 @@ hightech.cd.	0	IN	NS	ns25.domaincontrol.com.
 hightech.cd.	0	IN	NS	ns26.domaincontrol.com.
 hightechnologies.cd.	0	IN	NS	dns1.namecheaphosting.com.
 hightechnologies.cd.	0	IN	NS	dns2.namecheaphosting.com.
+hikvision.cd.	0	IN	NS	ns1.webnetafrica.net.
+hikvision.cd.	0	IN	NS	ns2.webnetafrica.net.
 hilti.cd.	0	IN	NS	scatha.us.hilti.com.
 hilti.cd.	0	IN	NS	gatekeeper.hilti.com.
 hilton.cd.	0	IN	NS	ns1.netnames.net.
@@ -10568,6 +10576,8 @@ lepoint.cd.	0	IN	NS	vera.ns.cloudflare.com.
 lepoint.cd.	0	IN	NS	charles.ns.cloudflare.com.
 lepointdujour.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 lepointdujour.cd.	0	IN	NS	arch.ns.cloudflare.com.
+lepointeur.cd.	0	IN	NS	ivan.ns.cloudflare.com.
+lepointeur.cd.	0	IN	NS	ulla.ns.cloudflare.com.
 lepotentiel.cd.	0	IN	NS	ns1.o2switch.net.
 lepotentiel.cd.	0	IN	NS	ns2.o2switch.net.
 lequotidien.cd.	0	IN	NS	ns1.dns-parking.com.
@@ -12735,7 +12745,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1699223092"
+net.cd.	0	IN	TXT	"Generation Time: 1699309666"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -13496,7 +13506,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1699223092"
+org.cd.	0	IN	TXT	"Generation Time: 1699309666"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -18871,6 +18881,8 @@ zapzap.cd.	0	IN	NS	ns2.instradns.com.
 zapzap.cd.	0	IN	NS	ns3.instradns.com.
 zawadi.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 zawadi.cd.	0	IN	NS	arch.ns.cloudflare.com.
+zda.cd.	0	IN	NS	ns1.scpt-network.cd.
+zda.cd.	0	IN	NS	ns2.scpt-network.cd.
 zebit.cd.	0	IN	NS	ns1.101domain.com.
 zebit.cd.	0	IN	NS	ns2.101domain.com.
 zebit.cd.	0	IN	NS	ns5.101domain.com.

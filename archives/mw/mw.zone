@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699221901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699308301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -951,8 +951,6 @@ chitukukosacco.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 chitukukosacco.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 chitukukosacco.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 chitukukosacco.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
-chiweto.mw.	0	IN	NS	ns15.asurahosting.com.
-chiweto.mw.	0	IN	NS	ns16.asurahosting.com.
 chlmalawi.mw.	0	IN	NS	proxy2.africa-online.net.
 chlmalawi.mw.	0	IN	NS	proxy3.africa-online.net.
 christian.mw.	0	IN	NS	ns1.netim.net.
@@ -1071,8 +1069,6 @@ computron.mw.	0	IN	NS	ns3.livedns.co.uk.
 computronestore.mw.	0	IN	NS	ns1.livedns.co.uk.
 computronestore.mw.	0	IN	NS	ns2.livedns.co.uk.
 computronestore.mw.	0	IN	NS	ns3.livedns.co.uk.
-comsyncservices.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
-comsyncservices.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 cona.mw.	0	IN	NS	ns1.asurahosting.com.
 cona.mw.	0	IN	NS	ns2.asurahosting.com.
 cona.mw.	0	IN	NS	ns3.asurahosting.com.
@@ -2947,11 +2943,8 @@ mizu.mw.	0	IN	NS	a.cheerstolife.net.
 mizu.mw.	0	IN	NS	b.cheerstolife.net.
 mjasi.mw.	0	IN	NS	maxdns.globemw.net.
 mjasi.mw.	0	IN	NS	araliya.globemw.net.
-mk.mw.	0	IN	NS	ns1.netim.net.
-mk.mw.	0	IN	NS	ns2.netim.net.
-mk.mw.	0	IN	NS	ns3.netim.net.
-mk.mw.	0	IN	NS	ns4.netim.net.
-mk.mw.	0	IN	NS	ns5.netim.net.
+mk.mw.	0	IN	NS	nucum.ns.cloudflare.com.
+mk.mw.	0	IN	NS	alfred.ns.cloudflare.com.
 ml.mw.	0	IN	NS	ns1.wordpress.com.
 ml.mw.	0	IN	NS	ns2.wordpress.com.
 ml.mw.	0	IN	NS	ns3.wordpress.com.
@@ -3875,6 +3868,8 @@ sanlamallianzmalawi.mw.	0	IN	NS	ns2.lexsynergy.us.
 sanlamallianzmalawi.mw.	0	IN	NS	ns3.lexsynergy.info.
 sapp.mw.	0	IN	NS	ns1.host-ww.net.
 sapp.mw.	0	IN	NS	ns2.host-ww.net.
+saris.mw.	0	IN	NS	nick.ns.cloudflare.com.
+saris.mw.	0	IN	NS	venus.ns.cloudflare.com.
 sascoafrica.mw.	0	IN	NS	maxdns.globemw.net.
 sascoafrica.mw.	0	IN	NS	araliya.globemw.net.
 satcp.mw.	0	IN	NS	ns987.websitewelcome.com.
