@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113089 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113090 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1945,6 +1945,9 @@ whatsapp.ni.	0	IN	NS	ns4.lovellnames.org.
 whizmo.ni.	0	IN	NS	dns1.safenames.com.
 whizmo.ni.	0	IN	NS	dns2.safenames.net.
 whizmo.ni.	0	IN	NS	dns3.safenames.org.
+wildcasino.ni.	0	IN	NS	dns1.idp365.net.
+wildcasino.ni.	0	IN	NS	dns2.idp365.net.
+wildcasino.ni.	0	IN	NS	dns3.idp365.net.
 woai.ni.	0	IN	NS	vin.ns.cloudflare.com.
 woai.ni.	0	IN	NS	arely.ns.cloudflare.com.
 wolflubes.ni.	0	IN	NS	ns1.brandshelter.com.
