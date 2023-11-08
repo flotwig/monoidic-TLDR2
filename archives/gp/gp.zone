@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110714 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023110822 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1736,6 +1736,8 @@ everjobs.gp.	0	IN	NS	ns1.is-fun.net.
 everjobs.gp.	0	IN	NS	ns2.is-fun.net.
 evoloc.gp.	0	IN	NS	ns1.o2switch.net.
 evoloc.gp.	0	IN	NS	ns2.o2switch.net.
+evolution.gp.	0	IN	NS	ns1.sedoparking.com.
+evolution.gp.	0	IN	NS	ns2.sedoparking.com.
 evr.gp.	0	IN	NS	ns1045.ui-dns.de.
 evr.gp.	0	IN	NS	ns1045.ui-dns.biz.
 evr.gp.	0	IN	NS	ns1045.ui-dns.com.
@@ -4087,7 +4089,7 @@ privacy.gp.	0	IN	NS	dns6.cloudns.net.
 private.gp.	0	IN	NS	ns1.101domain.com.
 private.gp.	0	IN	NS	ns2.101domain.com.
 private.gp.	0	IN	NS	ns5.101domain.com.
-prixe.gp.	0	IN	NS	ip193.ip-176-31-217.eu.
+prixe.gp.	0	IN	NS	ip229.ip-46-105-36.eu.
 prixe.gp.	0	IN	NS	sdns2.ovh.net.
 procom.gp.	0	IN	NS	ns61.1and1.fr.
 procom.gp.	0	IN	NS	ns62.1and1.fr.
