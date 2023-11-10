@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699538701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699653901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -366,6 +366,8 @@ arcgis.mw.	0	IN	NS	ns6.markmonitor.com.
 arcgis.mw.	0	IN	NS	ns7.markmonitor.com.
 archdiocesebt.mw.	0	IN	NS	ns1.linthipe3.com.
 archdiocesebt.mw.	0	IN	NS	ns2.linthipe3.com.
+arconsultants.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
+arconsultants.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 arista.mw.	0	IN	NS	piers.ns.cloudflare.com.
 arista.mw.	0	IN	NS	eleanor.ns.cloudflare.com.
 aristanetworks.mw.	0	IN	NS	piers.ns.cloudflare.com.
@@ -880,6 +882,8 @@ casino.mw.	0	IN	NS	ns1.serveur02.com.
 casino.mw.	0	IN	NS	ns2.serveur02.com.
 casinocity.mw.	0	IN	NS	tegan.ns.cloudflare.com.
 casinocity.mw.	0	IN	NS	dilbert.ns.cloudflare.com.
+casinoonline.mw.	0	IN	NS	hera.ns.cloudflare.com.
+casinoonline.mw.	0	IN	NS	norman.ns.cloudflare.com.
 castel.mw.	0	IN	NS	ns01.trademarkarea.com.
 castel.mw.	0	IN	NS	ns02.trademarkarea.com.
 castel.mw.	0	IN	NS	ns03.trademarkarea.com.
@@ -2888,6 +2892,10 @@ metaworkplace.mw.	0	IN	NS	ns2.lexsynergy.us.
 metaworkplace.mw.	0	IN	NS	ns3.lexsynergy.info.
 mfc.mw.	0	IN	NS	ns1.advancenet.co.za.
 mfc.mw.	0	IN	NS	ns2.advancenet.co.za.
+mfrs.mw.	0	IN	NS	ns105.asurahosting.com.
+mfrs.mw.	0	IN	NS	ns105.my-control-panel.com.
+mfrs.mw.	0	IN	NS	ns106.asurahosting.com.
+mfrs.mw.	0	IN	NS	ns106.my-control-panel.com.
 mhc.mw.	0	IN	NS	ns1.bdsmw.com.
 mhc.mw.	0	IN	NS	ns2.bdsmw.com.
 mhc.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -4501,10 +4509,10 @@ unayoworld.mw.	0	IN	NS	ns3.lexsynergy.info.
 unesconatcom.mw.	0	IN	NS	ns1.mtlonline.mw.
 unesconatcom.mw.	0	IN	NS	ns2.mtlonline.mw.
 unesconatcom.mw.	0	IN	NS	ns3.mtlonline.mw.
-unilever.mw.	0	IN	NS	ns.bekesnet.hu.
-unilever.mw.	0	IN	NS	dns02.unilever.com.
-unilever.mw.	0	IN	NS	dns04.unilever.com.
-unilever.mw.	0	IN	NS	nautilus.marsnet.hu.
+unilever.mw.	0	IN	NS	ns1-44.azure-dns.com.
+unilever.mw.	0	IN	NS	ns2-44.azure-dns.net.
+unilever.mw.	0	IN	NS	ns3-44.azure-dns.org.
+unilever.mw.	0	IN	NS	ns4-44.azure-dns.info.
 unima.mw.	0	IN	NS	dns1.unima.mw.
 unima.mw.	0	IN	NS	domwe.sdn.mw.
 unima.mw.	0	IN	NS	nyala.sdnp.org.mw.

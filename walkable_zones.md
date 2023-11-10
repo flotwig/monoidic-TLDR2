@@ -10,6 +10,7 @@
 * `bt.`
 * `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
 * `ci.`
 * `diet.`
@@ -27,6 +28,7 @@
 * `kg.`
 * `kz.`
 * `lb.`
+* `li.`
 * `lk.`
 * `lol.`
 * `lr.`
