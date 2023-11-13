@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113090 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113092 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1549,6 +1549,7 @@ prosegurcash.ni.	0	IN	NS	raistlin.prosegur.com.
 prosegurcash.ni.	0	IN	NS	esdc1svp00116.prosegur.com.
 prosegurcash.ni.	0	IN	NS	esdc2svplo001.prosegur.com.
 prosegurcash.ni.	0	IN	NS	usdc1svp00240.prosegur.com.
+prueba.ni.	0	IN	NS	ns.ni.
 qudi.ni.	0	IN	NS	ns-140.awsdns-17.com.
 qudi.ni.	0	IN	NS	ns-980.awsdns-58.net.
 qudi.ni.	0	IN	NS	ns-1453.awsdns-53.org.

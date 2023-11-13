@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699826701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699913101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -719,8 +719,6 @@ bmw.mw.	0	IN	NS	dns1.cscdns.net.
 bmw.mw.	0	IN	NS	dns2.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns1.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns2.cscdns.net.
-bng.mw.	0	IN	NS	ns1.md-plesk-web1.webhostbox.net.
-bng.mw.	0	IN	NS	ns2.md-plesk-web1.webhostbox.net.
 boa.mw.	0	IN	NS	mrozia.mtds.com.
 boa.mw.	0	IN	NS	rfissa.mtds.com.
 bofa.mw.	0	IN	NS	ns1.netnames.net.
@@ -816,8 +814,6 @@ bwin.mw.	0	IN	NS	dns3.itsfogo.com.
 bwin.mw.	0	IN	NS	dns4.itsfogo.com.
 bwin.mw.	0	IN	NS	dns5.itsfogo.com.
 bwin.mw.	0	IN	NS	dns6.itsfogo.com.
-by.mw.	0	IN	NS	igor.ns.cloudflare.com.
-by.mw.	0	IN	NS	lara.ns.cloudflare.com.
 bytes.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
 bytes.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
 c.mw.	0	IN	NS	ns1.netim.net.
@@ -1913,8 +1909,6 @@ hbomax.mw.	0	IN	NS	ns6.markmonitor.com.
 hbomax.mw.	0	IN	NS	ns7.markmonitor.com.
 hccd.mw.	0	IN	NS	ns1.cp-34.webhostbox.net.
 hccd.mw.	0	IN	NS	ns2.cp-34.webhostbox.net.
-hcl.mw.	0	IN	NS	sns9.hostgator.in.
-hcl.mw.	0	IN	NS	sns10.hostgator.in.
 headlines.mw.	0	IN	NS	ns1.linthipe3.com.
 headlines.mw.	0	IN	NS	ns2.linthipe3.com.
 heag.mw.	0	IN	NS	ns1.cppvirtual.com.
@@ -2103,8 +2097,6 @@ ibm.mw.	0	IN	NS	ns1-99.akam.net.
 ibm.mw.	0	IN	NS	ns1-206.akam.net.
 icam.mw.	0	IN	NS	maxdns.globemw.net.
 icam.mw.	0	IN	NS	araliya.globemw.net.
-icm.mw.	0	IN	NS	domwe.sdn.mw.
-icm.mw.	0	IN	NS	nyala.sdnp.org.mw.
 icon.mw.	0	IN	NS	ns0.phase8.net.
 icon.mw.	0	IN	NS	ns1.phase8.net.
 icon.mw.	0	IN	NS	ns2.phase8.net.
@@ -2150,6 +2142,9 @@ ikea.mw.	0	IN	NS	udns1.cscdns.net.
 ikea.mw.	0	IN	NS	udns2.cscdns.uk.
 im.mw.	0	IN	NS	april.ns.cloudflare.com.
 im.mw.	0	IN	NS	brett.ns.cloudflare.com.
+ima.mw.	0	IN	NS	ns1.websiteserverbox.com.
+ima.mw.	0	IN	NS	ns2.websiteserverbox.com.
+ima.mw.	0	IN	NS	ns3.websiteserverbox.com.
 imm.mw.	0	IN	NS	ns1.bdsmw.com.
 imm.mw.	0	IN	NS	ns2.bdsmw.com.
 imm.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -3026,8 +3021,6 @@ morecast.mw.	0	IN	NS	ns6.markmonitor.com.
 morecast.mw.	0	IN	NS	ns7.markmonitor.com.
 morespace.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 morespace.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
-moringaacres.mw.	0	IN	NS	ns1.inmotionhosting.com.
-moringaacres.mw.	0	IN	NS	ns2.inmotionhosting.com.
 mot-mobility.mw.	0	IN	NS	ns1.motorolamobility.com.
 mot-mobility.mw.	0	IN	NS	ns3.motorolamobility.com.
 mota-engil.mw.	0	IN	NS	ns2.mota-engil.pt.
@@ -3147,8 +3140,8 @@ myproperty.mw.	0	IN	NS	glen.ns.cloudflare.com.
 myproperty.mw.	0	IN	NS	isla.ns.cloudflare.com.
 mytel.mw.	0	IN	NS	ns1.linthipe3.com.
 mytel.mw.	0	IN	NS	ns2.linthipe3.com.
-mzindasacco.mw.	0	IN	NS	dns1.namecheaphosting.com.
-mzindasacco.mw.	0	IN	NS	dns2.namecheaphosting.com.
+mzindasacco.mw.	0	IN	NS	ns1.nzathu.online.
+mzindasacco.mw.	0	IN	NS	ns2.nzathu.online.
 mzuzudiocese.mw.	0	IN	NS	ns1.websiteserverbox.com.
 mzuzudiocese.mw.	0	IN	NS	ns2.websiteserverbox.com.
 mzuzudiocese.mw.	0	IN	NS	ns3.websiteserverbox.com.
@@ -3286,8 +3279,10 @@ nicopensions.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 nicopensions.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 nicopensions.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 nicopensions.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
-nicotech.mw.	0	IN	NS	ns1.nicotechnologies.com.
-nicotech.mw.	0	IN	NS	ns2.nicotechnologies.com.
+nicotech.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+nicotech.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
+nicotech.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
+nicotech.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 nikon.mw.	0	IN	NS	ns1.lexsynergy.net.
 nikon.mw.	0	IN	NS	ns2.lexsynergy.us.
 nikon.mw.	0	IN	NS	ns3.lexsynergy.info.
