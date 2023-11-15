@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023111413 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023111523 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -818,6 +818,9 @@ broomfield.gp.	0	IN	NS	dns5.cloudns.net.
 broomfield.gp.	0	IN	NS	dns6.cloudns.net.
 bs.gp.	0	IN	NS	ns1.steadyhost.ru.
 bs.gp.	0	IN	NS	ns2.steadyhost.ru.
+btc.gp.	0	IN	NS	ns1.netim.net.
+btc.gp.	0	IN	NS	ns2.netim.net.
+btc.gp.	0	IN	NS	ns3.netim.net.
 btpdiscount.gp.	0	IN	NS	ns1.francedns.com.
 btpdiscount.gp.	0	IN	NS	ns2.francedns.com.
 btpdiscount.gp.	0	IN	NS	ns3.francedns.com.
@@ -1405,6 +1408,9 @@ doctrine.gp.	0	IN	NS	ns-142-c.gandi.net.
 doctrine.gp.	0	IN	NS	ns-211-b.gandi.net.
 docusign.gp.	0	IN	NS	ns1.markmonitor.com.
 docusign.gp.	0	IN	NS	ns3.markmonitor.com.
+doge.gp.	0	IN	NS	ns1.netim.net.
+doge.gp.	0	IN	NS	ns2.netim.net.
+doge.gp.	0	IN	NS	ns3.netim.net.
 dolcegabbanacasa.gp.	0	IN	NS	ns1.register.it.
 dolcegabbanacasa.gp.	0	IN	NS	ns2.register.it.
 dolibarr.gp.	0	IN	NS	ns1.cloudns.net.

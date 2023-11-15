@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1699999501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700085901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1394,8 +1394,8 @@ elds.mw.	0	IN	NS	ns1.inmotionhosting.com.
 elds.mw.	0	IN	NS	ns2.inmotionhosting.com.
 electro.mw.	0	IN	NS	ns1.101domain.com.
 electro.mw.	0	IN	NS	ns2.101domain.com.
-electrolux.mw.	0	IN	NS	ns.electrolux.se.
-electrolux.mw.	0	IN	NS	ns.domainnetwork.se.
+electrolux.mw.	0	IN	NS	udns1.cscdns.net.
+electrolux.mw.	0	IN	NS	udns2.cscdns.uk.
 electronics4u.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
 electronics4u.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 elitecreations.mw.	0	IN	NS	ruben.ns.cloudflare.com.
@@ -4510,7 +4510,6 @@ unilever.mw.	0	IN	NS	ns1-44.azure-dns.com.
 unilever.mw.	0	IN	NS	ns2-44.azure-dns.net.
 unilever.mw.	0	IN	NS	ns3-44.azure-dns.org.
 unilever.mw.	0	IN	NS	ns4-44.azure-dns.info.
-unima.mw.	0	IN	NS	dns1.unima.mw.
 unima.mw.	0	IN	NS	domwe.sdn.mw.
 unima.mw.	0	IN	NS	nyala.sdnp.org.mw.
 unima.mw.	0	IN	NS	malonje.cc.ac.mw.
@@ -4709,8 +4708,9 @@ winstonandrichard.mw.	0	IN	NS	ns3.bdsmw.com.
 winstonandrichard.mw.	0	IN	NS	ns4.bdsmw.com.
 wiseapp.mw.	0	IN	NS	ns1.dns-parking.com.
 wiseapp.mw.	0	IN	NS	ns2.dns-parking.com.
-wm.mw.	0	IN	NS	ian.ns.cloudflare.com.
-wm.mw.	0	IN	NS	kiki.ns.cloudflare.com.
+wm.mw.	0	IN	NS	ns1.netim.net.
+wm.mw.	0	IN	NS	ns2.netim.net.
+wm.mw.	0	IN	NS	ns3.netim.net.
 wma.mw.	0	IN	NS	ns1.bluehost.com.
 wma.mw.	0	IN	NS	ns2.bluehost.com.
 wolflubes.mw.	0	IN	NS	ns1.brandshelter.com.
