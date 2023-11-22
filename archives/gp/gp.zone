@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023112018 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023112216 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -479,8 +479,10 @@ atec.gp.	0	IN	NS	dns5.cloudns.net.
 atec.gp.	0	IN	NS	dns6.cloudns.net.
 atemp.gp.	0	IN	NS	art.ns.cloudflare.com.
 atemp.gp.	0	IN	NS	coco.ns.cloudflare.com.
-atlas.gp.	0	IN	NS	dns1.cloudns.net.
-atlas.gp.	0	IN	NS	dns2.cloudns.net.
+atlas.gp.	0	IN	NS	ns-446.awsdns-55.com.
+atlas.gp.	0	IN	NS	ns-813.awsdns-37.net.
+atlas.gp.	0	IN	NS	ns-1340.awsdns-39.org.
+atlas.gp.	0	IN	NS	ns-2046.awsdns-63.co.uk.
 au.gp.	0	IN	NS	ns1.website.org.
 au.gp.	0	IN	NS	ns2.website.org.
 aubade.gp.	0	IN	NS	ns1.brandshelter.com.
@@ -1914,11 +1916,8 @@ fraikin.gp.	0	IN	NS	s01.zone-srv.net.
 fraikin.gp.	0	IN	NS	s11.zone-srv.net.
 franceantilles.gp.	0	IN	NS	dns1.sdv.fr.
 franceantilles.gp.	0	IN	NS	dns2.sdv.fr.
-franke.gp.	0	IN	NS	ns1.aspectra.com.
-franke.gp.	0	IN	NS	ns1.rrpproxy.net.
-franke.gp.	0	IN	NS	ns2.aspectra.com.
-franke.gp.	0	IN	NS	ns2.rrpproxy.net.
-franke.gp.	0	IN	NS	ns3.rrpproxy.net.
+franke.gp.	0	IN	NS	a.portsdns.se.
+franke.gp.	0	IN	NS	b.portsdns.net.
 freasylog.gp.	0	IN	NS	ns103.ovh.net.
 freasylog.gp.	0	IN	NS	dns103.ovh.net.
 free.gp.	0	IN	NS	ns2.proxad.net.
@@ -2112,10 +2111,8 @@ goldman-sachs.gp.	0	IN	NS	dns1.cscdns.net.
 goldman-sachs.gp.	0	IN	NS	dns2.cscdns.net.
 goldmansachs.gp.	0	IN	NS	dns1.cscdns.net.
 goldmansachs.gp.	0	IN	NS	dns2.cscdns.net.
-goldpassport.gp.	0	IN	NS	ns1.brandsight-dns.com.
-goldpassport.gp.	0	IN	NS	ns1.brandsight-dns.net.
-goldpassport.gp.	0	IN	NS	ns2.brandsight-dns.com.
-goldpassport.gp.	0	IN	NS	ns2.brandsight-dns.net.
+goldpassport.gp.	0	IN	NS	ns07.gcd-dns.com.
+goldpassport.gp.	0	IN	NS	ns08.gcd-dns.com.
 gong.gp.	0	IN	NS	dns1.cloudns.net.
 gong.gp.	0	IN	NS	dns2.cloudns.net.
 goodpeople.gp.	0	IN	NS	ns1.mchost.ru.
@@ -2402,10 +2399,8 @@ hsf.gp.	0	IN	NS	ns1.amenworld.com.
 hsf.gp.	0	IN	NS	ns2.amenworld.com.
 hu.gp.	0	IN	NS	ns1.website.org.
 hu.gp.	0	IN	NS	ns2.website.org.
-hyatt.gp.	0	IN	NS	ns1.brandsight-dns.com.
-hyatt.gp.	0	IN	NS	ns1.brandsight-dns.net.
-hyatt.gp.	0	IN	NS	ns2.brandsight-dns.com.
-hyatt.gp.	0	IN	NS	ns2.brandsight-dns.net.
+hyatt.gp.	0	IN	NS	ns07.gcd-dns.com.
+hyatt.gp.	0	IN	NS	ns08.gcd-dns.com.
 hydro.gp.	0	IN	NS	ns1.ascio.com.
 hydro.gp.	0	IN	NS	ns2.ascio.com.
 hydro.gp.	0	IN	NS	ns3.ascio.com.
@@ -2797,6 +2792,8 @@ la-banque-postale-assurances.gp.	0	IN	NS	obs.ns1.fr.
 la-banque-postale-assurances-iard.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 la-banque-postale-assurances-iard.gp.	0	IN	NS	ns3.nameshield.net.
 la-banque-postale-assurances-iard.gp.	0	IN	NS	obs.ns1.fr.
+la-francaise.gp.	0	IN	NS	dns1.cscdns.net.
+la-francaise.gp.	0	IN	NS	dns2.cscdns.net.
 la-halle.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 la-halle.gp.	0	IN	NS	ns3.nameshield.net.
 la-halle.gp.	0	IN	NS	obs.ns1.fr.
@@ -4107,8 +4104,6 @@ private.gp.	0	IN	NS	ns2.101domain.com.
 private.gp.	0	IN	NS	ns5.101domain.com.
 prixe.gp.	0	IN	NS	ip229.ip-46-105-36.eu.
 prixe.gp.	0	IN	NS	sdns2.ovh.net.
-prixe2.gp.	0	IN	NS	ip229.ip-46-105-36.eu.
-prixe2.gp.	0	IN	NS	sdns2.ovh.net.
 procom.gp.	0	IN	NS	ns61.1and1.fr.
 procom.gp.	0	IN	NS	ns62.1and1.fr.
 promidom.gp.	0	IN	NS	ns10.ovh.net.
@@ -5128,6 +5123,9 @@ upjohn.gp.	0	IN	NS	ns3.p15.dynect.net.
 upjohn.gp.	0	IN	NS	ns4.p15.dynect.net.
 ups.gp.	0	IN	NS	dns1.cscdns.net.
 ups.gp.	0	IN	NS	dns2.cscdns.net.
+urbaclotp.gp.	0	IN	NS	ns1.netim.net.
+urbaclotp.gp.	0	IN	NS	ns10.wixdns.net.
+urbaclotp.gp.	0	IN	NS	ns11.wixdns.net.
 usa.gp.	0	IN	NS	ns1.30ww.com.
 usa.gp.	0	IN	NS	ns2.30ww.com.
 uz.gp.	0	IN	NS	ns1.website.org.
@@ -5497,8 +5495,8 @@ za.gp.	0	IN	NS	ns1.website.org.
 za.gp.	0	IN	NS	ns2.website.org.
 zalando.gp.	0	IN	NS	ns01.brandshelter.com.
 zalando.gp.	0	IN	NS	ns02.brandshelter.net.
-zanussi.gp.	0	IN	NS	ns.electrolux.se.
-zanussi.gp.	0	IN	NS	ns2.domainnetwork.se.
+zanussi.gp.	0	IN	NS	udns1.cscdns.net.
+zanussi.gp.	0	IN	NS	udns2.cscdns.uk.
 zefirent.gp.	0	IN	NS	ns1.netim.net.
 zefirent.gp.	0	IN	NS	ns2.netim.net.
 zefirent.gp.	0	IN	NS	ns3.netim.net.

@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113098 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113099 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -2000,5 +2000,5 @@ zoetis.ni.	0	IN	NS	edns4.ultradns.biz.
 zoetis.ni.	0	IN	NS	edns4.ultradns.com.
 zoetis.ni.	0	IN	NS	edns4.ultradns.net.
 zoetis.ni.	0	IN	NS	edns4.ultradns.org.
-zumtobel.ni.	0	IN	NS	ns1.zgrp.net.
-zumtobel.ni.	0	IN	NS	ns2.zgrp.net.
+zumtobel.ni.	0	IN	NS	meadow.ns.cloudflare.com.
+zumtobel.ni.	0	IN	NS	thaddeus.ns.cloudflare.com.
