@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700690701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700777101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1101,6 +1101,10 @@ corp.mw.	0	IN	NS	ns-57.awsdns-07.com.
 corp.mw.	0	IN	NS	ns-746.awsdns-29.net.
 corp.mw.	0	IN	NS	ns-1136.awsdns-14.org.
 corp.mw.	0	IN	NS	ns-1894.awsdns-44.co.uk.
+cosoma.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+cosoma.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
+cosoma.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
+cosoma.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 cost.mw.	0	IN	NS	cns2007.webhostbox.net.
 cost.mw.	0	IN	NS	cns2008.webhostbox.net.
 costantini.mw.	0	IN	NS	proxy2.africa-online.net.
@@ -1892,8 +1896,10 @@ hccd.mw.	0	IN	NS	ns1.cp-34.webhostbox.net.
 hccd.mw.	0	IN	NS	ns2.cp-34.webhostbox.net.
 headlines.mw.	0	IN	NS	ns1.linthipe3.com.
 headlines.mw.	0	IN	NS	ns2.linthipe3.com.
-heag.mw.	0	IN	NS	ns1.cppvirtual.com.
-heag.mw.	0	IN	NS	ns2.cppvirtual.com.
+heag.mw.	0	IN	NS	ns1.yourdomain.co.za.
+heag.mw.	0	IN	NS	ns2.yourdomain.co.za.
+heag.mw.	0	IN	NS	ns3.yourdomain.co.za.
+heag.mw.	0	IN	NS	ns4.yourdomain.co.za.
 health-gov.mw.	0	IN	NS	thor.ns.1-grid.co.uk.
 health-gov.mw.	0	IN	NS	thor.ns.1-grid.co.za.
 health-gov.mw.	0	IN	NS	thor.ns.1-grid.com.

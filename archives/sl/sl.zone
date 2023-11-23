@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915175787 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915175940 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1700696703"
+sl.	0	IN	TXT	"Generation Time: 1700783112"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -20,11 +20,6 @@ sl.	0	IN	DNSKEY	257 3 7 AwEAAfHhW4FXfxF41FuOfzmFu+lphl7YE4Q9nS+vcfuSYXsDdp1sHSOb
 101domains.sl.	0	IN	NS	ns5.101domain.com.
 190.sl.	0	IN	NS	ns.namespace4you.com.
 190.sl.	0	IN	NS	ns2.namespace4you.com.
-1bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-1bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-1bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-1bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-1bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 1click.sl.	0	IN	NS	ns1.nic.sl.
 1click.sl.	0	IN	NS	ns2.nic.sl.
 1xbet.sl.	0	IN	NS	dana.ns.cloudflare.com.
@@ -47,49 +42,19 @@ sl.	0	IN	DNSKEY	257 3 7 AwEAAfHhW4FXfxF41FuOfzmFu+lphl7YE4Q9nS+vcfuSYXsDdp1sHSOb
 22bet.sl.	0	IN	NS	ns01.trademarkarea.com.
 22bet.sl.	0	IN	NS	ns02.trademarkarea.com.
 22bet.sl.	0	IN	NS	ns03.trademarkarea.com.
-2bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-2bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-2bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-2bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-2bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 300.sl.	0	IN	NS	ns.namespace4you.com.
 300.sl.	0	IN	NS	ns2.namespace4you.com.
 360intelligence.sl.	0	IN	NS	ns1.bluehost.com.
 360intelligence.sl.	0	IN	NS	ns2.bluehost.com.
 360softcorp.sl.	0	IN	NS	ns1.bluehost.com.
 360softcorp.sl.	0	IN	NS	ns2.bluehost.com.
-3bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-3bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-3bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-3bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-3bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 3pagen.sl.	0	IN	NS	ns1.delink.de.
 3pagen.sl.	0	IN	NS	ns2.delink.de.
 3pagen.sl.	0	IN	NS	ns3.delink.de.
 3pagen.sl.	0	IN	NS	ns4.delink.de.
-4bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-4bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-4bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-4bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-4bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 511tactical.sl.	0	IN	NS	ns1.markmonitor.com.
 511tactical.sl.	0	IN	NS	ns3.markmonitor.com.
 511tactical.sl.	0	IN	NS	ns5.markmonitor.com.
-5bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-5bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-5bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-5bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-5bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
-6bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-6bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-6bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-6bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-6bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
-7bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-7bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-7bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-7bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-7bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 7eleven.sl.	0	IN	NS	ns140.slinkdns.net.
 7eleven.sl.	0	IN	NS	ns141.slinkdns.net.
 888.sl.	0	IN	NS	ns1.dns.com.
@@ -112,11 +77,6 @@ sl.	0	IN	DNSKEY	257 3 7 AwEAAfHhW4FXfxF41FuOfzmFu+lphl7YE4Q9nS+vcfuSYXsDdp1sHSOb
 888sport.sl.	0	IN	NS	dns1.idp365.net.
 888sport.sl.	0	IN	NS	dns2.idp365.net.
 888sport.sl.	0	IN	NS	dns3.idp365.net.
-8bena.sl.	0	IN	NS	freedns1.registrar-servers.com.
-8bena.sl.	0	IN	NS	freedns2.registrar-servers.com.
-8bena.sl.	0	IN	NS	freedns3.registrar-servers.com.
-8bena.sl.	0	IN	NS	freedns4.registrar-servers.com.
-8bena.sl.	0	IN	NS	freedns5.registrar-servers.com.
 aamedia.sl.	0	IN	NS	ns1.afcom.sl.
 aamedia.sl.	0	IN	NS	ns2.afcom.sl.
 abacha.sl.	0	IN	NS	ns10.angoweb.biz.
@@ -2768,8 +2728,6 @@ limkokwing.sl.	0	IN	NS	ns1.nic.sl.
 limkokwing.sl.	0	IN	NS	ns2.nic.sl.
 linde.sl.	0	IN	NS	udns1.cscdns.net.
 linde.sl.	0	IN	NS	udns2.cscdns.uk.
-linde-healthcare.sl.	0	IN	NS	udns1.cscdns.net.
-linde-healthcare.sl.	0	IN	NS	udns2.cscdns.uk.
 link.sl.	0	IN	NS	ns1.instradns.com.
 link.sl.	0	IN	NS	ns2.instradns.com.
 link.sl.	0	IN	NS	ns3.instradns.com.
@@ -3317,9 +3275,6 @@ nextstep.sl.	0	IN	NS	ns1.dns-parking.com.
 nextstep.sl.	0	IN	NS	ns2.dns-parking.com.
 nftc.sl.	0	IN	NS	ns1.afcom.sl.
 nftc.sl.	0	IN	NS	ns2.afcom.sl.
-nfts.sl.	0	IN	NS	ns1.netim.net.
-nfts.sl.	0	IN	NS	ns2.netim.net.
-nfts.sl.	0	IN	NS	ns3.netim.net.
 ngcsl.sl.	0	IN	NS	ns1.nic.sl.
 ngcsl.sl.	0	IN	NS	ns2.nic.sl.
 nght.sl.	0	IN	NS	ns.udag.de.
@@ -4585,9 +4540,6 @@ stn.sl.	0	IN	NS	ns-cloud-b1.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b2.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b3.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b4.googledomains.com.
-story.sl.	0	IN	NS	ns1.netim.net.
-story.sl.	0	IN	NS	ns2.netim.net.
-story.sl.	0	IN	NS	ns3.netim.net.
 streamlineconsultancy.sl.	0	IN	NS	ns0.ukfast.net.
 streamlineconsultancy.sl.	0	IN	NS	ns1.ukfast.net.
 streetchild.sl.	0	IN	NS	ns1.mysecurecloudhost.com.
@@ -5307,10 +5259,6 @@ yggdr.sl.	0	IN	NS	ns3.dynu.com.
 yggdr.sl.	0	IN	NS	ns4.dynu.com.
 yggdr.sl.	0	IN	NS	ns5.dynu.com.
 yggdr.sl.	0	IN	NS	ns6.dynu.com.
-yobuco.sl.	0	IN	NS	a.ns14.net.
-yobuco.sl.	0	IN	NS	b.ns14.net.
-yobuco.sl.	0	IN	NS	c.ns14.net.
-yobuco.sl.	0	IN	NS	d.ns14.net.
 yotta.sl.	0	IN	NS	ns1.cloudsector.net.
 yotta.sl.	0	IN	NS	ns2.cloudsector.net.
 youtube.sl.	0	IN	NS	ns1.google.com.
