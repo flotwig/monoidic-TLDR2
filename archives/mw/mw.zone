@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700777101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1700863501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -181,8 +181,8 @@ adsgoogle.mw.	0	IN	NS	ns1.markmonitor.com.
 adsgoogle.mw.	0	IN	NS	ns3.markmonitor.com.
 adziwa.mw.	0	IN	NS	ben.ns.cloudflare.com.
 adziwa.mw.	0	IN	NS	tori.ns.cloudflare.com.
-aeg.mw.	0	IN	NS	ns.electrolux.se.
-aeg.mw.	0	IN	NS	ns2.domainnetwork.se.
+aeg.mw.	0	IN	NS	udns1.cscdns.net.
+aeg.mw.	0	IN	NS	udns2.cscdns.uk.
 afcftamalawiforum.mw.	0	IN	NS	rs74a.registrar-servers.com.
 afcftamalawiforum.mw.	0	IN	NS	rs74b.registrar-servers.com.
 afilias.mw.	0	IN	NS	ns1.101domain.com.
@@ -2478,8 +2478,6 @@ lafargeholcim.mw.	0	IN	NS	ns02ch.holcim.com.
 lafargeholcimgroup.mw.	0	IN	NS	ns01ch.holcim.com.
 lafargeholcimgroup.mw.	0	IN	NS	ns01us.holcim.com.
 lafargeholcimgroup.mw.	0	IN	NS	ns02ch.holcim.com.
-lamerepoulard-lemontsaintmichel.mw.	0	IN	NS	dns1.namebay.com.
-lamerepoulard-lemontsaintmichel.mw.	0	IN	NS	dns2.namebay.com.
 landrover.mw.	0	IN	NS	ns1.hostinger.web.tr.
 landrover.mw.	0	IN	NS	ns2.hostinger.web.tr.
 landrover.mw.	0	IN	NS	ns3.hostinger.web.tr.
@@ -4792,8 +4790,8 @@ zakudimba.mw.	0	IN	NS	domwe.sdn.mw.
 zakudimba.mw.	0	IN	NS	nyala.sdnp.org.mw.
 zalando.mw.	0	IN	NS	ns01.brandshelter.com.
 zalando.mw.	0	IN	NS	ns02.brandshelter.net.
-zanussi.mw.	0	IN	NS	ns.electrolux.se.
-zanussi.mw.	0	IN	NS	ns2.domainnetwork.se.
+zanussi.mw.	0	IN	NS	udns1.cscdns.net.
+zanussi.mw.	0	IN	NS	udns2.cscdns.uk.
 zapzap.mw.	0	IN	NS	ns1.instradns.com.
 zapzap.mw.	0	IN	NS	ns2.instradns.com.
 zapzap.mw.	0	IN	NS	ns3.instradns.com.
