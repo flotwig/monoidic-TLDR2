@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701036301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701122701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -802,8 +802,6 @@ business-build-on-trust.mw.	0	IN	NS	ns1.linthipe3.com.
 business-build-on-trust.mw.	0	IN	NS	ns2.linthipe3.com.
 businesspartners.mw.	0	IN	NS	ns1.iafrica.com.
 businesspartners.mw.	0	IN	NS	ns2.iafrica.com.
-buymalawi.mw.	0	IN	NS	ruben.ns.cloudflare.com.
-buymalawi.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 bwb.mw.	0	IN	NS	ns1.bdsmw.com.
 bwb.mw.	0	IN	NS	ns2.bdsmw.com.
 bwin.mw.	0	IN	NS	dns1.itsfogo.com.
@@ -1637,10 +1635,6 @@ flyingblue.mw.	0	IN	NS	ns1.eurodns.com.
 flyingblue.mw.	0	IN	NS	ns2.eurodns.com.
 flyingblue.mw.	0	IN	NS	ns3.eurodns.com.
 flyingblue.mw.	0	IN	NS	ns4.eurodns.com.
-fmm.mw.	0	IN	NS	ns1.bdsmw.com.
-fmm.mw.	0	IN	NS	ns2.bdsmw.com.
-fmm.mw.	0	IN	NS	ns3.bdsmw.com.
-fmm.mw.	0	IN	NS	ns4.bdsmw.com.
 fnb.mw.	0	IN	NS	ns01.fnbconnect.co.za.
 fnb.mw.	0	IN	NS	ns02.fnbconnect.co.za.
 fnb.mw.	0	IN	NS	ns03.fnbconnect.co.za.
@@ -1879,8 +1873,9 @@ harrypotter.mw.	0	IN	NS	ns3-b1.warnerbros.com.
 harrypotter.mw.	0	IN	NS	ns4-b1.warnerbros.com.
 hashtagfitness.mw.	0	IN	NS	proxy2.africa-online.net.
 hashtagfitness.mw.	0	IN	NS	proxy3.africa-online.net.
-haval.mw.	0	IN	NS	ns1.bluehost.com.
-haval.mw.	0	IN	NS	ns2.bluehost.com.
+haval.mw.	0	IN	NS	ns1.instradns.com.
+haval.mw.	0	IN	NS	ns2.instradns.com.
+haval.mw.	0	IN	NS	ns3.instradns.com.
 hbet.mw.	0	IN	NS	ns1.101domain.com.
 hbet.mw.	0	IN	NS	ns2.101domain.com.
 hbets.mw.	0	IN	NS	ns1.101domain.com.
@@ -2550,8 +2545,6 @@ lk.mw.	0	IN	NS	ns1.101domain.com.
 lk.mw.	0	IN	NS	ns2.101domain.com.
 lloyds.mw.	0	IN	NS	udns1.cscdns.net.
 lloyds.mw.	0	IN	NS	udns2.cscdns.uk.
-lltcsacco.mw.	0	IN	NS	proxy2.africa-online.net.
-lltcsacco.mw.	0	IN	NS	proxy3.africa-online.net.
 locusdax.mw.	0	IN	NS	ns1.blueside.co.kr.
 locusdax.mw.	0	IN	NS	ns2.blueside.co.kr.
 lojiksol.mw.	0	IN	NS	ns1.bluehost.com.
@@ -2686,8 +2679,6 @@ maltech.mw.	0	IN	NS	ns1.supercp.com.
 maltech.mw.	0	IN	NS	ns2.supercp.com.
 maltech.mw.	0	IN	NS	ns3.supercp.com.
 maltech.mw.	0	IN	NS	ns4.supercp.com.
-mamls.mw.	0	IN	NS	ns1.bluehost.com.
-mamls.mw.	0	IN	NS	ns2.bluehost.com.
 mamn.mw.	0	IN	NS	ruben.ns.cloudflare.com.
 mamn.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 manaso.mw.	0	IN	NS	sns37.hostgator.in.
@@ -2921,8 +2912,9 @@ mitc.mw.	0	IN	NS	ns1.inmotionhosting.com.
 mitc.mw.	0	IN	NS	ns2.inmotionhosting.com.
 mitra.mw.	0	IN	NS	proxy2.africa-online.net.
 mitra.mw.	0	IN	NS	proxy3.africa-online.net.
-mitsubishi-motors.mw.	0	IN	NS	ns1.bluehost.com.
-mitsubishi-motors.mw.	0	IN	NS	ns2.bluehost.com.
+mitsubishi-motors.mw.	0	IN	NS	ns1.instradns.com.
+mitsubishi-motors.mw.	0	IN	NS	ns2.instradns.com.
+mitsubishi-motors.mw.	0	IN	NS	ns3.instradns.com.
 mix.mw.	0	IN	NS	domwe.sdn.mw.
 mix.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mix.mw.	0	IN	NS	chambo.sdnp.org.mw.
