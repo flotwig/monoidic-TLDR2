@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023112723 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023112818 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -284,8 +284,8 @@ airwell.gp.	0	IN	NS	ns-166-b.gandi.net.
 airwell.gp.	0	IN	NS	ns-178-c.gandi.net.
 aixam.gp.	0	IN	NS	sdns2.ovh.net.
 aixam.gp.	0	IN	NS	91-121-34-237.ovh.net.
-aka.gp.	0	IN	NS	ns1.mediatemple.net.
-aka.gp.	0	IN	NS	ns2.mediatemple.net.
+aka.gp.	0	IN	NS	ip168.ip-91-121-63.eu.
+aka.gp.	0	IN	NS	sdns2.ovh.net.
 akzonobel.gp.	0	IN	NS	ns1.akzonobel.com.
 akzonobel.gp.	0	IN	NS	ns2.akzonobel.com.
 akzonobel.gp.	0	IN	NS	ns3.akzonobel.com.
