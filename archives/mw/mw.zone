@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701295502 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701468301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -192,6 +192,10 @@ africamagic.mw.	0	IN	NS	ns1.mweb.co.za.
 africamagic.mw.	0	IN	NS	ns2.mweb.co.za.
 africanheritage.mw.	0	IN	NS	ns35.csv-networks.nl.
 africanheritage.mw.	0	IN	NS	ns36.csv-networks.nl.
+afrika.mw.	0	IN	NS	ns1.bdsmw.com.
+afrika.mw.	0	IN	NS	ns2.bdsmw.com.
+afrika.mw.	0	IN	NS	ns3.bdsmw.com.
+afrika.mw.	0	IN	NS	ns4.bdsmw.com.
 afrimax.mw.	0	IN	NS	ns35.namehero.net.
 afrimax.mw.	0	IN	NS	ns36.namehero.net.
 afritrack.mw.	0	IN	NS	ns1.afritrack.com.
@@ -1173,9 +1177,6 @@ daimler-ag.mw.	0	IN	NS	ns3.corpinter.net.
 daimler-ag.mw.	0	IN	NS	ns4.corpinter.de.
 dalechatea.mw.	0	IN	NS	170.ns1.above.com.
 dalechatea.mw.	0	IN	NS	170.ns2.above.com.
-dao.mw.	0	IN	NS	ns1.netim.net.
-dao.mw.	0	IN	NS	ns2.netim.net.
-dao.mw.	0	IN	NS	ns3.netim.net.
 dars.mw.	0	IN	NS	ns95.websitewelcome.com.
 dars.mw.	0	IN	NS	ns96.websitewelcome.com.
 daruliftaa.mw.	0	IN	NS	ns1.dns-h.com.
@@ -3927,6 +3928,8 @@ sgw.mw.	0	IN	NS	dns1.supremedns.com.
 sgw.mw.	0	IN	NS	dns2.supremedns.com.
 shaanti.mw.	0	IN	NS	proxy2.africa-online.net.
 shaanti.mw.	0	IN	NS	proxy3.africa-online.net.
+sharecarevet.mw.	0	IN	NS	domwe.sdn.mw.
+sharecarevet.mw.	0	IN	NS	nyala.sdnp.org.mw.
 sheenainvestments.mw.	0	IN	NS	domwe.sdn.mw.
 sheenainvestments.mw.	0	IN	NS	nyala.sdnp.org.mw.
 shell.mw.	0	IN	NS	dns1.shell.com.
@@ -4034,13 +4037,10 @@ spareroom.mw.	0	IN	NS	ns1.instradns.com.
 spareroom.mw.	0	IN	NS	ns2.instradns.com.
 specsavers.mw.	0	IN	NS	dns1.cscdns.net.
 specsavers.mw.	0	IN	NS	dns2.cscdns.net.
-spikevax.mw.	0	IN	NS	ns1.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns2.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns3.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns4.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns5.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns6.markmonitor.com.
-spikevax.mw.	0	IN	NS	ns7.markmonitor.com.
+spikevax.mw.	0	IN	NS	ha1.markmonitor.zone.
+spikevax.mw.	0	IN	NS	ha2.markmonitor.zone.
+spikevax.mw.	0	IN	NS	ha3.markmonitor.zone.
+spikevax.mw.	0	IN	NS	ha4.markmonitor.zone.
 spinpalace.mw.	0	IN	NS	ns1.instradns.com.
 spinpalace.mw.	0	IN	NS	ns2.instradns.com.
 spinpalacecasino.mw.	0	IN	NS	ns1.instradns.com.
@@ -4769,6 +4769,8 @@ youtube.mw.	0	IN	NS	ns1.google.com.
 youtube.mw.	0	IN	NS	ns2.google.com.
 youtube.mw.	0	IN	NS	ns3.google.com.
 youtube.mw.	0	IN	NS	ns4.google.com.
+yoza.mw.	0	IN	NS	micah.ns.cloudflare.com.
+yoza.mw.	0	IN	NS	fatima.ns.cloudflare.com.
 yutong.mw.	0	IN	NS	ns1.gxkjdns.com.
 yutong.mw.	0	IN	NS	ns2.gxkjdns.com.
 z.mw.	0	IN	NS	ns1.netim.net.
