@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023120409 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023120509 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -19,6 +19,8 @@ xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc.	0	IN	NS	dns5.centriohost.com.
 xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc.	0	IN	NS	dns6.centriohost.com.
 xn--15bnfow6ej1i.xn--54b7fta0cc.	0	IN	NS	ns1.a2iservices.gov.bd.
 xn--15bnfow6ej1i.xn--54b7fta0cc.	0	IN	NS	ns2.a2iservices.gov.bd.
+xn--15brq5cbms.xn--54b7fta0cc.	0	IN	NS	ns5.eicra.net.
+xn--15brq5cbms.xn--54b7fta0cc.	0	IN	NS	ns6.eicra.net.
 xn--15bw9a1abb.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--15bw9a1abb.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--35bnlj1b2bza0gd.xn--54b7fta0cc.	0	IN	NS	ns1.hostmight.com.
@@ -357,8 +359,6 @@ xn--c5b7dta6d.xn--54b7fta0cc.	0	IN	NS	ns1.dns360.co.uk.
 xn--c5b7dta6d.xn--54b7fta0cc.	0	IN	NS	ns2.dns360.co.uk.
 xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
-xn--d5b2b8a1fsjma.xn--54b7fta0cc.	0	IN	NS	ns1.whitednszone.com.
-xn--d5b2b8a1fsjma.xn--54b7fta0cc.	0	IN	NS	ns2.whitednszone.com.
 xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc.	0	IN	NS	conrad.ns.cloudflare.com.
 xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc.	0	IN	NS	clarissa.ns.cloudflare.com.
 xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc.	0	IN	NS	conrad.ns.cloudflare.com.
@@ -382,8 +382,8 @@ xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.inf
 xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
 xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
-xn--d5by7bap7cc3ici3m.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
-xn--d5by7bap7cc3ici3m.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc.	0	IN	NS	kobe.ns.cloudflare.com.
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc.	0	IN	NS	maisie.ns.cloudflare.com.
 xn--d5by8di3f.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--d5by8di3f.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc.	0	IN	NS	conrad.ns.cloudflare.com.
