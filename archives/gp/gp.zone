@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120413 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120516 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -943,6 +943,8 @@ carglass.gp.	0	IN	NS	dns1.cscdns.net.
 carglass.gp.	0	IN	NS	dns2.cscdns.net.
 cariblog.gp.	0	IN	NS	ns103.ovh.net.
 cariblog.gp.	0	IN	NS	dns103.ovh.net.
+cariforts.gp.	0	IN	NS	ns1-fr.mediaserv.net.
+cariforts.gp.	0	IN	NS	ns1-gp.mediaserv.net.
 caro.gp.	0	IN	NS	ns101.cloudns.net.
 caro.gp.	0	IN	NS	ns102.cloudns.net.
 caro.gp.	0	IN	NS	ns103.cloudns.net.
@@ -4616,6 +4618,10 @@ skyscanner.gp.	0	IN	NS	ns6.netnames.net.
 slg.gp.	0	IN	NS	ns1.netim.net.
 slg.gp.	0	IN	NS	ns2.netim.net.
 slg.gp.	0	IN	NS	ns3.netim.net.
+slink.gp.	0	IN	NS	ns1-38.azure-dns.com.
+slink.gp.	0	IN	NS	ns2-38.azure-dns.net.
+slink.gp.	0	IN	NS	ns3-38.azure-dns.org.
+slink.gp.	0	IN	NS	ns4-38.azure-dns.info.
 smart.gp.	0	IN	NS	ns1.corpinter.net.
 smart.gp.	0	IN	NS	ns2.corpinter.de.
 smart.gp.	0	IN	NS	ns3.corpinter.net.
@@ -5433,6 +5439,9 @@ yahoo.gp.	0	IN	NS	ns1.yahoo.com.
 yahoo.gp.	0	IN	NS	ns2.yahoo.com.
 yahoo.gp.	0	IN	NS	ns3.yahoo.com.
 yahoo.gp.	0	IN	NS	ns5.yahoo.com.
+yanaya.gp.	0	IN	NS	ns-62-a.gandi.net.
+yanaya.gp.	0	IN	NS	ns-86-b.gandi.net.
+yanaya.gp.	0	IN	NS	ns-104-c.gandi.net.
 yara.gp.	0	IN	NS	dns1.cscdns.net.
 yara.gp.	0	IN	NS	dns2.cscdns.net.
 yellowpages.gp.	0	IN	NS	ns1.dns24.net.
