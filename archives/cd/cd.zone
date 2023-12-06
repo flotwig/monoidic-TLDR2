@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023120522 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2023120622 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1701815020"
+cd.	0	IN	TXT	"Generation Time: 1701901483"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -446,7 +446,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1701815022"
+ac.cd.	0	IN	TXT	"Generation Time: 1701901485"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -1464,8 +1464,10 @@ amisdemapon.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 amisdemapon.cd.	0	IN	NS	arch.ns.cloudflare.com.
 amkc.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 amkc.cd.	0	IN	NS	arch.ns.cloudflare.com.
-amour.cd.	0	IN	NS	ns8211.hostgator.com.
-amour.cd.	0	IN	NS	ns8212.hostgator.com.
+amour.cd.	0	IN	NS	ns1.ibrave.host.
+amour.cd.	0	IN	NS	ns2.ibrave.host.
+amour.cd.	0	IN	NS	ns3.ibrave.host.
+amour.cd.	0	IN	NS	ns4.ibrave.host.
 amplifier.cd.	0	IN	NS	ns1.es43.siteground.eu.
 amplifier.cd.	0	IN	NS	ns2.es43.siteground.eu.
 amstel.cd.	0	IN	NS	dns1.cscdns.net.
@@ -4052,7 +4054,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1701815022"
+com.cd.	0	IN	TXT	"Generation Time: 1701901485"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -4789,8 +4791,10 @@ culligan.cd.	0	IN	NS	ns5.netnames.net.
 culligan.cd.	0	IN	NS	ns6.netnames.net.
 culto.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 culto.cd.	0	IN	NS	arch.ns.cloudflare.com.
-culture.cd.	0	IN	NS	ns8211.hostgator.com.
-culture.cd.	0	IN	NS	ns8212.hostgator.com.
+culture.cd.	0	IN	NS	ns1.ibrave.host.
+culture.cd.	0	IN	NS	ns2.ibrave.host.
+culture.cd.	0	IN	NS	ns3.ibrave.host.
+culture.cd.	0	IN	NS	ns4.ibrave.host.
 cumulard.cd.	0	IN	NS	ns1.o2switch.net.
 cumulard.cd.	0	IN	NS	ns2.o2switch.net.
 cuomedecins-kin.cd.	0	IN	NS	ns1.dns-parking.com.
@@ -5810,7 +5814,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1701815022"
+edu.cd.	0	IN	TXT	"Generation Time: 1701901485"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -7695,7 +7699,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1701815025"
+gouv.cd.	0	IN	TXT	"Generation Time: 1701901488"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -8081,7 +8085,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1701815022"
+gov.cd.	0	IN	TXT	"Generation Time: 1701901485"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -10659,8 +10663,10 @@ lemeilleur.cd.	0	IN	NS	ns2.linode.com.
 lemeilleur.cd.	0	IN	NS	ns3.linode.com.
 lemeilleur.cd.	0	IN	NS	ns4.linode.com.
 lemeilleur.cd.	0	IN	NS	ns5.linode.com.
-lemonde.cd.	0	IN	NS	cns69.hostgator.com.
-lemonde.cd.	0	IN	NS	cns70.hostgator.com.
+lemonde.cd.	0	IN	NS	ns1.ibrave.host.
+lemonde.cd.	0	IN	NS	ns2.ibrave.host.
+lemonde.cd.	0	IN	NS	ns3.ibrave.host.
+lemonde.cd.	0	IN	NS	ns4.ibrave.host.
 lempire.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 lempire.cd.	0	IN	NS	arch.ns.cloudflare.com.
 lendico.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -11979,8 +11985,10 @@ microconcept.cd.	0	IN	NS	ns2.host-h.net.
 microcred.cd.	0	IN	NS	a.dns.gandi.net.
 microcred.cd.	0	IN	NS	b.dns.gandi.net.
 microcred.cd.	0	IN	NS	c.dns.gandi.net.
-microcredit.cd.	0	IN	NS	ns8211.hostgator.com.
-microcredit.cd.	0	IN	NS	ns8212.hostgator.com.
+microcredit.cd.	0	IN	NS	ns1.ibrave.host.
+microcredit.cd.	0	IN	NS	ns2.ibrave.host.
+microcredit.cd.	0	IN	NS	ns3.ibrave.host.
+microcredit.cd.	0	IN	NS	ns4.ibrave.host.
 microdev.cd.	0	IN	NS	ns1.microdev.digital.
 microdev.cd.	0	IN	NS	ns2.microdev.digital.
 microfinances.cd.	0	IN	NS	ns1-34.azure-dns.com.
@@ -12896,7 +12904,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1701815023"
+net.cd.	0	IN	TXT	"Generation Time: 1701901485"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -12915,6 +12923,9 @@ netflix.cd.	0	IN	NS	ns-136.awsdns-17.com.
 netflix.cd.	0	IN	NS	ns-920.awsdns-51.net.
 netflix.cd.	0	IN	NS	ns-1404.awsdns-47.org.
 netflix.cd.	0	IN	NS	ns-1875.awsdns-42.co.uk.
+netim.cd.	0	IN	NS	ns1.netim.net.
+netim.cd.	0	IN	NS	ns2.netim.net.
+netim.cd.	0	IN	NS	ns3.netim.net.
 netmobile.cd.	0	IN	NS	ns-367.awsdns-45.com.
 netmobile.cd.	0	IN	NS	ns-636.awsdns-15.net.
 netmobile.cd.	0	IN	NS	ns-1100.awsdns-09.org.
@@ -13671,7 +13682,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1701815023"
+org.cd.	0	IN	TXT	"Generation Time: 1701901485"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -14160,8 +14171,10 @@ phoenix.cd.	0	IN	NS	ns3-eu.123ns.eu.
 phoenix.cd.	0	IN	NS	ns4-eu.123ns.de.
 phoenixx.cd.	0	IN	NS	ns1.hostpapa.com.
 phoenixx.cd.	0	IN	NS	ns2.hostpapa.com.
-phone.cd.	0	IN	NS	ns8211.hostgator.com.
-phone.cd.	0	IN	NS	ns8212.hostgator.com.
+phone.cd.	0	IN	NS	ns1.ibrave.host.
+phone.cd.	0	IN	NS	ns2.ibrave.host.
+phone.cd.	0	IN	NS	ns3.ibrave.host.
+phone.cd.	0	IN	NS	ns4.ibrave.host.
 phonoclub.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 phonoclub.cd.	0	IN	NS	arch.ns.cloudflare.com.
 photo.cd.	0	IN	NS	ns1.parkingcrew.net.
@@ -14342,8 +14355,10 @@ politicard.cd.	0	IN	NS	ns1.gnld1045.siteground.eu.
 politicard.cd.	0	IN	NS	ns2.gnld1045.siteground.eu.
 politico.cd.	0	IN	NS	vita.ns.cloudflare.com.
 politico.cd.	0	IN	NS	simon.ns.cloudflare.com.
-politique.cd.	0	IN	NS	ns8211.hostgator.com.
-politique.cd.	0	IN	NS	ns8212.hostgator.com.
+politique.cd.	0	IN	NS	ns1.ibrave.host.
+politique.cd.	0	IN	NS	ns2.ibrave.host.
+politique.cd.	0	IN	NS	ns3.ibrave.host.
+politique.cd.	0	IN	NS	ns4.ibrave.host.
 polus.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 polus.cd.	0	IN	NS	arch.ns.cloudflare.com.
 polygongroup.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -15755,8 +15770,10 @@ secgenurbhab.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 secgenurbhab.cd.	0	IN	NS	arch.ns.cloudflare.com.
 secofic.cd.	0	IN	NS	ns107.ovh.net.
 secofic.cd.	0	IN	NS	dns107.ovh.net.
-secretaire.cd.	0	IN	NS	ns8211.hostgator.com.
-secretaire.cd.	0	IN	NS	ns8212.hostgator.com.
+secretaire.cd.	0	IN	NS	ns1.ibrave.host.
+secretaire.cd.	0	IN	NS	ns2.ibrave.host.
+secretaire.cd.	0	IN	NS	ns3.ibrave.host.
+secretaire.cd.	0	IN	NS	ns4.ibrave.host.
 secure.cd.	0	IN	NS	ns1.francedns.com.
 secure.cd.	0	IN	NS	ns2.francedns.com.
 secure.cd.	0	IN	NS	ns3.francedns.com.
@@ -16538,9 +16555,8 @@ sprite.cd.	0	IN	NS	ns3.ko.com.
 sprite.cd.	0	IN	NS	ns4.ko.com.
 spsa-cobil.cd.	0	IN	NS	dns.afrinet.cd.
 spsa-cobil.cd.	0	IN	NS	auth01.afrinet.cd.
-srk.cd.	0	IN	NS	ns.inwx.com.
-srk.cd.	0	IN	NS	ns2.inwx.com.
-srk.cd.	0	IN	NS	ns3.inwx.eu.
+srk.cd.	0	IN	NS	dan.ns.cloudflare.com.
+srk.cd.	0	IN	NS	edna.ns.cloudflare.com.
 ss4b.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 ss4b.cd.	0	IN	NS	arch.ns.cloudflare.com.
 ssl-site.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -17781,8 +17797,8 @@ ukarimuwny.cd.	0	IN	NS	ns1.gontcho.net.
 ukarimuwny.cd.	0	IN	NS	ns2.gontcho.net.
 ukarimuwny.cd.	0	IN	NS	ns3.gontcho.net.
 ukarimuwny.cd.	0	IN	NS	ns4.gontcho.net.
-uks.cd.	0	IN	NS	ns1.scpt-network.cd.
-uks.cd.	0	IN	NS	ns2.scpt-network.cd.
+uks.cd.	0	IN	NS	ns1.dns-parking.com.
+uks.cd.	0	IN	NS	ns2.dns-parking.com.
 ukweli.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 ukweli.cd.	0	IN	NS	arch.ns.cloudflare.com.
 uloyola.cd.	0	IN	NS	dns1.namecheaphosting.com.
