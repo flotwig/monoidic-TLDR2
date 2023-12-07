@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701900301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1701986701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -181,6 +181,8 @@ addressya.mw.	0	IN	NS	ns4.netim.net.
 addressya.mw.	0	IN	NS	ns5.netim.net.
 adsgoogle.mw.	0	IN	NS	ns1.markmonitor.com.
 adsgoogle.mw.	0	IN	NS	ns3.markmonitor.com.
+adziwa.mw.	0	IN	NS	ben.ns.cloudflare.com.
+adziwa.mw.	0	IN	NS	tori.ns.cloudflare.com.
 aeg.mw.	0	IN	NS	udns1.cscdns.net.
 aeg.mw.	0	IN	NS	udns2.cscdns.uk.
 afcftamalawiforum.mw.	0	IN	NS	rs74a.registrar-servers.com.
@@ -2738,6 +2740,8 @@ marriott.mw.	0	IN	NS	ns-cloud-b1.googledomains.com.
 marriott.mw.	0	IN	NS	ns-cloud-b2.googledomains.com.
 marriott.mw.	0	IN	NS	ns-cloud-b3.googledomains.com.
 marriott.mw.	0	IN	NS	ns-cloud-b4.googledomains.com.
+marymount.mw.	0	IN	NS	pdns07.domaincontrol.com.
+marymount.mw.	0	IN	NS	pdns08.domaincontrol.com.
 masdap.mw.	0	IN	NS	domwe.sdn.mw.
 masdap.mw.	0	IN	NS	nyala.sdnp.org.mw.
 masm.mw.	0	IN	NS	ns1.bdsmw.com.
@@ -2921,6 +2925,8 @@ mij.mw.	0	IN	NS	domwe.sdn.mw.
 mij.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mikoko.mw.	0	IN	NS	ns67.domaincontrol.com.
 mikoko.mw.	0	IN	NS	ns68.domaincontrol.com.
+mile.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
+mile.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
 mimblewimble.mw.	0	IN	NS	ns1.101domain.com.
 mimblewimble.mw.	0	IN	NS	ns2.101domain.com.
 mimblewimble.mw.	0	IN	NS	ns5.101domain.com.
@@ -3031,6 +3037,8 @@ morecast.mw.	0	IN	NS	ns6.markmonitor.com.
 morecast.mw.	0	IN	NS	ns7.markmonitor.com.
 morespace.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 morespace.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
+moringaacres.mw.	0	IN	NS	ns1.inmotionhosting.com.
+moringaacres.mw.	0	IN	NS	ns2.inmotionhosting.com.
 mot-mobility.mw.	0	IN	NS	ns1.motorolamobility.com.
 mot-mobility.mw.	0	IN	NS	ns3.motorolamobility.com.
 mota-engil.mw.	0	IN	NS	ns2.mota-engil.pt.
@@ -3107,8 +3115,10 @@ mueller.mw.	0	IN	NS	ns4.he.net.
 mueller.mw.	0	IN	NS	ns5.he.net.
 multi-consult.mw.	0	IN	NS	ns23.domaincontrol.com.
 multi-consult.mw.	0	IN	NS	ns24.domaincontrol.com.
-multichoice.mw.	0	IN	NS	ns1.mweb.co.za.
-multichoice.mw.	0	IN	NS	ns2.mweb.co.za.
+multichoice.mw.	0	IN	NS	ns1-36.azure-dns.com.
+multichoice.mw.	0	IN	NS	ns2-36.azure-dns.net.
+multichoice.mw.	0	IN	NS	ns3-36.azure-dns.org.
+multichoice.mw.	0	IN	NS	ns4-36.azure-dns.info.
 mummysgold.mw.	0	IN	NS	ns1.instradns.com.
 mummysgold.mw.	0	IN	NS	ns2.instradns.com.
 musix.mw.	0	IN	NS	ns1.netim.net.
@@ -3463,6 +3473,8 @@ oriflame.mw.	0	IN	NS	ns3-06.azure-dns.org.
 oriflame.mw.	0	IN	NS	ns4-06.azure-dns.info.
 originstory.mw.	0	IN	NS	lex.ns.cloudflare.com.
 originstory.mw.	0	IN	NS	gene.ns.cloudflare.com.
+osquaredmarketing.mw.	0	IN	NS	ns1.freehosting.com.
+osquaredmarketing.mw.	0	IN	NS	ns2.freehosting.com.
 ostrich.mw.	0	IN	NS	dns1.web-hosting.com.
 ostrich.mw.	0	IN	NS	dns1.namecheaphosting.com.
 ostrich.mw.	0	IN	NS	dns2.namecheaphosting.com.
@@ -4157,8 +4169,8 @@ starofservice.mw.	0	IN	NS	ns-1203.awsdns-22.org.
 starofservice.mw.	0	IN	NS	ns-1802.awsdns-33.co.uk.
 state.mw.	0	IN	NS	ns1.instradns.com.
 state.mw.	0	IN	NS	ns2.instradns.com.
-statehouse.mw.	0	IN	NS	rob.ns.cloudflare.com.
-statehouse.mw.	0	IN	NS	carla.ns.cloudflare.com.
+statehouse.mw.	0	IN	NS	leonard.ns.cloudflare.com.
+statehouse.mw.	0	IN	NS	virginia.ns.cloudflare.com.
 statoil.mw.	0	IN	NS	mailwall1.statoil.com.
 statoil.mw.	0	IN	NS	mailwall2.statoil.com.
 stcolumbaccap.mw.	0	IN	NS	ruben.ns.cloudflare.com.
