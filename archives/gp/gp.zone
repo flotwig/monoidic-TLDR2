@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121216 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121417 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -119,6 +119,18 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 66698.gp.	0	IN	NS	ns2.alidns.com.
 66699.gp.	0	IN	NS	ns1.alidns.com.
 66699.gp.	0	IN	NS	ns2.alidns.com.
+666app.gp.	0	IN	NS	pns41.cloudns.net.
+666app.gp.	0	IN	NS	pns42.cloudns.net.
+666dl.gp.	0	IN	NS	pns41.cloudns.net.
+666dl.gp.	0	IN	NS	pns42.cloudns.net.
+666dl1.gp.	0	IN	NS	pns41.cloudns.net.
+666dl1.gp.	0	IN	NS	pns42.cloudns.net.
+666dl2.gp.	0	IN	NS	pns41.cloudns.net.
+666dl2.gp.	0	IN	NS	pns42.cloudns.net.
+666dl3.gp.	0	IN	NS	pns41.cloudns.net.
+666dl3.gp.	0	IN	NS	pns42.cloudns.net.
+666xz.gp.	0	IN	NS	pns41.cloudns.net.
+666xz.gp.	0	IN	NS	pns42.cloudns.net.
 669.gp.	0	IN	NS	ns1.sedoparking.com.
 669.gp.	0	IN	NS	ns2.sedoparking.com.
 68.gp.	0	IN	NS	ns1.dan.com.
@@ -784,6 +796,8 @@ bodet.gp.	0	IN	NS	b.ns.mailclub.eu.
 bodet.gp.	0	IN	NS	c.ns.mailclub.com.
 bofa.gp.	0	IN	NS	dns1.cscdns.net.
 bofa.gp.	0	IN	NS	dns2.cscdns.net.
+bolt.gp.	0	IN	NS	ns1.101domain.com.
+bolt.gp.	0	IN	NS	ns2.101domain.com.
 boncoin.gp.	0	IN	NS	ns-302.awsdns-37.com.
 boncoin.gp.	0	IN	NS	ns-988.awsdns-59.net.
 booking.gp.	0	IN	NS	ns0.bkngs.com.
@@ -1222,6 +1236,9 @@ crcc.gp.	0	IN	NS	pns1.cloudns.net.
 crcc.gp.	0	IN	NS	pns3.cloudns.net.
 credit.gp.	0	IN	NS	ns1.sedoparking.com.
 credit.gp.	0	IN	NS	ns2.sedoparking.com.
+crowe.gp.	0	IN	NS	dns1.idp365.net.
+crowe.gp.	0	IN	NS	dns2.idp365.net.
+crowe.gp.	0	IN	NS	dns3.idp365.net.
 crypto.gp.	0	IN	NS	dns5.cloudns.net.
 crypto.gp.	0	IN	NS	dns6.cloudns.net.
 cryptos.gp.	0	IN	NS	dns5.cloudns.net.
