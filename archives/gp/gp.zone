@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121417 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121515 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -119,18 +119,22 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 66698.gp.	0	IN	NS	ns2.alidns.com.
 66699.gp.	0	IN	NS	ns1.alidns.com.
 66699.gp.	0	IN	NS	ns2.alidns.com.
-666app.gp.	0	IN	NS	pns41.cloudns.net.
-666app.gp.	0	IN	NS	pns42.cloudns.net.
-666dl.gp.	0	IN	NS	pns41.cloudns.net.
-666dl.gp.	0	IN	NS	pns42.cloudns.net.
-666dl1.gp.	0	IN	NS	pns41.cloudns.net.
-666dl1.gp.	0	IN	NS	pns42.cloudns.net.
-666dl2.gp.	0	IN	NS	pns41.cloudns.net.
-666dl2.gp.	0	IN	NS	pns42.cloudns.net.
-666dl3.gp.	0	IN	NS	pns41.cloudns.net.
-666dl3.gp.	0	IN	NS	pns42.cloudns.net.
-666xz.gp.	0	IN	NS	pns41.cloudns.net.
-666xz.gp.	0	IN	NS	pns42.cloudns.net.
+666app.gp.	0	IN	NS	ns1.alidns.com.
+666app.gp.	0	IN	NS	ns2.alidns.com.
+666dh.gp.	0	IN	NS	pns41.cloudns.net.
+666dh.gp.	0	IN	NS	pns42.cloudns.net.
+666dh1.gp.	0	IN	NS	pns41.cloudns.net.
+666dh1.gp.	0	IN	NS	pns42.cloudns.net.
+666dl.gp.	0	IN	NS	ns1.alidns.com.
+666dl.gp.	0	IN	NS	ns2.alidns.com.
+666dl1.gp.	0	IN	NS	ns1.alidns.com.
+666dl1.gp.	0	IN	NS	ns2.alidns.com.
+666dl2.gp.	0	IN	NS	ns1.alidns.com.
+666dl2.gp.	0	IN	NS	ns2.alidns.com.
+666dl3.gp.	0	IN	NS	ns1.alidns.com.
+666dl3.gp.	0	IN	NS	ns2.alidns.com.
+666xz.gp.	0	IN	NS	ns1.alidns.com.
+666xz.gp.	0	IN	NS	ns2.alidns.com.
 669.gp.	0	IN	NS	ns1.sedoparking.com.
 669.gp.	0	IN	NS	ns2.sedoparking.com.
 68.gp.	0	IN	NS	ns1.dan.com.
@@ -728,8 +732,8 @@ bienvenue.gp.	0	IN	NS	ns1045.ui-dns.com.
 bienvenue.gp.	0	IN	NS	ns1045.ui-dns.org.
 bienvenue-en-guadeloupe.gp.	0	IN	NS	dns1.cloudns.net.
 bienvenue-en-guadeloupe.gp.	0	IN	NS	dns2.cloudns.net.
-bigmat.gp.	0	IN	NS	ns4.ikoula.com.
-bigmat.gp.	0	IN	NS	ns5.ikoula.com.
+bigmat.gp.	0	IN	NS	ns1.ikoula.nl.
+bigmat.gp.	0	IN	NS	ns2.host2vps.com.
 bio.gp.	0	IN	NS	ns1.ikoula.fr.
 bio.gp.	0	IN	NS	ns2.ikoula.fr.
 bioderma.gp.	0	IN	NS	nsa.perf1.fr.
@@ -1752,8 +1756,8 @@ etamlingerie.gp.	0	IN	NS	ns-198-a.gandi.net.
 etamlingerie.gp.	0	IN	NS	ns-228-b.gandi.net.
 eth.gp.	0	IN	NS	ns1.dns.com.
 eth.gp.	0	IN	NS	ns2.dns.com.
-etoro.gp.	0	IN	NS	ns1.dtnt.info.
-etoro.gp.	0	IN	NS	ns2.dtnt.info.
+etoro.gp.	0	IN	NS	june.ns.cloudflare.com.
+etoro.gp.	0	IN	NS	nikon.ns.cloudflare.com.
 etv.gp.	0	IN	NS	ns1.ikoula.fr.
 etv.gp.	0	IN	NS	ns2.ikoula.fr.
 eu.gp.	0	IN	NS	ns1.subdomain.net.
