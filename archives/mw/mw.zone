@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702764301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702850702 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3615,8 +3615,10 @@ post.mw.	0	IN	NS	rocco.ns.cloudflare.com.
 post.mw.	0	IN	NS	rosemary.ns.cloudflare.com.
 postdotnet.mw.	0	IN	NS	ns1.siteground.net.
 postdotnet.mw.	0	IN	NS	ns2.siteground.net.
-ppda.mw.	0	IN	NS	ns1.chumachadziko.xyz.
-ppda.mw.	0	IN	NS	ns2.chumachadziko.xyz.
+ppda.mw.	0	IN	NS	ns1.bdsmw.com.
+ppda.mw.	0	IN	NS	ns2.bdsmw.com.
+ppda.mw.	0	IN	NS	ns3.bdsmw.com.
+ppda.mw.	0	IN	NS	ns4.bdsmw.com.
 pppc.mw.	0	IN	NS	ns1.bdsmw.com.
 pppc.mw.	0	IN	NS	ns2.bdsmw.com.
 pppc.mw.	0	IN	NS	ns3.bdsmw.com.

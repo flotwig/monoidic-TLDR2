@@ -75,11 +75,6 @@ airalo.mp.	0	IN	NS	ns02.trademarkarea.com.
 airalo.mp.	0	IN	NS	ns03.trademarkarea.com.
 airbnb.mp.	0	IN	NS	ns1.zoneedit.com.
 airbnb.mp.	0	IN	NS	ns2.zoneedit.com.
-ajandek.mp.	0	IN	NS	ns2.livenameservice.net.
-ajandek.mp.	0	IN	NS	ns3.livenameservice.com.
-ajandek.mp.	0	IN	NS	ns3.livenameservice.net.
-ajandek.mp.	0	IN	NS	ns4.livenameservice.com.
-ajandek.mp.	0	IN	NS	ns5.livenameservice.com.
 aktieka.mp.	0	IN	NS	ns-121.awsdns-15.com.
 aktieka.mp.	0	IN	NS	ns-789.awsdns-34.net.
 aktieka.mp.	0	IN	NS	ns-1244.awsdns-27.org.
@@ -1168,8 +1163,6 @@ leovegas.mp.	0	IN	NS	dns01.dipcon.com.
 leovegas.mp.	0	IN	NS	dns02.ports.se.
 leovegas.mp.	0	IN	NS	dns03.ports.se.
 leovegas.mp.	0	IN	NS	dns04.ports.net.
-liam.mp.	0	IN	NS	coby.ns.cloudflare.com.
-liam.mp.	0	IN	NS	josephine.ns.cloudflare.com.
 liberty.mp.	0	IN	NS	deb.ns.cloudflare.com.
 liberty.mp.	0	IN	NS	darwin.ns.cloudflare.com.
 lifescan.mp.	0	IN	NS	ns1.jnj.com.
