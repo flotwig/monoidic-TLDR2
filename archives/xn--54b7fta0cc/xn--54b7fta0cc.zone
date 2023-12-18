@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023121809 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023121909 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -542,6 +542,8 @@ xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
 xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
+xn--p5ba3m.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
+xn--p5ba3m.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
 xn--p5ba4a8a0hbb0e.xn--54b7fta0cc.	0	IN	NS	ns1.securehostingpanel.com.
 xn--p5ba4a8a0hbb0e.xn--54b7fta0cc.	0	IN	NS	ns2.securehostingpanel.com.
 xn--p5ba8era1ab8d0dta.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
@@ -638,8 +640,6 @@ xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.
 xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	0	IN	NS	ns2.quantummethod.info.
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc.	0	IN	NS	ns1.dns-parking.com.
 xn--r5bzlxmb2jb6hb.xn--54b7fta0cc.	0	IN	NS	ns2.dns-parking.com.
-xn--s5bowm4hb1g.xn--54b7fta0cc.	0	IN	NS	ns1.whitednszone.com.
-xn--s5bowm4hb1g.xn--54b7fta0cc.	0	IN	NS	ns2.whitednszone.com.
 xn--s5bs9al6dkc.xn--54b7fta0cc.	0	IN	NS	ns1.dhakawebhost.com.
 xn--s5bs9al6dkc.xn--54b7fta0cc.	0	IN	NS	ns2.dhakawebhost.com.
 xn--u5bo4cb1dc.xn--54b7fta0cc.	0	IN	NS	ns1.dnsimple.com.

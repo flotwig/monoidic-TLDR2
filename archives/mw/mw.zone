@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702850702 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1702937101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -502,8 +502,8 @@ babynookandkids.mw.	0	IN	NS	ns1.server283.com.
 babynookandkids.mw.	0	IN	NS	ns2.server283.com.
 badoo.mw.	0	IN	NS	gss1.monopost.com.
 badoo.mw.	0	IN	NS	gss2.monopost.com.
-baidu.mw.	0	IN	NS	ns1.baidu.hk.
-baidu.mw.	0	IN	NS	ns2.baidu.hk.
+baidu.mw.	0	IN	NS	sbyns01.baidu.com.
+baidu.mw.	0	IN	NS	sbyns02.baidu.com.
 bakemans.mw.	0	IN	NS	ns105.asurahosting.com.
 bakemans.mw.	0	IN	NS	ns106.my-control-panel.com.
 bakertilly.mw.	0	IN	NS	ns1.namecity.com.
@@ -1124,8 +1124,6 @@ cowi.mw.	0	IN	NS	ns3.eurodns.com.
 cowi.mw.	0	IN	NS	ns4.eurodns.com.
 cprds.mw.	0	IN	NS	ns8225.hostgator.com.
 cprds.mw.	0	IN	NS	ns8226.hostgator.com.
-cra.mw.	0	IN	NS	ns1.inpro5.fcomet.com.
-cra.mw.	0	IN	NS	ns2.inpro5.fcomet.com.
 credibleinvestment.mw.	0	IN	NS	manel.globemw.net.
 credibleinvestment.mw.	0	IN	NS	maxdns.globemw.net.
 credit-suisse.mw.	0	IN	NS	dns1.credit-suisse.com.

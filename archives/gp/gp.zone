@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121713 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121818 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2758,6 +2758,8 @@ kayak.gp.	0	IN	NS	ns1.101domain.com.
 kayak.gp.	0	IN	NS	ns2.101domain.com.
 kaz.gp.	0	IN	NS	pns101.cloudns.net.
 kaz.gp.	0	IN	NS	pns102.cloudns.net.
+kazconnect.gp.	0	IN	NS	dns1.namecheaphosting.com.
+kazconnect.gp.	0	IN	NS	dns2.namecheaphosting.com.
 kbis.gp.	0	IN	NS	ns1.rungraphikserv.com.
 kbis.gp.	0	IN	NS	ns2.rungraphikserv.com.
 kbis.gp.	0	IN	NS	ns3.rungraphikserv.com.
@@ -4715,6 +4717,9 @@ sodipa.gp.	0	IN	NS	ip102.ip-213-186-60.eu.
 sodipa.gp.	0	IN	NS	sdns2.ovh.net.
 sogedi.gp.	0	IN	NS	ns12.ovh.net.
 sogedi.gp.	0	IN	NS	dns12.ovh.net.
+somappro.gp.	0	IN	NS	ns-35-b.gandi.net.
+somappro.gp.	0	IN	NS	ns-48-c.gandi.net.
+somappro.gp.	0	IN	NS	ns-92-a.gandi.net.
 somfy.gp.	0	IN	NS	ns.domainnetwork.se.
 somfy.gp.	0	IN	NS	ns2.domainnetwork.se.
 somfy.gp.	0	IN	NS	ns3.domainnetwork.com.
