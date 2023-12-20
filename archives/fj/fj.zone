@@ -1,14 +1,14 @@
-fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2023122025 21600 3600 1209600 3600
+fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2023122125 21600 3600 1209600 3600
 fj.	0	IN	NS	ns1.fj.
 fj.	0	IN	NS	ns2.fj.
 fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
-fj.	0	IN	TXT	"Generation Time: 1703026860"
+fj.	0	IN	TXT	"Generation Time: 1703113273"
 fj.	0	IN	DNSKEY	256 3 8 AwEAAfIuWmdKYZaGgrWfr4AC4hqw5xfpVf2FCUZ36GzrbqI00W/SI0znNHsIbsOT8VK9ECt+2H+OYMEiS0huY7CHYs+fhT/jM4jFwwnpr+p5/WDhSOQSntmYjh6vFbO69St8/JPPF4qBdxogQuhb20y7DvYQ4ml11vAc7q881zuVJHAGs2cRu8rk8HlGVP8ou2386T+FG3rds7cXdc1LvUjwtwm5ofQqKECN2oolhhE4m0oPKiXOVFpcYBe43WQ+YXy36+1NJdjAxWK9kmEutknOI4+9pRCGbzDLf45BFMR9Y4YzIdfoNBExJSEFZ6eEJDaH9KBZjcoGqyLGBujz5MPRBwU= ;{id = 62793 (zsk), size = 2048b}
 fj.	0	IN	DNSKEY	257 3 8 AwEAAfQOn6inAQCpA5iuohEiVKUVrpREDSHcxdI6QKVpkmQDrizjEKM3S3qYJ26vZH+1un+aEoirizh+pX0PB58wGi/roDrMFNqmyZcLV+F+RounB/iV9+uJUmZcFc0cxZUD0RrJyTMAt8iSDaQt8Nqv+T9YfaSBafre9vlpceC9EvdH7m3R7Hdstdf6dI/9z7mudU/YWdnqD8+R4SbZ0cFYZmcGPRe8zH1ZvZAnF8h3vl9BuL3xyOgSORIPhrtMoIUZ/F0GmJCfrtR4zqiCnTZZefI3AkfKz1msyFbAaoSJmUAprB5MyxuEnaTaF2MeE6YYlYNk8nJr+KQBfxvMVmgatis= ;{id = 27739 (ksk), size = 2048b}
 fj.	0	IN	NSEC3PARAM	1 0 5 9f21b3eaffca9db0 
-ac.fj.	0	IN	TXT	"Generation Time: 1703026860"
+ac.fj.	0	IN	TXT	"Generation Time: 1703113273"
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns2.101domain.com.
 catdnadave.ac.fj.	0	IN	NS	ns1.bluehost.com.
@@ -29,6 +29,8 @@ fulton.ac.fj.	0	IN	NS	lucy.ns.cloudflare.com.
 fulton.ac.fj.	0	IN	NS	carlos.ns.cloudflare.com.
 girmit.ac.fj.	0	IN	NS	ns1.siteground.net.
 girmit.ac.fj.	0	IN	NS	ns2.siteground.net.
+hospsol.ac.fj.	0	IN	NS	ns1.netneedsnz.com.
+hospsol.ac.fj.	0	IN	NS	ns2.netneedsnz.com.
 kbei.ac.fj.	0	IN	NS	ns8357.hostgator.com.
 kbei.ac.fj.	0	IN	NS	ns8358.hostgator.com.
 kirkland.ac.fj.	0	IN	NS	caching01.usp.ac.fj.
@@ -57,10 +59,6 @@ sjtbtc.ac.fj.	0	IN	NS	caching01.usp.ac.fj.
 sjtbtc.ac.fj.	0	IN	NS	caching02.usp.ac.fj.
 smc.ac.fj.	0	IN	NS	ssswztcfjilq.www.smc.ac.fj.
 smc.ac.fj.	0	IN	NS	gv-3hpilh2axxn3ab.dv.googlehosted.com.
-unifiji.ac.fj.	0	IN	NS	ns1.bluehost.com.
-unifiji.ac.fj.	0	IN	NS	ns2.bluehost.com.
-uof.ac.fj.	0	IN	NS	ns1.bluehost.com.
-uof.ac.fj.	0	IN	NS	ns2.bluehost.com.
 usp.ac.fj.	0	IN	NS	ns1.usp.ac.fj.
 usp.ac.fj.	0	IN	NS	ns2.usp.ac.fj.
 ns1.usp.ac.fj.	0	IN	A	144.120.146.2
@@ -73,7 +71,7 @@ votualevucollege.ac.fj.	0	IN	NS	ivan.ns.cloudflare.com.
 votualevucollege.ac.fj.	0	IN	NS	aryanna.ns.cloudflare.com.
 whi.ac.fj.	0	IN	NS	drua.tfl.com.fj.
 whi.ac.fj.	0	IN	NS	tabua.tfl.com.fj.
-biz.fj.	0	IN	TXT	"Generation Time: 1703026860"
+biz.fj.	0	IN	TXT	"Generation Time: 1703113274"
 altria.biz.fj.	0	IN	NS	dns1.cscdns.net.
 altria.biz.fj.	0	IN	NS	dns2.cscdns.net.
 brother.biz.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -105,7 +103,7 @@ vodafone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
-com.fj.	0	IN	TXT	"Generation Time: 1703026882"
+com.fj.	0	IN	TXT	"Generation Time: 1703113296"
 101domain.com.fj.	0	IN	NS	ns1.101domain.com.
 101domain.com.fj.	0	IN	NS	ns5.101domain.com.
 101domains.com.fj.	0	IN	NS	ns1.101domain.com.
@@ -327,6 +325,8 @@ amras.com.fj.	0	IN	NS	ns4.supercp.com.
 ananda.com.fj.	0	IN	NS	ns01.trademarkarea.com.
 ananda.com.fj.	0	IN	NS	ns02.trademarkarea.com.
 ananda.com.fj.	0	IN	NS	ns03.trademarkarea.com.
+angelsrental.com.fj.	0	IN	NS	ns1.yourwebhosting.com.
+angelsrental.com.fj.	0	IN	NS	ns2.yourwebhosting.com.
 anilprasadlawyers.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 anilprasadlawyers.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 anpho.com.fj.	0	IN	NS	ns8.wixdns.net.
@@ -515,6 +515,10 @@ avon.com.fj.	0	IN	NS	dns1.cscdns.net.
 avon.com.fj.	0	IN	NS	dns2.cscdns.net.
 avongirl.com.fj.	0	IN	NS	dns1.cscdns.net.
 avongirl.com.fj.	0	IN	NS	dns2.cscdns.net.
+awesometech.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
+awesometech.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
+awesometech.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
+awesometech.com.fj.	0	IN	NS	ns4.bdm.microsoftonline.com.
 axis.com.fj.	0	IN	NS	drua.tfl.com.fj.
 axis.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 axisfiji.com.fj.	0	IN	NS	ns1.dns-parking.com.
@@ -797,6 +801,8 @@ bulabubble.com.fj.	0	IN	NS	manu.usp.ac.fj.
 bulabubble.com.fj.	0	IN	NS	teri.usp.ac.fj.
 bulabuses.com.fj.	0	IN	NS	ruth.ns.cloudflare.com.
 bulabuses.com.fj.	0	IN	NS	algin.ns.cloudflare.com.
+bulacarrentals.com.fj.	0	IN	NS	drua.tfl.com.fj.
+bulacarrentals.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 bulacoffee.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
 bulacoffee.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 bulacoffee.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -901,6 +907,8 @@ car4sale.com.fj.	0	IN	NS	ns-1513.awsdns-61.org.
 car4sale.com.fj.	0	IN	NS	ns-1619.awsdns-10.co.uk.
 carch.com.fj.	0	IN	NS	drua.tfl.com.fj.
 carch.com.fj.	0	IN	NS	tabua.tfl.com.fj.
+carcity.com.fj.	0	IN	NS	drua.tfl.com.fj.
+carcity.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 careers.com.fj.	0	IN	NS	ns0.xname.org.
 careers.com.fj.	0	IN	NS	ns1.xname.org.
 careers.com.fj.	0	IN	NS	manu.usp.ac.fj.
@@ -1004,8 +1012,6 @@ choicehotels.com.fj.	0	IN	NS	udns1.cscdns.net.
 choicehotels.com.fj.	0	IN	NS	udns2.cscdns.uk.
 churchofjesuschrist.com.fj.	0	IN	NS	ns1.intellectualreserveinc.org.
 churchofjesuschrist.com.fj.	0	IN	NS	ns2.intellectualreserveinc.org.
-cic.com.fj.	0	IN	NS	ns47.superdomainzone.com.
-cic.com.fj.	0	IN	NS	ns48.superdomainzone.com.
 cira.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 cira.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 cirrus.com.fj.	0	IN	NS	a1-29.akam.net.
@@ -1253,6 +1259,8 @@ cspi.com.fj.	0	IN	NS	ns1.syrahost.com.
 cspi.com.fj.	0	IN	NS	ns2.syrahost.com.
 csr.com.fj.	0	IN	NS	ns1.yourwebhosting.com.
 csr.com.fj.	0	IN	NS	ns2.yourwebhosting.com.
+curekids.com.fj.	0	IN	NS	freedns1.registrar-servers.com.
+curekids.com.fj.	0	IN	NS	freedns2.registrar-servers.com.
 cvfr.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 cvfr.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 cvfrconsolidation.com.fj.	0	IN	NS	ns1.siteground.net.
@@ -1366,8 +1374,8 @@ deoji.com.fj.	0	IN	NS	ns5.itcompany.com.au.
 deoji.com.fj.	0	IN	NS	ns6.itcompany.com.au.
 derwentgeoscience.com.fj.	0	IN	NS	ns1.bluehost.com.
 derwentgeoscience.com.fj.	0	IN	NS	ns2.bluehost.com.
-designgrafix.com.fj.	0	IN	NS	ns1.stackdns.com.
-designgrafix.com.fj.	0	IN	NS	ns2.stackdns.com.
+designgrafix.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+designgrafix.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 destinationfiji.com.fj.	0	IN	NS	drua.tfl.com.fj.
 destinationfiji.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 devenpsharma.com.fj.	0	IN	NS	ns1.unwired.com.fj.
@@ -1967,10 +1975,6 @@ fijiwater.com.fj.	0	IN	NS	ns3.markmonitor.com.
 fijiwater.com.fj.	0	IN	NS	ns4.markmonitor.com.
 fijiwaterfoundation.com.fj.	0	IN	NS	eprodns1a.eflorist.com.
 fijiwaterfoundation.com.fj.	0	IN	NS	eprodns2a.eflorist.com.
-fijiwelfarelottery.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-fijiwelfarelottery.com.fj.	0	IN	NS	caching02.usp.ac.fj.
-fijiwelfarelotterycentre.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-fijiwelfarelotterycentre.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 fijiwherehappinessfindsyou.com.fj.	0	IN	NS	ns1.nameserver.net.nz.
 fijiwherehappinessfindsyou.com.fj.	0	IN	NS	ns2.nameserver.net.nz.
 fijiwherehappinessfindsyou.com.fj.	0	IN	NS	manu.usp.ac.fj.
@@ -2065,6 +2069,8 @@ fone.com.fj.	0	IN	NS	ns10.dnsmadeeasy.com.
 fone.com.fj.	0	IN	NS	ns11.dnsmadeeasy.com.
 foneology.com.fj.	0	IN	NS	ns1.dnsmadeeasy.com.
 foneology.com.fj.	0	IN	NS	ns3.dnsmadeeasy.com.
+fonexfiji.com.fj.	0	IN	NS	alaric.ns.cloudflare.com.
+fonexfiji.com.fj.	0	IN	NS	romina.ns.cloudflare.com.
 foodprocessors.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 foodprocessors.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 foodspacific.com.fj.	0	IN	NS	cns327.hostgator.com.
@@ -2128,6 +2134,8 @@ fsc.com.fj.	0	IN	NS	ns43.domaincontrol.com.
 fsc.com.fj.	0	IN	NS	ns44.domaincontrol.com.
 fsf.com.fj.	0	IN	NS	ns47.superdomainzone.com.
 fsf.com.fj.	0	IN	NS	ns48.superdomainzone.com.
+fsl.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
+fsl.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 ftra.com.fj.	0	IN	NS	ns1.supercp.com.
 ftra.com.fj.	0	IN	NS	ns2.supercp.com.
 ftra.com.fj.	0	IN	NS	ns3.supercp.com.
@@ -2304,6 +2312,8 @@ grandpacifichotel.com.fj.	0	IN	NS	ns1.supercp.com.
 grandpacifichotel.com.fj.	0	IN	NS	ns2.supercp.com.
 grandpacifichotel.com.fj.	0	IN	NS	ns3.supercp.com.
 grandpacifichotel.com.fj.	0	IN	NS	ns4.supercp.com.
+grantsbetting.com.fj.	0	IN	NS	drua.tfl.com.fj.
+grantsbetting.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 greennorthkava.com.fj.	0	IN	NS	ns1.bluehost.com.
 greennorthkava.com.fj.	0	IN	NS	ns2.bluehost.com.
 greenpak.com.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -2346,6 +2356,8 @@ hallpacific.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
 hallpacific.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 hallpacific.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
 hallpacific.com.fj.	0	IN	NS	ns4.bdm.microsoftonline.com.
+handyfinance.com.fj.	0	IN	NS	ns13.hawkhost.com.
+handyfinance.com.fj.	0	IN	NS	ns14.hawkhost.com.
 hangton.com.fj.	0	IN	NS	drua.tfl.com.fj.
 hangton.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 hanifftuitoga.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
@@ -2356,10 +2368,8 @@ hansonsinvestment.com.fj.	0	IN	NS	ns3.bulahost.com.
 hansonsinvestment.com.fj.	0	IN	NS	ns4.bulahost.com.
 hansraj.com.fj.	0	IN	NS	ns1.syrahost.com.
 hansraj.com.fj.	0	IN	NS	ns2.syrahost.com.
-hao123.com.fj.	0	IN	NS	ns1.baidu.com.
-hao123.com.fj.	0	IN	NS	ns2.baidu.com.
-hao123.com.fj.	0	IN	NS	ns3.baidu.com.
-hao123.com.fj.	0	IN	NS	ns4.baidu.com.
+hao123.com.fj.	0	IN	NS	sbyns01.baidu.com.
+hao123.com.fj.	0	IN	NS	sbyns02.baidu.com.
 hardipnarayan.com.fj.	0	IN	NS	ns1.easy4uhost.com.
 hardipnarayan.com.fj.	0	IN	NS	ns2.easy4uhost.com.
 hardrock.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
@@ -2652,6 +2662,9 @@ intercontinenatfiji.com.fj.	0	IN	NS	drua.tfl.com.fj.
 intercontinenatfiji.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 interflora.com.fj.	0	IN	NS	ns1.netnames.net.
 interflora.com.fj.	0	IN	NS	ns2.netnames.net.
+intergroup.com.fj.	0	IN	NS	ns1.theconsole.net.au.
+intergroup.com.fj.	0	IN	NS	ns2.theconsole.net.au.
+intergroup.com.fj.	0	IN	NS	ns3.theconsole.net.au.
 interlinkshipping.com.fj.	0	IN	NS	ns8357.hostgator.com.
 interlinkshipping.com.fj.	0	IN	NS	ns8358.hostgator.com.
 internetx.com.fj.	0	IN	NS	a.ns14.net.
@@ -2774,6 +2787,8 @@ jimdunlop.com.fj.	0	IN	NS	ns01.trademarkarea.com.
 jimdunlop.com.fj.	0	IN	NS	ns02.trademarkarea.com.
 jkbuilders.com.fj.	0	IN	NS	ns1.groundwirecloud.com.
 jkbuilders.com.fj.	0	IN	NS	ns2.groundwirecloud.com.
+jkm.com.fj.	0	IN	NS	ed.ns.cloudflare.com.
+jkm.com.fj.	0	IN	NS	jule.ns.cloudflare.com.
 jobs.com.fj.	0	IN	NS	ns1.codero.com.
 jobs.com.fj.	0	IN	NS	ns2.codero.com.
 jobs.com.fj.	0	IN	NS	manu.usp.ac.fj.
@@ -2987,6 +3002,8 @@ lanewayconstruction.com.fj.	0	IN	NS	ns1.auserver.com.au.
 lanewayconstruction.com.fj.	0	IN	NS	ns2.auserver.com.au.
 laserarts.com.fj.	0	IN	NS	ns5.itcompany.com.au.
 laserarts.com.fj.	0	IN	NS	ns6.itcompany.com.au.
+lateeflaw.com.fj.	0	IN	NS	ns8357.hostgator.com.
+lateeflaw.com.fj.	0	IN	NS	ns8358.hostgator.com.
 lautokacitycouncil.com.fj.	0	IN	NS	ns1.bluehost.com.
 lautokacitycouncil.com.fj.	0	IN	NS	ns2.bluehost.com.
 lautokahotel.com.fj.	0	IN	NS	ns1.dreamhost.com.
@@ -3050,6 +3067,8 @@ lifecinemas.com.fj.	0	IN	NS	jeff.ns.cloudflare.com.
 lifeinsurance.com.fj.	0	IN	NS	ns1.hosting-services.net.au.
 lifeinsurance.com.fj.	0	IN	NS	ns2.hosting-services.net.au.
 lifeinsurance.com.fj.	0	IN	NS	ns3.hosting-services.net.au.
+limewash.com.fj.	0	IN	NS	ns1.bluehost.com.
+limewash.com.fj.	0	IN	NS	ns2.bluehost.com.
 linde.com.fj.	0	IN	NS	udns1.cscdns.net.
 linde.com.fj.	0	IN	NS	udns2.cscdns.uk.
 linkbusinesssolutions.com.fj.	0	IN	NS	manu.usp.ac.fj.
@@ -3268,6 +3287,8 @@ meenoos.com.fj.	0	IN	NS	ns1.syrahost.com.
 meenoos.com.fj.	0	IN	NS	ns2.syrahost.com.
 megalifts.com.fj.	0	IN	NS	dns1.namecheaphosting.com.
 megalifts.com.fj.	0	IN	NS	dns2.namecheaphosting.com.
+melanesiancapital.com.fj.	0	IN	NS	dns1.supremedns.com.
+melanesiancapital.com.fj.	0	IN	NS	dns2.supremedns.com.
 meltwaterdrive.com.fj.	0	IN	NS	buck.ns.cloudflare.com.
 meltwaterdrive.com.fj.	0	IN	NS	mona.ns.cloudflare.com.
 meltwaternews.com.fj.	0	IN	NS	buck.ns.cloudflare.com.
@@ -3320,6 +3341,8 @@ metaworkplace.com.fj.	0	IN	NS	ns1.101domain.com.
 metaworkplace.com.fj.	0	IN	NS	ns2.101domain.com.
 metframe.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 metframe.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
+metis.com.fj.	0	IN	NS	ns1.auserver.com.au.
+metis.com.fj.	0	IN	NS	ns2.auserver.com.au.
 mfl.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 mfl.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 mgmotor.com.fj.	0	IN	NS	ns1.bluehost.com.
@@ -3519,6 +3542,8 @@ nabualodge.com.fj.	0	IN	NS	manu.usp.ac.fj.
 nabualodge.com.fj.	0	IN	NS	teri.usp.ac.fj.
 nabucoestateburerentals.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 nabucoestateburerentals.com.fj.	0	IN	NS	caching02.usp.ac.fj.
+naceva.com.fj.	0	IN	NS	ns1.netneedsnz.com.
+naceva.com.fj.	0	IN	NS	ns2.netneedsnz.com.
 nadi.com.fj.	0	IN	NS	manu.usp.ac.fj.
 nadi.com.fj.	0	IN	NS	teri.usp.ac.fj.
 nadi.com.fj.	0	IN	NS	unix1.vizaweb.com.
@@ -3936,6 +3961,8 @@ pacificomm.com.fj.	0	IN	NS	ns3-02.azure-dns.org.
 pacificomm.com.fj.	0	IN	NS	ns4-02.azure-dns.info.
 pacificpipelines.com.fj.	0	IN	NS	ns1.yourwebhosting.com.
 pacificpipelines.com.fj.	0	IN	NS	ns2.yourwebhosting.com.
+pacificspirit.com.fj.	0	IN	NS	drua.tfl.com.fj.
+pacificspirit.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 pacifictechnologies.com.fj.	0	IN	NS	ns1.scarletspider.org.
 pacifictechnologies.com.fj.	0	IN	NS	ns2.scarletspider.org.
 pacifictransport.com.fj.	0	IN	NS	ns4.syra.net.au.
@@ -3956,6 +3983,8 @@ paddys.com.fj.	0	IN	NS	ns3.supercp.com.
 paddys.com.fj.	0	IN	NS	ns4.supercp.com.
 paknsave.com.fj.	0	IN	NS	kyrie.ns.cloudflare.com.
 paknsave.com.fj.	0	IN	NS	lilith.ns.cloudflare.com.
+pakplus.com.fj.	0	IN	NS	nsdal01.crucial.com.au.
+pakplus.com.fj.	0	IN	NS	nssyd01.crucial.com.au.
 palalgroup.com.fj.	0	IN	NS	ns1.hostingfiji.com.
 palalgroup.com.fj.	0	IN	NS	ns2.hostingfiji.com.
 palasauto.com.fj.	0	IN	NS	ns5.itcompany.com.au.
@@ -4053,6 +4082,8 @@ permal.com.fj.	0	IN	NS	ns16.domaincontrol.com.
 personalloans.com.fj.	0	IN	NS	ns1.hosting-services.net.au.
 personalloans.com.fj.	0	IN	NS	ns2.hosting-services.net.au.
 personalloans.com.fj.	0	IN	NS	ns3.hosting-services.net.au.
+pfc.com.fj.	0	IN	NS	drua.tfl.com.fj.
+pfc.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 pgc.com.fj.	0	IN	NS	ns1.dns-parking.com.
 pgc.com.fj.	0	IN	NS	ns2.dns-parking.com.
 pharmatec.com.fj.	0	IN	NS	ns3.secureparkme.com.
@@ -4086,6 +4117,8 @@ pina.com.fj.	0	IN	NS	ns3.aspirationhosting.com.
 pina.com.fj.	0	IN	NS	ns4.aspirationhosting.com.
 pinterest.com.fj.	0	IN	NS	ns1.markmonitor.com.
 pinterest.com.fj.	0	IN	NS	ns3.markmonitor.com.
+pintoind.com.fj.	0	IN	NS	drua.tfl.com.fj.
+pintoind.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 pioneerconcrete.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 pioneerconcrete.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 pis.com.fj.	0	IN	NS	caching01.usp.ac.fj.
@@ -4094,6 +4127,8 @@ pkce.com.fj.	0	IN	NS	ns-d1.tailored.com.au.
 pkce.com.fj.	0	IN	NS	ns-d2.tailored.com.au.
 pkf.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 pkf.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
+placestovisit.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+placestovisit.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 planpacgroup.com.fj.	0	IN	NS	lara.ns.cloudflare.com.
 planpacgroup.com.fj.	0	IN	NS	jerome.ns.cloudflare.com.
 pmeghji.com.fj.	0	IN	NS	ns1.auserver.com.au.
@@ -4314,8 +4349,12 @@ rainbowpridefoundation.com.fj.	0	IN	NS	drua.tfl.com.fj.
 rainbowpridefoundation.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 raineandhorne.com.fj.	0	IN	NS	bill.ns.cloudflare.com.
 raineandhorne.com.fj.	0	IN	NS	gina.ns.cloudflare.com.
+rainforestecolodge.com.fj.	0	IN	NS	becky.ns.cloudflare.com.
+rainforestecolodge.com.fj.	0	IN	NS	leonard.ns.cloudflare.com.
 raiwaqabakery.com.fj.	0	IN	NS	ns01.leonate.com.
 raiwaqabakery.com.fj.	0	IN	NS	ns02.leonate.com.
+raiwaqabuses.com.fj.	0	IN	NS	ns8357.hostgator.com.
+raiwaqabuses.com.fj.	0	IN	NS	ns8358.hostgator.com.
 rakavi.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 rakavi.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 raki.com.fj.	0	IN	NS	ns6313.hostgator.com.
@@ -4330,8 +4369,12 @@ rangerover.com.fj.	0	IN	NS	sgdns04.jlrext.com.
 rangerover.com.fj.	0	IN	NS	whdns04.jlrext.com.
 ranjit.com.fj.	0	IN	NS	ns1.easy4uhost.com.
 ranjit.com.fj.	0	IN	NS	ns2.easy4uhost.com.
+ratukinidiveresort.com.fj.	0	IN	NS	curt.ns.cloudflare.com.
+ratukinidiveresort.com.fj.	0	IN	NS	nadia.ns.cloudflare.com.
 raypharmaceuticals.com.fj.	0	IN	NS	ns1.dreamhost.com.
 raypharmaceuticals.com.fj.	0	IN	NS	ns2.dreamhost.com.
+razor.com.fj.	0	IN	NS	drua.tfl.com.fj.
+razor.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 rbc.com.fj.	0	IN	NS	drua.tfl.com.fj.
 rbc.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 rbpatel.com.fj.	0	IN	NS	ns449.win.arvixe.com.
@@ -4484,12 +4527,16 @@ roopkirani.com.fj.	0	IN	NS	ns1.netfiji.com.fj.
 roopkirani.com.fj.	0	IN	NS	ns2.netfiji.com.fj.
 roosterpoultry.com.fj.	0	IN	NS	ns1.inmotionhosting.com.
 roosterpoultry.com.fj.	0	IN	NS	ns2.inmotionhosting.com.
+rosie.com.fj.	0	IN	NS	pns11.cloudns.net.
+rosie.com.fj.	0	IN	NS	pns12.cloudns.net.
 rothmans.com.fj.	0	IN	NS	nsgbr.comlaude.co.uk.
 rothmans.com.fj.	0	IN	NS	nssui.comlaude.ch.
 royalrealtors.com.fj.	0	IN	NS	ns1.syrahost.com.
 royalrealtors.com.fj.	0	IN	NS	ns2.syrahost.com.
 rpatel.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 rpatel.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
+rphcl.com.fj.	0	IN	NS	ns13.hawkhost.com.
+rphcl.com.fj.	0	IN	NS	ns14.hawkhost.com.
 rsagroup.com.fj.	0	IN	NS	dns1.cscdns.net.
 rsagroup.com.fj.	0	IN	NS	dns2.cscdns.net.
 rudys.com.fj.	0	IN	NS	dns1.stabletransit.com.
@@ -4535,6 +4582,8 @@ salaw.com.fj.	0	IN	NS	ns4.bulahost.com.
 sales.com.fj.	0	IN	NS	ns1.hosting-services.net.au.
 sales.com.fj.	0	IN	NS	ns2.hosting-services.net.au.
 sales.com.fj.	0	IN	NS	ns3.hosting-services.net.au.
+samabulafurniture.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
+samabulafurniture.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 samabulajoinery.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 samabulajoinery.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 samibuildingservices.com.fj.	0	IN	NS	ns1.myhost.nz.
@@ -4556,6 +4605,8 @@ sargam.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
 sargam.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 sargam.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
 sargam.com.fj.	0	IN	NS	ns4.bdm.microsoftonline.com.
+sas.com.fj.	0	IN	NS	drua.tfl.com.fj.
+sas.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 satelliterentacar.com.fj.	0	IN	NS	drua.tfl.com.fj.
 satelliterentacar.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 savneelsangeetkumar.com.fj.	0	IN	NS	ns1.fivecron.com.
@@ -4737,6 +4788,8 @@ sofitelfiji.com.fj.	0	IN	NS	ns-1275.awsdns-31.org.
 sofitelfiji.com.fj.	0	IN	NS	ns-1725.awsdns-23.co.uk.
 softa.com.fj.	0	IN	NS	manu.usp.ac.fj.
 softa.com.fj.	0	IN	NS	teri.usp.ac.fj.
+softnetsolutions.com.fj.	0	IN	NS	ns1.justhost.com.
+softnetsolutions.com.fj.	0	IN	NS	ns2.justhost.com.
 solander.com.fj.	0	IN	NS	ns1.openhost.co.nz.
 solander.com.fj.	0	IN	NS	ns2.openhost.co.nz.
 solarwinds.com.fj.	0	IN	NS	ns1.solarwinds.com.
@@ -4968,6 +5021,8 @@ taprobana.com.fj.	0	IN	NS	drua.tfl.com.fj.
 taprobana.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 tatau-samoa.com.fj.	0	IN	NS	ns1.is-fun.net.
 tatau-samoa.com.fj.	0	IN	NS	ns2.is-fun.net.
+tausports.com.fj.	0	IN	NS	drua.tfl.com.fj.
+tausports.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 tavuacollege.com.fj.	0	IN	NS	ns1.fusiontechfiji.com.
 tavuacollege.com.fj.	0	IN	NS	ns2.fusiontechfiji.com.
 taxhub.com.fj.	0	IN	NS	ns41.domaincontrol.com.
@@ -5059,6 +5114,8 @@ tewaka.com.fj.	0	IN	NS	javon.ns.cloudflare.com.
 tewaka.com.fj.	0	IN	NS	delilah.ns.cloudflare.com.
 texaco.com.fj.	0	IN	NS	dns1.cscdns.net.
 texaco.com.fj.	0	IN	NS	dns2.cscdns.net.
+textbk.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
+textbk.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 tfl.com.fj.	0	IN	A	202.137.181.1
 tfl.com.fj.	0	IN	NS	drua.tfl.com.fj.
 tfl.com.fj.	0	IN	NS	tabua.tfl.com.fj.
@@ -5353,6 +5410,9 @@ unitedapparel.com.fj.	0	IN	NS	ns2.easy4uhost.com.
 unity.com.fj.	0	IN	NS	ns1.wordpress.com.
 unity.com.fj.	0	IN	NS	ns2.wordpress.com.
 unity.com.fj.	0	IN	NS	ns3.wordpress.com.
+universal.com.fj.	0	IN	NS	ns1.netregistry.net.
+universal.com.fj.	0	IN	NS	ns2.netregistry.net.
+universal.com.fj.	0	IN	NS	ns3.netregistry.net.
 universallogistics.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 universallogistics.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 unwired.com.fj.	0	IN	NS	ns1.unwired.com.fj.
@@ -5468,6 +5528,8 @@ vinestravel.com.fj.	0	IN	NS	ns1.dns-parking.com.
 vinestravel.com.fj.	0	IN	NS	ns2.dns-parking.com.
 vinodpatel.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vinodpatel.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
+vinutrading.com.fj.	0	IN	NS	drua.tfl.com.fj.
+vinutrading.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 virginactive.com.fj.	0	IN	NS	nsgbr.comlaude.co.uk.
 virginactive.com.fj.	0	IN	NS	nssui.comlaude.ch.
 virginactive.com.fj.	0	IN	NS	nsusa.comlaude.net.
@@ -5787,7 +5849,7 @@ govt.fj.	0	IN	NS	dnssecondary.auth-servers.net.
 gransy-anycast1.fj.	0	IN	A	185.28.194.194
 gransy-anycast1.fj.	0	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast2.fj.	0	IN	A	185.38.108.108
-info.fj.	0	IN	TXT	"Generation Time: 1703026884"
+info.fj.	0	IN	TXT	"Generation Time: 1703113298"
 altria.info.fj.	0	IN	NS	dns1.cscdns.net.
 altria.info.fj.	0	IN	NS	dns2.cscdns.net.
 brother.info.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -5819,7 +5881,7 @@ vodaphone.info.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.info.fj.	0	IN	NS	ns2.vodafone.net.fj.
 master.fj.	0	IN	A	144.120.141.11
 www.master.fj.	0	IN	A	144.120.141.11
-mil.fj.	0	IN	TXT	"Generation Time: 1703026882"
+mil.fj.	0	IN	TXT	"Generation Time: 1703113296"
 navneet.mil.fj.	0	IN	NS	ns1.usp.ac.fj.
 navneet.mil.fj.	0	IN	NS	ns2.usp.ac.fj.
 rfmf.mil.fj.	0	IN	NS	ns1.codero.com.
@@ -5829,7 +5891,7 @@ rfmfdefense.mil.fj.	0	IN	NS	ns11.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns12.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns13.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns14.dnsmadeeasy.com.
-name.fj.	0	IN	TXT	"Generation Time: 1703026884"
+name.fj.	0	IN	TXT	"Generation Time: 1703113298"
 altria.name.fj.	0	IN	NS	dns1.cscdns.net.
 altria.name.fj.	0	IN	NS	dns2.cscdns.net.
 brother.name.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -5857,7 +5919,7 @@ vodafone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
-net.fj.	0	IN	TXT	"Generation Time: 1703026883"
+net.fj.	0	IN	TXT	"Generation Time: 1703113297"
 3m.net.fj.	0	IN	NS	ns.3m.com.
 3m.net.fj.	0	IN	NS	pigseye.mmm.com.
 3mcompany.net.fj.	0	IN	NS	ns.3m.com.
@@ -5900,10 +5962,8 @@ fujitsu.net.fj.	0	IN	NS	rns1.rightsdns.com.
 fujitsu.net.fj.	0	IN	NS	rns2.rightsdns.com.
 gilbert.net.fj.	0	IN	NS	ns1.yourwebhosting.com.
 gilbert.net.fj.	0	IN	NS	ns2.yourwebhosting.com.
-hao123.net.fj.	0	IN	NS	ns1.baidu.com.
-hao123.net.fj.	0	IN	NS	ns2.baidu.com.
-hao123.net.fj.	0	IN	NS	ns3.baidu.com.
-hao123.net.fj.	0	IN	NS	ns4.baidu.com.
+hao123.net.fj.	0	IN	NS	sbyns01.baidu.com.
+hao123.net.fj.	0	IN	NS	sbyns02.baidu.com.
 hewitt.net.fj.	0	IN	NS	gabe.ns.cloudflare.com.
 hewitt.net.fj.	0	IN	NS	jacqueline.ns.cloudflare.com.
 hitachi.net.fj.	0	IN	NS	rns1.rightsdns.com.
@@ -6025,7 +6085,7 @@ ns3.fj.	0	IN	A	185.38.108.108
 ns4.fj.	0	IN	A	185.28.194.194
 ns5.fj.	0	IN	A	204.61.216.138
 ns5.fj.	0	IN	AAAA	2001:500:14:6138:ad::1
-org.fj.	0	IN	TXT	"Generation Time: 1703026884"
+org.fj.	0	IN	TXT	"Generation Time: 1703113298"
 3m.org.fj.	0	IN	NS	ns.3m.com.
 3m.org.fj.	0	IN	NS	pigseye.mmm.com.
 3mcompany.org.fj.	0	IN	NS	ns.3m.com.
@@ -6053,6 +6113,11 @@ bahai.org.fj.	0	IN	NS	ns2.iemaps.net.
 bahai.org.fj.	0	IN	NS	ns3.iemaps.net.
 betterversecollective.org.fj.	0	IN	NS	ns1.awedns.com.
 betterversecollective.org.fj.	0	IN	NS	ns2.awedns.com.
+bible.org.fj.	0	IN	NS	ns0.biblesocieties.org.
+bible.org.fj.	0	IN	NS	ns1.biblesocieties.org.
+bible.org.fj.	0	IN	NS	ns2.biblesocieties.org.
+bible.org.fj.	0	IN	NS	ns3.biblesocieties.org.
+bible.org.fj.	0	IN	NS	ns4.biblesocieties.org.
 bop.org.fj.	0	IN	NS	ns1-08.azure-dns.com.
 bop.org.fj.	0	IN	NS	ns2-08.azure-dns.net.
 bop.org.fj.	0	IN	NS	ns3-08.azure-dns.org.
@@ -6079,6 +6144,8 @@ cropict.org.fj.	0	IN	NS	manu.usp.ac.fj.
 cropict.org.fj.	0	IN	NS	teri.usp.ac.fj.
 cru.org.fj.	0	IN	NS	ns-527.awsdns-01.net.
 cru.org.fj.	0	IN	NS	ns-1377.awsdns-44.org.
+curekids.org.fj.	0	IN	NS	ian.ns.cloudflare.com.
+curekids.org.fj.	0	IN	NS	becky.ns.cloudflare.com.
 dianetics.org.fj.	0	IN	NS	ns1.scientology.net.
 dianetics.org.fj.	0	IN	NS	ns1.scientology.org.
 discovery.org.fj.	0	IN	NS	auth01.ns.discovery.com.
@@ -6206,6 +6273,11 @@ marineconservation.org.fj.	0	IN	NS	caching01.usp.ac.fj.
 marineconservation.org.fj.	0	IN	NS	caching02.usp.ac.fj.
 mastercard.org.fj.	0	IN	NS	dns1.mastercard.com.
 mastercard.org.fj.	0	IN	NS	dns2.mastercard.com.
+mgpublishers.org.fj.	0	IN	NS	ns0.biblesocieties.org.
+mgpublishers.org.fj.	0	IN	NS	ns1.biblesocieties.org.
+mgpublishers.org.fj.	0	IN	NS	ns2.biblesocieties.org.
+mgpublishers.org.fj.	0	IN	NS	ns3.biblesocieties.org.
+mgpublishers.org.fj.	0	IN	NS	ns4.biblesocieties.org.
 microsoft.org.fj.	0	IN	NS	ns1-09.azure-dns.com.
 microsoft.org.fj.	0	IN	NS	ns2-09.azure-dns.net.
 microsoft.org.fj.	0	IN	NS	ns3-09.azure-dns.org.
@@ -6286,6 +6358,8 @@ rfhaf.org.fj.	0	IN	NS	dns1.stabletransit.com.
 rfhaf.org.fj.	0	IN	NS	dns2.stabletransit.com.
 roga.org.fj.	0	IN	NS	ns1.voodoofiji.com.
 roga.org.fj.	0	IN	NS	ns2.voodoofiji.com.
+rsyc.org.fj.	0	IN	NS	ns1.auserver.com.au.
+rsyc.org.fj.	0	IN	NS	ns2.auserver.com.au.
 salvationarmy.org.fj.	0	IN	NS	ns1.101domain.com.
 salvationarmy.org.fj.	0	IN	NS	ns2.101domain.com.
 scc.org.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -6341,7 +6415,7 @@ womensfund.org.fj.	0	IN	NS	ns3-06.azure-dns.org.
 womensfund.org.fj.	0	IN	NS	ns4-06.azure-dns.info.
 youthcamp.org.fj.	0	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	0	IN	NS	ns2.justhost.com.
-pro.fj.	0	IN	TXT	"Generation Time: 1703026884"
+pro.fj.	0	IN	TXT	"Generation Time: 1703113298"
 altria.pro.fj.	0	IN	NS	dns1.cscdns.net.
 altria.pro.fj.	0	IN	NS	dns2.cscdns.net.
 brother.pro.fj.	0	IN	NS	ns1.ipmirror.com.

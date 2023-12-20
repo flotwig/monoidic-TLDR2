@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703023501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703109901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -552,7 +552,7 @@ bbonline.mw.	0	IN	NS	ns1.bb-online.net.
 bbonline.mw.	0	IN	NS	ns2.bb-online.org.
 bbonline.mw.	0	IN	NS	ns3.bb-online.info.
 bbonline.mw.	0	IN	NS	ns4.bb-online.biz.
-bbonline.mw.	0	IN	DS	27712 8 1 94a8b35798b1ad4892e9c2ca63c75a224551d181
+bbonline.mw.	0	IN	DS	41044 8 1 4a4c1be50051d5fcbe53a4ddd2009eb88cb8af28
 bbva.mw.	0	IN	NS	ns1.bbvaedge.com.
 bbva.mw.	0	IN	NS	ns2.bbvaedge.com.
 bbva.mw.	0	IN	NS	a3-66.akam.net.
@@ -587,6 +587,8 @@ bensonandhedges.mw.	0	IN	NS	nsusa.comlaude.net.
 bershka.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
 bershka.mw.	0	IN	NS	nssui.comlaude.ch.
 bershka.mw.	0	IN	NS	nsusa.comlaude.net.
+bestbuyelectronics.mw.	0	IN	NS	ns1.inmotionhosting.com.
+bestbuyelectronics.mw.	0	IN	NS	ns2.inmotionhosting.com.
 bet365.mw.	0	IN	NS	ns1.markmonitor.com.
 bet365.mw.	0	IN	NS	ns3.markmonitor.com.
 bet4.mw.	0	IN	NS	ns01.trademarkarea.com.
@@ -727,6 +729,8 @@ bmw.mw.	0	IN	NS	dns1.cscdns.net.
 bmw.mw.	0	IN	NS	dns2.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns1.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns2.cscdns.net.
+bngrecruitingagency.mw.	0	IN	NS	ns1.bh-ht-13.webhostbox.net.
+bngrecruitingagency.mw.	0	IN	NS	ns2.bh-ht-13.webhostbox.net.
 boa.mw.	0	IN	NS	mrozia.mtds.com.
 boa.mw.	0	IN	NS	rfissa.mtds.com.
 bofa.mw.	0	IN	NS	ns1.netnames.net.
@@ -1122,8 +1126,10 @@ cowi.mw.	0	IN	NS	ns1.eurodns.com.
 cowi.mw.	0	IN	NS	ns2.eurodns.com.
 cowi.mw.	0	IN	NS	ns3.eurodns.com.
 cowi.mw.	0	IN	NS	ns4.eurodns.com.
-cpp.mw.	0	IN	NS	cdns1.main-hosting.eu.
-cpp.mw.	0	IN	NS	cdns2.main-hosting.eu.
+cpp.mw.	0	IN	NS	ns1.yourdomain.co.za.
+cpp.mw.	0	IN	NS	ns2.yourdomain.co.za.
+cpp.mw.	0	IN	NS	ns3.yourdomain.co.za.
+cpp.mw.	0	IN	NS	ns4.yourdomain.co.za.
 cprds.mw.	0	IN	NS	ns8225.hostgator.com.
 cprds.mw.	0	IN	NS	ns8226.hostgator.com.
 credibleinvestment.mw.	0	IN	NS	manel.globemw.net.
@@ -1880,10 +1886,8 @@ haleon.mw.	0	IN	NS	dns2.safenames.net.
 haleon.mw.	0	IN	NS	dns3.safenames.org.
 hallmark.mw.	0	IN	NS	sns9.hostgator.in.
 hallmark.mw.	0	IN	NS	sns10.hostgator.in.
-hao123.mw.	0	IN	NS	ns1.baidu.com.
-hao123.mw.	0	IN	NS	ns2.baidu.com.
-hao123.mw.	0	IN	NS	ns3.baidu.com.
-hao123.mw.	0	IN	NS	ns4.baidu.com.
+hao123.mw.	0	IN	NS	sbyns01.baidu.com.
+hao123.mw.	0	IN	NS	sbyns02.baidu.com.
 hardwareplumbing.mw.	0	IN	NS	ns1.bdsmw.com.
 hardwareplumbing.mw.	0	IN	NS	ns2.bdsmw.com.
 hardwareplumbing.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -2543,8 +2547,6 @@ liebherr.mw.	0	IN	NS	ns4.lemarit.de.
 liebherr.mw.	0	IN	NS	lhpns01.liebherr.de.
 lifeco.mw.	0	IN	NS	rene.ns.cloudflare.com.
 lifeco.mw.	0	IN	NS	isabel.ns.cloudflare.com.
-lifeing.mw.	0	IN	NS	ns1.linthipe3.com.
-lifeing.mw.	0	IN	NS	ns2.linthipe3.com.
 likoma.mw.	0	IN	NS	domwe.sdn.mw.
 likoma.mw.	0	IN	NS	nyala.sdnp.org.mw.
 likomaisland.mw.	0	IN	NS	ns1.inmotionhosting.com.
@@ -2718,8 +2720,6 @@ maog.mw.	0	IN	NS	dns1.namecheaphosting.com.
 maog.mw.	0	IN	NS	dns2.namecheaphosting.com.
 mapd.mw.	0	IN	NS	proxy2.africa-online.net.
 mapd.mw.	0	IN	NS	proxy3.africa-online.net.
-maravi.mw.	0	IN	NS	ns1.bluehost.com.
-maravi.mw.	0	IN	NS	ns2.bluehost.com.
 mark-six.mw.	0	IN	NS	ns1.dnscu.com.
 mark-six.mw.	0	IN	NS	ns2.dnscu.com.
 marketplace.mw.	0	IN	NS	kaiser.ns.cloudflare.com.
@@ -3291,8 +3291,6 @@ ng.mw.	0	IN	NS	kara.ns.cloudflare.com.
 ng.mw.	0	IN	NS	ishaan.ns.cloudflare.com.
 ngoboard.mw.	0	IN	NS	ns1000.mochahost.com.
 ngoboard.mw.	0	IN	NS	ns2000.mochahost.com.
-ngogcn.mw.	0	IN	NS	ns1289.websitewelcome.com.
-ngogcn.mw.	0	IN	NS	ns1290.websitewelcome.com.
 ngora.mw.	0	IN	NS	ns8075.hostgator.com.
 ngora.mw.	0	IN	NS	ns8076.hostgator.com.
 nic.mw.	0	IN	NS	rip.psg.com.
@@ -3619,10 +3617,8 @@ post.mw.	0	IN	NS	rocco.ns.cloudflare.com.
 post.mw.	0	IN	NS	rosemary.ns.cloudflare.com.
 postdotnet.mw.	0	IN	NS	ns1.siteground.net.
 postdotnet.mw.	0	IN	NS	ns2.siteground.net.
-ppda.mw.	0	IN	NS	ns1.bdsmw.com.
-ppda.mw.	0	IN	NS	ns2.bdsmw.com.
-ppda.mw.	0	IN	NS	ns3.bdsmw.com.
-ppda.mw.	0	IN	NS	ns4.bdsmw.com.
+ppda.mw.	0	IN	NS	ns1.chumachadziko.xyz.
+ppda.mw.	0	IN	NS	ns2.chumachadziko.xyz.
 pppc.mw.	0	IN	NS	ns1.bdsmw.com.
 pppc.mw.	0	IN	NS	ns2.bdsmw.com.
 pppc.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -3837,6 +3833,8 @@ rfa.mw.	0	IN	NS	ns3.bdsmw.com.
 rfa.mw.	0	IN	NS	ns4.bdsmw.com.
 rfi.mw.	0	IN	NS	domwe.sdn.mw.
 rfi.mw.	0	IN	NS	nyala.sdnp.org.mw.
+riabethrecruitmentcentre.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
+riabethrecruitmentcentre.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 ricotec.mw.	0	IN	NS	ns0.internetmalawi.com.
 ricotec.mw.	0	IN	NS	ns1.internetmalawi.com.
 ricotec.mw.	0	IN	NS	ns2.internetmalawi.com.
