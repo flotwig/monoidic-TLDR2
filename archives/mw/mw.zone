@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703109901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703196301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1813,10 +1813,8 @@ goldman-sachs.mw.	0	IN	NS	dns1.cscdns.net.
 goldman-sachs.mw.	0	IN	NS	dns2.cscdns.net.
 goldmansachs.mw.	0	IN	NS	dns1.cscdns.net.
 goldmansachs.mw.	0	IN	NS	dns2.cscdns.net.
-goodyear.mw.	0	IN	NS	edns82.ultradns.biz.
-goodyear.mw.	0	IN	NS	edns82.ultradns.com.
-goodyear.mw.	0	IN	NS	edns82.ultradns.net.
-goodyear.mw.	0	IN	NS	edns82.ultradns.org.
+goodyear.mw.	0	IN	NS	josh.ns.cloudflare.com.
+goodyear.mw.	0	IN	NS	linda.ns.cloudflare.com.
 google.mw.	0	IN	NS	ns1.google.com.
 google.mw.	0	IN	NS	ns2.google.com.
 google.mw.	0	IN	NS	ns3.google.com.
