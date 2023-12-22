@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703196301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703282701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -661,6 +661,9 @@ bioderma.mw.	0	IN	NS	nsc.perf1.com.
 biomerieux.mw.	0	IN	NS	ns01.eolas.fr.
 biomerieux.mw.	0	IN	NS	ns02.eolas.fr.
 biomerieux.mw.	0	IN	NS	ns03.eolas.fr.
+biontech.mw.	0	IN	NS	ns.udag.de.
+biontech.mw.	0	IN	NS	ns.udag.net.
+biontech.mw.	0	IN	NS	ns.udag.org.
 biooil.mw.	0	IN	NS	ns1.markmonitor.com.
 biooil.mw.	0	IN	NS	ns2.markmonitor.com.
 biooil.mw.	0	IN	NS	ns3.markmonitor.com.
@@ -729,8 +732,8 @@ bmw.mw.	0	IN	NS	dns1.cscdns.net.
 bmw.mw.	0	IN	NS	dns2.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns1.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns2.cscdns.net.
-bngrecruitingagency.mw.	0	IN	NS	ns1.bh-ht-13.webhostbox.net.
-bngrecruitingagency.mw.	0	IN	NS	ns2.bh-ht-13.webhostbox.net.
+bngrecruitingagency.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
+bngrecruitingagency.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 boa.mw.	0	IN	NS	mrozia.mtds.com.
 boa.mw.	0	IN	NS	rfissa.mtds.com.
 bofa.mw.	0	IN	NS	ns1.netnames.net.
