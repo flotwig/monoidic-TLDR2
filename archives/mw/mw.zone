@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703628301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1703714701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1923,10 +1923,6 @@ heag.mw.	0	IN	NS	ns1.yourdomain.co.za.
 heag.mw.	0	IN	NS	ns2.yourdomain.co.za.
 heag.mw.	0	IN	NS	ns3.yourdomain.co.za.
 heag.mw.	0	IN	NS	ns4.yourdomain.co.za.
-health-gov.mw.	0	IN	NS	thor.ns.1-grid.co.uk.
-health-gov.mw.	0	IN	NS	thor.ns.1-grid.co.za.
-health-gov.mw.	0	IN	NS	thor.ns.1-grid.com.
-health-gov.mw.	0	IN	NS	thor.ns.1-grid.net.
 heartforchildren.mw.	0	IN	NS	ns1.is-fun.net.
 heartforchildren.mw.	0	IN	NS	ns2.is-fun.net.
 heliostowers.mw.	0	IN	NS	ns01.trademarkarea.com.
@@ -3317,6 +3313,8 @@ nissan.mw.	0	IN	NS	ns3.markmonitor.com.
 nissan.mw.	0	IN	NS	ns4.markmonitor.com.
 nissan.mw.	0	IN	NS	ns5.markmonitor.com.
 nissan.mw.	0	IN	NS	ns6.markmonitor.com.
+nitel.mw.	0	IN	NS	pluto.malswitch.com.
+nitel.mw.	0	IN	NS	venus.malswitch.com.
 nitl.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 nitl.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 nitl.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
