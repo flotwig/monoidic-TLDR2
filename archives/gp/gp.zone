@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023122614 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023122813 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -133,8 +133,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 666dl2.gp.	0	IN	NS	ns2.alidns.com.
 666dl3.gp.	0	IN	NS	ns1.alidns.com.
 666dl3.gp.	0	IN	NS	ns2.alidns.com.
-666qp.gp.	0	IN	NS	pns41.cloudns.net.
-666qp.gp.	0	IN	NS	pns42.cloudns.net.
+666qp.gp.	0	IN	NS	ns1.alidns.com.
+666qp.gp.	0	IN	NS	ns2.alidns.com.
 666xz.gp.	0	IN	NS	ns1.alidns.com.
 666xz.gp.	0	IN	NS	ns2.alidns.com.
 669.gp.	0	IN	NS	ns1.sedoparking.com.
