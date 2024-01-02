@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1704060302 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1704233101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2409,9 +2409,8 @@ keys.mw.	0	IN	NS	ns1.bb-online.net.
 keys.mw.	0	IN	NS	ns2.bb-online.org.
 keys.mw.	0	IN	NS	ns3.bb-online.info.
 keys.mw.	0	IN	NS	ns4.bb-online.biz.
-khulysa.mw.	0	IN	NS	ns1.lexsynergy.net.
-khulysa.mw.	0	IN	NS	ns2.lexsynergy.us.
-khulysa.mw.	0	IN	NS	ns3.lexsynergy.info.
+khulysa.mw.	0	IN	NS	maxdns.globemw.net.
+khulysa.mw.	0	IN	NS	araliya.globemw.net.
 kic.mw.	0	IN	NS	liv.ns.cloudflare.com.
 kic.mw.	0	IN	NS	yew.ns.cloudflare.com.
 kilibet.mw.	0	IN	NS	irma.ns.cloudflare.com.
@@ -2794,9 +2793,8 @@ medeor.mw.	0	IN	NS	ns1.alice-it.de.
 medeor.mw.	0	IN	NS	ns2.alice-it.de.
 medeor.mw.	0	IN	NS	ns3.alice-it.de.
 medeor.mw.	0	IN	NS	ns4.alice-it.de.
-medhealth.mw.	0	IN	NS	ns1.lexsynergy.net.
-medhealth.mw.	0	IN	NS	ns2.lexsynergy.us.
-medhealth.mw.	0	IN	NS	ns3.lexsynergy.info.
+medhealth.mw.	0	IN	NS	maxdns.globemw.net.
+medhealth.mw.	0	IN	NS	araliya.globemw.net.
 mediclinics.mw.	0	IN	NS	ns1.datacom.mw.
 mediclinics.mw.	0	IN	NS	ns2.datacom.mw.
 medihealth.mw.	0	IN	NS	ns01.trademarkarea.com.
@@ -4336,9 +4334,6 @@ tim.mw.	0	IN	NS	dan.ns.cloudflare.com.
 tim.mw.	0	IN	NS	gina.ns.cloudflare.com.
 timange.mw.	0	IN	NS	ns1.bluehost.com.
 timange.mw.	0	IN	NS	ns2.bluehost.com.
-timbu.mw.	0	IN	NS	helium.ns.hetzner.de.
-timbu.mw.	0	IN	NS	oxygen.ns.hetzner.com.
-timbu.mw.	0	IN	NS	hydrogen.ns.hetzner.com.
 timelapse.mw.	0	IN	NS	ns01.trademarkarea.com.
 timelapse.mw.	0	IN	NS	ns02.trademarkarea.com.
 timelapse.mw.	0	IN	NS	ns03.trademarkarea.com.
