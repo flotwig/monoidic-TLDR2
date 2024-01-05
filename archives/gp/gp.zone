@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024010417 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024010518 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -174,6 +174,10 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 88.gp.	0	IN	NS	ns2.alidns.com.
 888.gp.	0	IN	NS	dns1.idp365.net.
 888.gp.	0	IN	NS	dns2.idp365.net.
+8888.gp.	0	IN	NS	pns41.cloudns.net.
+8888.gp.	0	IN	NS	pns42.cloudns.net.
+8888.gp.	0	IN	NS	pns43.cloudns.net.
+8888.gp.	0	IN	NS	pns44.cloudns.net.
 88888888.gp.	0	IN	NS	ns1.sedoparking.com.
 88888888.gp.	0	IN	NS	ns2.sedoparking.com.
 89.gp.	0	IN	NS	ns1.dan.com.
@@ -1005,6 +1009,10 @@ cc.gp.	0	IN	NS	ns1.sedoparking.com.
 cc.gp.	0	IN	NS	ns2.sedoparking.com.
 ccc.gp.	0	IN	NS	ns225.caribbeanconsult.com.
 ccc.gp.	0	IN	NS	sdns2.ovh.net.
+cconseil.gp.	0	IN	NS	ns1045.ui-dns.de.
+cconseil.gp.	0	IN	NS	ns1045.ui-dns.biz.
+cconseil.gp.	0	IN	NS	ns1045.ui-dns.com.
+cconseil.gp.	0	IN	NS	ns1045.ui-dns.org.
 ccs.gp.	0	IN	NS	ns1.ikoula.fr.
 ccs.gp.	0	IN	NS	ns2.ikoula.fr.
 cctldbox.gp.	0	IN	NS	dns1.cscdns.net.
@@ -1204,6 +1212,9 @@ cosmos.gp.	0	IN	NS	ns1.afraid.org.
 cosmos.gp.	0	IN	NS	ns2.afraid.org.
 cosmos.gp.	0	IN	NS	ns3.afraid.org.
 cosmos.gp.	0	IN	NS	ns4.afraid.org.
+cosylife.gp.	0	IN	NS	a.ns.mailclub.fr.
+cosylife.gp.	0	IN	NS	b.ns.mailclub.eu.
+cosylife.gp.	0	IN	NS	c.ns.mailclub.com.
 courir.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 courir.gp.	0	IN	NS	ns3.nameshield.net.
 courir.gp.	0	IN	NS	obs.ns1.fr.
@@ -1561,6 +1572,9 @@ ecp.gp.	0	IN	NS	ns1.101domain.com.
 ecp.gp.	0	IN	NS	ns2.101domain.com.
 ecs.gp.	0	IN	NS	ns15.ovh.net.
 ecs.gp.	0	IN	NS	dns15.ovh.net.
+edenwood.gp.	0	IN	NS	a.ns.mailclub.fr.
+edenwood.gp.	0	IN	NS	b.ns.mailclub.eu.
+edenwood.gp.	0	IN	NS	c.ns.mailclub.com.
 edet.gp.	0	IN	NS	melkor.sgn.sca.se.
 edet.gp.	0	IN	NS	tilion.sgn.sca.se.
 edf.gp.	0	IN	NS	ns1.edf.fr.
@@ -2319,6 +2333,9 @@ hh.gp.	0	IN	NS	ns1.undeveloped.com.
 hh.gp.	0	IN	NS	ns2.undeveloped.com.
 hibp.gp.	0	IN	NS	dns1.cloudns.net.
 hibp.gp.	0	IN	NS	dns2.cloudns.net.
+highone.gp.	0	IN	NS	a.ns.mailclub.fr.
+highone.gp.	0	IN	NS	b.ns.mailclub.eu.
+highone.gp.	0	IN	NS	c.ns.mailclub.com.
 hilaire.gp.	0	IN	NS	ns107.ovh.net.
 hilaire.gp.	0	IN	NS	dns107.ovh.net.
 hilton.gp.	0	IN	NS	ns1.netnames.net.
@@ -5135,6 +5152,9 @@ v.gp.	0	IN	NS	ns1.website.org.
 v.gp.	0	IN	NS	ns2.website.org.
 vacances-guadeloupe.gp.	0	IN	NS	ns1.o2switch.net.
 vacances-guadeloupe.gp.	0	IN	NS	ns2.o2switch.net.
+valberg.gp.	0	IN	NS	a.ns.mailclub.fr.
+valberg.gp.	0	IN	NS	b.ns.mailclub.eu.
+valberg.gp.	0	IN	NS	c.ns.mailclub.com.
 valkfleet.gp.	0	IN	NS	ns3-eu.123ns.eu.
 valkfleet.gp.	0	IN	NS	deliveryhero.123ns.de.
 vania.gp.	0	IN	NS	dns1.p01.nsone.net.
