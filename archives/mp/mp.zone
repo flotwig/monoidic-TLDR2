@@ -249,8 +249,8 @@ bbva.mp.	0	IN	NS	a3-66.akam.net.
 bbva.mp.	0	IN	NS	a4-67.akam.net.
 bbva.mp.	0	IN	NS	a6-64.akam.net.
 bbva.mp.	0	IN	NS	a1-166.akam.net.
-bcclub.mp.	0	IN	NS	dns1.namecheaphosting.com.
-bcclub.mp.	0	IN	NS	dns2.namecheaphosting.com.
+bcclub.mp.	0	IN	NS	yew.ns.cloudflare.com.
+bcclub.mp.	0	IN	NS	shubhi.ns.cloudflare.com.
 bcg.mp.	0	IN	NS	dns1.cscdns.net.
 bcg.mp.	0	IN	NS	dns2.cscdns.net.
 bciub.mp.	0	IN	NS	ns01.trademarkarea.com.
@@ -710,10 +710,6 @@ exness.mp.	0	IN	NS	ns3.markmonitor.com.
 exness.mp.	0	IN	NS	ns4.markmonitor.com.
 exness.mp.	0	IN	NS	ns5.markmonitor.com.
 exness.mp.	0	IN	NS	ns6.markmonitor.com.
-ezco.mp.	0	IN	NS	ns-153.awsdns-19.com.
-ezco.mp.	0	IN	NS	ns-709.awsdns-24.net.
-ezco.mp.	0	IN	NS	ns-1435.awsdns-51.org.
-ezco.mp.	0	IN	NS	ns-1742.awsdns-25.co.uk.
 faca.mp.	0	IN	NS	pablo.ns.cloudflare.com.
 faca.mp.	0	IN	NS	venus.ns.cloudflare.com.
 facebook.mp.	0	IN	NS	ns1.lovellsnames.org.
@@ -2110,6 +2106,8 @@ windowslive.mp.	0	IN	NS	ns3-04.azure-dns.org.
 windowslive.mp.	0	IN	NS	ns4-04.azure-dns.info.
 winterca.mp.	0	IN	NS	rajeev.ns.cloudflare.com.
 winterca.mp.	0	IN	NS	marjory.ns.cloudflare.com.
+womp-wo.mp.	0	IN	NS	olga.ns.cloudflare.com.
+womp-wo.mp.	0	IN	NS	miguel.ns.cloudflare.com.
 wordju.mp.	0	IN	NS	ns10.dnsmadeeasy.com.
 wordju.mp.	0	IN	NS	ns11.dnsmadeeasy.com.
 wordju.mp.	0	IN	NS	ns12.dnsmadeeasy.com.
