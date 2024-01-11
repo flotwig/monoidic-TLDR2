@@ -224,6 +224,8 @@ ahltobaccosales.mw.	0	IN	NS	ns1.prowebmw.org.
 ahltobaccosales.mw.	0	IN	NS	ns2.prowebmw.org.
 ai.mw.	0	IN	NS	ns1.101domain.com.
 ai.mw.	0	IN	NS	ns2.101domain.com.
+aiccafrica.mw.	0	IN	NS	ns2.globemw.com.
+aiccafrica.mw.	0	IN	NS	ns3.globemw.com.
 aicpa.mw.	0	IN	NS	ns1.markmonitor.com.
 aicpa.mw.	0	IN	NS	ns2.markmonitor.com.
 aicpa.mw.	0	IN	NS	ns3.markmonitor.com.
@@ -789,6 +791,9 @@ brainytechnologies.mw.	0	IN	NS	ns1.dns-parking.com.
 brainytechnologies.mw.	0	IN	NS	ns2.dns-parking.com.
 brandsafrica.mw.	0	IN	NS	proxy2.africa-online.net.
 brandsafrica.mw.	0	IN	NS	proxy3.africa-online.net.
+breedj.mw.	0	IN	NS	ns1.netim.net.
+breedj.mw.	0	IN	NS	ns2.netim.net.
+breedj.mw.	0	IN	NS	ns3.netim.net.
 bridgestone.mw.	0	IN	NS	ns-174.awsdns-21.com.
 bridgestone.mw.	0	IN	NS	ns-519.awsdns-00.net.
 bridgestone.mw.	0	IN	NS	ns-1073.awsdns-06.org.
@@ -3873,6 +3878,8 @@ rollsroyce.mw.	0	IN	NS	dns31.register.com.
 rollsroyce.mw.	0	IN	NS	dns32.register.com.
 royalcoach.mw.	0	IN	NS	ns1.royalcoach.mw.
 royalcoach.mw.	0	IN	NS	ns2.royalcoach.mw.
+ns1.royalcoach.mw.	0	IN	A	203.161.44.230
+ns2.royalcoach.mw.	0	IN	A	203.161.44.230
 rsagroup.mw.	0	IN	NS	dns1.cscdns.net.
 rsagroup.mw.	0	IN	NS	dns2.cscdns.net.
 rtr.mw.	0	IN	NS	ns0.internetmalawi.com.
