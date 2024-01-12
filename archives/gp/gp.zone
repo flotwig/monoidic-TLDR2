@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024011020 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024011216 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -172,6 +172,18 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 87.gp.	0	IN	NS	ns2.dan.com.
 88.gp.	0	IN	NS	ns1.alidns.com.
 88.gp.	0	IN	NS	ns2.alidns.com.
+881.gp.	0	IN	NS	pns41.cloudns.net.
+881.gp.	0	IN	NS	pns42.cloudns.net.
+8811.gp.	0	IN	NS	pns41.cloudns.net.
+8811.gp.	0	IN	NS	pns42.cloudns.net.
+882.gp.	0	IN	NS	pns41.cloudns.net.
+882.gp.	0	IN	NS	pns42.cloudns.net.
+8822.gp.	0	IN	NS	pns41.cloudns.net.
+8822.gp.	0	IN	NS	pns42.cloudns.net.
+883.gp.	0	IN	NS	pns41.cloudns.net.
+883.gp.	0	IN	NS	pns42.cloudns.net.
+8833.gp.	0	IN	NS	pns41.cloudns.net.
+8833.gp.	0	IN	NS	pns42.cloudns.net.
 888.gp.	0	IN	NS	dns1.idp365.net.
 888.gp.	0	IN	NS	dns2.idp365.net.
 8888.gp.	0	IN	NS	pns41.cloudns.net.
@@ -738,6 +750,7 @@ bienvenue-en-guadeloupe.gp.	0	IN	NS	dns1.cloudns.net.
 bienvenue-en-guadeloupe.gp.	0	IN	NS	dns2.cloudns.net.
 bigmat.gp.	0	IN	NS	ns1.ikoula.nl.
 bigmat.gp.	0	IN	NS	ns2.host2vps.com.
+bing.gp.	0	IN	NS	pns42.cloudns.net.
 bio.gp.	0	IN	NS	ns1.ikoula.fr.
 bio.gp.	0	IN	NS	ns2.ikoula.fr.
 bioderma.gp.	0	IN	NS	nsa.perf1.fr.
@@ -2564,9 +2577,9 @@ inzu.gp.	0	IN	NS	pns1.cloudns.net.
 inzu.gp.	0	IN	NS	pns3.cloudns.net.
 io.gp.	0	IN	NS	dns1.cloudns.net.
 io.gp.	0	IN	NS	dns2.cloudns.net.
-ioburo.gp.	0	IN	NS	ns971.ls.gp.
-ioburo.gp.	0	IN	NS	sdns2.ovh.net.
-ioburo.gp.	0	IN	NS	ns3165086.ip-51-91-27.eu.
+ioburo.gp.	0	IN	NS	ns1.netim.net.
+ioburo.gp.	0	IN	NS	ns2.netim.net.
+ioburo.gp.	0	IN	NS	ns3.netim.net.
 ipmirror.gp.	0	IN	NS	dns1.cscdns.net.
 ipmirror.gp.	0	IN	NS	dns2.cscdns.net.
 ir.gp.	0	IN	NS	ns1.website.org.
@@ -4932,6 +4945,8 @@ thegarden.gp.	0	IN	NS	dns6.cloudns.net.
 thepiratebay.gp.	0	IN	NS	ina1.registrar.eu.
 thepiratebay.gp.	0	IN	NS	ina2.registrar.eu.
 thepiratebay.gp.	0	IN	NS	ina3.registrar.eu.
+therapeia.gp.	0	IN	NS	dns1.cloudns.net.
+therapeia.gp.	0	IN	NS	dns2.cloudns.net.
 therightnowclimatefund.gp.	0	IN	NS	ns1.markmonitor.com.
 therightnowclimatefund.gp.	0	IN	NS	ns3.markmonitor.com.
 therightnowclimatefund.gp.	0	IN	NS	ns4.markmonitor.com.
