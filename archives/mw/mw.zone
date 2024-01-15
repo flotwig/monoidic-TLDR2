@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1705269901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1705356301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -490,8 +490,6 @@ badoo.mw.	0	IN	NS	gss1.monopost.com.
 badoo.mw.	0	IN	NS	gss2.monopost.com.
 baidu.mw.	0	IN	NS	sbyns01.baidu.com.
 baidu.mw.	0	IN	NS	sbyns02.baidu.com.
-bakemans.mw.	0	IN	NS	ns105.asurahosting.com.
-bakemans.mw.	0	IN	NS	ns106.my-control-panel.com.
 bakertilly.mw.	0	IN	NS	ns1.namecity.com.
 bakertilly.mw.	0	IN	NS	ns2.namecity.com.
 bam.mw.	0	IN	NS	ns987.websitewelcome.com.
