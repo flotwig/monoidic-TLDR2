@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024011513 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024011712 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -36,10 +36,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 17.gp.	0	IN	NS	ns2.dan.com.
 18.gp.	0	IN	NS	ns1.dan.com.
 18.gp.	0	IN	NS	ns2.dan.com.
-188.gp.	0	IN	NS	pns41.cloudns.net.
-188.gp.	0	IN	NS	pns42.cloudns.net.
-188.gp.	0	IN	NS	pns43.cloudns.net.
-188.gp.	0	IN	NS	pns44.cloudns.net.
+188.gp.	0	IN	NS	ns7.alidns.com.
+188.gp.	0	IN	NS	ns8.alidns.com.
 1euro.gp.	0	IN	NS	dns1.cloudns.net.
 1euro.gp.	0	IN	NS	dns2.cloudns.net.
 1xbet.gp.	0	IN	NS	dana.ns.cloudflare.com.
@@ -213,10 +211,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 97jantes.gp.	0	IN	NS	ns1.register.be.
 97jantes.gp.	0	IN	NS	ns2.register.be.
 97jantes.gp.	0	IN	NS	ns3.register.be.
-98.gp.	0	IN	NS	pns41.cloudns.net.
-98.gp.	0	IN	NS	pns42.cloudns.net.
-98.gp.	0	IN	NS	pns43.cloudns.net.
-98.gp.	0	IN	NS	pns44.cloudns.net.
+98.gp.	0	IN	NS	ns7.alidns.com.
+98.gp.	0	IN	NS	ns8.alidns.com.
 99.gp.	0	IN	NS	ns1.dan.com.
 99.gp.	0	IN	NS	ns2.dan.com.
 999.gp.	0	IN	NS	ns1.sedoparking.com.
