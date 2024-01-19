@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1705615502 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1705701901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1179,6 +1179,8 @@ daimler-ag.mw.	0	IN	NS	ns3.corpinter.net.
 daimler-ag.mw.	0	IN	NS	ns4.corpinter.de.
 dalechatea.mw.	0	IN	NS	170.ns1.above.com.
 dalechatea.mw.	0	IN	NS	170.ns2.above.com.
+dars.mw.	0	IN	NS	ns95.websitewelcome.com.
+dars.mw.	0	IN	NS	ns96.websitewelcome.com.
 daruliftaa.mw.	0	IN	NS	ns1.dns-h.com.
 daruliftaa.mw.	0	IN	NS	ns1.host-h.net.
 daruliftaa.mw.	0	IN	NS	ns2.dns-h.com.
@@ -4757,9 +4759,9 @@ winstonandrichard.mw.	0	IN	NS	ns3.bdsmw.com.
 winstonandrichard.mw.	0	IN	NS	ns4.bdsmw.com.
 wiseapp.mw.	0	IN	NS	ns1.dns-parking.com.
 wiseapp.mw.	0	IN	NS	ns2.dns-parking.com.
-wm.mw.	0	IN	NS	a.feifei.co.
-wm.mw.	0	IN	NS	b.feifei.co.
-wm.mw.	0	IN	NS	c.feifei.co.
+wm.mw.	0	IN	NS	a.whois.ht.
+wm.mw.	0	IN	NS	b.whois.ht.
+wm.mw.	0	IN	NS	c.whois.ht.
 wma.mw.	0	IN	NS	ns1.bluehost.com.
 wma.mw.	0	IN	NS	ns2.bluehost.com.
 wolflubes.mw.	0	IN	NS	ns1.brandshelter.com.
