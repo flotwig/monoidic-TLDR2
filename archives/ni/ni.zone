@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113109 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113110 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -724,6 +724,8 @@ fastix.ni.	0	IN	NS	ns-307.awsdns-38.com.
 fastix.ni.	0	IN	NS	ns-685.awsdns-21.net.
 fastix.ni.	0	IN	NS	ns-1145.awsdns-15.org.
 fastix.ni.	0	IN	NS	ns-1582.awsdns-05.co.uk.
+fastsigns.ni.	0	IN	NS	dns1.ldp365.net.
+fastsigns.ni.	0	IN	NS	dns2.ldp365.net.
 firialta.ni.	0	IN	NS	pdns1.cscdns.net.
 firialta.ni.	0	IN	NS	pdns2.cscdns.net.
 fiserv.ni.	0	IN	NS	ns6.onefiserv.com.

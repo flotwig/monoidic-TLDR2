@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024011712 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024012221 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3829,12 +3829,16 @@ online.gp.	0	IN	NS	ns1.subdomain.net.
 online.gp.	0	IN	NS	ns2.subdomain.net.
 onlinecity.gp.	0	IN	NS	ns.checkdomain.de.
 onlinecity.gp.	0	IN	NS	ns2.checkdomain.de.
+oo.gp.	0	IN	NS	lucy.ns.cloudflare.com.
+oo.gp.	0	IN	NS	brett.ns.cloudflare.com.
 oovango.gp.	0	IN	NS	ns1.register.be.
 oovango.gp.	0	IN	NS	ns2.register.be.
 opal.gp.	0	IN	NS	dns1.namebay.com.
 opal.gp.	0	IN	NS	dns2.namebay.com.
 opel.gp.	0	IN	NS	udns1.cscdns.net.
 opel.gp.	0	IN	NS	udns2.cscdns.uk.
+open.gp.	0	IN	NS	ns1.101domain.com.
+open.gp.	0	IN	NS	ns2.101domain.com.
 opera.gp.	0	IN	NS	ns.bnamed.eu.
 opera.gp.	0	IN	NS	ns.bnamed.uk.
 opera.gp.	0	IN	NS	ns.bnamed.us.
