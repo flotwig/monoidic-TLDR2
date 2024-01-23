@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1705953902 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1706047501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1759,10 +1759,8 @@ gestetner.mw.	0	IN	NS	ns1.internetmalawi.com.
 gestetner.mw.	0	IN	NS	ns2.internetmalawi.com.
 get.mw.	0	IN	NS	ns1663.websitewelcome.com.
 get.mw.	0	IN	NS	ns1664.websitewelcome.com.
-getsafeonline.mw.	0	IN	NS	ns1.bb-online.net.
-getsafeonline.mw.	0	IN	NS	ns2.bb-online.org.
-getsafeonline.mw.	0	IN	NS	ns3.bb-online.info.
-getsafeonline.mw.	0	IN	NS	ns4.bb-online.biz.
+getsafeonline.mw.	0	IN	NS	jake.ns.cloudflare.com.
+getsafeonline.mw.	0	IN	NS	lila.ns.cloudflare.com.
 ggacademy.mw.	0	IN	NS	sns27.hostgator.in.
 ggacademy.mw.	0	IN	NS	sns28.hostgator.in.
 gib.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
@@ -1979,8 +1977,8 @@ hollywoodbets.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns2.101domain.com.
 homefoods.mw.	0	IN	NS	dom.ns.cloudflare.com.
 homefoods.mw.	0	IN	NS	nina.ns.cloudflare.com.
-honey.mw.	0	IN	NS	domwe.sdn.mw.
-honey.mw.	0	IN	NS	nyala.sdnp.org.mw.
+honey.mw.	0	IN	NS	dns1.namecheaphosting.com.
+honey.mw.	0	IN	NS	dns2.namecheaphosting.com.
 hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
 hopeedu.mw.	0	IN	NS	nyala.sdnp.org.mw.
 hopetv.mw.	0	IN	NS	domwe.sdn.mw.
