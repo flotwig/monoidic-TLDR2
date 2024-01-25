@@ -628,7 +628,7 @@ dtho.mp.	0	IN	NS	ns13.cloudns.net.
 dtho.mp.	0	IN	NS	ns14.cloudns.net.
 ducha.mp.	0	IN	NS	ns1.dreamhost.com.
 ducha.mp.	0	IN	NS	ns2.dreamhost.com.
-ducks.mp.	0	IN	NS	elna.ns.cloudflare.com.
+ducks.mp.	0	IN	NS	elma.ns.cloudflare.com.
 ducks.mp.	0	IN	NS	george.ns.cloudflare.com.
 dunandbradstreet.mp.	0	IN	NS	ns1.markmonitor.com.
 dunandbradstreet.mp.	0	IN	NS	ns2.markmonitor.com.
@@ -1052,8 +1052,6 @@ johnsonsbaby.mp.	0	IN	NS	dns3.p01.nsone.net.
 johnsonsbaby.mp.	0	IN	NS	dns4.p01.nsone.net.
 johnsonsbaby.mp.	0	IN	NS	ns01.kenvuedns.com.
 johnsonsbaby.mp.	0	IN	NS	ns02.kenvuedns.com.
-jovi.mp.	0	IN	NS	ns1.brandcloudns.com.
-jovi.mp.	0	IN	NS	ns2.brandcloudns.com.
 joyca.mp.	0	IN	NS	ns-264.awsdns-33.com.
 joyca.mp.	0	IN	NS	ns-685.awsdns-21.net.
 joyca.mp.	0	IN	NS	ns-1301.awsdns-34.org.
