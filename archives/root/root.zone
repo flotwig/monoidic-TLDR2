@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2024012901 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2024013002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14,7 +14,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024012901 1 1 6e89085aafec58b91b5ff06ed98a77aa020e2e52a7900662e9814d7c465af6c678aefdd4c0b87008415cd659e704bd8b
+.	0	IN	ZONEMD	2024013002 1 1 dc0faa4acc152b38f318b6629a3ee7547e5f74b0bb4369b9a3b7296853ce7a974c882a0a8fddf4752dabd49312a44f82
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10280,22 +10280,12 @@ v2n0.nic.loans.	0	IN	A	65.22.27.55
 v2n0.nic.loans.	0	IN	AAAA	2a01:8840:1d::55
 v2n1.nic.loans.	0	IN	A	161.232.13.55
 v2n1.nic.loans.	0	IN	AAAA	2a01:8840:f7::55
-locker.	0	IN	NS	a0.nic.locker.
-locker.	0	IN	NS	a2.nic.locker.
-locker.	0	IN	NS	b0.nic.locker.
-locker.	0	IN	NS	c0.nic.locker.
 locker.	0	IN	NS	ns01.trs-dns.com.
 locker.	0	IN	NS	ns01.trs-dns.net.
+locker.	0	IN	NS	ns01.trs-dns.org.
+locker.	0	IN	NS	ns01.trs-dns.info.
 locker.	0	IN	DS	6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
-a0.nic.locker.	0	IN	A	65.22.96.33
-a0.nic.locker.	0	IN	AAAA	2a01:8840:5e::33
-a2.nic.locker.	0	IN	A	65.22.99.33
-a2.nic.locker.	0	IN	AAAA	2a01:8840:61::33
-b0.nic.locker.	0	IN	A	65.22.97.33
-b0.nic.locker.	0	IN	AAAA	2a01:8840:5f::33
-c0.nic.locker.	0	IN	A	65.22.98.33
-c0.nic.locker.	0	IN	AAAA	2a01:8840:60::33
 locus.	0	IN	NS	dns1.nic.locus.
 locus.	0	IN	NS	dns2.nic.locus.
 locus.	0	IN	NS	dns3.nic.locus.
@@ -11791,6 +11781,8 @@ ns.cernet.net.	0	IN	A	202.112.0.44
 e.ci-servers.net.	0	IN	A	204.61.216.74
 e.ci-servers.net.	0	IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.	0	IN	A	194.0.1.27
+ph.communitydns.net.	0	IN	A	194.0.1.23
+ph.communitydns.net.	0	IN	AAAA	2001:678:4::17
 l.de.net.	0	IN	A	77.67.63.105
 l.de.net.	0	IN	AAAA	2001:668:1f:11::105
 n.de.net.	0	IN	A	194.146.107.6
@@ -13095,6 +13087,8 @@ ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
 ns1.tiare.net.pg.	0	IN	A	202.165.192.23
 ns2.tiare.net.pg.	0	IN	A	202.165.192.24
 ph.	0	IN	NS	1.ns.ph.
+ph.	0	IN	NS	ph.communitydns.net.
+ph.	0	IN	NS	ns2.cuhk.edu.hk.
 ph.	0	IN	NS	ns4.apnic.net.
 ph.	0	IN	DS	29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 1.ns.ph.	0	IN	A	206.51.255.1
@@ -14130,6 +14124,7 @@ redstone.	0	IN	NS	a0.nic.redstone.
 redstone.	0	IN	NS	a2.nic.redstone.
 redstone.	0	IN	NS	b0.nic.redstone.
 redstone.	0	IN	NS	c0.nic.redstone.
+redstone.	0	IN	DS	49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
 redstone.	0	IN	DS	55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
 a0.nic.redstone.	0	IN	A	65.22.132.17
 a0.nic.redstone.	0	IN	AAAA	2a01:8840:82::17
@@ -17775,12 +17770,14 @@ ns7.uz.	0	IN	A	104.238.81.247
 ns8.uz.	0	IN	A	91.212.89.233
 va.	0	IN	NS	a.nic.va.
 va.	0	IN	NS	b.nic.va.
+va.	0	IN	NS	c.nic.va.
 va.	0	IN	NS	va.cctld.authdns.ripe.net.
 va.	0	IN	NS	dns.nic.it.
 va.	0	IN	NS	seth.namex.it.
 va.	0	IN	NS	osiris.namex.it.
 a.nic.va.	0	IN	A	212.77.0.110
 b.nic.va.	0	IN	A	212.77.0.2
+c.nic.va.	0	IN	A	212.77.2.58
 vacations.	0	IN	NS	v0n0.nic.vacations.
 vacations.	0	IN	NS	v0n1.nic.vacations.
 vacations.	0	IN	NS	v0n2.nic.vacations.
