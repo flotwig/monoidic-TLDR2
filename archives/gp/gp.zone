@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024013013 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024013123 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -95,9 +95,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 55.gp.	0	IN	NS	ns2.sedoparking.com.
 555.gp.	0	IN	NS	ns1.dan.com.
 555.gp.	0	IN	NS	ns2.dan.com.
-5555.gp.	0	IN	NS	pns41.cloudns.net.
-5555.gp.	0	IN	NS	pns42.cloudns.net.
-5555.gp.	0	IN	NS	pns44.cloudns.net.
+5555.gp.	0	IN	NS	ns7.alidns.com.
+5555.gp.	0	IN	NS	ns8.alidns.com.
 57.gp.	0	IN	NS	ns1.dan.com.
 57.gp.	0	IN	NS	ns2.dan.com.
 58.gp.	0	IN	NS	ns1.dan.com.
@@ -4414,7 +4413,6 @@ rimadyl.gp.	0	IN	NS	ns1.pfizer.com.
 rimadyl.gp.	0	IN	NS	ns2.pfizer.com.
 rimadyl.gp.	0	IN	NS	ns3.pfizer.com.
 rimadyl.gp.	0	IN	NS	ns4.pfizer.com.
-ns.ring.gp.	0	IN	A	178.33.50.4
 riverisland.gp.	0	IN	NS	ns1.markmonitor.com.
 riverisland.gp.	0	IN	NS	ns2.markmonitor.com.
 riverisland.gp.	0	IN	NS	ns3.markmonitor.com.

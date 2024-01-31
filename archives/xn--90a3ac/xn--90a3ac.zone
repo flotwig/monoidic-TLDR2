@@ -1,11 +1,11 @@
-xn--90a3ac.	0	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024013101 3600 900 2419200 3600
+xn--90a3ac.	0	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020101 3600 900 2419200 3600
 xn--90a3ac.	0	IN	NS	a.nic.rs.
 xn--90a3ac.	0	IN	NS	b.nic.rs.
 xn--90a3ac.	0	IN	NS	f.nic.rs.
 xn--90a3ac.	0	IN	NS	g.nic.rs.
 xn--90a3ac.	0	IN	NS	h.nic.rs.
 xn--90a3ac.	0	IN	NS	l.nic.rs.
-xn--90a3ac.	0	IN	TXT	"xn--90a3ac zone update: 2024-01-31 00:00:05 +01:00 (EPOCH 1706655605)"
+xn--90a3ac.	0	IN	TXT	"xn--90a3ac zone update: 2024-02-01 00:00:05 +01:00 (EPOCH 1706742005)"
 xn--90a3ac.	0	IN	DNSKEY	256 3 13 ACOp9VMs8rffITz4WPPqJAPjSAkBPTb4KS4aUbcoCccO9DKzHqpj1hBpzAYL6oHmjmFS9gmjLvJ0Xut54/xiYw== ;{id = 51802 (zsk), size = 256b}
 xn--90a3ac.	0	IN	DNSKEY	256 3 13 XFg51LcDRthrYrVcibiQ9Qotu27rbQVNXQOl96CkQF/7evQ0NyZlDWjsfGXJ9/m5lWwx5EvgM4f0Grfxy7mifg== ;{id = 957 (zsk), size = 256b}
 xn--90a3ac.	0	IN	DNSKEY	257 3 13 NU95xarGR41YSMs+vc3vC/h5hRMQVT5uegUqUMk1opwXsa+xaZsgYGbyAiiXYZKoMaC/dBDGGOySjGjTh8km4A== ;{id = 64419 (ksk), size = 256b}
@@ -56,6 +56,8 @@ xn--90a3ac.	0	IN	NSEC3PARAM	1 0 5 8ec543af6a8739ce
 11811.xn--90a3ac.	0	IN	NS	dagda2.isp.telekom.rs.
 11939.xn--90a3ac.	0	IN	NS	ns1.netsto.net.
 11939.xn--90a3ac.	0	IN	NS	ns2.netsto.net.
+123.xn--90a3ac.	0	IN	NS	n1.xundns.com.
+123.xn--90a3ac.	0	IN	NS	n2.xundns.com.
 12303.xn--90a3ac.	0	IN	NS	ns6.netsto.net.
 12303.xn--90a3ac.	0	IN	NS	ns7.netsto.net.
 12446.xn--90a3ac.	0	IN	NS	ns1.netsto.net.
@@ -3595,8 +3597,6 @@ xn--80aaanvbycice.xn--90a3ac.	0	IN	NS	ns2.hostingmania.rs.
 xn--80aaanvbycice.xn--90a3ac.	0	IN	NS	ns3.hostingmania.rs.
 xn--80aaao3cffch9u.xn--90a3ac.	0	IN	NS	dns1.eunethosting.com.
 xn--80aaao3cffch9u.xn--90a3ac.	0	IN	NS	dns2.eunethosting.com.
-xn--80aaaobftacbnmslig3b6g.xn--90a3ac.	0	IN	NS	dns1.eunethosting.com.
-xn--80aaaobftacbnmslig3b6g.xn--90a3ac.	0	IN	NS	dns2.eunethosting.com.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac.	0	IN	NS	ns1.netcom.rs.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac.	0	IN	NS	ns2.netcom.rs.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac.	0	IN	NS	ns3.netcom.rs.
@@ -3627,15 +3627,6 @@ xn--80aaasqmjc6cd.xn--90a3ac.	0	IN	NS	dns3.orion.rs.
 xn--80aaasqmjc6cd.xn--90a3ac.	0	IN	NS	dns4.orion.rs.
 xn--80aaasrjfu7an7dyn.xn--90a3ac.	0	IN	NS	ns1.ptt.rs.
 xn--80aaasrjfu7an7dyn.xn--90a3ac.	0	IN	NS	ns2.ptt.rs.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	NS	ns.gransy.com.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	NS	ns2.gransy.com.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	NS	ns3.gransy.com.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	NS	ns4.gransy.com.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	NS	ns5.gransy.com.
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	DS	52247 7 1 2c6a30c3cd37830bb4beedc044103b33714cb5b0
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	DS	52247 7 2 09d3b6242386d378032aa6786ebe7b83dff1c1050153e314fb19d90121a35eb3
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	DS	56890 7 1 57fd763300809cb325572624d6ee6ae8f84e5ab2
-xn--80aaatolmdn6ahdi1e2p.xn--90a3ac.	0	IN	DS	56890 7 2 fc490cf4a1d6d0e4cbb8a96ea1a694e954a931e6480a619345fb5210ed0ee04e
 xn--80aaauicq5cm5c.xn--90a3ac.	0	IN	NS	ns.gransy.com.
 xn--80aaauicq5cm5c.xn--90a3ac.	0	IN	NS	ns2.gransy.com.
 xn--80aaauicq5cm5c.xn--90a3ac.	0	IN	NS	ns3.gransy.com.
@@ -4223,6 +4214,8 @@ xn--80aapai1bqfrjbfe8yc.xn--90a3ac.	0	IN	NS	dagda1.isp.telekom.rs.
 xn--80aapaihldncu5av41a.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
 xn--80aapaihldncu5av41a.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80aapaihldncu5av41a.xn--90a3ac.	0	IN	DS	12412 8 2 31d4fcd51192db813f6edf4a636632ba078b49d16fc5144b29a5f149498ca66d
+xn--80aapazcckr9au.xn--90a3ac.	0	IN	NS	dawn.ns.cloudflare.com.
+xn--80aapazcckr9au.xn--90a3ac.	0	IN	NS	jerome.ns.cloudflare.com.
 xn--80aapfvx5q.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
 xn--80aapfvx5q.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80aapfvx5q.xn--90a3ac.	0	IN	DS	12412 8 2 3a2bb3679ad841452b4ee1d784b289b25f9a8b44e3d8a112e4644dcf9f42b175
@@ -4506,8 +4499,6 @@ xn--80acdefghijulmnopqrstuvwxy5uzf3a4a8a0j.xn--90a3ac.	0	IN	NS	ns2.infinityfree.
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac.	0	IN	DS	12412 8 2 a8ffffc60398fdc3f0198ceeeb2e46bfbb3d8e63dd28b947ada133e1e675ae94
-xn--80achddob2aoz3a.xn--90a3ac.	0	IN	NS	dns1.eunethosting.com.
-xn--80achddob2aoz3a.xn--90a3ac.	0	IN	NS	dns2.eunethosting.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac.	0	IN	NS	ns1.markmonitor.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac.	0	IN	NS	ns3.markmonitor.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac.	0	IN	NS	ns4.markmonitor.com.
