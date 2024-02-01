@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1706738702 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1706825101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -705,10 +705,10 @@ bloombergtradebook.mw.	0	IN	NS	dns1.cscdns.net.
 bloombergtradebook.mw.	0	IN	NS	dns2.cscdns.net.
 blue1.mw.	0	IN	NS	proxy2.africa-online.net.
 blue1.mw.	0	IN	NS	proxy3.africa-online.net.
-bluebiz.mw.	0	IN	NS	ns.klm.nl.
-bluebiz.mw.	0	IN	NS	ns2.kpn.net.
-bluebiz.mw.	0	IN	NS	ns4.kpn.net.
-bluebiz.mw.	0	IN	NS	nss.klm.nl.
+bluebiz.mw.	0	IN	NS	ns1.eurodns.com.
+bluebiz.mw.	0	IN	NS	ns2.eurodns.com.
+bluebiz.mw.	0	IN	NS	ns3.eurodns.com.
+bluebiz.mw.	0	IN	NS	ns4.eurodns.com.
 bluewaters.mw.	0	IN	NS	maxdns.globemw.net.
 bluewaters.mw.	0	IN	NS	araliya.globemw.net.
 bluezebra.mw.	0	IN	NS	ns1.advancenet.co.za.
@@ -2770,8 +2770,8 @@ mcccivirtualtrade.mw.	0	IN	NS	ns1.siteground.net.
 mcccivirtualtrade.mw.	0	IN	NS	ns2.siteground.net.
 mchengacm.mw.	0	IN	NS	ns2.globemw.com.
 mchengacm.mw.	0	IN	NS	ns3.globemw.com.
-mchs.mw.	0	IN	NS	ns1.chuma17.com.
-mchs.mw.	0	IN	NS	ns2.chuma17.com.
+mchs.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
+mchs.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 mdt.mw.	0	IN	NS	ns1.serv27.registerdomain.co.za.
 mdt.mw.	0	IN	NS	ns2.serv27.registerdomain.co.za.
 me.mw.	0	IN	NS	ns1.undeveloped.com.
@@ -4416,6 +4416,8 @@ tractorprovider.mw.	0	IN	NS	ajay.ns.cloudflare.com.
 tractorprovider.mw.	0	IN	NS	lola.ns.cloudflare.com.
 tractors.mw.	0	IN	NS	walt.ns.cloudflare.com.
 tractors.mw.	0	IN	NS	itzel.ns.cloudflare.com.
+trade.mw.	0	IN	NS	domwe.sdn.mw.
+trade.mw.	0	IN	NS	nyala.sdnp.org.mw.
 tradearena.mw.	0	IN	NS	dns1.namecheaphosting.com.
 tradearena.mw.	0	IN	NS	dns2.namecheaphosting.com.
 tradeline.mw.	0	IN	NS	domwe.sdn.mw.
@@ -4519,8 +4521,8 @@ ubuy.mw.	0	IN	NS	ns-1226.awsdns-25.org.
 ubuy.mw.	0	IN	NS	ns-1622.awsdns-10.co.uk.
 ufulu.mw.	0	IN	NS	domwe.sdn.mw.
 ufulu.mw.	0	IN	NS	nyala.sdnp.org.mw.
-ufulugardens.mw.	0	IN	NS	proxy2.africa-online.net.
-ufulugardens.mw.	0	IN	NS	proxy3.africa-online.net.
+ufulugardens.mw.	0	IN	NS	ns2.globemw.com.
+ufulugardens.mw.	0	IN	NS	ns3.globemw.com.
 ugi.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 ugi.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 ugi.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
@@ -4719,8 +4721,8 @@ werner.mw.	0	IN	NS	ns2.hostpoint.ch.
 werner.mw.	0	IN	NS	ns3.hostpoint.ch.
 wesm.mw.	0	IN	NS	ns1.cj-hosting.com.
 wesm.mw.	0	IN	NS	ns2.cj-hosting.com.
-western.mw.	0	IN	NS	proxy2.africa-online.net.
-western.mw.	0	IN	NS	proxy3.africa-online.net.
+western.mw.	0	IN	NS	ns2.globemw.com.
+western.mw.	0	IN	NS	ns3.globemw.com.
 westernunion.mw.	0	IN	NS	ns1.markmonitor.com.
 westernunion.mw.	0	IN	NS	ns3.markmonitor.com.
 whatsapp.mw.	0	IN	NS	ns1.lovellsnames.org.

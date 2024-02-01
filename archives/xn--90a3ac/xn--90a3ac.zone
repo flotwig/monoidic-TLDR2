@@ -1,11 +1,11 @@
-xn--90a3ac.	0	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020101 3600 900 2419200 3600
+xn--90a3ac.	0	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020201 3600 900 2419200 3600
 xn--90a3ac.	0	IN	NS	a.nic.rs.
 xn--90a3ac.	0	IN	NS	b.nic.rs.
 xn--90a3ac.	0	IN	NS	f.nic.rs.
 xn--90a3ac.	0	IN	NS	g.nic.rs.
 xn--90a3ac.	0	IN	NS	h.nic.rs.
 xn--90a3ac.	0	IN	NS	l.nic.rs.
-xn--90a3ac.	0	IN	TXT	"xn--90a3ac zone update: 2024-02-01 00:00:05 +01:00 (EPOCH 1706742005)"
+xn--90a3ac.	0	IN	TXT	"xn--90a3ac zone update: 2024-02-02 00:00:03 +01:00 (EPOCH 1706828403)"
 xn--90a3ac.	0	IN	DNSKEY	256 3 13 ACOp9VMs8rffITz4WPPqJAPjSAkBPTb4KS4aUbcoCccO9DKzHqpj1hBpzAYL6oHmjmFS9gmjLvJ0Xut54/xiYw== ;{id = 51802 (zsk), size = 256b}
 xn--90a3ac.	0	IN	DNSKEY	256 3 13 XFg51LcDRthrYrVcibiQ9Qotu27rbQVNXQOl96CkQF/7evQ0NyZlDWjsfGXJ9/m5lWwx5EvgM4f0Grfxy7mifg== ;{id = 957 (zsk), size = 256b}
 xn--90a3ac.	0	IN	DNSKEY	257 3 13 NU95xarGR41YSMs+vc3vC/h5hRMQVT5uegUqUMk1opwXsa+xaZsgYGbyAiiXYZKoMaC/dBDGGOySjGjTh8km4A== ;{id = 64419 (ksk), size = 256b}
@@ -3251,9 +3251,6 @@ xn--80a2bf8e.xn--90a3ac.	0	IN	NS	ns4.yahoo.com.
 xn--80a2bf8e.xn--90a3ac.	0	IN	NS	ns5.yahoo.com.
 xn--80a3aebfg.xn--90a3ac.	0	IN	NS	dagda1.isp.telekom.rs.
 xn--80a3aebfg.xn--90a3ac.	0	IN	NS	dagda2.isp.telekom.rs.
-xn--80a3aeir.xn--90a3ac.	0	IN	NS	ns1.cpanelhosting.rs.
-xn--80a3aeir.xn--90a3ac.	0	IN	NS	ns2.cpanelhosting.rs.
-xn--80a3aeir.xn--90a3ac.	0	IN	NS	ns3.cpanelhosting.rs.
 xn--80a5aceg0k.xn--90a3ac.	0	IN	NS	dns1.orion.rs.
 xn--80a5aceg0k.xn--90a3ac.	0	IN	NS	dns2.orion.rs.
 xn--80a5aceg0k.xn--90a3ac.	0	IN	NS	dns3.orion.rs.
@@ -3824,12 +3821,12 @@ xn--80aaf6bgj5bf.xn--90a3ac.	0	IN	NS	dns2.eunethosting.com.
 xn--80aaf7al.xn--90a3ac.	0	IN	NS	ns1.cpanelhosting.rs.
 xn--80aaf7al.xn--90a3ac.	0	IN	NS	ns2.cpanelhosting.rs.
 xn--80aaf7al.xn--90a3ac.	0	IN	NS	ns3.cpanelhosting.rs.
-xn--80aafapqapzdghcolcms0g.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
-xn--80aafapqapzdghcolcms0g.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
-xn--80aafapqapzdghcolcms0g.xn--90a3ac.	0	IN	DS	12412 8 2 7b1d9012a15ad329f4ab052ade5cce5b51c16ec0745ceee9821b94cbca443ad3
 xn--80aafb4awon2w.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
 xn--80aafb4awon2w.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80aafb4awon2w.xn--90a3ac.	0	IN	DS	12412 8 2 044028344e6d58a524542a099e9065386f7ba181d56af28131b5423dacac0054
+xn--80aafbh1a7afdn02a.xn--90a3ac.	0	IN	NS	dns1.dwhost.net.
+xn--80aafbh1a7afdn02a.xn--90a3ac.	0	IN	NS	dns2.dwhost.net.
+xn--80aafbh1a7afdn02a.xn--90a3ac.	0	IN	NS	dns3.dwhost.net.
 xn--80aafbrkcdushmf4apj73b.xn--90a3ac.	0	IN	NS	ns.beotel.rs.
 xn--80aafbrkcdushmf4apj73b.xn--90a3ac.	0	IN	NS	ns.beotel.net.
 xn--80aafc9cdkd7e4i.xn--90a3ac.	0	IN	NS	ns4-l2.nic.ru.
@@ -4258,8 +4255,6 @@ xn--80aatdcqu0e1i.xn--90a3ac.	0	IN	NS	dns3.orion.rs.
 xn--80aatdcqu0e1i.xn--90a3ac.	0	IN	NS	dns4.orion.rs.
 xn--80aaud1ahiq.xn--90a3ac.	0	IN	NS	dagda1.isp.telekom.rs.
 xn--80aaud1ahiq.xn--90a3ac.	0	IN	NS	dagda2.isp.telekom.rs.
-xn--80aaudjfblna0f.xn--90a3ac.	0	IN	NS	ns19.adriahost.com.
-xn--80aaudjfblna0f.xn--90a3ac.	0	IN	NS	ns20.adriahost.com.
 xn--80aavbdihbnm93a.xn--90a3ac.	0	IN	NS	ns1.ulimitserver.com.
 xn--80aavbdihbnm93a.xn--90a3ac.	0	IN	NS	ns2.ulimitserver.com.
 xn--80aawbkjgiswr.xn--90a3ac.	0	IN	NS	ns.infosky.net.
@@ -4281,8 +4276,6 @@ xn--80aaxa5bbcfbc0d.xn--90a3ac.	0	IN	NS	ns101.whbdns.com.
 xn--80aaxak2bcfbc.xn--90a3ac.	0	IN	NS	ns1.gov.rs.
 xn--80aaxak2bcfbc.xn--90a3ac.	0	IN	NS	ns2.gov.rs.
 xn--80aaxak2bcfbc.xn--90a3ac.	0	IN	NS	dagda1.isp.telekom.rs.
-xn--80aaxakcva1acgcbc.xn--90a3ac.	0	IN	NS	vpsns.beograd.com.
-xn--80aaxakcva1acgcbc.xn--90a3ac.	0	IN	NS	vpshome.beograd.com.
 xn--80aaxbhb6bj9u.xn--90a3ac.	0	IN	NS	ns9.unlimited.rs.
 xn--80aaxbhb6bj9u.xn--90a3ac.	0	IN	NS	ns10.unlimited.rs.
 xn--80aaxicnbl.xn--90a3ac.	0	IN	NS	hns3.verat.net.
@@ -4292,6 +4285,9 @@ xn--80aaxo5aza.xn--90a3ac.	0	IN	NS	ns2.cpanelhosting.rs.
 xn--80aaxo5aza.xn--90a3ac.	0	IN	NS	ns3.cpanelhosting.rs.
 xn--80aaxobgb9byb8l.xn--90a3ac.	0	IN	NS	ns1.dns-parking.com.
 xn--80aaxobgb9byb8l.xn--90a3ac.	0	IN	NS	ns2.dns-parking.com.
+xn--80aaxov9l.xn--90a3ac.	0	IN	NS	dns1.dwhost.net.
+xn--80aaxov9l.xn--90a3ac.	0	IN	NS	dns2.dwhost.net.
+xn--80aaxov9l.xn--90a3ac.	0	IN	NS	dns3.dwhost.net.
 xn--80aaxuneh.xn--90a3ac.	0	IN	NS	dns1.orion.rs.
 xn--80aaxuneh.xn--90a3ac.	0	IN	NS	dns2.orion.rs.
 xn--80aaxuneh.xn--90a3ac.	0	IN	NS	dns3.orion.rs.
@@ -5527,6 +5523,9 @@ xn--80apaawcgnodhd6b.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80apaawcgnodhd6b.xn--90a3ac.	0	IN	DS	12412 8 2 9601ad21d07007b82ca281cd1581b5086ef55192169522391a36a53950b6822a
 xn--80apaicrg1a.xn--90a3ac.	0	IN	NS	badnja.politika.co.rs.
 xn--80apaicrg1a.xn--90a3ac.	0	IN	NS	dagda1.isp.telekom.rs.
+xn--80apald7d.xn--90a3ac.	0	IN	NS	dns1.dwhost.net.
+xn--80apald7d.xn--90a3ac.	0	IN	NS	dns2.dwhost.net.
+xn--80apald7d.xn--90a3ac.	0	IN	NS	dns3.dwhost.net.
 xn--80apatsh4a.xn--90a3ac.	0	IN	NS	ns1.loopia.se.
 xn--80apatsh4a.xn--90a3ac.	0	IN	NS	ns2.loopia.se.
 xn--80apatsh4a.xn--90a3ac.	0	IN	DS	12412 8 2 59f9bf608f0034bbbe0b399c2435483d81d530505342383fc43a2b5e4d2c1c67
@@ -6801,10 +6800,6 @@ xn--e1agof7n.xn--90a3ac.	0	IN	NS	junade.ns.cloudflare.com.
 xn--e1agof7n.xn--90a3ac.	0	IN	NS	ophelia.ns.cloudflare.com.
 xn--e1agx3i.xn--90a3ac.	0	IN	NS	largo.bitsyu.net.
 xn--e1agx3i.xn--90a3ac.	0	IN	NS	bits-hq.bitsyu.net.
-xn--e1ajd3aa.xn--90a3ac.	0	IN	NS	dns1.orion.rs.
-xn--e1ajd3aa.xn--90a3ac.	0	IN	NS	dns2.orion.rs.
-xn--e1ajd3aa.xn--90a3ac.	0	IN	NS	dns3.orion.rs.
-xn--e1ajd3aa.xn--90a3ac.	0	IN	NS	dns4.orion.rs.
 xn--e1ajgz.xn--90a3ac.	0	IN	NS	ns.beotel.rs.
 xn--e1ajgz.xn--90a3ac.	0	IN	NS	ns.beotel.net.
 xn--e1ajhebdc.xn--90a3ac.	0	IN	NS	dns1.cscdns.net.
@@ -6979,6 +6974,9 @@ xn--h1aaidkfheq.xn--90a3ac.	0	IN	NS	dns4.orion.rs.
 xn--h1aairkn.xn--90a3ac.	0	IN	NS	ns1.ext.philips.com.
 xn--h1aairkn.xn--90a3ac.	0	IN	NS	ns2.ext.philips.com.
 xn--h1aairkn.xn--90a3ac.	0	IN	NS	ns3.ext.philips.com.
+xn--h1aakbjo.xn--90a3ac.	0	IN	NS	dns1.dwhost.net.
+xn--h1aakbjo.xn--90a3ac.	0	IN	NS	dns2.dwhost.net.
+xn--h1aakbjo.xn--90a3ac.	0	IN	NS	dns3.dwhost.net.
 xn--h1aakz0k.xn--90a3ac.	0	IN	NS	ns1.cpanelhosting.rs.
 xn--h1aakz0k.xn--90a3ac.	0	IN	NS	ns2.cpanelhosting.rs.
 xn--h1aakz0k.xn--90a3ac.	0	IN	NS	ns3.cpanelhosting.rs.
