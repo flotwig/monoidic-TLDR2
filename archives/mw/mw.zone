@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1706825101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1706911501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -867,6 +867,9 @@ cartrack.mw.	0	IN	NS	ns2.cartrack.com.
 cartrack.mw.	0	IN	NS	ns3.cartrack.com.
 caseplus.mw.	0	IN	NS	ns8075.hostgator.com.
 caseplus.mw.	0	IN	NS	ns8076.hostgator.com.
+cashconverters.mw.	0	IN	NS	ns01.trademarkarea.com.
+cashconverters.mw.	0	IN	NS	ns02.trademarkarea.com.
+cashconverters.mw.	0	IN	NS	ns03.trademarkarea.com.
 cashpassport.mw.	0	IN	NS	a1-29.akam.net.
 cashpassport.mw.	0	IN	NS	a7-67.akam.net.
 cashpassport.mw.	0	IN	NS	a9-64.akam.net.
@@ -3229,6 +3232,8 @@ neef.mw.	0	IN	NS	ns1.bdsmw.com.
 neef.mw.	0	IN	NS	ns2.bdsmw.com.
 neef.mw.	0	IN	NS	ns3.bdsmw.com.
 neef.mw.	0	IN	NS	ns4.bdsmw.com.
+nela.mw.	0	IN	NS	ns1.vercel-dns.com.
+nela.mw.	0	IN	NS	ns2.vercel-dns.com.
 neno.mw.	0	IN	NS	ns1.netim.net.
 neno.mw.	0	IN	NS	ns2.netim.net.
 neno.mw.	0	IN	NS	ns3.netim.net.
