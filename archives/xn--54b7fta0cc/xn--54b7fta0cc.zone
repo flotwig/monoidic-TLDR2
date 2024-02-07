@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024020710 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024020810 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -330,8 +330,6 @@ xn--b5bpb6e9bj6evcb.xn--54b7fta0cc.	0	IN	NS	ns1.cp-50.webhostbox.net.
 xn--b5bpb6e9bj6evcb.xn--54b7fta0cc.	0	IN	NS	ns2.cp-50.webhostbox.net.
 xn--b5bx0dub0djd.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
 xn--b5bx0dub0djd.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
-xn--b6ba4b2abb.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
-xn--b6ba4b2abb.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--b6baeam3h7b.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--b6baeam3h7b.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--b6baer7e2d.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
