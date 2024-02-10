@@ -678,6 +678,9 @@ emeraldclub.mp.	0	IN	NS	ns6.markmonitor.com.
 emga.mp.	0	IN	NS	ns1.regery.net.
 emga.mp.	0	IN	NS	ns2.regery.net.
 emga.mp.	0	IN	NS	ns3.regery.net.
+empty.mp.	0	IN	NS	ns1.passporthosting.com.
+empty.mp.	0	IN	NS	ns2.passporthosting.com.
+empty.mp.	0	IN	NS	ns3.passporthosting.com.
 encrypt.mp.	0	IN	NS	ns-44-a.gandi.net.
 encrypt.mp.	0	IN	NS	ns-74-b.gandi.net.
 encrypt.mp.	0	IN	NS	ns-118-c.gandi.net.
@@ -814,8 +817,6 @@ gov.mp.	0	IN	NS	ns1.nic.net.mp.
 gov.mp.	0	IN	NS	ns2.nic.net.mp.
 grieska.mp.	0	IN	NS	lily.ns.cloudflare.com.
 grieska.mp.	0	IN	NS	cameron.ns.cloudflare.com.
-grns.mp.	0	IN	NS	ns0.bulletproof.net.au.
-grns.mp.	0	IN	NS	ns1.bulletproof.net.au.
 groska.mp.	0	IN	NS	ns-342.awsdns-42.com.
 groska.mp.	0	IN	NS	ns-822.awsdns-38.net.
 groska.mp.	0	IN	NS	ns-1259.awsdns-29.org.
