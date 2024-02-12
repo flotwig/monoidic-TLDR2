@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707689101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1707775501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2249,6 +2249,8 @@ iqos.mw.	0	IN	NS	ns4.markmonitor.com.
 iqos.mw.	0	IN	NS	ns5.markmonitor.com.
 iqos.mw.	0	IN	NS	ns6.markmonitor.com.
 iqos.mw.	0	IN	NS	ns7.markmonitor.com.
+iringasecurity.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
+iringasecurity.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 isg.mw.	0	IN	NS	ns1.bdsmw.com.
 isg.mw.	0	IN	NS	ns2.bdsmw.com.
 isg.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -3130,8 +3132,6 @@ mwapata.mw.	0	IN	NS	ns14.wixdns.net.
 mwapata.mw.	0	IN	NS	ns15.wixdns.net.
 mwasip.mw.	0	IN	NS	ns.mainnameserver.com.
 mwasip.mw.	0	IN	NS	ns2.mainnameserver.com.
-mwasipiv.mw.	0	IN	NS	domwe.sdn.mw.
-mwasipiv.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mwc.mw.	0	IN	NS	ns01.trademarkarea.com.
 mwc.mw.	0	IN	NS	ns02.trademarkarea.com.
 mwc.mw.	0	IN	NS	ns03.trademarkarea.com.
@@ -3467,9 +3467,6 @@ originstory.mw.	0	IN	NS	lex.ns.cloudflare.com.
 originstory.mw.	0	IN	NS	gene.ns.cloudflare.com.
 osquaredmarketing.mw.	0	IN	NS	ns1.inmotionhosting.com.
 osquaredmarketing.mw.	0	IN	NS	ns2.inmotionhosting.com.
-ostrich.mw.	0	IN	NS	dns1.web-hosting.com.
-ostrich.mw.	0	IN	NS	dns1.namecheaphosting.com.
-ostrich.mw.	0	IN	NS	dns2.namecheaphosting.com.
 othakarhakafoundation.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 othakarhakafoundation.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 otishadley.mw.	0	IN	NS	ns6171.hostgator.com.
