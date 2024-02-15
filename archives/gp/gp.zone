@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024021314 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024021521 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1307,10 +1307,10 @@ dafymoto.gp.	0	IN	NS	ns2.francedns.com.
 dafymoto.gp.	0	IN	NS	ns3.francedns.com.
 daher.gp.	0	IN	NS	ns73.hostgator.com.
 daher.gp.	0	IN	NS	ns74.hostgator.com.
-daimler.gp.	0	IN	NS	ns1.corpinter.net.
-daimler.gp.	0	IN	NS	ns2.corpinter.de.
-daimler.gp.	0	IN	NS	ns3.corpinter.net.
-daimler.gp.	0	IN	NS	ns4.corpinter.de.
+daimler.gp.	0	IN	NS	dns1.p01.nsone.net.
+daimler.gp.	0	IN	NS	dns2.p01.nsone.net.
+daimler.gp.	0	IN	NS	dns3.p01.nsone.net.
+daimler.gp.	0	IN	NS	dns4.p01.nsone.net.
 daimler-ag.gp.	0	IN	NS	ns1.corpinter.net.
 daimler-ag.gp.	0	IN	NS	ns2.corpinter.de.
 daimler-ag.gp.	0	IN	NS	ns3.corpinter.net.
@@ -3911,6 +3911,8 @@ ose.gp.	0	IN	NS	ns103.ovh.net.
 ose.gp.	0	IN	NS	dns103.ovh.net.
 osteopathe.gp.	0	IN	NS	ns105.ovh.net.
 osteopathe.gp.	0	IN	NS	dns105.ovh.net.
+outpost.gp.	0	IN	NS	dns1.cloudns.net.
+outpost.gp.	0	IN	NS	dns2.cloudns.net.
 p.gp.	0	IN	NS	ns1.website.org.
 p.gp.	0	IN	NS	ns2.website.org.
 paie.gp.	0	IN	NS	pns1.cloudns.net.
@@ -4154,6 +4156,8 @@ procom.gp.	0	IN	NS	ns61.1and1.fr.
 procom.gp.	0	IN	NS	ns62.1and1.fr.
 promidom.gp.	0	IN	NS	ns10.ovh.net.
 promidom.gp.	0	IN	NS	dns10.ovh.net.
+promo-sante-guadeloupe.gp.	0	IN	NS	dns1.cloudns.net.
+promo-sante-guadeloupe.gp.	0	IN	NS	dns2.cloudns.net.
 promocash.gp.	0	IN	NS	a.dns.gandi.net.
 promocash.gp.	0	IN	NS	b.dns.gandi.net.
 promos.gp.	0	IN	NS	ns1.francedns.com.
