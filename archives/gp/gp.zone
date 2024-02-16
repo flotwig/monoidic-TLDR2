@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024021521 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024021615 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2931,8 +2931,8 @@ laselectiondescomptoirs.gp.	0	IN	NS	ns3.francedns.com.
 lasportiva.gp.	0	IN	NS	ns1.register.it.
 lasportiva.gp.	0	IN	NS	ns2.register.it.
 latif.gp.	0	IN	NS	ns.mywapblog.com.
-latitudesud.gp.	0	IN	NS	fay.ns.cloudflare.com.
-latitudesud.gp.	0	IN	NS	morgan.ns.cloudflare.com.
+latitudesud.gp.	0	IN	NS	alan.ns.cloudflare.com.
+latitudesud.gp.	0	IN	NS	cass.ns.cloudflare.com.
 laufen.gp.	0	IN	NS	ns1.ascio.com.
 laufen.gp.	0	IN	NS	ns2.ascio.com.
 laufen.gp.	0	IN	NS	ns3.ascio.com.
@@ -3985,6 +3985,8 @@ penannou.gp.	0	IN	NS	ns43.cloudns.net.
 penannou.gp.	0	IN	NS	ns44.cloudns.net.
 penchard.gp.	0	IN	NS	dns1.namebay.com.
 penchard.gp.	0	IN	NS	dns2.namebay.com.
+perfect-store.gp.	0	IN	NS	ns1.o2switch.net.
+perfect-store.gp.	0	IN	NS	ns2.o2switch.net.
 petit-bateau.gp.	0	IN	NS	a.ns.mailclub.fr.
 petit-bateau.gp.	0	IN	NS	b.ns.mailclub.eu.
 petit-bateau.gp.	0	IN	NS	c.ns.mailclub.com.
