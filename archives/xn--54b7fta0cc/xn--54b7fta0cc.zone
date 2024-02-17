@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024021711 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024021810 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -442,8 +442,6 @@ xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	0	IN	NS	ns1.digitalocean.com.
 xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	0	IN	NS	ns2.digitalocean.com.
 xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc.	0	IN	NS	ns1.domain-is-4-sale-at-domainmarket.com.
 xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc.	0	IN	NS	ns2.domainmarket.com.
-xn--j5bm9ha8a8e.xn--54b7fta0cc.	0	IN	NS	ns6497.hostgator.com.
-xn--j5bm9ha8a8e.xn--54b7fta0cc.	0	IN	NS	ns6498.hostgator.com.
 xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc.	0	IN	NS	ns1.mysecurecloudhost.com.
 xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc.	0	IN	NS	ns2.mysecurecloudhost.com.
 xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc.	0	IN	NS	ns1.aknetbd.com.
