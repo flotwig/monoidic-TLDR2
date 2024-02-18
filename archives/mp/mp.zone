@@ -586,10 +586,6 @@ dealz.mp.	0	IN	NS	ns5.netnames.net.
 dealz.mp.	0	IN	NS	ns6.netnames.net.
 deco.mp.	0	IN	NS	ingrid.ns.cloudflare.com.
 deco.mp.	0	IN	NS	dimitris.ns.cloudflare.com.
-deliveringgrowth-inasiaandbeyond.mp.	0	IN	NS	ns-447.awsdns-55.com.
-deliveringgrowth-inasiaandbeyond.mp.	0	IN	NS	ns-785.awsdns-34.net.
-deliveringgrowth-inasiaandbeyond.mp.	0	IN	NS	ns-1531.awsdns-63.org.
-deliveringgrowth-inasiaandbeyond.mp.	0	IN	NS	ns-1700.awsdns-20.co.uk.
 dell.mp.	0	IN	NS	dns1.safenames.com.
 dell.mp.	0	IN	NS	dns2.safenames.net.
 dell.mp.	0	IN	NS	dns3.safenames.org.
@@ -1723,6 +1719,8 @@ shell.mp.	0	IN	NS	dns1.shell.com.
 shell.mp.	0	IN	NS	dns2.shell.com.
 shimano.mp.	0	IN	NS	pdns1.ultradns.net.
 shimano.mp.	0	IN	NS	pdns2.ultradns.net.
+shipca.mp.	0	IN	NS	ken.ns.cloudflare.com.
+shipca.mp.	0	IN	NS	treasure.ns.cloudflare.com.
 shivraj.mp.	0	IN	NS	anuj.ns.cloudflare.com.
 shivraj.mp.	0	IN	NS	tricia.ns.cloudflare.com.
 shopify.mp.	0	IN	NS	ns1.markmonitor.com.
@@ -1965,8 +1963,6 @@ unblock.mp.	0	IN	NS	edns3.ultradns.net.
 unblock.mp.	0	IN	NS	edns3.ultradns.org.
 undu.mp.	0	IN	NS	ns1.sparkedhost.us.
 undu.mp.	0	IN	NS	ns2.sparkedhost.us.
-unicreditcha.mp.	0	IN	NS	a1-65.akam.net.
-unicreditcha.mp.	0	IN	NS	a11-66.akam.net.
 unieuro.mp.	0	IN	NS	ns1.register.it.
 unieuro.mp.	0	IN	NS	ns2.register.it.
 unila.mp.	0	IN	NS	freedns1.registrar-servers.com.
