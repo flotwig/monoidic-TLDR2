@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708293901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708380301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1728,8 +1728,6 @@ gakafm.mw.	0	IN	NS	domwe.sdn.mw.
 gakafm.mw.	0	IN	NS	nyala.sdnp.org.mw.
 gazettemedia.mw.	0	IN	NS	dns1.namecheaphosting.com.
 gazettemedia.mw.	0	IN	NS	dns2.namecheaphosting.com.
-gba.mw.	0	IN	NS	ns1.nzathu.online.
-gba.mw.	0	IN	NS	ns2.nzathu.online.
 gbstv.mw.	0	IN	NS	domwe.sdn.mw.
 gbstv.mw.	0	IN	NS	nyala.sdnp.org.mw.
 gbv.mw.	0	IN	NS	ns1.cp-28.hostgatorwebservers.com.
@@ -2922,12 +2920,6 @@ mij.mw.	0	IN	NS	domwe.sdn.mw.
 mij.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mile.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
 mile.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
-mimblewimble.mw.	0	IN	NS	ns1.101domain.com.
-mimblewimble.mw.	0	IN	NS	ns2.101domain.com.
-mimblewimble.mw.	0	IN	NS	ns5.101domain.com.
-mimwim.mw.	0	IN	NS	ns1.101domain.com.
-mimwim.mw.	0	IN	NS	ns2.101domain.com.
-mimwim.mw.	0	IN	NS	ns5.101domain.com.
 mineschamber.mw.	0	IN	NS	ns1289.websitewelcome.com.
 mineschamber.mw.	0	IN	NS	ns1290.websitewelcome.com.
 minet.mw.	0	IN	NS	ns1.lexsynergy.net.
@@ -3120,8 +3112,6 @@ muuni.mw.	0	IN	NS	ns1.bdsmw.com.
 muuni.mw.	0	IN	NS	ns2.bdsmw.com.
 muuni.mw.	0	IN	NS	ns3.bdsmw.com.
 muuni.mw.	0	IN	NS	ns4.bdsmw.com.
-mv.mw.	0	IN	NS	ns1.undeveloped.com.
-mv.mw.	0	IN	NS	ns2.undeveloped.com.
 mw.mw.	0	IN	NS	ns1.mw.mw.
 mw.mw.	0	IN	NS	ns2.mw.mw.
 mw.mw.	0	IN	NS	nixon.acc.umu.se.
@@ -3441,6 +3431,8 @@ oracle.mw.	0	IN	NS	a1-160.akam.net.
 oracle.mw.	0	IN	NS	a11-66.akam.net.
 oracle.mw.	0	IN	NS	a13-65.akam.net.
 oracle.mw.	0	IN	NS	a18-67.akam.net.
+oramacapital.mw.	0	IN	NS	ns53.domaincontrol.com.
+oramacapital.mw.	0	IN	NS	ns54.domaincontrol.com.
 orange.mw.	0	IN	NS	dns1.cscdns.net.
 orange.mw.	0	IN	NS	dns2.cscdns.net.
 orderpro.mw.	0	IN	NS	ns103.asurahosting.com.
@@ -4497,8 +4489,6 @@ tvislam.mw.	0	IN	NS	ns1.freelancemw.com.
 tvislam.mw.	0	IN	NS	ns2.freelancemw.com.
 twr.mw.	0	IN	NS	domwe.sdn.mw.
 twr.mw.	0	IN	NS	nyala.sdnp.org.mw.
-tyc.mw.	0	IN	NS	cody.ns.cloudflare.com.
-tyc.mw.	0	IN	NS	dolly.ns.cloudflare.com.
 tyres.mw.	0	IN	NS	dns.voerde.globvill.de.
 tyres.mw.	0	IN	NS	dns.globvill.de.
 tyres.mw.	0	IN	NS	dns.globvill.ruhr.
