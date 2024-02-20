@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708380301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708466701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3858,8 +3858,8 @@ sachi.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 sadaf.mw.	0	IN	NS	ns1.websiteserverbox.com.
 sadaf.mw.	0	IN	NS	ns2.websiteserverbox.com.
 sadaf.mw.	0	IN	NS	ns3.websiteserverbox.com.
-sadm.mw.	0	IN	NS	ns1.linthipe4.com.
-sadm.mw.	0	IN	NS	ns2.linthipe4.com.
+sadm.mw.	0	IN	NS	ethan.ns.cloudflare.com.
+sadm.mw.	0	IN	NS	jillian.ns.cloudflare.com.
 saeedinvestments.mw.	0	IN	NS	maxdns.globemw.net.
 saeedinvestments.mw.	0	IN	NS	araliya.globemw.net.
 safe.mw.	0	IN	NS	ns1.host-ww.net.
