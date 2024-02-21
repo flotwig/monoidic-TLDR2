@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708466701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1708553101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -500,6 +500,8 @@ bakemans.mw.	0	IN	NS	ns105.asurahosting.com.
 bakemans.mw.	0	IN	NS	ns106.my-control-panel.com.
 bakertilly.mw.	0	IN	NS	ns1.namecity.com.
 bakertilly.mw.	0	IN	NS	ns2.namecity.com.
+balakabeef.mw.	0	IN	NS	proxy2.africa-online.net.
+balakabeef.mw.	0	IN	NS	proxy3.africa-online.net.
 bam.mw.	0	IN	NS	ns987.websitewelcome.com.
 bam.mw.	0	IN	NS	ns988.websitewelcome.com.
 bamboo.mw.	0	IN	NS	maxdns.globemw.net.
@@ -1031,8 +1033,6 @@ cocacolalight.mw.	0	IN	NS	ns1-09.azure-dns.com.
 cocacolalight.mw.	0	IN	NS	ns2-09.azure-dns.net.
 cocacolalight.mw.	0	IN	NS	ns3-09.azure-dns.org.
 cocacolalight.mw.	0	IN	NS	ns4-09.azure-dns.info.
-codedynamics.mw.	0	IN	NS	ns1.bluehost.com.
-codedynamics.mw.	0	IN	NS	ns2.bluehost.com.
 coin.mw.	0	IN	NS	ns1.101domain.com.
 coin.mw.	0	IN	NS	ns2.101domain.com.
 coin.mw.	0	IN	NS	ns5.101domain.com.
@@ -1106,8 +1106,6 @@ cosoma.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 cosoma.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 cosoma.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 cosoma.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
-cost.mw.	0	IN	NS	cns2007.webhostbox.net.
-cost.mw.	0	IN	NS	cns2008.webhostbox.net.
 costantini.mw.	0	IN	NS	proxy2.africa-online.net.
 costantini.mw.	0	IN	NS	proxy3.africa-online.net.
 covestro.mw.	0	IN	NS	pdns1.cscdns.net.
@@ -4448,10 +4446,10 @@ troweprice.mw.	0	IN	NS	edns1.ultradns.biz.
 troweprice.mw.	0	IN	NS	edns1.ultradns.com.
 troweprice.mw.	0	IN	NS	edns1.ultradns.net.
 troweprice.mw.	0	IN	NS	edns1.ultradns.org.
-truckstore.mw.	0	IN	NS	ns1.corpinter.net.
-truckstore.mw.	0	IN	NS	ns2.corpinter.de.
-truckstore.mw.	0	IN	NS	ns3.corpinter.net.
-truckstore.mw.	0	IN	NS	ns4.corpinter.de.
+truckstore.mw.	0	IN	NS	dns1.p01.nsone.net.
+truckstore.mw.	0	IN	NS	dns2.p01.nsone.net.
+truckstore.mw.	0	IN	NS	dns3.p01.nsone.net.
+truckstore.mw.	0	IN	NS	dns4.p01.nsone.net.
 true.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 true.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 true.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
@@ -4882,7 +4880,8 @@ zowala.mw.	0	IN	NS	dns1.registrar-servers.com.
 zowala.mw.	0	IN	NS	dns2.registrar-servers.com.
 zumba.mw.	0	IN	NS	abby.ns.cloudflare.com.
 zumba.mw.	0	IN	NS	paul.ns.cloudflare.com.
-zurich.mw.	0	IN	NS	dns1.cscdns.net.
-zurich.mw.	0	IN	NS	dns2.cscdns.net.
+zurich.mw.	0	IN	NS	ns1.a0.impervasecuredns.net.
+zurich.mw.	0	IN	NS	ns1.a1.impervasecuredns.net.
+zurich.mw.	0	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.	0	IN	NS	dns1.cscdns.net.
 zutari.mw.	0	IN	NS	dns2.cscdns.net.

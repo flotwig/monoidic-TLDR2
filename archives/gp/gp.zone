@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022019 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022112 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1925,6 +1925,9 @@ flow.gp.	0	IN	NS	ns1.eurodns.com.
 flow.gp.	0	IN	NS	ns2.eurodns.com.
 flow.gp.	0	IN	NS	ns3.eurodns.com.
 flow.gp.	0	IN	NS	ns4.eurodns.com.
+fluke.gp.	0	IN	NS	ns4.ams.fortive.net.
+fluke.gp.	0	IN	NS	ns4.iad.fortive.net.
+fluke.gp.	0	IN	NS	ns4.sea.fortive.net.
 flyingblue.gp.	0	IN	NS	a3-64.akam.net.
 flyingblue.gp.	0	IN	NS	a4-65.akam.net.
 flyingblue.gp.	0	IN	NS	a9-67.akam.net.
