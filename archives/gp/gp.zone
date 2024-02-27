@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022517 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022715 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -192,8 +192,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 8833.gp.	0	IN	NS	ns8.alidns.com.
 888.gp.	0	IN	NS	dns1.idp365.net.
 888.gp.	0	IN	NS	dns2.idp365.net.
-8888.gp.	0	IN	NS	ns1.alidns.com.
-8888.gp.	0	IN	NS	ns2.alidns.com.
+8888.gp.	0	IN	NS	vip7.alidns.com.
+8888.gp.	0	IN	NS	vip8.alidns.com.
 88888888.gp.	0	IN	NS	ns1.sedoparking.com.
 88888888.gp.	0	IN	NS	ns2.sedoparking.com.
 89.gp.	0	IN	NS	ns1.dan.com.
@@ -4673,10 +4673,10 @@ sky.gp.	0	IN	NS	dns5.cloudns.net.
 sky.gp.	0	IN	NS	dns6.cloudns.net.
 skyrock.gp.	0	IN	NS	ns1.skyrock.net.
 skyrock.gp.	0	IN	NS	ns2.skyrock.net.
-skyscanner.gp.	0	IN	NS	ns1.netnames.net.
-skyscanner.gp.	0	IN	NS	ns2.netnames.net.
-skyscanner.gp.	0	IN	NS	ns5.netnames.net.
-skyscanner.gp.	0	IN	NS	ns6.netnames.net.
+skyscanner.gp.	0	IN	NS	ns1.skyscanner-dns.co.uk.
+skyscanner.gp.	0	IN	NS	ns1.skyscanner-dns.org.
+skyscanner.gp.	0	IN	NS	ns2.skyscanner-dns.co.uk.
+skyscanner.gp.	0	IN	NS	ns2.skyscanner-dns.org.
 slg.gp.	0	IN	NS	ns1.netim.net.
 slg.gp.	0	IN	NS	ns2.netim.net.
 slg.gp.	0	IN	NS	ns3.netim.net.
