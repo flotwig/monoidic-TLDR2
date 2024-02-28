@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022715 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024022812 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2390,6 +2390,9 @@ hm.gp.	0	IN	NS	ns3.hm.ws.
 hm.gp.	0	IN	NS	ns4.hm.ws.
 hn.gp.	0	IN	NS	ns1.dan.com.
 hn.gp.	0	IN	NS	ns2.dan.com.
+hohiohen.gp.	0	IN	NS	ns1.netim.net.
+hohiohen.gp.	0	IN	NS	ns2.netim.net.
+hohiohen.gp.	0	IN	NS	ns3.netim.net.
 homedepot.gp.	0	IN	NS	ns2.homedepot.com.
 homedepot.gp.	0	IN	NS	ns3.homedepot.com.
 homedepot.gp.	0	IN	NS	ns4.homedepot.com.
