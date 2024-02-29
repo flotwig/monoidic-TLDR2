@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024022909 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024030109 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -642,6 +642,8 @@ xn--z5bd4akg8c1aqfb.xn--54b7fta0cc.	0	IN	NS	ns5.amarserver.com.
 xn--z5bd4akg8c1aqfb.xn--54b7fta0cc.	0	IN	NS	ns6.amarserver.com.
 xn--z5bez8fbb.xn--54b7fta0cc.	0	IN	NS	ns1.a2iservices.gov.bd.
 xn--z5bez8fbb.xn--54b7fta0cc.	0	IN	NS	ns2.a2iservices.gov.bd.
+xn--z5br0eb.xn--54b7fta0cc.	0	IN	NS	ns1.bcc.gov.bd.
+xn--z5br0eb.xn--54b7fta0cc.	0	IN	NS	ns2.bcc.gov.bd.
 xn--z5bseue8o.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--z5bseue8o.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
 xn--z5bxvy8abb2d.xn--54b7fta0cc.	0	IN	NS	dns1.bdcom.com.
