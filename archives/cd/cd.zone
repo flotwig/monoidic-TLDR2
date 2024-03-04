@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2024030321 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2024030421 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1709504689"
+cd.	0	IN	TXT	"Generation Time: 1709591024"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -446,7 +446,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1709504691"
+ac.cd.	0	IN	TXT	"Generation Time: 1709591025"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -1083,6 +1083,8 @@ auth01.afrinet.cd.	0	IN	A	41.222.218.135
 dns.afrinet.cd.	0	IN	A	41.222.216.20
 afrinvest.cd.	0	IN	NS	ns8199.hostgator.com.
 afrinvest.cd.	0	IN	NS	ns8200.hostgator.com.
+afriradio.cd.	0	IN	NS	ns1.webnetafrica.net.
+afriradio.cd.	0	IN	NS	ns2.webnetafrica.net.
 afriregister.cd.	0	IN	NS	ns1.afriregister.bi.
 afriregister.cd.	0	IN	NS	ns2.afriregister.bi.
 afrissur.cd.	0	IN	NS	ns10.dnsmadeeasy.com.
@@ -4145,7 +4147,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1709504691"
+com.cd.	0	IN	TXT	"Generation Time: 1709591026"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -5946,7 +5948,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1709504691"
+edu.cd.	0	IN	TXT	"Generation Time: 1709591026"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -6584,6 +6586,8 @@ exchangecorporate.cd.	0	IN	NS	ns1.newgwd.com.
 exchangecorporate.cd.	0	IN	NS	ns2.newgwd.com.
 exchangerawbank.cd.	0	IN	NS	ns1.dreamhost.com.
 exchangerawbank.cd.	0	IN	NS	ns2.dreamhost.com.
+exclusif.cd.	0	IN	NS	ns1.scpt-network.cd.
+exclusif.cd.	0	IN	NS	ns2.scpt-network.cd.
 exclusivite.cd.	0	IN	NS	ns1.scpt-network.cd.
 exclusivite.cd.	0	IN	NS	ns2.scpt-network.cd.
 exetat.cd.	0	IN	NS	ns1.standafric.net.
@@ -7881,7 +7885,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1709504694"
+gouv.cd.	0	IN	TXT	"Generation Time: 1709591028"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -8272,7 +8276,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1709504691"
+gov.cd.	0	IN	TXT	"Generation Time: 1709591026"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -11225,6 +11229,8 @@ lmgroupe.cd.	0	IN	NS	ns7.cloudcws.com.
 lmgroupe.cd.	0	IN	NS	ns8.cloudcws.com.
 lmproduction.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
 lmproduction.cd.	0	IN	NS	ns4.nitrowebhost.co.uk.
+lnevent.cd.	0	IN	NS	ns3.combell.net.
+lnevent.cd.	0	IN	NS	ns4.combell.net.
 lngroup.cd.	0	IN	NS	ns14.ovh.net.
 lngroup.cd.	0	IN	NS	dns14.ovh.net.
 lnm.cd.	0	IN	NS	adrian.ns.cloudflare.com.
@@ -13187,7 +13193,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1709504691"
+net.cd.	0	IN	TXT	"Generation Time: 1709591026"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -13979,7 +13985,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1709504691"
+org.cd.	0	IN	TXT	"Generation Time: 1709591026"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -17291,8 +17297,9 @@ taanu.cd.	0	IN	NS	ns1.scpt-network.cd.
 taanu.cd.	0	IN	NS	ns2.scpt-network.cd.
 tableronde.cd.	0	IN	NS	ns1.dns-parking.com.
 tableronde.cd.	0	IN	NS	ns2.dns-parking.com.
-tac.cd.	0	IN	NS	ns1.scpt-network.cd.
-tac.cd.	0	IN	NS	ns2.scpt-network.cd.
+tac.cd.	0	IN	NS	helium.ns.hetzner.de.
+tac.cd.	0	IN	NS	oxygen.ns.hetzner.com.
+tac.cd.	0	IN	NS	hydrogen.ns.hetzner.com.
 tac-app.cd.	0	IN	NS	ns1.digitalocean.com.
 tac-app.cd.	0	IN	NS	ns2.digitalocean.com.
 tac-app.cd.	0	IN	NS	ns3.digitalocean.com.

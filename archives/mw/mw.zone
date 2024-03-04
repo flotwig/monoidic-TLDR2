@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709503501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1709589901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -175,8 +175,6 @@ afrika.mw.	0	IN	NS	ns1.bdsmw.com.
 afrika.mw.	0	IN	NS	ns2.bdsmw.com.
 afrika.mw.	0	IN	NS	ns3.bdsmw.com.
 afrika.mw.	0	IN	NS	ns4.bdsmw.com.
-afrimax.mw.	0	IN	NS	ns35.namehero.net.
-afrimax.mw.	0	IN	NS	ns36.namehero.net.
 afritrack.mw.	0	IN	NS	ns1.afritrack.com.
 afritrack.mw.	0	IN	NS	ns2.afritrack.com.
 afrox.mw.	0	IN	NS	udns1.cscdns.net.
@@ -1085,8 +1083,6 @@ continentalholdings.mw.	0	IN	NS	karl.ns.cloudflare.com.
 continentalholdings.mw.	0	IN	NS	lady.ns.cloudflare.com.
 continentalpension.mw.	0	IN	NS	karl.ns.cloudflare.com.
 continentalpension.mw.	0	IN	NS	lady.ns.cloudflare.com.
-coolenterprises.mw.	0	IN	NS	ns1.coolenterprisesmw.net.
-coolenterprises.mw.	0	IN	NS	ns2.coolenterprisesmw.net.
 coop.mw.	0	IN	NS	d.ext.nic.cz.
 coop.mw.	0	IN	NS	rip.psg.mw.
 coop.mw.	0	IN	NS	pch1.nic.mw.
@@ -1128,10 +1124,6 @@ crocodile.mw.	0	IN	NS	ns7.markmonitor.com.
 crowe.mw.	0	IN	NS	dns1.idp365.net.
 crowe.mw.	0	IN	NS	dns2.idp365.net.
 crowe.mw.	0	IN	NS	dns3.idp365.net.
-csinvestments.mw.	0	IN	NS	ns1.bdsmw.com.
-csinvestments.mw.	0	IN	NS	ns2.bdsmw.com.
-csinvestments.mw.	0	IN	NS	ns3.bdsmw.com.
-csinvestments.mw.	0	IN	NS	ns4.bdsmw.com.
 csquared.mw.	0	IN	NS	ns1.101domain.com.
 csquared.mw.	0	IN	NS	ns2.101domain.com.
 csquared.mw.	0	IN	NS	ns5.101domain.com.
@@ -2428,6 +2420,9 @@ knightfrank.mw.	0	IN	NS	ns1.netnames.net.
 knightfrank.mw.	0	IN	NS	ns2.netnames.net.
 kodak.mw.	0	IN	NS	ns.kodak.com.
 kodak.mw.	0	IN	NS	ekns01.kodak.com.
+koyahmusic.mw.	0	IN	NS	ns1.websiteserverbox.com.
+koyahmusic.mw.	0	IN	NS	ns2.websiteserverbox.com.
+koyahmusic.mw.	0	IN	NS	ns3.websiteserverbox.com.
 ksb.mw.	0	IN	NS	ns1.brandshelter.com.
 ksb.mw.	0	IN	NS	ns2.brandshelter.de.
 ksb.mw.	0	IN	NS	ns3.brandshelter.info.
@@ -3123,8 +3118,6 @@ mwcert.mw.	0	IN	NS	ns1.bdsmw.com.
 mwcert.mw.	0	IN	NS	ns2.bdsmw.com.
 mwcert.mw.	0	IN	NS	ns3.bdsmw.com.
 mwcert.mw.	0	IN	NS	ns4.bdsmw.com.
-mweiti.mw.	0	IN	NS	domwe.sdn.mw.
-mweiti.mw.	0	IN	NS	nyala.sdnp.org.mw.
 my.mw.	0	IN	NS	ns1.101domain.com.
 my.mw.	0	IN	NS	ns2.101domain.com.
 mybucksbanking.mw.	0	IN	NS	proxy2.africa-online.net.
@@ -3371,8 +3364,6 @@ o.mw.	0	IN	NS	ns2.netim.net.
 o.mw.	0	IN	NS	ns3.netim.net.
 obo.mw.	0	IN	NS	auth04.ns.de.uu.net.
 obo.mw.	0	IN	NS	auth54.ns.de.uu.net.
-oceanflowlife.mw.	0	IN	NS	ns1.coolenterprisesmw.net.
-oceanflowlife.mw.	0	IN	NS	ns2.coolenterprisesmw.net.
 ocl.mw.	0	IN	NS	ns1.mtlonline.mw.
 ocl.mw.	0	IN	NS	ns2.mtlonline.mw.
 octa.mw.	0	IN	NS	ns01.trademarkarea.com.
