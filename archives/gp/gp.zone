@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024030413 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024030622 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1435,6 +1435,8 @@ dns.gp.	0	IN	NS	ns1.geek.gp.
 dns.gp.	0	IN	NS	ns2.geek.gp.
 dnssec.gp.	0	IN	NS	dns5.cloudns.net.
 dnssec.gp.	0	IN	NS	dns6.cloudns.net.
+do-not-reply.gp.	0	IN	NS	ns12.ovh.net.
+do-not-reply.gp.	0	IN	NS	dns12.ovh.net.
 doctor.gp.	0	IN	NS	ns1.controldns.co.uk.
 doctor.gp.	0	IN	NS	ns2.controldns.co.uk.
 doctrine.gp.	0	IN	NS	ns-137-a.gandi.net.
@@ -3244,6 +3246,8 @@ matignon.gp.	0	IN	NS	ns13.ovh.net.
 matignon.gp.	0	IN	NS	dns13.ovh.net.
 matt.gp.	0	IN	NS	ns1.markmonitor.com.
 matt.gp.	0	IN	NS	ns3.markmonitor.com.
+max.gp.	0	IN	NS	ns1.wunder.run.
+max.gp.	0	IN	NS	ns2.wunder.run.
 maxusmotors.gp.	0	IN	NS	ns1.netim.net.
 maxusmotors.gp.	0	IN	NS	ns2.netim.net.
 maxusmotors-guadeloupe.gp.	0	IN	NS	ns1.netim.net.
@@ -3477,6 +3481,14 @@ moodys.gp.	0	IN	NS	ns3.moodys.com.
 moodys.gp.	0	IN	NS	ns4.moodys.com.
 moodys.gp.	0	IN	NS	ns5.moodys.com.
 moodys.gp.	0	IN	NS	ns6.moodys.com.
+moodysrating.gp.	0	IN	NS	ns1.moodys.com.
+moodysrating.gp.	0	IN	NS	ns2.moodys.com.
+moodysrating.gp.	0	IN	NS	ns3.moodys.com.
+moodysrating.gp.	0	IN	NS	ns4.moodys.com.
+moodysrating.gp.	0	IN	NS	ns5.moodys.com.
+moodysrating.gp.	0	IN	NS	ns6.moodys.com.
+moodysrating.gp.	0	IN	NS	ns9.ultradns2.com.
+moodysrating.gp.	0	IN	NS	ns9.ultradns2.org.
 moois.gp.	0	IN	NS	ns1.sqr.nl.
 moois.gp.	0	IN	NS	ns2.sqr.domains.
 moois.gp.	0	IN	NS	ns3.sqr.cloud.
