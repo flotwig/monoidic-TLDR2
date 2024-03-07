@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024030622 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024030720 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -313,8 +313,10 @@ agwanet.gp.	0	IN	NS	ns17.ovh.net.
 agwanet.gp.	0	IN	NS	dns17.ovh.net.
 ai.gp.	0	IN	NS	ns1.dan.com.
 ai.gp.	0	IN	NS	ns2.dan.com.
-aig.gp.	0	IN	NS	ns3012.mochahost.com.
-aig.gp.	0	IN	NS	ns4012.mochahost.com.
+aig.gp.	0	IN	NS	ns1.mysecurecloudhost.com.
+aig.gp.	0	IN	NS	ns2.mysecurecloudhost.com.
+aig.gp.	0	IN	NS	ns3.mysecurecloudhost.com.
+aig.gp.	0	IN	NS	ns4.mysecurecloudhost.com.
 air.gp.	0	IN	NS	ns1.instradns.com.
 air.gp.	0	IN	NS	ns2.instradns.com.
 air.gp.	0	IN	NS	ns3.instradns.com.
