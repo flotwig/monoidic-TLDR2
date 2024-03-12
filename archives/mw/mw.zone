@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710194701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710281101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2587,10 +2587,8 @@ lovecommunityradio.mw.	0	IN	NS	nyala.sdnp.org.mw.
 lovisa.mw.	0	IN	NS	ns01.trademarkarea.com.
 lovisa.mw.	0	IN	NS	ns02.trademarkarea.com.
 lovisa.mw.	0	IN	NS	ns03.trademarkarea.com.
-ltsl.mw.	0	IN	NS	ns1.bdsmw.com.
-ltsl.mw.	0	IN	NS	ns2.bdsmw.com.
-ltsl.mw.	0	IN	NS	ns3.bdsmw.com.
-ltsl.mw.	0	IN	NS	ns4.bdsmw.com.
+ltsl.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
+ltsl.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 luanar.mw.	0	IN	NS	ns1.mtlonline.mw.
 luanar.mw.	0	IN	NS	ns2.mtlonline.mw.
 luckystrike.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
@@ -3343,6 +3341,8 @@ nsomalawi.mw.	0	IN	NS	domwe.sdn.mw.
 nsomalawi.mw.	0	IN	NS	nyala.sdnp.org.mw.
 ntaba.mw.	0	IN	NS	lara.ns.cloudflare.com.
 ntaba.mw.	0	IN	NS	aragorn.ns.cloudflare.com.
+nwra.mw.	0	IN	NS	domwe.sdn.mw.
+nwra.mw.	0	IN	NS	nyala.sdnp.org.mw.
 nxtgenlabs.mw.	0	IN	NS	ns1.netim.net.
 nxtgenlabs.mw.	0	IN	NS	ns2.netim.net.
 nxtgenlabs.mw.	0	IN	NS	ns3.netim.net.
@@ -4386,8 +4386,8 @@ tractorprovider.mw.	0	IN	NS	ajay.ns.cloudflare.com.
 tractorprovider.mw.	0	IN	NS	lola.ns.cloudflare.com.
 tractors.mw.	0	IN	NS	walt.ns.cloudflare.com.
 tractors.mw.	0	IN	NS	itzel.ns.cloudflare.com.
-trade.mw.	0	IN	NS	domwe.sdn.mw.
-trade.mw.	0	IN	NS	nyala.sdnp.org.mw.
+trade.mw.	0	IN	NS	ns1.inmotionhosting.com.
+trade.mw.	0	IN	NS	ns2.inmotionhosting.com.
 tradearena.mw.	0	IN	NS	dns1.namecheaphosting.com.
 tradearena.mw.	0	IN	NS	dns2.namecheaphosting.com.
 tradesure.mw.	0	IN	NS	ns1.lexsynergy.net.
