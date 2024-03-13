@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031311 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031409 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -610,8 +610,8 @@ xn--w5bne3acri1iece3oe.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
 xn--w5bne3acri1iece3oe.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
 xn--w5bpmr1gi.xn--54b7fta0cc.	0	IN	NS	kai.ns.cloudflare.com.
 xn--w5bpmr1gi.xn--54b7fta0cc.	0	IN	NS	liz.ns.cloudflare.com.
-xn--w5bu0dtag.xn--54b7fta0cc.	0	IN	NS	conrad.ns.cloudflare.com.
-xn--w5bu0dtag.xn--54b7fta0cc.	0	IN	NS	paloma.ns.cloudflare.com.
+xn--w5bu0dtag.xn--54b7fta0cc.	0	IN	NS	pam.ns.cloudflare.com.
+xn--w5bu0dtag.xn--54b7fta0cc.	0	IN	NS	elliott.ns.cloudflare.com.
 xn--w5buqm9dkk6d.xn--54b7fta0cc.	0	IN	NS	dns.bttb.net.bd.
 xn--w5buqm9dkk6d.xn--54b7fta0cc.	0	IN	NS	slave.bttb.net.bd.
 xn--w5byr7db.xn--54b7fta0cc.	0	IN	NS	ns1.zaman.com.bd.

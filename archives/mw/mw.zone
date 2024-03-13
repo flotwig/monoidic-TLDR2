@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710281101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710367501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -798,8 +798,8 @@ business-build-on-trust.mw.	0	IN	NS	ns1.linthipe3.com.
 business-build-on-trust.mw.	0	IN	NS	ns2.linthipe3.com.
 businesspartners.mw.	0	IN	NS	ns1.iafrica.com.
 businesspartners.mw.	0	IN	NS	ns2.iafrica.com.
-buymalawi.mw.	0	IN	NS	ruben.ns.cloudflare.com.
-buymalawi.mw.	0	IN	NS	savanna.ns.cloudflare.com.
+buymalawi.mw.	0	IN	NS	karl.ns.cloudflare.com.
+buymalawi.mw.	0	IN	NS	lady.ns.cloudflare.com.
 bwb.mw.	0	IN	NS	ns1.bdsmw.com.
 bwb.mw.	0	IN	NS	ns2.bdsmw.com.
 bwin.mw.	0	IN	NS	dns1.itsfogo.com.
@@ -4011,6 +4011,8 @@ silverstrikers.mw.	0	IN	NS	ns2.cp-51.webhostbox.net.
 singh.mw.	0	IN	NS	ns1.onlydomains.com.
 singh.mw.	0	IN	NS	ns2.onlydomains.com.
 singh.mw.	0	IN	NS	ns3.onlydomains.com.
+siteengineering.mw.	0	IN	NS	ns1000.mochahost.com.
+siteengineering.mw.	0	IN	NS	ns2000.mochahost.com.
 sjog.mw.	0	IN	NS	ns1.supercp.com.
 sjog.mw.	0	IN	NS	ns2.supercp.com.
 sjog.mw.	0	IN	NS	ns3.supercp.com.
