@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031813 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2024031909 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -47,8 +47,8 @@ xn--45byu2an.xn--54b7fta0cc.	0	IN	NS	ns1.dns-parking.com.
 xn--45byu2an.xn--54b7fta0cc.	0	IN	NS	ns2.dns-parking.com.
 xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc.	0	IN	NS	ns1.btraccl.net.
 xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc.	0	IN	NS	ns2.btraccl.net.
-xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc.	0	IN	NS	ns1.bangladesh.gov.bd.
-xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc.	0	IN	NS	ns2.bangladesh.gov.bd.
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc.	0	IN	NS	dns1.bcc.gov.bd.
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc.	0	IN	NS	dns2.bcc.gov.bd.
 xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc.	0	IN	NS	ns1.ithostbd8.com.
 xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc.	0	IN	NS	ns2.ithostbd8.com.
 xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc.	0	IN	NS	ns1.quantummethod.info.

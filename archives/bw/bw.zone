@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2024031704 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2024031823 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1710716409"
+bw.	0	IN	TXT	"Generation Time: 1710802865"
 bw.	0	IN	DNSKEY	256 3 13 +opNsmWfXlXn0rwYR9iGeTzs/MP6il1Fvszd7nNCOKWH0ss6PGI9lusurr3ye4hy05CaIlsgkTx1ZHYdzF0YTg== ;{id = 26815 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 4OAtsBZ6jEmSs71QIyjq+1Ye6IVeppZqWTTFXK0Ur24tGBxJZa7pfVWScKc1kfird0CYfsNRNLjln3BlW/srNA== ;{id = 13399 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 c98aad736906f747 
@@ -272,10 +272,8 @@ lkm.ac.bw.	0	IN	NS	ns-cloud-c1.googledomains.com.
 lkm.ac.bw.	0	IN	NS	ns-cloud-c2.googledomains.com.
 lkm.ac.bw.	0	IN	NS	ns-cloud-c3.googledomains.com.
 lkm.ac.bw.	0	IN	NS	ns-cloud-c4.googledomains.com.
-lmslimkokwing.ac.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-lmslimkokwing.ac.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-lmslimkokwing.ac.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-lmslimkokwing.ac.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+lmslimkokwing.ac.bw.	0	IN	NS	suspened1.nic.net.bw.
+lmslimkokwing.ac.bw.	0	IN	NS	suspened2.nic.net.bw.
 mancosa.ac.bw.	0	IN	NS	dns1.zebranet.co.bw.
 maranyane.ac.bw.	0	IN	NS	ns1.botsnet.bw.
 maranyane.ac.bw.	0	IN	NS	ns2.botsnet.bw.
@@ -679,8 +677,8 @@ ns2.1966.co.bw.	0	IN	A	23.235.220.106
 27boxes.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 29treehill.co.bw.	0	IN	NS	ns1.servconfig.com.
 29treehill.co.bw.	0	IN	NS	ns2.servconfig.com.
-2dec.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
-2dec.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+2dec.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+2dec.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 2koafrica.co.bw.	0	IN	NS	ns1.drpl.co.bw.
 2ndmove.co.bw.	0	IN	NS	ns6607.hostgator.com.
 2ndmove.co.bw.	0	IN	NS	ns6608.hostgator.com.
@@ -1228,8 +1226,8 @@ affdvz.co.bw.	0	IN	NS	ns3.name.com.
 affdvz.co.bw.	0	IN	NS	ns4.name.com.
 affinityauto.co.bw.	0	IN	NS	ns1.dns-h.com.
 affinityauto.co.bw.	0	IN	NS	ns2.host-h.net.
-affinitybusinessdata.co.bw.	0	IN	NS	lamar.ns.cloudflare.com.
-affinitybusinessdata.co.bw.	0	IN	NS	amanda.ns.cloudflare.com.
+affinitybusinessdata.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+affinitybusinessdata.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 affinityfuneral.co.bw.	0	IN	NS	ns1.dns-h.com.
 affinityfuneral.co.bw.	0	IN	NS	ns1.host-h.net.
 affinityfuneral.co.bw.	0	IN	NS	ns2.dns-h.com.
@@ -1510,8 +1508,6 @@ ahavapublishers.co.bw.	0	IN	NS	ns1.eco-dns.co.uk.
 ahavapublishers.co.bw.	0	IN	NS	ns2.eco-dns.co.uk.
 aheadprop.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
 aheadprop.co.bw.	0	IN	NS	dns02.concerotel.net.bw.
-ahtransport.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-ahtransport.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ai.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 ai.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 ai.co.bw.	0	IN	NS	dns3.webmart.co.bw.
@@ -1760,8 +1756,6 @@ allura.co.bw.	0	IN	NS	ns563.websitewelcome.com.
 allura.co.bw.	0	IN	NS	ns564.websitewelcome.com.
 allzonesecurity.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
 allzonesecurity.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
-almancityagencies.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-almancityagencies.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 almanfarmers.co.bw.	0	IN	NS	ns01.gcsat.co.bw.
 almanfarmers.co.bw.	0	IN	NS	ns02.gcsat.co.bw.
 almangroup.co.bw.	0	IN	NS	ns01.gcsat.co.bw.
@@ -2015,6 +2009,8 @@ angels.co.bw.	0	IN	NS	ns1.zebranet.net.
 angels.co.bw.	0	IN	NS	ns2.zebranet.net.
 angelsdome.co.bw.	0	IN	NS	ns1.mmetlicraft.xyz.
 angelsdome.co.bw.	0	IN	NS	ns2.mmetlicraft.xyz.
+angelshakers.co.bw.	0	IN	NS	ns1.bluehost.com.
+angelshakers.co.bw.	0	IN	NS	ns2.bluehost.com.
 angiekay.co.bw.	0	IN	NS	ns1.afrihost.com.
 angiekay.co.bw.	0	IN	NS	ns2.afrihost.com.
 angloamerican.co.bw.	0	IN	NS	ns1.lexsynergy.net.
@@ -2566,6 +2562,8 @@ avenuerealestate.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 avenuerealestate.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 averagesolutions.co.bw.	0	IN	NS	ns1-sin.vivawebhost.com.
 averagesolutions.co.bw.	0	IN	NS	ns2-sin.vivawebhost.com.
+averly.co.bw.	0	IN	NS	ns1.vercel-dns.com.
+averly.co.bw.	0	IN	NS	ns2.vercel-dns.com.
 avevaselect.co.bw.	0	IN	NS	pdns1.ultradns.net.
 avevaselect.co.bw.	0	IN	NS	pdns2.ultradns.net.
 avevaselect.co.bw.	0	IN	NS	pdns3.ultradns.org.
@@ -2709,8 +2707,8 @@ badhi.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 badhi.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 badimawe.co.bw.	0	IN	NS	rs19a.registrar-servers.com.
 badimawe.co.bw.	0	IN	NS	rs19b.registrar-servers.com.
-badisa.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
-badisa.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+badisa.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+badisa.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 badisacommunications.co.bw.	0	IN	NS	ns1.cp-51.webhostbox.net.
 badisacommunications.co.bw.	0	IN	NS	ns2.cp-51.webhostbox.net.
 badoo.co.bw.	0	IN	NS	ns1.badoo.com.
@@ -3048,6 +3046,9 @@ beefbotswana.co.bw.	0	IN	NS	ns8001.hostgator.com.
 beefbotswana.co.bw.	0	IN	NS	ns8002.hostgator.com.
 beefboys.co.bw.	0	IN	NS	leo.ns.cloudflare.com.
 beefboys.co.bw.	0	IN	NS	kehlani.ns.cloudflare.com.
+beefcocapital.co.bw.	0	IN	NS	helium.ns.hetzner.com.
+beefcocapital.co.bw.	0	IN	NS	oxygen.ns.hetzner.com.
+beefcocapital.co.bw.	0	IN	NS	hydrogen.ns.hetzner.com.
 beekray.co.bw.	0	IN	NS	ns1.dottess.co.bw.
 beekray.co.bw.	0	IN	NS	ns2.dottess.co.bw.
 bees.co.bw.	0	IN	NS	dns1.cscdns.net.
@@ -3125,8 +3126,6 @@ beneficialprovisions.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 beneficialprovisions.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 benelectrical.co.bw.	0	IN	NS	ns1.siteground.net.
 benelectrical.co.bw.	0	IN	NS	ns2.siteground.net.
-beneseventsanddecor.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-beneseventsanddecor.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 benica.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 benica.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 benirgroup.co.bw.	0	IN	NS	eu.solidhosting.pro.
@@ -3503,6 +3502,10 @@ bizonline.co.bw.	0	IN	NS	ns1.mowanadigital.com.
 bizonline.co.bw.	0	IN	NS	ns2.mowanadigital.com.
 biztech.co.bw.	0	IN	NS	bztc.bwdomains.co.bw.
 biztech.co.bw.	0	IN	NS	bztc1.bwdomains.co.bw.
+bizz.co.bw.	0	IN	NS	ns1.supercp.com.
+bizz.co.bw.	0	IN	NS	ns2.supercp.com.
+bizz.co.bw.	0	IN	NS	ns3.supercp.com.
+bizz.co.bw.	0	IN	NS	ns4.supercp.com.
 bizzkonnect.co.bw.	0	IN	NS	ns1.lexsynergy.net.
 bizzkonnect.co.bw.	0	IN	NS	ns2.lexsynergy.us.
 bizzkonnect.co.bw.	0	IN	NS	ns3.lexsynergy.info.
@@ -4616,8 +4619,6 @@ bt.co.bw.	0	IN	NS	ns1.bt.co.bw.
 bt.co.bw.	0	IN	NS	ns2.bt.co.bw.
 ns1.bt.co.bw.	0	IN	A	1.1.1.1
 ns2.bt.co.bw.	0	IN	A	1.1.1.1
-bta.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-bta.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 btchosting.co.bw.	0	IN	NS	ns1.botsnet.bw.
 btchosting.co.bw.	0	IN	NS	ns2.botsnet.bw.
 btchosting.co.bw.	0	IN	NS	ns3.botsnet.bw.
@@ -4805,7 +4806,8 @@ businessunfold.co.bw.	0	IN	NS	ns.mainnameserver.com.
 businessunfold.co.bw.	0	IN	NS	ns2.mainnameserver.com.
 businessweekly.co.bw.	0	IN	NS	ns35.domaincontrol.com.
 businessweekly.co.bw.	0	IN	NS	ns36.domaincontrol.com.
-busmate.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
+busmate.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+busmate.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 busymeter.co.bw.	0	IN	NS	ns1.dns-parking.com.
 busymeter.co.bw.	0	IN	NS	ns2.dns-parking.com.
 busyrac.co.bw.	0	IN	NS	dns1.webmart.co.bw.
@@ -5309,6 +5311,8 @@ cedafinance.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 cedafinance.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 cef.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 cef.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
+cei.co.bw.	0	IN	NS	ns1.cp-10.webhostbox.net.
+cei.co.bw.	0	IN	NS	ns2.cp-10.webhostbox.net.
 cel.co.bw.	0	IN	NS	ns1.iob.co.bw.
 cel.co.bw.	0	IN	NS	ns2.iob.co.bw.
 cel.co.bw.	0	IN	NS	ns3.iob.co.bw.
@@ -6194,8 +6198,9 @@ copyone.co.bw.	0	IN	NS	ns02.gcsat.co.bw.
 coral.co.bw.	0	IN	NS	ns1.opq.net.bw.
 coral.co.bw.	0	IN	NS	ns2.opq.net.bw.
 coral.co.bw.	0	IN	NS	ns3.opq.net.bw.
-coralmarketing.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-coralmarketing.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+coralmarketing.co.bw.	0	IN	NS	ns1.iob.co.bw.
+coralmarketing.co.bw.	0	IN	NS	ns2.iob.co.bw.
+coralmarketing.co.bw.	0	IN	NS	ns3.iob.co.bw.
 cordlengthelectricals.co.bw.	0	IN	NS	ns1.mywebserver.co.za.
 cordlengthelectricals.co.bw.	0	IN	NS	ns2.mywebserver.co.za.
 cordlengthelectricals.co.bw.	0	IN	NS	ns3.mywebserver.co.za.
@@ -6518,9 +6523,8 @@ cst.co.bw.	0	IN	NS	ns2.hoxh.com.
 cst.co.bw.	0	IN	NS	ns3.hoxh.com.
 ctc.co.bw.	0	IN	NS	dns2047a.trouble-free.net.
 ctc.co.bw.	0	IN	NS	dns2047b.trouble-free.net.
-ctdiagnostics.co.bw.	0	IN	NS	ns1.site4now.net.
-ctdiagnostics.co.bw.	0	IN	NS	ns2.site4now.net.
-ctdiagnostics.co.bw.	0	IN	NS	ns3.site4now.net.
+ctdiagnostics.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+ctdiagnostics.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ctm.co.bw.	0	IN	NS	ns1.lexsynergy.net.
 ctm.co.bw.	0	IN	NS	ns2.lexsynergy.us.
 ctm.co.bw.	0	IN	NS	ns3.lexsynergy.info.
@@ -6737,6 +6741,8 @@ dazzlebranding.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 dazzlebranding.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 dazzlebranding.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 dazzlebranding.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
+dazzlinggrinsdental.co.bw.	0	IN	NS	ns1.s40.registerdomain.net.za.
+dazzlinggrinsdental.co.bw.	0	IN	NS	ns2.s40.registerdomain.net.za.
 dbbpp.co.bw.	0	IN	NS	ns1.lexsynergy.net.
 dbbpp.co.bw.	0	IN	NS	ns2.lexsynergy.us.
 dbbpp.co.bw.	0	IN	NS	ns3.lexsynergy.info.
@@ -7214,6 +7220,8 @@ digitalport.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
 digitalshift.co.bw.	0	IN	NS	ns1.botsnet.bw.
 digitalshift.co.bw.	0	IN	NS	ns2.botsnet.bw.
 digitalshift.co.bw.	0	IN	NS	ns3.botsnet.bw.
+digitalsolutionsarchitects.co.bw.	0	IN	NS	ns1vbn.vbnservices.net.
+digitalsolutionsarchitects.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 digitalstorm.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 digitalstorm.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 digitalthread.co.bw.	0	IN	NS	ns10101.ifastnet.com.
@@ -7545,6 +7553,8 @@ doublehfarming.co.bw.	0	IN	NS	ns3.name.com.
 doublehfarming.co.bw.	0	IN	NS	ns4.name.com.
 doublelguestlodge.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 doublelguestlodge.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+doublelined.co.bw.	0	IN	NS	ns1.maranyane.digital.
+doublelined.co.bw.	0	IN	NS	ns2.maranyane.digital.
 dougempire.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 dougempire.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
 douglasd.co.bw.	0	IN	NS	ns1.md-65.webhostbox.net.
@@ -7623,8 +7633,6 @@ dropersholdings.co.bw.	0	IN	NS	ns216.cloudwebhosting.com.
 dropersholdings.co.bw.	0	IN	NS	ns217.cloudwebhosting.com.
 dropit.co.bw.	0	IN	NS	ns.mainnameserver.com.
 dropit.co.bw.	0	IN	NS	ns2.mainnameserver.com.
-dropperstreefellas.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-dropperstreefellas.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 dros.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 dros.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 drpl.co.bw.	0	IN	NS	ns1.drpl.co.bw.
@@ -7633,6 +7641,8 @@ drs.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 drs.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 drtaudentalspa.co.bw.	0	IN	NS	ns1.botshosting.co.za.
 drtaudentalspa.co.bw.	0	IN	NS	ns2.botshosting.co.za.
+dsa.co.bw.	0	IN	NS	ns1vbn.vbnservices.net.
+dsa.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 dsh.co.bw.	0	IN	NS	ns8011.hostgator.com.
 dsh.co.bw.	0	IN	NS	ns8012.hostgator.com.
 dsp.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
@@ -9827,6 +9837,8 @@ funeral.co.bw.	0	IN	NS	grace.ns.cloudflare.com.
 funkyresy.co.bw.	0	IN	NS	ns1.vgbots.website.
 funkyresy.co.bw.	0	IN	NS	ns2.vgbots.website.
 funroads.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
+furnho.co.bw.	0	IN	NS	ns1.wise.co.bw.
+furnho.co.bw.	0	IN	NS	ns2.wise.co.bw.
 furnho.co.bw.	0	IN	NS	lion.info.bw.
 furnho.co.bw.	0	IN	NS	tiger.info.bw.
 furnho.co.bw.	0	IN	NS	cheetah.info.bw.
@@ -9965,6 +9977,8 @@ galitos.co.bw.	0	IN	NS	ns1.dns-h.com.
 galitos.co.bw.	0	IN	NS	ns1.host-h.net.
 galitos.co.bw.	0	IN	NS	ns2.dns-h.com.
 galitos.co.bw.	0	IN	NS	ns2.host-h.net.
+galo.co.bw.	0	IN	NS	ns1.wise.co.bw.
+galo.co.bw.	0	IN	NS	ns2.wise.co.bw.
 galo.co.bw.	0	IN	NS	lion.info.bw.
 galo.co.bw.	0	IN	NS	cheetah.info.bw.
 galomall.co.bw.	0	IN	NS	ns8001.hostgator.com.
@@ -10260,8 +10274,6 @@ ggpharma.co.bw.	0	IN	NS	ns3.supercp.com.
 ggpharma.co.bw.	0	IN	NS	ns4.supercp.com.
 ghanzi.co.bw.	0	IN	NS	dns1.de.epicdns.co.uk.
 ghanzi.co.bw.	0	IN	NS	dns2.de.epicdns.co.uk.
-ghanzionline.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-ghanzionline.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ghettopower.co.bw.	0	IN	NS	bwadomains.mars.orderbox-dns.com.
 ghettopower.co.bw.	0	IN	NS	bwadomains.earth.orderbox-dns.com.
 ghettopower.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
@@ -10360,6 +10372,8 @@ glenmark.co.bw.	0	IN	NS	dns1.yandex.net.
 glenmark.co.bw.	0	IN	NS	dns2.yandex.net.
 global.co.bw.	0	IN	NS	ns1.global.bw.
 global.co.bw.	0	IN	NS	ns2.global.bw.
+globalconsult.co.bw.	0	IN	NS	ns1.wise.co.bw.
+globalconsult.co.bw.	0	IN	NS	ns2.wise.co.bw.
 globalconsult.co.bw.	0	IN	NS	lion.info.bw.
 globalconsult.co.bw.	0	IN	NS	cheetah.info.bw.
 globalcorporatesolutions.co.bw.	0	IN	NS	ns1.maranyane.com.
@@ -10376,8 +10390,9 @@ globalmatrix.co.bw.	0	IN	NS	cns4003.webhostbox.net.
 globalmatrix.co.bw.	0	IN	NS	cns4004.webhostbox.net.
 globalparts.co.bw.	0	IN	NS	ns1.md-65.webhostbox.net.
 globalparts.co.bw.	0	IN	NS	ns2.md-65.webhostbox.net.
+globalprint.co.bw.	0	IN	NS	ns1.wise.co.bw.
+globalprint.co.bw.	0	IN	NS	ns2.wise.co.bw.
 globalprint.co.bw.	0	IN	NS	lion.info.bw.
-globalprint.co.bw.	0	IN	NS	tiger.info.bw.
 globalprint.co.bw.	0	IN	NS	cheetah.info.bw.
 globalreadycoms.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 globalreadycoms.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
@@ -10834,8 +10849,8 @@ growbank.co.bw.	0	IN	NS	ns1.1966.co.bw.
 growbank.co.bw.	0	IN	NS	ns2.1966.co.bw.
 growconstruct.co.bw.	0	IN	NS	ns1.1966.co.bw.
 growconstruct.co.bw.	0	IN	NS	ns2.1966.co.bw.
-growcorp.co.bw.	0	IN	NS	ns1.1966.co.bw.
-growcorp.co.bw.	0	IN	NS	ns2.1966.co.bw.
+growcorp.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+growcorp.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 growellfarms.co.bw.	0	IN	NS	ns455.welcomesite.com.
 growellfarms.co.bw.	0	IN	NS	ns456.welcomesite.com.
 growh20.co.bw.	0	IN	NS	ns1.1966.co.bw.
@@ -11556,6 +11571,8 @@ iamphoto.co.bw.	0	IN	NS	ns1bbi.internet.co.bw.
 iamphoto.co.bw.	0	IN	NS	ns2bbi.internet.co.bw.
 iamphoto.co.bw.	0	IN	NS	ns3bbi.internet.co.bw.
 iamphoto.co.bw.	0	IN	NS	ns4bbi.internet.co.bw.
+iams.co.bw.	0	IN	NS	ns1.wise.co.bw.
+iams.co.bw.	0	IN	NS	ns2.wise.co.bw.
 iams.co.bw.	0	IN	NS	lion.info.bw.
 iams.co.bw.	0	IN	NS	cheetah.info.bw.
 iankebopetswe.co.bw.	0	IN	NS	ns1.eco-dns.co.uk.
@@ -11688,6 +11705,8 @@ ignytwealth.co.bw.	0	IN	NS	ns2.dns-h.com.
 ignytwealth.co.bw.	0	IN	NS	ns2.host-h.net.
 igs.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 igs.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+ihawu.co.bw.	0	IN	NS	ns1.wise.co.bw.
+ihawu.co.bw.	0	IN	NS	ns2.wise.co.bw.
 ihawu.co.bw.	0	IN	NS	lion.info.bw.
 ihawu.co.bw.	0	IN	NS	tiger.info.bw.
 ihawu.co.bw.	0	IN	NS	cheetah.info.bw.
@@ -11719,8 +11738,8 @@ ikagengseloi.co.bw.	0	IN	NS	ns2.cp-15.webhostbox.net.
 ikea.co.bw.	0	IN	NS	ns1.digitalocean.com.
 ikea.co.bw.	0	IN	NS	ns2.digitalocean.com.
 ikea.co.bw.	0	IN	NS	ns3.digitalocean.com.
-iki.co.bw.	0	IN	NS	dns2047a.trouble-free.net.
-iki.co.bw.	0	IN	NS	dns2047b.trouble-free.net.
+iki.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+iki.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ikigaidana.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 ikigaidana.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 ikigaidana.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -11738,8 +11757,8 @@ iloindustries.co.bw.	0	IN	NS	ns2.iob.co.bw.
 iloindustries.co.bw.	0	IN	NS	ns3.iob.co.bw.
 ilovebellah.co.bw.	0	IN	NS	ns1.bellah.com.
 ilovebellah.co.bw.	0	IN	NS	ns2.bellah.com.
-imac.co.bw.	0	IN	NS	ns61.domaincontrol.com.
-imac.co.bw.	0	IN	NS	ns62.domaincontrol.com.
+imac.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+imac.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 imagecivil.co.bw.	0	IN	NS	rs19a.registrar-servers.com.
 imagecivil.co.bw.	0	IN	NS	rs19b.registrar-servers.com.
 imagelife.co.bw.	0	IN	NS	ns1.serverhostgroup.com.
@@ -11858,8 +11877,8 @@ indabalodgegaborone.co.bw.	0	IN	NS	ns1.host-h.net.
 indabalodgegaborone.co.bw.	0	IN	NS	ns2.host-h.net.
 indclinic.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 indclinic.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-index.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-index.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+index.co.bw.	0	IN	NS	ns1.bluehost.com.
+index.co.bw.	0	IN	NS	ns2.bluehost.com.
 indispensableengineering.co.bw.	0	IN	NS	ns1.101domain.com.
 indispensableengineering.co.bw.	0	IN	NS	ns2.101domain.com.
 indispensableengineering.co.bw.	0	IN	NS	ns5.101domain.com.
@@ -11873,9 +11892,10 @@ inet.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 inet.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 infholdings.co.bw.	0	IN	NS	ns1.name.com.
 infholdings.co.bw.	0	IN	NS	ns2.name.com.
-infinidawn.co.bw.	0	IN	NS	ns1.digitalocean.com.
-infinidawn.co.bw.	0	IN	NS	ns2.digitalocean.com.
-infinidawn.co.bw.	0	IN	NS	ns3.digitalocean.com.
+infinidawn.co.bw.	0	IN	NS	bwadomains.mars.orderbox-dns.com.
+infinidawn.co.bw.	0	IN	NS	bwadomains.earth.orderbox-dns.com.
+infinidawn.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
+infinidawn.co.bw.	0	IN	NS	bwadomains.mercury.orderbox-dns.com.
 infinitecomm.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 infinitecomm.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 infinitemomentum.co.bw.	0	IN	NS	ns1.whnhosting.net.
@@ -11898,6 +11918,8 @@ infinsol.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 infinsol.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 inflate.co.bw.	0	IN	NS	ns1.wise.co.bw.
 inflate.co.bw.	0	IN	NS	ns2.wise.co.bw.
+info.co.bw.	0	IN	NS	ns1.wise.co.bw.
+info.co.bw.	0	IN	NS	ns2.wise.co.bw.
 info.co.bw.	0	IN	NS	lion.info.bw.
 info.co.bw.	0	IN	NS	cheetah.info.bw.
 infocloud.co.bw.	0	IN	NS	dns1.easydns.com.
@@ -11984,8 +12006,6 @@ innovatenergy.co.bw.	0	IN	NS	bwadomains.mars.orderbox-dns.com.
 innovatenergy.co.bw.	0	IN	NS	bwadomains.earth.orderbox-dns.com.
 innovatenergy.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
 innovatenergy.co.bw.	0	IN	NS	bwadomains.mercury.orderbox-dns.com.
-innovativeclinic.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-innovativeclinic.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 innovativeideas.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 innovativeideas.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 innovativeideas.co.bw.	0	IN	NS	dns3.webmart.co.bw.
@@ -12529,6 +12549,8 @@ jbactive.co.bw.	0	IN	NS	ns3.cloudco.co.za.
 jbactive.co.bw.	0	IN	NS	ns4.cloudco.co.za.
 jbfreetomove.co.bw.	0	IN	NS	ns1.inmotionhosting.com.
 jbfreetomove.co.bw.	0	IN	NS	ns2.inmotionhosting.com.
+jbgroup.co.bw.	0	IN	NS	ns8001.hostgator.com.
+jbgroup.co.bw.	0	IN	NS	ns8002.hostgator.com.
 jbmining.co.bw.	0	IN	NS	ns1.supercp.com.
 jbmining.co.bw.	0	IN	NS	ns2.supercp.com.
 jbmining.co.bw.	0	IN	NS	ns3.supercp.com.
@@ -12844,10 +12866,8 @@ kablexafrica.co.bw.	0	IN	NS	ns3.onlydomains.com.
 kablexafricabotswana.co.bw.	0	IN	NS	ns1.onlydomains.com.
 kablexafricabotswana.co.bw.	0	IN	NS	ns2.onlydomains.com.
 kablexafricabotswana.co.bw.	0	IN	NS	ns3.onlydomains.com.
-kabotroninvestment.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
-kabotroninvestment.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
-kabotroninvestment.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
-kabotroninvestment.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
+kabotroninvestment.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+kabotroninvestment.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 kad.co.bw.	0	IN	NS	ns1.webonline.biz.
 kad.co.bw.	0	IN	NS	ns2.webonline.biz.
 kad.co.bw.	0	IN	NS	ns3.webonline.biz.
@@ -12877,8 +12897,8 @@ kalaharibridals.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 kalaharibridals.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 kalaharifloor.co.bw.	0	IN	NS	ns1.wise.co.bw.
 kalaharifloor.co.bw.	0	IN	NS	ns2.wise.co.bw.
-kalaharikoola.co.bw.	0	IN	NS	ns1.debunked.website.
-kalaharikoola.co.bw.	0	IN	NS	ns2.debunked.website.
+kalaharikoola.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+kalaharikoola.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 kalaharimedical.co.bw.	0	IN	NS	ns1.iob.co.bw.
 kalaharimedical.co.bw.	0	IN	NS	ns2.iob.co.bw.
 kalaharimedical.co.bw.	0	IN	NS	ns3.iob.co.bw.
@@ -13219,8 +13239,9 @@ kgetsiyapula.co.bw.	0	IN	NS	ns1.dns-parking.com.
 kgetsiyapula.co.bw.	0	IN	NS	ns2.dns-parking.com.
 kgobero.co.bw.	0	IN	NS	rs68a.registrar-servers.com.
 kgobero.co.bw.	0	IN	NS	rs68b.registrar-servers.com.
-kgodisofeeds.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-kgodisofeeds.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+kgodisofeeds.co.bw.	0	IN	NS	ns1.iob.co.bw.
+kgodisofeeds.co.bw.	0	IN	NS	ns2.iob.co.bw.
+kgodisofeeds.co.bw.	0	IN	NS	ns3.iob.co.bw.
 kgolo.co.bw.	0	IN	NS	ns1.bluehost.com.
 kgolo.co.bw.	0	IN	NS	ns2.bluehost.com.
 kgolocapital.co.bw.	0	IN	NS	ns.mainnameserver.com.
@@ -13541,8 +13562,8 @@ kophotography.co.bw.	0	IN	NS	cns4003.webhostbox.net.
 kophotography.co.bw.	0	IN	NS	cns4004.webhostbox.net.
 kopo.co.bw.	0	IN	NS	mina.ns.cloudflare.com.
 kopo.co.bw.	0	IN	NS	mcgrory.ns.cloudflare.com.
-korisupplies.co.bw.	0	IN	NS	ns1.vgbots.website.
-korisupplies.co.bw.	0	IN	NS	ns2.vgbots.website.
+korisupplies.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+korisupplies.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 koroprojections.co.bw.	0	IN	NS	ns1.maranyane.digital.
 koroprojections.co.bw.	0	IN	NS	ns2.maranyane.digital.
 korwe.co.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -14029,6 +14050,10 @@ lejara.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 lejara.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 lejweng.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 lejweng.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
+lekanglegalconsultancy.co.bw.	0	IN	NS	dns1.webmart.co.bw.
+lekanglegalconsultancy.co.bw.	0	IN	NS	dns2.webmart.co.bw.
+lekanglegalconsultancy.co.bw.	0	IN	NS	dns3.webmart.co.bw.
+lekanglegalconsultancy.co.bw.	0	IN	NS	dns4.webmart.co.bw.
 lekolwaneguesthouse.co.bw.	0	IN	NS	ns1.bluehost.com.
 lekolwaneguesthouse.co.bw.	0	IN	NS	ns2.bluehost.com.
 lelucas.co.bw.	0	IN	NS	ns1.tloutswe.net.
@@ -14499,8 +14524,8 @@ lobonegroup.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 lobonegroup.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 lobonegroup.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 lobonegroup.co.bw.	0	IN	NS	dns4.webmart.co.bw.
-localmanufacturingsummit.co.bw.	0	IN	NS	ns1.hosting.co.bw.
-localmanufacturingsummit.co.bw.	0	IN	NS	ns2.hosting.co.bw.
+localmanufacturingsummit.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+localmanufacturingsummit.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 lochanwear.co.bw.	0	IN	NS	ns1.maranyane.com.
 lochanwear.co.bw.	0	IN	NS	ns2.maranyane.com.
 loci.co.bw.	0	IN	NS	ns.inmotionhosting.com.
@@ -14511,8 +14536,6 @@ lodges.co.bw.	0	IN	NS	ns563.websitewelcome.com.
 lodges.co.bw.	0	IN	NS	ns564.websitewelcome.com.
 loganandaidengroup.co.bw.	0	IN	NS	ns6607.hostgator.com.
 loganandaidengroup.co.bw.	0	IN	NS	ns6608.hostgator.com.
-loghub.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-loghub.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 logicadsd.co.bw.	0	IN	NS	ns455.websitewelcome.com.
 logicadsd.co.bw.	0	IN	NS	ns456.websitewelcome.com.
 logicgroup.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
@@ -14631,6 +14654,8 @@ lrsbotswana.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 lrsbotswana.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 lsb.co.bw.	0	IN	NS	ns1.dns-parking.com.
 lsb.co.bw.	0	IN	NS	ns2.dns-parking.com.
+lsbw.co.bw.	0	IN	NS	ns1.wise.co.bw.
+lsbw.co.bw.	0	IN	NS	ns2.wise.co.bw.
 lsbw.co.bw.	0	IN	NS	lion.info.bw.
 lsbw.co.bw.	0	IN	NS	tiger.info.bw.
 lsbw.co.bw.	0	IN	NS	cheetah.info.bw.
@@ -14828,10 +14853,8 @@ madura.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 madura.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 maetolodge.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 maetolodge.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
-mafnetconnections.co.bw.	0	IN	NS	ns1.debunked.website.
-mafnetconnections.co.bw.	0	IN	NS	ns2.debunked.website.
-mafnetconnections.co.bw.	0	IN	NS	ns3.debunked.website.
-mafnetconnections.co.bw.	0	IN	NS	ns4.debunked.website.
+mafnetconnections.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+mafnetconnections.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 magala.co.bw.	0	IN	NS	ns1.name.com.
 magala.co.bw.	0	IN	NS	ns2.name.com.
 magala.co.bw.	0	IN	NS	ns3.name.com.
@@ -14974,8 +14997,8 @@ malakana.co.bw.	0	IN	NS	ns1.maranyane.digital.
 malakana.co.bw.	0	IN	NS	ns2.maranyane.digital.
 malca-amit.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 malca-amit.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-maleteattorneys.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-maleteattorneys.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+maleteattorneys.co.bw.	0	IN	NS	ns1.cp-41.webhostbox.net.
+maleteattorneys.co.bw.	0	IN	NS	ns2.cp-41.webhostbox.net.
 malmoacademy.co.bw.	0	IN	NS	ns1.dns-parking.com.
 malmoacademy.co.bw.	0	IN	NS	ns2.dns-parking.com.
 malmoinvestments.co.bw.	0	IN	NS	ns1.dns-parking.com.
@@ -15393,8 +15416,9 @@ maunexecutiveinn.co.bw.	0	IN	NS	lola.ns.cloudflare.com.
 maunexecutiveinn.co.bw.	0	IN	NS	lynn.ns.cloudflare.com.
 maungolemerogo.co.bw.	0	IN	NS	ns1.maranyane.digital.
 maungolemerogo.co.bw.	0	IN	NS	ns2.maranyane.digital.
+maunlodge.co.bw.	0	IN	NS	ns1.wise.co.bw.
+maunlodge.co.bw.	0	IN	NS	ns2.wise.co.bw.
 maunlodge.co.bw.	0	IN	NS	lion.info.bw.
-maunlodge.co.bw.	0	IN	NS	tiger.info.bw.
 maunlodge.co.bw.	0	IN	NS	cheetah.info.bw.
 maunonline.co.bw.	0	IN	NS	sky.ns.cloudflare.com.
 maunonline.co.bw.	0	IN	NS	conrad.ns.cloudflare.com.
@@ -15507,8 +15531,9 @@ mckeelaw.co.bw.	0	IN	NS	linus.ns.1-grid.co.uk.
 mckeelaw.co.bw.	0	IN	NS	linus.ns.1-grid.co.za.
 mckeelaw.co.bw.	0	IN	NS	linus.ns.1-grid.com.
 mckeelaw.co.bw.	0	IN	NS	linus.ns.1-grid.net.
+mcl.co.bw.	0	IN	NS	ns1.wise.co.bw.
+mcl.co.bw.	0	IN	NS	ns2.wise.co.bw.
 mcl.co.bw.	0	IN	NS	lion.info.bw.
-mcl.co.bw.	0	IN	NS	tiger.info.bw.
 mcl.co.bw.	0	IN	NS	cheetah.info.bw.
 mclight.co.bw.	0	IN	NS	cns3999.webhostbox.net.
 mclight.co.bw.	0	IN	NS	cns4000.webhostbox.net.
@@ -16203,6 +16228,8 @@ mmolokimedlabs.co.bw.	0	IN	NS	ns1.inmotionhosting.com.
 mmolokimedlabs.co.bw.	0	IN	NS	ns2.inmotionhosting.com.
 mmotla.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 mmotla.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
+mmotors.co.bw.	0	IN	NS	ns01.gcsat.co.bw.
+mmotors.co.bw.	0	IN	NS	ns02.gcsat.co.bw.
 mmrpcpp.co.bw.	0	IN	NS	ns1.clickconnect.co.bw.
 mmrpcpp.co.bw.	0	IN	NS	ns2.clickconnect.co.bw.
 mmtech.co.bw.	0	IN	NS	pns101.cloudns.net.
@@ -16505,6 +16532,8 @@ moneyllama.co.bw.	0	IN	NS	ns1.dns-h.com.
 moneyllama.co.bw.	0	IN	NS	ns1.host-h.net.
 moneyllama.co.bw.	0	IN	NS	ns2.dns-h.com.
 moneyllama.co.bw.	0	IN	NS	ns2.host-h.net.
+moneymatters.co.bw.	0	IN	NS	ns1.wise.co.bw.
+moneymatters.co.bw.	0	IN	NS	ns2.wise.co.bw.
 moneymatters.co.bw.	0	IN	NS	lion.info.bw.
 moneymatters.co.bw.	0	IN	NS	cheetah.info.bw.
 moneywise.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
@@ -16651,8 +16680,8 @@ morongwainstitute.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 morongwainstitute.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 morongwainstitute.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 morongwainstitute.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
-moroxproperties.co.bw.	0	IN	NS	ns1.md-uk-3.webhostbox.net.
-moroxproperties.co.bw.	0	IN	NS	ns2.md-uk-3.webhostbox.net.
+moroxproperties.co.bw.	0	IN	NS	alexia.ns.cloudflare.com.
+moroxproperties.co.bw.	0	IN	NS	cosmin.ns.cloudflare.com.
 morrininvestments.co.bw.	0	IN	NS	ns1.name.com.
 morrininvestments.co.bw.	0	IN	NS	ns2.name.com.
 mortgage.co.bw.	0	IN	NS	ns1.botshosting.co.za.
@@ -16819,6 +16848,8 @@ motsosafunds.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 motsumiattorneys.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
 motswagoleandco.co.bw.	0	IN	NS	ns1.whnhosting.net.
 motswagoleandco.co.bw.	0	IN	NS	ns2.whnhosting.net.
+motswana.co.bw.	0	IN	NS	ns1.intellegereholdings.com.
+motswana.co.bw.	0	IN	NS	ns2.intellegereholdings.com.
 motswaselelegalpractice.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 motswaselelegalpractice.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 motswedi.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
@@ -16832,8 +16863,8 @@ motswedisaccos.co.bw.	0	IN	NS	ns2.botsnet.bw.
 motswedisaccos.co.bw.	0	IN	NS	ns3.botsnet.bw.
 motswediwells.co.bw.	0	IN	NS	ns1.maranyane.digital.
 motswediwells.co.bw.	0	IN	NS	ns2.maranyane.digital.
-motsweregroup.co.bw.	0	IN	NS	ns1.101domain.com.
-motsweregroup.co.bw.	0	IN	NS	ns2.101domain.com.
+motsweregroup.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+motsweregroup.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 mottieken.co.bw.	0	IN	NS	ns1.botsnet.bw.
 mottieken.co.bw.	0	IN	NS	ns2.botsnet.bw.
 mottieken.co.bw.	0	IN	NS	ns3.botsnet.bw.
@@ -17381,8 +17412,8 @@ nationwide.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 nationwide.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 nativeevents.co.bw.	0	IN	NS	ns1.whnhosting.net.
 nativeevents.co.bw.	0	IN	NS	ns2.whnhosting.net.
-nativefeeds.co.bw.	0	IN	NS	dns1.registrar-servers.com.
-nativefeeds.co.bw.	0	IN	NS	dns2.registrar-servers.com.
+nativefeeds.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
+nativefeeds.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 nativeimpressions.co.bw.	0	IN	NS	ns1.dns-parking.com.
 nativeimpressions.co.bw.	0	IN	NS	ns2.dns-parking.com.
 nativus.co.bw.	0	IN	NS	crystal.ns.cloudflare.com.
@@ -17452,8 +17483,8 @@ ndiques.co.bw.	0	IN	NS	ns1.maranyane.digital.
 ndiques.co.bw.	0	IN	NS	ns2.maranyane.digital.
 ndjimbo.co.bw.	0	IN	NS	ns1.mws.co.bw.
 ndjimbo.co.bw.	0	IN	NS	ns2.mws.co.bw.
-ndlovudandcompany.co.bw.	0	IN	NS	ns1.md-10.webhostbox.net.
-ndlovudandcompany.co.bw.	0	IN	NS	ns2.md-10.webhostbox.net.
+ndlovudandcompany.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+ndlovudandcompany.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ndoloengineers.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 ndoloengineers.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 ndt.co.bw.	0	IN	NS	ns1.botsnet.bw.
@@ -17623,8 +17654,8 @@ newenergy.co.bw.	0	IN	NS	ns.mainnameserver.com.
 newenergy.co.bw.	0	IN	NS	ns2.mainnameserver.com.
 newfeeling.co.bw.	0	IN	NS	ns1.bluehost.com.
 newfeeling.co.bw.	0	IN	NS	ns2.bluehost.com.
-newhatches.co.bw.	0	IN	NS	lola.ns.cloudflare.com.
-newhatches.co.bw.	0	IN	NS	lynn.ns.cloudflare.com.
+newhatches.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+newhatches.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 newhorizons.co.bw.	0	IN	NS	dns1.cscdns.net.
 newhorizons.co.bw.	0	IN	NS	dns2.cscdns.net.
 newline.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
@@ -17892,8 +17923,6 @@ northgatemall.co.bw.	0	IN	NS	ns8001.hostgator.com.
 northgatemall.co.bw.	0	IN	NS	ns8002.hostgator.com.
 northsafety.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 northsafety.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
-northwestpetroleum.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-northwestpetroleum.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 northwood.co.bw.	0	IN	NS	ns1.whnhosting.net.
 northwood.co.bw.	0	IN	NS	ns2.whnhosting.net.
 northzone.co.bw.	0	IN	NS	ns1.digitalocean.com.
@@ -19730,9 +19759,8 @@ precisionvat.co.bw.	0	IN	NS	angela.ns.cloudflare.com.
 precisionvat.co.bw.	0	IN	NS	robert.ns.cloudflare.com.
 prele.co.bw.	0	IN	NS	chip.ns.cloudflare.com.
 prele.co.bw.	0	IN	NS	elinore.ns.cloudflare.com.
-premier.co.bw.	0	IN	NS	ns1.opq.net.bw.
-premier.co.bw.	0	IN	NS	ns2.opq.net.bw.
-premier.co.bw.	0	IN	NS	ns3.opq.net.bw.
+premier.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
+premier.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
 premierbet.co.bw.	0	IN	NS	ns1.101domain.com.
 premierbet.co.bw.	0	IN	NS	ns2.101domain.com.
 premiercall.co.bw.	0	IN	NS	ns-324.awsdns-40.com.
@@ -19759,8 +19787,10 @@ premierlogistics.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 premierlogistics.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 premierproperties.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 premierproperties.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-premierworkwear.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
-premierworkwear.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
+premierworkwear.co.bw.	0	IN	NS	ns1.cloudco.co.za.
+premierworkwear.co.bw.	0	IN	NS	ns2.cloudco.co.za.
+premierworkwear.co.bw.	0	IN	NS	ns3.cloudco.co.za.
+premierworkwear.co.bw.	0	IN	NS	ns4.cloudco.co.za.
 premium.co.bw.	0	IN	NS	ns1.botshosting.co.za.
 premium.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 premiumcallaccount.co.bw.	0	IN	NS	ns1.lexsynergy.net.
@@ -20126,8 +20156,6 @@ psbarchitects.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 psbarchitects.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 psbarchitects.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 psbarchitects.co.bw.	0	IN	NS	dns4.webmart.co.bw.
-psbbotswana.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-psbbotswana.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 psconsulting.co.bw.	0	IN	NS	ns1.name.com.
 psconsulting.co.bw.	0	IN	NS	ns2.name.com.
 psconsulting.co.bw.	0	IN	NS	ns3.name.com.
@@ -21286,8 +21314,8 @@ royaleng.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
 royaleng.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
 royalengineering.co.bw.	0	IN	NS	ns1.debunked.website.
 royalengineering.co.bw.	0	IN	NS	ns2.debunked.website.
-royalgardencentre.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
-royalgardencentre.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
+royalgardencentre.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+royalgardencentre.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 royalhaskoningdhv.co.bw.	0	IN	NS	titan.is.co.za.
 royalhaskoningdhv.co.bw.	0	IN	NS	demeter.is.co.za.
 royalhaskoningdhv.co.bw.	0	IN	NS	jupiter.is.co.za.
@@ -21299,8 +21327,9 @@ royalsoftware.co.bw.	0	IN	NS	pns41.cloudns.net.
 royalsoftware.co.bw.	0	IN	NS	pns42.cloudns.net.
 royalsoftware.co.bw.	0	IN	NS	pns43.cloudns.net.
 royalsoftware.co.bw.	0	IN	NS	pns44.cloudns.net.
-royaltech.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-royaltech.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+royaltech.co.bw.	0	IN	NS	ns1.botsnet.bw.
+royaltech.co.bw.	0	IN	NS	ns2.botsnet.bw.
+royaltech.co.bw.	0	IN	NS	ns3.botsnet.bw.
 royaltytissues.co.bw.	0	IN	NS	ns1.dns-parking.com.
 royaltytissues.co.bw.	0	IN	NS	ns2.dns-parking.com.
 royco.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
@@ -21899,6 +21928,10 @@ seepearl.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 seepearl.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 seepearl.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 seepearl.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
+sefakochoristers.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
+sefakochoristers.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
+sefakochoristers.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
+sefakochoristers.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 sefalana.co.bw.	0	IN	NS	cdns1.webmart.co.bw.
 sefalana.co.bw.	0	IN	NS	cdns2.webmart.co.bw.
 sefalanafreshproduce.co.bw.	0	IN	NS	ns1.opq.net.bw.
@@ -22245,8 +22278,6 @@ shankatchar.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 shankatchar.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 shankatchar.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 shankatchar.co.bw.	0	IN	NS	dns4.webmart.co.bw.
-shapes.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-shapes.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 shapeworks.co.bw.	0	IN	NS	ns1.markmonitor.com.
 shapeworks.co.bw.	0	IN	NS	ns2.markmonitor.com.
 sharearide.co.bw.	0	IN	NS	ns1.digitalocean.com.
@@ -22320,8 +22351,8 @@ shimmerclothing.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 shineafrica.co.bw.	0	IN	NS	ns1.botsnet.bw.
 shineafrica.co.bw.	0	IN	NS	ns2.botsnet.bw.
 shineafrica.co.bw.	0	IN	NS	ns3.botsnet.bw.
-shingaboy.co.bw.	0	IN	NS	ns1.hosting.co.bw.
-shingaboy.co.bw.	0	IN	NS	ns2.hosting.co.bw.
+shingaboy.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+shingaboy.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 shinteholdings.co.bw.	0	IN	NS	ns1.siteground.net.
 shinteholdings.co.bw.	0	IN	NS	ns2.siteground.net.
 shiripindaandco.co.bw.	0	IN	NS	ns1.name.com.
@@ -22362,6 +22393,8 @@ shoshongonline.co.bw.	0	IN	NS	sky.ns.cloudflare.com.
 shoshongonline.co.bw.	0	IN	NS	conrad.ns.cloudflare.com.
 shower.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 shower.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
+showgroup.co.bw.	0	IN	NS	ns1.wise.co.bw.
+showgroup.co.bw.	0	IN	NS	ns2.wise.co.bw.
 showgroup.co.bw.	0	IN	NS	lion.info.bw.
 showgroup.co.bw.	0	IN	NS	cheetah.info.bw.
 showmax.co.bw.	0	IN	NS	ns1.lexsynergy.net.
@@ -23055,9 +23088,8 @@ spam.co.bw.	0	IN	NS	opqns2.opqnet.net.
 spar.co.bw.	0	IN	NS	ns1.firstnet.co.za.
 spar.co.bw.	0	IN	NS	ns2.firstnet.co.za.
 sparesmax.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
-spargame.co.bw.	0	IN	NS	ns1.onlydomains.com.
-spargame.co.bw.	0	IN	NS	ns2.onlydomains.com.
-spargame.co.bw.	0	IN	NS	ns3.onlydomains.com.
+spargame.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+spargame.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 sparkcapital.co.bw.	0	IN	NS	ns1.iob.co.bw.
 sparkcapital.co.bw.	0	IN	NS	ns2.iob.co.bw.
 sparkcapital.co.bw.	0	IN	NS	ns3.iob.co.bw.
@@ -23583,6 +23615,8 @@ sunny.co.bw.	0	IN	NS	dns1.prohosty.in.
 sunny.co.bw.	0	IN	NS	dns2.prohosty.in.
 sunnycrestfarm.co.bw.	0	IN	NS	ns1.bluehost.com.
 sunnycrestfarm.co.bw.	0	IN	NS	ns2.bluehost.com.
+sunnygroup.co.bw.	0	IN	NS	ns1.wise.co.bw.
+sunnygroup.co.bw.	0	IN	NS	ns2.wise.co.bw.
 sunnygroup.co.bw.	0	IN	NS	lion.info.bw.
 sunnygroup.co.bw.	0	IN	NS	cheetah.info.bw.
 sunnysandsschools.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
@@ -23795,8 +23829,8 @@ synergycoms.co.bw.	0	IN	NS	ns1.cp-ht-6.webhostbox.net.
 synergycoms.co.bw.	0	IN	NS	ns2.cp-ht-6.webhostbox.net.
 synergygroup.co.bw.	0	IN	NS	ns.mainnameserver.com.
 synergygroup.co.bw.	0	IN	NS	ns2.mainnameserver.com.
-synergylogistics.co.bw.	0	IN	NS	ns05.domaincontrol.com.
-synergylogistics.co.bw.	0	IN	NS	ns06.domaincontrol.com.
+synergylogistics.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+synergylogistics.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 syringa.co.bw.	0	IN	NS	ns57.domaincontrol.com.
 syringa.co.bw.	0	IN	NS	ns58.domaincontrol.com.
 syringacasino.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
@@ -24736,6 +24770,9 @@ ticketlinc.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
 ticketlinc.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
 ticketlink.co.bw.	0	IN	NS	ns1.hosting.co.bw.
 ticketlink.co.bw.	0	IN	NS	ns2.hosting.co.bw.
+ticketmaster.co.bw.	0	IN	NS	ns1.serverhostgroup.com.
+ticketmaster.co.bw.	0	IN	NS	ns2.serverhostgroup.com.
+ticketmaster.co.bw.	0	IN	NS	ns3.serverhostgroup.com.
 ticketpro.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 ticketpro.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 ticketpros.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
@@ -25715,8 +25752,8 @@ ultimexholdings.co.bw.	0	IN	NS	ns1.host-h.net.
 ultimexholdings.co.bw.	0	IN	NS	ns2.host-h.net.
 ultradeliveries.co.bw.	0	IN	NS	ns1.maranyane.digital.
 ultradeliveries.co.bw.	0	IN	NS	ns2.maranyane.digital.
-ultraeparts.co.bw.	0	IN	NS	ns1.inpro9.fcomet.com.
-ultraeparts.co.bw.	0	IN	NS	ns2.inpro9.fcomet.com.
+ultraeparts.co.bw.	0	IN	NS	suspened1.nic.net.bw.
+ultraeparts.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 ultramafic.co.bw.	0	IN	NS	ns1-fireblade.vivawebhost.com.
 ultramafic.co.bw.	0	IN	NS	ns2-fireblade.vivawebhost.com.
 ultramed.co.bw.	0	IN	NS	ns1.botsnet.bw.
@@ -26228,8 +26265,8 @@ vitalmedchem.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 vitalmedchem.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 vitalmedscheme.co.bw.	0	IN	NS	ns1.dns-parking.com.
 vitalmedscheme.co.bw.	0	IN	NS	ns2.dns-parking.com.
-vitalsignals.co.bw.	0	IN	NS	dns1.registrar-servers.com.
-vitalsignals.co.bw.	0	IN	NS	dns2.registrar-servers.com.
+vitalsignals.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
+vitalsignals.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 viva.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 viva.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 vivafreight.co.bw.	0	IN	NS	helium.ns.hetzner.com.
@@ -26344,8 +26381,8 @@ vtmobilebw.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 vtmobilebw.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
 vts.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
 vts.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
-vuka.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-vuka.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+vuka.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
+vuka.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 vukaplastics.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 vukaplastics.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 vulnardms.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
@@ -27433,6 +27470,8 @@ libero.bw.	0	IN	NS	melkor.ngninfra.net.
 libero.bw.	0	IN	NS	tilion.ngninfra.net.
 libresse.bw.	0	IN	NS	melkor.ngninfra.net.
 libresse.bw.	0	IN	NS	tilion.ngninfra.net.
+macmillan.bw.	0	IN	NS	ns1.wise.co.bw.
+macmillan.bw.	0	IN	NS	ns2.wise.co.bw.
 macmillan.bw.	0	IN	NS	lion.info.bw.
 macmillan.bw.	0	IN	NS	cheetah.info.bw.
 mascom.bw.	0	IN	NS	ns1.mascom.bw.
@@ -28516,10 +28555,6 @@ mabgovernanceacademy.org.bw.	0	IN	NS	ns6455.hostgator.com.
 mabgovernanceacademy.org.bw.	0	IN	NS	ns6456.hostgator.com.
 mail.org.bw.	0	IN	NS	arch.ns.cloudflare.com.
 mail.org.bw.	0	IN	NS	barbara.ns.cloudflare.com.
-mapandact.org.bw.	0	IN	NS	suspened1.nic.net.bw.
-mapandact.org.bw.	0	IN	NS	suspened2.nic.net.bw.
-masegocct.org.bw.	0	IN	NS	suspened1.nic.net.bw.
-masegocct.org.bw.	0	IN	NS	suspened2.nic.net.bw.
 masielatrustfund.org.bw.	0	IN	NS	lola.ns.cloudflare.com.
 masielatrustfund.org.bw.	0	IN	NS	finley.ns.cloudflare.com.
 masungaheritage.org.bw.	0	IN	NS	dns1.zebranet.co.bw.
@@ -28547,14 +28582,10 @@ missions.org.bw.	0	IN	NS	ns1.dns-parking.com.
 missions.org.bw.	0	IN	NS	ns2.dns-parking.com.
 mmadinaredt.org.bw.	0	IN	NS	suspened1.nic.net.bw.
 mmadinaredt.org.bw.	0	IN	NS	suspened2.nic.net.bw.
-mmasebotsecoop.org.bw.	0	IN	NS	suspened1.nic.net.bw.
-mmasebotsecoop.org.bw.	0	IN	NS	suspened2.nic.net.bw.
 mmilamela.org.bw.	0	IN	NS	ns1.cp-ht-11.webhostbox.net.
 mmilamela.org.bw.	0	IN	NS	ns2.cp-ht-11.webhostbox.net.
 moesd.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 moesd.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-molemact.org.bw.	0	IN	NS	suspened1.nic.net.bw.
-molemact.org.bw.	0	IN	NS	suspened2.nic.net.bw.
 momo.org.bw.	0	IN	NS	ns1.lexsynergy.net.
 momo.org.bw.	0	IN	NS	ns2.lexsynergy.us.
 momo.org.bw.	0	IN	NS	ns3.lexsynergy.info.
@@ -28704,6 +28735,8 @@ software.org.bw.	0	IN	NS	ns3.asurahosting.com.
 software.org.bw.	0	IN	NS	ns4.asurahosting.com.
 solar.org.bw.	0	IN	NS	ns1.siteground.net.
 solar.org.bw.	0	IN	NS	ns2.siteground.net.
+sos.org.bw.	0	IN	NS	ns1.wise.co.bw.
+sos.org.bw.	0	IN	NS	ns2.wise.co.bw.
 sos.org.bw.	0	IN	NS	lion.info.bw.
 sos.org.bw.	0	IN	NS	cheetah.info.bw.
 sots.org.bw.	0	IN	NS	suspened1.nic.net.bw.
@@ -28858,7 +28891,7 @@ youngmindsafrica.org.bw.	0	IN	NS	ns3.serverhostgroup.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1710716442"
+ote.bw.	0	IN	TXT	"Generation Time: 1710802897"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 demo.ote.bw.	0	IN	NS	ns1.botshosting.co.za.
