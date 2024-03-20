@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710885901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1710972301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -75,10 +75,6 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 7.mw.	0	IN	NS	ns1.netim.net.
 7.mw.	0	IN	NS	ns2.netim.net.
 7.mw.	0	IN	NS	ns3.netim.net.
-75138.mw.	0	IN	NS	ns1.dns.com.
-75138.mw.	0	IN	NS	ns2.dns.com.
-75243.mw.	0	IN	NS	ns1.dns.com.
-75243.mw.	0	IN	NS	ns2.dns.com.
 777.mw.	0	IN	NS	irma.ns.cloudflare.com.
 777.mw.	0	IN	NS	james.ns.cloudflare.com.
 8.mw.	0	IN	NS	ns1.netim.net.
@@ -2654,6 +2650,10 @@ maclands.mw.	0	IN	NS	ns3.eurodns.com.
 maclands.mw.	0	IN	NS	ns4.eurodns.com.
 macoha.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 macoha.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
+macolmedia.mw.	0	IN	NS	dns1.supremedns.com.
+macolmedia.mw.	0	IN	NS	dns2.supremedns.com.
+macolmedia.mw.	0	IN	NS	dns3.supremedns.com.
+macolmedia.mw.	0	IN	NS	dns4.supremedns.com.
 macra.mw.	0	IN	NS	ns1.bdsmw.com.
 macra.mw.	0	IN	NS	ns2.bdsmw.com.
 macra.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -2945,8 +2945,6 @@ mikoko.mw.	0	IN	NS	ns67.domaincontrol.com.
 mikoko.mw.	0	IN	NS	ns68.domaincontrol.com.
 mile.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
 mile.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
-mineschamber.mw.	0	IN	NS	ns1289.websitewelcome.com.
-mineschamber.mw.	0	IN	NS	ns1290.websitewelcome.com.
 minet.mw.	0	IN	NS	ns1.lexsynergy.net.
 minet.mw.	0	IN	NS	ns2.lexsynergy.us.
 minet.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -3385,8 +3383,6 @@ npsonline.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 npsonline.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 ns.mw.	0	IN	NS	ns1.101domain.com.
 ns.mw.	0	IN	NS	ns2.101domain.com.
-nsogbv.mw.	0	IN	NS	proxy2.africa-online.net.
-nsogbv.mw.	0	IN	NS	proxy3.africa-online.net.
 nsomalawi.mw.	0	IN	NS	domwe.sdn.mw.
 nsomalawi.mw.	0	IN	NS	nyala.sdnp.org.mw.
 ntaba.mw.	0	IN	NS	lara.ns.cloudflare.com.
@@ -4027,8 +4023,6 @@ sharecarevet.mw.	0	IN	NS	ns1.bdsmw.com.
 sharecarevet.mw.	0	IN	NS	ns2.bdsmw.com.
 sharecarevet.mw.	0	IN	NS	ns3.bdsmw.com.
 sharecarevet.mw.	0	IN	NS	ns4.bdsmw.com.
-sheenainvestments.mw.	0	IN	NS	domwe.sdn.mw.
-sheenainvestments.mw.	0	IN	NS	nyala.sdnp.org.mw.
 shell.mw.	0	IN	NS	dns1.shell.com.
 shell.mw.	0	IN	NS	dns2.shell.com.
 shell.mw.	0	IN	NS	dns3.shell.com.
@@ -4438,6 +4432,7 @@ totalenergies.mw.	0	IN	NS	ns4.totalenergies.info.
 totalmall.mw.	0	IN	NS	ns01.trademarkarea.com.
 totalmall.mw.	0	IN	NS	ns02.trademarkarea.com.
 totalmall.mw.	0	IN	NS	ns03.trademarkarea.com.
+tourism.mw.	0	IN	NS	dns1.web-hosting.com.
 tourism.mw.	0	IN	NS	dns1.namecheaphosting.com.
 tourism.mw.	0	IN	NS	dns2.namecheaphosting.com.
 tractorprovider.mw.	0	IN	NS	ajay.ns.cloudflare.com.
