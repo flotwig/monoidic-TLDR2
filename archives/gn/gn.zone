@@ -1,21 +1,21 @@
-gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2024032227 86400 3600 2592000 14400
+gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2024032328 86400 3600 2592000 14400
 gn.	0	IN	NS	ns1.gn.
 gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
 gn.	0	IN	NS	ns-pch.gn.
-gn.	0	IN	TXT	"Generation Time: 1711148407"
+gn.	0	IN	TXT	"Generation Time: 1711234802"
+gn.	0	IN	DNSKEY	256 3 8 AwEAAaBrRczC0A9ITikPDgqIt+P07hiqGUc6ovnzUAkWmwefBwH61AYmlYfvYHBV6Mc+HTpmqD9gl/mz5JKeZYkT+2WVVPCYKq1rAurjH1uDjCOpsl59q14XaI4PaKuMLNw3WrsSYtMKYkWUQ1vz7Hm7GMgl403fgcRjRaiy4HwsRBBwz3M8yP22N2x3hj6iFtHQSbc3hwR4SVCbEEQOFw24N0kTgqiPpeMRFAG7AIWxav1gy7EveH4MXgc6leW+ePzCje0w0F1luJdUwc1VfBwBOhbSiWixL1EmMB7jKRBnFk5pcbTk6G1fAC6S53YKkZ6u/ML3nfx0SlBhA8B1NoLkSjM= ;{id = 6756 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	256 3 8 AwEAAbL2kutLFzp2ep76YxijrIBVX2xIHeXgRB0Z4hob6f8/lJ4+MfcVOuFWb8SNhiB9252ZjOudDwJYTKc2/S+rjfbzNFGIX/E+dzcB7sB+NdWp2lARZGCLZX6DLfphFKJJFv0wMjUbKbw7hdwNdBRSdBYZUbTYJNjtdNU6R2/CjKnS7kvSZyqp0Pcl3MUAzDJCzs6MfrSr/HSoB8aXf/SIWx9Goq2WJdMwNSkCKyVayoErLesLCOlefnAVmIo8vrmB0lM2sd+fOON27tQ3Rap4QJW+tkTpJHsAmrPmueNsUq+favcHGRDCuPVHbxi3uM8vADsxj0fhVfeK9sKcvQd8yys= ;{id = 29373 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAceLVLL4/1gMfMZZOXFnn/r7ba1I6IZDyWeRyvUpYXLpfGavgcA7ITDA8uQIsrSPk42dIpD5MM5Q+vJiqY9GOcKkgvuKeoE8L81IBX2+SkVzYymGk8lCsHps4lx/HePa47c7d2VUlTXccEhi/+0j72vrMnDIz/KVoyFqv84MdLSk36hY/eq1iD3vOA2uMGixni/VOXcSsw3vLLIoQQ7cjnBsAs+z2piAdzzDSgrIA0YwbT/LnAp/xzPYRgQQCwF7oeqiVwr+KEf8RhCcIv5lygkAX8dhqMdF6CzalF5Hsverxqyo31XyUsCfFetr8B0Bo0SP/HCDJKIo+A8HAu74H10= ;{id = 17385 (zsk), size = 2048b}
+gn.	0	IN	DNSKEY	256 3 8 AwEAAcHQSFQeoEiCUGuUDKEUn256rydZCm8m2Kc5xIs2FmpYexrfgwB+lQBi4cuQxDV0g8agwyiluTy4uuSd8so1A9lHesUQwM14PIXS4Ba/SK/1c9vSdYilEV3buSShDvfMhItqzjyLfuRcY1OozgGXjVFIjpkJgQ3o/eYGNFNCJxV0F77rJRsHX/GLOTkhnrM41GpTcTG/oTKLD7xxgsIRcaJKSad/gZp85jh7iRuW4yzFJCx/Z6lgsXprP62ilAhBFBuMOtCoN6jNgLo2G/5cdMS92pytBSme9jCfJV86M4mIJwFChlo7K7HtGCgXGTGY2Y/muzOqqMrJeGz2VpIKKBM= ;{id = 59514 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	256 3 8 AwEAAco4lsmfra1XoyoQ7pJ5iDcgt+yE96AgdyRUAJ22bGWMWRI0fEti3Nyg1tMY2W0fKTQhvHbj/6i3Qi4mg0qqNpQYdT1jqiRvo5i9GcZmj5wBKjtVPLL6flWCXXiqRLT4vdQppcQtlC/gSwSAKfGEz6p3r6PYkDQmjbiUo0RPXIBk7DxgmxOh/bJzDjkzU1M5gpe67ooxK+adg2n2UpsdwSArteSCuRNEjTyD3LieSVDZJ42wCfkhFldbEQxMr14OV61n+k8FvG3qd6O4y4nTmMl4xz/3NHFtcB9MSot1oiHBMEzRUrZVgwGji1bESdklzPWXIMYpryhidA4D7E9VpX0= ;{id = 21855 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAdYdH2u7BmECxXYZVZFd0HcFFsI3VPWL/82olIieQAgUeK+jAWeSlSrny9rEC5ePTOpgYYeGbZ7HoOVwHpy6xk+PlT5jUwgIgE7wUpcZsE4Zjj3r3PMilll/QBuw6xv1nARwxK66QzeNy8+j9gz9+KMnTP3u8wox+66aTMhj7hhfP3+cX35PzzIXwGfk8iwptxgHMOkHK7C3/beG++HXrhxkMAN9Rwkz6SO/LgajZUS/VMewRO/yEx55Bm2cxx4XqV6H5ySZJHm5mlKPeWR8i5r+g6U9kFDybb7D5CqQWqPh6EY8nNLWeFl7ZULcEc247bfvhri7DYNRh661X9dWbx8= ;{id = 14235 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAeUJmJ2JGqhqrejPH6uHrEsmWERjGXjLn1xHtH45QEeCc1OLigsyx92O0HAJOqIjsWztA+TdPiNqk38vzz40m3Mkl32URb4N7/7b5xr6+1KTGT5dRvcebHnwdbe9YDCneVP1PZtGRQvkPt9+SJE7dAi2fFmvHuHAqBsZaC7QAts39gvg3JqtO5y4LoQsD208aj4EGqnC67+LrkspvWKMaVIa93itWNypsfKBqnYRJgyz2pQX4cTvjx5TgJ0ss1Jx7WlNLti+qxqd6FHL/PGnSEfCDn1KLkl95dDn2ON7vUID4ZDgZfJGbJfgHrXuGdcxgKKMGlz01YEbhQnjy4CXNIM= ;{id = 35166 (zsk), size = 2048b}
+gn.	0	IN	DNSKEY	256 3 8 AwEAAfoIugiFA3PR/HrHNpXwHDlBckrfw7aIr9z5v4MoHVSq0cW+XSFii5bN0tJwqvwFOzif+VIi6nvKJdcSLxsCWg42X8odF05OVM7CaQuZRb8qxLlRM8ooamal3OLIO01cOTcZIp0EbXIxCPfc3sxjrfyhkgZpp9liCZrQeP2/eY2J4QOBRJH4AIxzauV5jVa5n0YmEmmVhc0+XTIAwC81Vf0n8DISQ3HSDynkKTEb9Rh529s0qCj4vUTVDXYB6tK/Yq283xfsNzLKUXR9M34vVkOXdDwHhkzPDlMtAiwPZlNohr2t+fsaCy10MfSLDwfgs7ELm+peGAq16soijzcTPB0= ;{id = 56130 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0= ;{id = 9311 (ksk), size = 2048b}
 gn.	0	IN	CDS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 gn.	0	IN	CDNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0=
-ac.gn.	0	IN	TXT	"Generation Time: 1711148407"
+ac.gn.	0	IN	TXT	"Generation Time: 1711234803"
 iscgtouba.ac.gn.	0	IN	NS	ns.afripatelecom.net.gn.
 iscgtouba.ac.gn.	0	IN	NS	dns1.crawford.com.
-com.gn.	0	IN	TXT	"Generation Time: 1711148407"
+com.gn.	0	IN	TXT	"Generation Time: 1711234803"
 1xbet.com.gn.	0	IN	NS	dns1.safenames.com.
 1xbet.com.gn.	0	IN	NS	dns2.safenames.net.
 1xbet.com.gn.	0	IN	NS	dns3.safenames.org.
@@ -680,7 +680,7 @@ yup.com.gn.	0	IN	NS	pardns11.sgcib.com.
 yup.com.gn.	0	IN	NS	pardns12.sgcib.com.
 yup.com.gn.	0	IN	NS	tokdns11.socgen.co.jp.
 yup.com.gn.	0	IN	NS	tokdns12.socgen.co.jp.
-edu.gn.	0	IN	TXT	"Generation Time: 1711148407"
+edu.gn.	0	IN	TXT	"Generation Time: 1711234803"
 binkosoft.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 binkosoft.edu.gn.	0	IN	NS	pita.afribone.net.gn.
 cedust.edu.gn.	0	IN	NS	dns1.supremedns.com.
@@ -763,8 +763,8 @@ univ-nzerekore.edu.gn.	0	IN	NS	dns1.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns2.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns3.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns4.supremedns.com.
-gouv.gn.	0	IN	TXT	"Generation Time: 1711148407"
-gov.gn.	0	IN	TXT	"Generation Time: 1711148407"
+gouv.gn.	0	IN	TXT	"Generation Time: 1711234803"
+gov.gn.	0	IN	TXT	"Generation Time: 1711234803"
 3ae.gov.gn.	0	IN	NS	ns1.siteground.net.
 3ae.gov.gn.	0	IN	NS	ns2.siteground.net.
 acgp.gov.gn.	0	IN	NS	ns1.siteground.net.
@@ -1541,7 +1541,7 @@ guinee.gn.	0	IN	NS	ns1.siteground.net.
 guinee.gn.	0	IN	NS	ns2.siteground.net.
 jesuiskaloum.gn.	0	IN	NS	ns1.siteground.net.
 jesuiskaloum.gn.	0	IN	NS	ns2.siteground.net.
-net.gn.	0	IN	TXT	"Generation Time: 1711148407"
+net.gn.	0	IN	TXT	"Generation Time: 1711234803"
 afribone.net.gn.	0	IN	NS	pita.afribone.net.gn.
 afribone.net.gn.	0	IN	NS	vps88156.serveur-vps.net.
 pita.afribone.net.gn.	0	IN	A	102.218.236.19
@@ -1618,7 +1618,7 @@ nic.gn.	0	IN	NS	ns2.siteground.net.
 ns-pch.gn.	0	IN	A	204.61.216.147
 ns-pch.gn.	0	IN	AAAA	2001:500:14:6147:ad::1
 ns1.gn.	0	IN	A	41.77.190.237
-org.gn.	0	IN	TXT	"Generation Time: 1711148407"
+org.gn.	0	IN	TXT	"Generation Time: 1711234803"
 aca.org.gn.	0	IN	MX	10 cache.afribone.net.gn.
 aca.org.gn.	0	IN	MX	10 kimbo.afribone.net.gn.
 adra.org.gn.	0	IN	MX	10 cache.afribone.net.gn.
