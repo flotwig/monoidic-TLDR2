@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113128 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113130 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -511,8 +511,10 @@ coop.ni.	0	IN	NS	ns.ideay.net.ni.
 coop.ni.	0	IN	NS	ns2.ni.
 coop.ni.	0	IN	NS	ns3.ni.
 coop.ni.	0	IN	NS	dns-ext.nic.cr.
-copart.ni.	0	IN	NS	ns1.101domain.com.
-copart.ni.	0	IN	NS	ns2.101domain.com.
+copart.ni.	0	IN	NS	ns1.brandsight-dns.com.
+copart.ni.	0	IN	NS	ns1.brandsight-dns.net.
+copart.ni.	0	IN	NS	ns2.brandsight-dns.com.
+copart.ni.	0	IN	NS	ns2.brandsight-dns.net.
 corteva.ni.	0	IN	NS	pdns216.ultradns.biz.
 corteva.ni.	0	IN	NS	pdns216.ultradns.com.
 corteva.ni.	0	IN	NS	pdns216.ultradns.net.
@@ -1022,6 +1024,8 @@ kibofoods.ni.	0	IN	NS	coraline.ns.cloudflare.com.
 kindle.ni.	0	IN	NS	nsgbr.comlaude.co.uk.
 kindle.ni.	0	IN	NS	nssui.comlaude.ch.
 kindle.ni.	0	IN	NS	nsusa.comlaude.net.
+kitz.ni.	0	IN	NS	ns1.nameaction.com.
+kitz.ni.	0	IN	NS	ns2.nameaction.com.
 kpmg.ni.	0	IN	NS	ns10.go.kpmg.com.
 kpmg.ni.	0	IN	NS	ns20.go.kpmg.com.
 kpmg.ni.	0	IN	NS	ns30.go.kpmg.com.
