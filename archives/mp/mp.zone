@@ -556,6 +556,8 @@ crackle.mp.	0	IN	NS	pdns71.ultradns.com.
 crackle.mp.	0	IN	NS	pdns71.ultradns.net.
 crackle.mp.	0	IN	NS	pdns71.ultradns.org.
 crackle.mp.	0	IN	NS	pdns71.ultradns.info.
+crashdu.mp.	0	IN	NS	ray.ns.cloudflare.com.
+crashdu.mp.	0	IN	NS	dina.ns.cloudflare.com.
 crocodile.mp.	0	IN	NS	ns1.markmonitor.com.
 crocodile.mp.	0	IN	NS	ns2.markmonitor.com.
 crocodile.mp.	0	IN	NS	ns3.markmonitor.com.
@@ -2145,11 +2147,13 @@ yahoo.mp.	0	IN	NS	ns1.yahoo.com.
 yahoo.mp.	0	IN	NS	ns2.yahoo.com.
 yaskawa.mp.	0	IN	NS	dns1.idp365.net.
 yaskawa.mp.	0	IN	NS	dns2.idp365.net.
+yava.mp.	0	IN	NS	everton.ns.cloudflare.com.
+yava.mp.	0	IN	NS	michelle.ns.cloudflare.com.
 zapzap.mp.	0	IN	NS	ns1.instradns.com.
 zapzap.mp.	0	IN	NS	ns2.instradns.com.
 zuidijk.mp.	0	IN	NS	ns1.bdm.microsoftonline.com.
 zuidijk.mp.	0	IN	NS	ns2.bdm.microsoftonline.com.
 zuidijk.mp.	0	IN	NS	ns3.bdm.microsoftonline.com.
 zuidijk.mp.	0	IN	NS	ns4.bdm.microsoftonline.com.
-zurich.mp.	0	IN	NS	ns.zurich.com.
-zurich.mp.	0	IN	NS	ns4.zurich.com.
+zurich.mp.	0	IN	NS	ns1.a0.impervasecuredns.net.
+zurich.mp.	0	IN	NS	ns1.a1.impervasecuredns.net.

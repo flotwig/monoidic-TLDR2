@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712095502 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712181901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -356,8 +356,6 @@ arrow.mw.	0	IN	NS	pdns77.ultradns.biz.
 arrow.mw.	0	IN	NS	pdns77.ultradns.com.
 arrow.mw.	0	IN	NS	pdns77.ultradns.net.
 arrow.mw.	0	IN	NS	pdns77.ultradns.org.
-art.mw.	0	IN	NS	ns1.server103.iseencloud.com.
-art.mw.	0	IN	NS	ns2.server103.iseencloud.com.
 artenika.mw.	0	IN	NS	ns1.netim.net.
 artenika.mw.	0	IN	NS	ns2.netim.net.
 artenika.mw.	0	IN	NS	ns3.netim.net.
@@ -908,6 +906,10 @@ cedarcapital.mw.	0	IN	NS	proxy2.africa-online.net.
 cedarcapital.mw.	0	IN	NS	proxy3.africa-online.net.
 cedarplace.mw.	0	IN	NS	maxdns.globemw.net.
 cedarplace.mw.	0	IN	NS	araliya.globemw.net.
+ceir.mw.	0	IN	NS	ns1.bdsmw.com.
+ceir.mw.	0	IN	NS	ns2.bdsmw.com.
+ceir.mw.	0	IN	NS	ns3.bdsmw.com.
+ceir.mw.	0	IN	NS	ns4.bdsmw.com.
 centralbusinesstech.mw.	0	IN	NS	proxy2.africa-online.net.
 centralbusinesstech.mw.	0	IN	NS	proxy3.africa-online.net.
 cftc.mw.	0	IN	NS	ns2.globemw.com.

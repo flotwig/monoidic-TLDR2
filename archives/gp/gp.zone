@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024040221 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024040321 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2312,8 +2312,8 @@ gz.gp.	0	IN	NS	ns1.dan.com.
 gz.gp.	0	IN	NS	ns2.dan.com.
 h.gp.	0	IN	NS	ns1.website.org.
 h.gp.	0	IN	NS	ns2.website.org.
-h2c.gp.	0	IN	NS	dns1.cloudns.net.
-h2c.gp.	0	IN	NS	dns2.cloudns.net.
+h2c.gp.	0	IN	NS	ns12.ovh.net.
+h2c.gp.	0	IN	NS	dns12.ovh.net.
 h2o-construction.gp.	0	IN	NS	a.ns.mailclub.fr.
 h2o-construction.gp.	0	IN	NS	b.ns.mailclub.eu.
 h2o-construction.gp.	0	IN	NS	c.ns.mailclub.com.
@@ -2368,19 +2368,19 @@ hilton.gp.	0	IN	NS	ns5.markmonitor.com.
 hilton.gp.	0	IN	NS	ns6.markmonitor.com.
 hilton.gp.	0	IN	NS	ns7.markmonitor.com.
 hilton-hotels.gp.	0	IN	NS	ns1.markmonitor.com.
+hilton-hotels.gp.	0	IN	NS	ns2.markmonitor.com.
+hilton-hotels.gp.	0	IN	NS	ns3.markmonitor.com.
 hilton-hotels.gp.	0	IN	NS	ns4.markmonitor.com.
 hilton-hotels.gp.	0	IN	NS	ns5.markmonitor.com.
+hilton-hotels.gp.	0	IN	NS	ns6.markmonitor.com.
 hilton-hotels.gp.	0	IN	NS	ns7.markmonitor.com.
-hilton-paris.gp.	0	IN	NS	ns2.markmonitor.com.
-hilton-paris.gp.	0	IN	NS	ns3.markmonitor.com.
-hilton-paris.gp.	0	IN	NS	ns6.markmonitor.com.
 hiltonhotels.gp.	0	IN	NS	ns1.markmonitor.com.
+hiltonhotels.gp.	0	IN	NS	ns2.markmonitor.com.
+hiltonhotels.gp.	0	IN	NS	ns3.markmonitor.com.
 hiltonhotels.gp.	0	IN	NS	ns4.markmonitor.com.
 hiltonhotels.gp.	0	IN	NS	ns5.markmonitor.com.
+hiltonhotels.gp.	0	IN	NS	ns6.markmonitor.com.
 hiltonhotels.gp.	0	IN	NS	ns7.markmonitor.com.
-hiltonparis.gp.	0	IN	NS	ns2.markmonitor.com.
-hiltonparis.gp.	0	IN	NS	ns3.markmonitor.com.
-hiltonparis.gp.	0	IN	NS	ns6.markmonitor.com.
 hisense.gp.	0	IN	NS	ns1.netim.net.
 hisense.gp.	0	IN	NS	ns2.netim.net.
 hisense.gp.	0	IN	NS	ns3.netim.net.
@@ -4487,8 +4487,9 @@ sail.gp.	0	IN	NS	ns1.p201.dns.oraclecloud.net.
 sail.gp.	0	IN	NS	ns2.p201.dns.oraclecloud.net.
 sail.gp.	0	IN	NS	ns3.p201.dns.oraclecloud.net.
 sail.gp.	0	IN	NS	ns4.p201.dns.oraclecloud.net.
-saint-francois.gp.	0	IN	NS	ns2.francedns.com.
-saint-francois.gp.	0	IN	NS	cloudf03.francedns.com.
+saint-francois.gp.	0	IN	NS	ns1.netim.net.
+saint-francois.gp.	0	IN	NS	ns2.netim.net.
+saint-francois.gp.	0	IN	NS	ns3.netim.net.
 saint-gobain.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 saint-gobain.gp.	0	IN	NS	ns3.nameshield.net.
 saint-gobain.gp.	0	IN	NS	obs.ns1.fr.
@@ -5562,8 +5563,9 @@ zouk.gp.	0	IN	NS	ns1.ikoula.fr.
 zouk.gp.	0	IN	NS	ns2.ikoula.fr.
 zouknewz.gp.	0	IN	NS	ns1.ikoula.fr.
 zouknewz.gp.	0	IN	NS	ns2.ikoula.fr.
-zurich.gp.	0	IN	NS	ns.zurich.com.
-zurich.gp.	0	IN	NS	ns4.zurich.com.
+zurich.gp.	0	IN	NS	ns1.a0.impervasecuredns.net.
+zurich.gp.	0	IN	NS	ns1.a1.impervasecuredns.net.
+zurich.gp.	0	IN	NS	ns1.a2.impervasecuredns.net.
 zwav.gp.	0	IN	NS	ns1.register.be.
 zwav.gp.	0	IN	NS	ns2.register.be.
 zz.gp.	0	IN	NS	ns1.sedoparking.com.
