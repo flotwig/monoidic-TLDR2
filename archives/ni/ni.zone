@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113131 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113134 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -1038,6 +1038,10 @@ kushki.ni.	0	IN	NS	ns.sourcedns.com.
 kushki.ni.	0	IN	NS	ns1.sourcedns.com.
 kwai.ni.	0	IN	NS	dns1.cscdns.net.
 kwai.ni.	0	IN	NS	dns2.cscdns.net.
+kya.ni.	0	IN	NS	ns-180.awsdns-22.com.
+kya.ni.	0	IN	NS	ns-603.awsdns-11.net.
+kya.ni.	0	IN	NS	ns-1423.awsdns-49.org.
+kya.ni.	0	IN	NS	ns-1850.awsdns-39.co.uk.
 kyrovet.ni.	0	IN	NS	ns01.trademarkarea.com.
 kyrovet.ni.	0	IN	NS	ns02.trademarkarea.com.
 lacoste.ni.	0	IN	NS	ns1.markmonitor.com.
@@ -1105,6 +1109,8 @@ littler.ni.	0	IN	NS	ns3-03.azure-dns.org.
 littlerglobal.ni.	0	IN	NS	ns1-01.azure-dns.com.
 littlerglobal.ni.	0	IN	NS	ns2-01.azure-dns.net.
 littlerglobal.ni.	0	IN	NS	ns3-01.azure-dns.org.
+livespeaking.ni.	0	IN	NS	kia.ns.cloudflare.com.
+livespeaking.ni.	0	IN	NS	carter.ns.cloudflare.com.
 livingproof.ni.	0	IN	NS	dns02.unilever.com.
 livingproof.ni.	0	IN	NS	dns04.unilever.com.
 livingproof.ni.	0	IN	NS	dns88.unilever.com.
@@ -1356,13 +1362,7 @@ nic.ni.	0	IN	NS	ns2.ni.
 nic.ni.	0	IN	NS	ns3.ni.
 nic2.ni.	0	IN	NS	ns1.greengeeks.net.
 nic2.ni.	0	IN	NS	ns2.greengeeks.net.
-nica.ni.	0	IN	NS	ams-ns1.greengeeks.com.
-nica.ni.	0	IN	NS	chi-ns1.greengeeks.com.
-nica.ni.	0	IN	NS	chi-ns2.greengeeks.com.
 ns1.nica.ni.	0	IN	A	165.98.28.2
-nicaraguense.ni.	0	IN	NS	ams-ns1.greengeeks.com.
-nicaraguense.ni.	0	IN	NS	chi-ns1.greengeeks.com.
-nicaraguense.ni.	0	IN	NS	chi-ns2.greengeeks.com.
 nicix.ni.	0	IN	NS	ns.ni.
 nicix.ni.	0	IN	NS	ns2.ni.
 nicix.ni.	0	IN	NS	ns3.ni.
@@ -1462,6 +1462,9 @@ onlinecasino.ni.	0	IN	NS	terry.ns.cloudflare.com.
 onlinecasino.ni.	0	IN	NS	sandys.ns.cloudflare.com.
 onlinegaming.ni.	0	IN	NS	ed.ns.cloudflare.com.
 onlinegaming.ni.	0	IN	NS	kiki.ns.cloudflare.com.
+onlineshop.ni.	0	IN	NS	ns01.trademarkarea.com.
+onlineshop.ni.	0	IN	NS	ns02.trademarkarea.com.
+onlineshop.ni.	0	IN	NS	ns03.trademarkarea.com.
 openpay.ni.	0	IN	NS	ns01.trademarkarea.com.
 openpay.ni.	0	IN	NS	ns02.trademarkarea.com.
 oppo.ni.	0	IN	NS	ns1.brandshelter.com.
@@ -1840,6 +1843,8 @@ unique.ni.	0	IN	NS	pdns12.domaincontrol.com.
 unisalario.ni.	0	IN	NS	ams-ns1.greengeeks.com.
 unisalario.ni.	0	IN	NS	chi-ns1.greengeeks.com.
 unisalario.ni.	0	IN	NS	chi-ns2.greengeeks.com.
+usave.ni.	0	IN	NS	ns1.101domain.com.
+usave.ni.	0	IN	NS	ns2.101domain.com.
 vacacionesbarcelo.ni.	0	IN	NS	ns-182.awsdns-22.com.
 vacacionesbarcelo.ni.	0	IN	NS	ns-905.awsdns-49.net.
 vacacionesbarcelo.ni.	0	IN	NS	ns-1047.awsdns-02.org.
@@ -1914,6 +1919,8 @@ volvoce.ni.	0	IN	NS	gatekeeper.volvo.com.
 vortioson.ni.	0	IN	NS	nsgbr.comlaude.co.uk.
 vortioson.ni.	0	IN	NS	nssui.comlaude.ch.
 vortioson.ni.	0	IN	NS	nsusa.comlaude.net.
+vtest.ni.	0	IN	NS	kia.ns.cloudflare.com.
+vtest.ni.	0	IN	NS	carter.ns.cloudflare.com.
 vuelasouthwest.ni.	0	IN	NS	ns1.markmonitor.com.
 vuelasouthwest.ni.	0	IN	NS	ns2.markmonitor.com.
 vuelosbaratos.ni.	0	IN	NS	ns1.sedoparking.com.
