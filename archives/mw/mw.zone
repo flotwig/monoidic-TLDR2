@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712613901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712700301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -31,6 +31,9 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 1st.mw.	0	IN	NS	ns4.bb-online.biz.
 1tranzfa.mw.	0	IN	NS	ns1.linthipe4.com.
 1tranzfa.mw.	0	IN	NS	ns2.linthipe4.com.
+1win.mw.	0	IN	NS	ns01.trademarkarea.com.
+1win.mw.	0	IN	NS	ns02.trademarkarea.com.
+1win.mw.	0	IN	NS	ns03.trademarkarea.com.
 1xbet.mw.	0	IN	NS	dana.ns.cloudflare.com.
 1xbet.mw.	0	IN	NS	pete.ns.cloudflare.com.
 2.mw.	0	IN	NS	ns1.netim.net.
@@ -532,7 +535,7 @@ bbonline.mw.	0	IN	NS	ns1.bb-online.net.
 bbonline.mw.	0	IN	NS	ns2.bb-online.org.
 bbonline.mw.	0	IN	NS	ns3.bb-online.info.
 bbonline.mw.	0	IN	NS	ns4.bb-online.biz.
-bbonline.mw.	0	IN	DS	33124 8 1 0704db6a5c215bfe07cb6609e27e7f427f4568e7
+bbonline.mw.	0	IN	DS	12592 8 1 1965ec7afbb449db1ce1caba476480b3de42645f
 bbva.mw.	0	IN	NS	ns1.bbvaedge.com.
 bbva.mw.	0	IN	NS	ns2.bbvaedge.com.
 bbva.mw.	0	IN	NS	a3-66.akam.net.
@@ -3169,8 +3172,10 @@ mybucksbanking.mw.	0	IN	NS	proxy2.africa-online.net.
 mybucksbanking.mw.	0	IN	NS	proxy3.africa-online.net.
 mydar.mw.	0	IN	NS	ns73.domaincontrol.com.
 mydar.mw.	0	IN	NS	ns74.domaincontrol.com.
-myngo.mw.	0	IN	NS	ns8075.hostgator.com.
-myngo.mw.	0	IN	NS	ns8076.hostgator.com.
+myngo.mw.	0	IN	NS	ns-cloud-a1.googledomains.com.
+myngo.mw.	0	IN	NS	ns-cloud-a2.googledomains.com.
+myngo.mw.	0	IN	NS	ns-cloud-a3.googledomains.com.
+myngo.mw.	0	IN	NS	ns-cloud-a4.googledomains.com.
 myproperty.mw.	0	IN	NS	glen.ns.cloudflare.com.
 myproperty.mw.	0	IN	NS	isla.ns.cloudflare.com.
 mytel.mw.	0	IN	NS	ns1.mtlonline.mw.
@@ -3730,6 +3735,8 @@ qr.mw.	0	IN	NS	mw1.mwg.de.
 qr.mw.	0	IN	NS	mw4.mwg.de.
 qrc.mw.	0	IN	NS	dns.seeweb.it.
 qrc.mw.	0	IN	NS	dns2.seeweb.it.
+quantconsult.mw.	0	IN	NS	ns2.globemw.com.
+quantconsult.mw.	0	IN	NS	ns3.globemw.com.
 quantumshipping.mw.	0	IN	NS	ns1.inmotionhosting.com.
 quantumshipping.mw.	0	IN	NS	ns2.inmotionhosting.com.
 quickash.mw.	0	IN	NS	ns1.lexsynergy.net.
