@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712786701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1712873101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -969,6 +969,8 @@ chitukukosacco.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 chitukukosacco.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 chlmalawi.mw.	0	IN	NS	proxy2.africa-online.net.
 chlmalawi.mw.	0	IN	NS	proxy3.africa-online.net.
+choplife.mw.	0	IN	NS	love.ns.cloudflare.com.
+choplife.mw.	0	IN	NS	nikon.ns.cloudflare.com.
 christian.mw.	0	IN	NS	ns1.netim.net.
 christian.mw.	0	IN	NS	ns2.netim.net.
 christian.mw.	0	IN	NS	ns3.netim.net.
@@ -2957,6 +2959,8 @@ mil.mw.	0	IN	NS	a.name-servers.ch.
 mil.mw.	0	IN	NS	b.name-servers.ch.
 mile.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
 mile.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
+mineschamber.mw.	0	IN	NS	ns1289.websitewelcome.com.
+mineschamber.mw.	0	IN	NS	ns1290.websitewelcome.com.
 minet.mw.	0	IN	NS	ns1.lexsynergy.net.
 minet.mw.	0	IN	NS	ns2.lexsynergy.us.
 minet.mw.	0	IN	NS	ns3.lexsynergy.info.
