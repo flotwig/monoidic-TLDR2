@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713132301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713218701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1103,6 +1103,8 @@ continentalholdings.mw.	0	IN	NS	karl.ns.cloudflare.com.
 continentalholdings.mw.	0	IN	NS	lady.ns.cloudflare.com.
 continentalpension.mw.	0	IN	NS	karl.ns.cloudflare.com.
 continentalpension.mw.	0	IN	NS	lady.ns.cloudflare.com.
+continentalproperties.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
+continentalproperties.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 coop.mw.	0	IN	NS	d.ext.nic.cz.
 coop.mw.	0	IN	NS	rip.psg.mw.
 coop.mw.	0	IN	NS	pch1.nic.mw.
@@ -3625,6 +3627,8 @@ pj.mw.	0	IN	NS	ns6.netsto.net.
 pj.mw.	0	IN	NS	ns7.netsto.net.
 play.mw.	0	IN	NS	aisha.ns.cloudflare.com.
 play.mw.	0	IN	NS	kyree.ns.cloudflare.com.
+playongo.mw.	0	IN	NS	chan.ns.cloudflare.com.
+playongo.mw.	0	IN	NS	cris.ns.cloudflare.com.
 plusrewards.mw.	0	IN	NS	ns1.lexsynergy.net.
 plusrewards.mw.	0	IN	NS	ns2.lexsynergy.us.
 plusrewards.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -3677,8 +3681,8 @@ premierloto.mw.	0	IN	NS	arya.ns.cloudflare.com.
 premierloto.mw.	0	IN	NS	will.ns.cloudflare.com.
 premierlotto.mw.	0	IN	NS	arya.ns.cloudflare.com.
 premierlotto.mw.	0	IN	NS	will.ns.cloudflare.com.
-premiervegas.mw.	0	IN	NS	ns1.101domain.com.
-premiervegas.mw.	0	IN	NS	ns2.101domain.com.
+premiervegas.mw.	0	IN	NS	donald.ns.cloudflare.com.
+premiervegas.mw.	0	IN	NS	karina.ns.cloudflare.com.
 presstrust.mw.	0	IN	NS	maxdns.globemw.net.
 presstrust.mw.	0	IN	NS	araliya.globemw.net.
 pricewaterhousecoopers.mw.	0	IN	NS	dns1.cscdns.net.
@@ -4320,8 +4324,6 @@ tavitu.mw.	0	IN	NS	ns2.memset.com.
 tavitu.mw.	0	IN	NS	ns3.memset.com.
 tbtest.mw.	0	IN	NS	domwe.sdn.mw.
 tbtest.mw.	0	IN	NS	nyala.sdnp.org.mw.
-tc.mw.	0	IN	NS	ns1.dns-parking.com.
-tc.mw.	0	IN	NS	ns2.dns-parking.com.
 teamadventure.mw.	0	IN	NS	dns1.namecheaphosting.com.
 teamadventure.mw.	0	IN	NS	dns2.namecheaphosting.com.
 teamviewer.mw.	0	IN	NS	tv-ns1.teamviewer.com.
@@ -4371,8 +4373,6 @@ theexchange.mw.	0	IN	NS	ns3.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns1.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns2.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns3.markmonitor.com.
-thegoldensection.mw.	0	IN	NS	ns3011.mochahost.com.
-thegoldensection.mw.	0	IN	NS	ns4011.mochahost.com.
 thehomestead.mw.	0	IN	NS	ns1.101domain.com.
 thehomestead.mw.	0	IN	NS	ns2.101domain.com.
 therightnowclimatefund.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
