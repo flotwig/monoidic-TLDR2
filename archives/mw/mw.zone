@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713218701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713305101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3616,6 +3616,8 @@ piggscasino.mw.	0	IN	NS	ns1.instradns.com.
 piggscasino.mw.	0	IN	NS	ns2.instradns.com.
 pilmalawi.mw.	0	IN	NS	proxy2.africa-online.net.
 pilmalawi.mw.	0	IN	NS	proxy3.africa-online.net.
+pin.mw.	0	IN	NS	ns6.netsto.net.
+pin.mw.	0	IN	NS	ns7.netsto.net.
 pinstitute.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 pinstitute.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 pinterest.mw.	0	IN	NS	ns1.markmonitor.com.
