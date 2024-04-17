@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713305101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713391501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -714,6 +714,8 @@ bmw.mw.	0	IN	NS	dns1.cscdns.net.
 bmw.mw.	0	IN	NS	dns2.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns1.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns2.cscdns.net.
+bnginvestments.mw.	0	IN	NS	dns1.supremepanel.com.
+bnginvestments.mw.	0	IN	NS	dns2.supremepanel.com.
 bngrecruitingagency.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
 bngrecruitingagency.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
 boa.mw.	0	IN	NS	mrozia.mtds.com.
@@ -795,8 +797,8 @@ burj-al-arab.mw.	0	IN	NS	a4.nstld.com.
 burj-al-arab.mw.	0	IN	NS	g4.nstld.com.
 burjalarab.mw.	0	IN	NS	a4.nstld.com.
 burjalarab.mw.	0	IN	NS	g4.nstld.com.
-business-build-on-trust.mw.	0	IN	NS	ns1.linthipe3.com.
-business-build-on-trust.mw.	0	IN	NS	ns2.linthipe3.com.
+business-build-on-trust.mw.	0	IN	NS	ns1.linthipe4.com.
+business-build-on-trust.mw.	0	IN	NS	ns2.linthipe4.com.
 businesspartners.mw.	0	IN	NS	ns1.iafrica.com.
 businesspartners.mw.	0	IN	NS	ns2.iafrica.com.
 buymalawi.mw.	0	IN	NS	karl.ns.cloudflare.com.
@@ -809,6 +811,8 @@ bwin.mw.	0	IN	NS	dns3.itsfogo.com.
 bwin.mw.	0	IN	NS	dns4.itsfogo.com.
 bwin.mw.	0	IN	NS	dns5.itsfogo.com.
 bwin.mw.	0	IN	NS	dns6.itsfogo.com.
+byketrading.mw.	0	IN	NS	dns1.supremepanel.com.
+byketrading.mw.	0	IN	NS	dns2.supremepanel.com.
 bytes.mw.	0	IN	NS	ns1.virtualtechmalawi.com.
 bytes.mw.	0	IN	NS	ns2.virtualtechmalawi.com.
 c.mw.	0	IN	NS	ns1.netim.net.
@@ -816,8 +820,6 @@ c.mw.	0	IN	NS	ns2.netim.net.
 c.mw.	0	IN	NS	ns3.netim.net.
 c3.mw.	0	IN	NS	ns107.mochahost.com.
 c3.mw.	0	IN	NS	ns108.mochahost.com.
-c4sys.mw.	0	IN	NS	domwe.sdn.mw.
-c4sys.mw.	0	IN	NS	nyala.sdnp.org.mw.
 cabaretclub.mw.	0	IN	NS	ns1.instradns.com.
 cabaretclub.mw.	0	IN	NS	ns2.instradns.com.
 californiapsychics.mw.	0	IN	NS	ns01.trademarkarea.com.
@@ -2584,6 +2586,8 @@ litalafm.mw.	0	IN	NS	ns1.bdsmw.com.
 litalafm.mw.	0	IN	NS	ns2.bdsmw.com.
 litalafm.mw.	0	IN	NS	ns3.bdsmw.com.
 litalafm.mw.	0	IN	NS	ns4.bdsmw.com.
+litco.mw.	0	IN	NS	ns109.asurahosting.com.
+litco.mw.	0	IN	NS	ns110.asurahosting.com.
 livescore.mw.	0	IN	NS	seth.ns.cloudflare.com.
 livescore.mw.	0	IN	NS	serena.ns.cloudflare.com.
 lizulu.mw.	0	IN	NS	ns1.dns-parking.com.
@@ -3996,8 +4000,8 @@ saris.mw.	0	IN	NS	nick.ns.cloudflare.com.
 saris.mw.	0	IN	NS	venus.ns.cloudflare.com.
 sascoafrica.mw.	0	IN	NS	maxdns.globemw.net.
 sascoafrica.mw.	0	IN	NS	araliya.globemw.net.
-satcp.mw.	0	IN	NS	ns987.websitewelcome.com.
-satcp.mw.	0	IN	NS	ns988.websitewelcome.com.
+satcp.mw.	0	IN	NS	ns1.kalibho.com.
+satcp.mw.	0	IN	NS	ns2.kalibho.com.
 savemart.mw.	0	IN	NS	ns1.advancenet.co.za.
 savemart.mw.	0	IN	NS	ns2.advancenet.co.za.
 savjaniandco.mw.	0	IN	NS	pam.ns.cloudflare.com.
