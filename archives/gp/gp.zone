@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024041923 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024042000 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -4993,8 +4993,8 @@ thegarden.gp.	0	IN	NS	dns6.cloudns.net.
 thepiratebay.gp.	0	IN	NS	ina1.registrar.eu.
 thepiratebay.gp.	0	IN	NS	ina2.registrar.eu.
 thepiratebay.gp.	0	IN	NS	ina3.registrar.eu.
-therapeia.gp.	0	IN	NS	ns102.ovh.net.
-therapeia.gp.	0	IN	NS	dns102.ovh.net.
+therapeia.gp.	0	IN	NS	ns113.ovh.net.
+therapeia.gp.	0	IN	NS	dns113.ovh.net.
 therightnowclimatefund.gp.	0	IN	NS	ns1.markmonitor.com.
 therightnowclimatefund.gp.	0	IN	NS	ns3.markmonitor.com.
 therightnowclimatefund.gp.	0	IN	NS	ns4.markmonitor.com.
