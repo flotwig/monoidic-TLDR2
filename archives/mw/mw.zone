@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713737101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713823501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1616,10 +1616,6 @@ femalecondom.mw.	0	IN	NS	ns02.hostnet.nl.
 festo.mw.	0	IN	NS	ns0.atvirtual.com.
 festo.mw.	0	IN	NS	ns1.atvirtual.com.
 festo.mw.	0	IN	NS	ns2.atvirtual.com.
-fiber.mw.	0	IN	NS	proxy2.africa-online.net.
-fiber.mw.	0	IN	NS	proxy3.africa-online.net.
-fibre.mw.	0	IN	NS	proxy2.africa-online.net.
-fibre.mw.	0	IN	NS	proxy3.africa-online.net.
 fidelity.mw.	0	IN	NS	edns2.ultradns.biz.
 fidelity.mw.	0	IN	NS	edns2.ultradns.com.
 fidelity.mw.	0	IN	NS	edns2.ultradns.net.
@@ -3181,8 +3177,6 @@ my.mw.	0	IN	NS	ns1.101domain.com.
 my.mw.	0	IN	NS	ns2.101domain.com.
 mybucksbanking.mw.	0	IN	NS	proxy2.africa-online.net.
 mybucksbanking.mw.	0	IN	NS	proxy3.africa-online.net.
-mydar.mw.	0	IN	NS	ns73.domaincontrol.com.
-mydar.mw.	0	IN	NS	ns74.domaincontrol.com.
 myngo.mw.	0	IN	NS	ns-cloud-a1.googledomains.com.
 myngo.mw.	0	IN	NS	ns-cloud-a2.googledomains.com.
 myngo.mw.	0	IN	NS	ns-cloud-a3.googledomains.com.
@@ -4198,6 +4192,8 @@ sprint.mw.	0	IN	NS	ns2-auth.sprintlink.net.
 sprint.mw.	0	IN	NS	ns3-auth.sprintlink.net.
 sprint.mw.	0	IN	NS	reston-ns1.telemail.net.
 sprint.mw.	0	IN	NS	reston-ns3.telemail.net.
+sputnik-car-hire.mw.	0	IN	NS	ns17.securenet-server.net.
+sputnik-car-hire.mw.	0	IN	NS	ns18.securenet-server.net.
 srwb.mw.	0	IN	NS	ns1.mtlonline.mw.
 srwb.mw.	0	IN	NS	ns2.mtlonline.mw.
 srwb.mw.	0	IN	NS	ns3.mtlonline.mw.
@@ -4379,6 +4375,8 @@ theexchange.mw.	0	IN	NS	ns3.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns1.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns2.markmonitor.com.
 theexxchange.mw.	0	IN	NS	ns3.markmonitor.com.
+thegoldensection.mw.	0	IN	NS	ns3011.mochahost.com.
+thegoldensection.mw.	0	IN	NS	ns4011.mochahost.com.
 thehomestead.mw.	0	IN	NS	ns1.101domain.com.
 thehomestead.mw.	0	IN	NS	ns2.101domain.com.
 therightnowclimatefund.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
@@ -4505,8 +4503,6 @@ travelport.mw.	0	IN	NS	domwe.sdn.mw.
 travelport.mw.	0	IN	NS	nyala.sdnp.org.mw.
 travelport-partner.mw.	0	IN	NS	dns1.cscdns.net.
 travelport-partner.mw.	0	IN	NS	dns2.cscdns.net.
-travelsmooth.mw.	0	IN	NS	domwe.sdn.mw.
-travelsmooth.mw.	0	IN	NS	nyala.sdnp.org.mw.
 travelwings.mw.	0	IN	NS	ns01.trademarkarea.com.
 travelwings.mw.	0	IN	NS	ns02.trademarkarea.com.
 travelwings.mw.	0	IN	NS	ns03.trademarkarea.com.

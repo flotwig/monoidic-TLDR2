@@ -1,4 +1,4 @@
-er.	0	IN	SOA	sawanew.noc.net.er. hostmaster.noc.net.er. 2023103174 10800 3600 2592000 86400
+er.	0	IN	SOA	sawanew.noc.net.er. hostmaster.noc.net.er. 2023103175 10800 3600 2592000 86400
 er.	0	IN	NS	er.cctld.authdns.ripe.net.
 er.	0	IN	NS	sawanew.noc.net.er.
 er.	0	IN	NS	zaranew.noc.net.er.
