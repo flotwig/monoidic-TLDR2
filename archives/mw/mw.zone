@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713823501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1713909901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1525,14 +1525,30 @@ executivefuneralplan.mw.	0	IN	NS	ns2.lexsynergy.us.
 executivefuneralplan.mw.	0	IN	NS	ns3.lexsynergy.info.
 exness.mw.	0	IN	NS	ns1.markmonitor.com.
 exness.mw.	0	IN	NS	ns2.markmonitor.com.
-expedia.mw.	0	IN	NS	dns1.cscdns.net.
-expedia.mw.	0	IN	NS	dns2.cscdns.net.
-expediacafe.mw.	0	IN	NS	dns1.cscdns.net.
-expediacafe.mw.	0	IN	NS	dns2.cscdns.net.
-expediatravel.mw.	0	IN	NS	dns1.cscdns.net.
-expediatravel.mw.	0	IN	NS	dns2.cscdns.net.
-expediatravels.mw.	0	IN	NS	dns1.cscdns.net.
-expediatravels.mw.	0	IN	NS	dns2.cscdns.net.
+expedia.mw.	0	IN	NS	pdns1.ultradns.net.
+expedia.mw.	0	IN	NS	pdns2.ultradns.net.
+expedia.mw.	0	IN	NS	pdns3.ultradns.org.
+expedia.mw.	0	IN	NS	pdns4.ultradns.org.
+expedia.mw.	0	IN	NS	pdns5.ultradns.info.
+expedia.mw.	0	IN	NS	pdns6.ultradns.co.uk.
+expediacafe.mw.	0	IN	NS	pdns1.ultradns.net.
+expediacafe.mw.	0	IN	NS	pdns2.ultradns.net.
+expediacafe.mw.	0	IN	NS	pdns3.ultradns.org.
+expediacafe.mw.	0	IN	NS	pdns4.ultradns.org.
+expediacafe.mw.	0	IN	NS	pdns5.ultradns.info.
+expediacafe.mw.	0	IN	NS	pdns6.ultradns.co.uk.
+expediatravel.mw.	0	IN	NS	pdns1.ultradns.net.
+expediatravel.mw.	0	IN	NS	pdns2.ultradns.net.
+expediatravel.mw.	0	IN	NS	pdns3.ultradns.org.
+expediatravel.mw.	0	IN	NS	pdns4.ultradns.org.
+expediatravel.mw.	0	IN	NS	pdns5.ultradns.info.
+expediatravel.mw.	0	IN	NS	pdns6.ultradns.co.uk.
+expediatravels.mw.	0	IN	NS	pdns1.ultradns.net.
+expediatravels.mw.	0	IN	NS	pdns2.ultradns.net.
+expediatravels.mw.	0	IN	NS	pdns3.ultradns.org.
+expediatravels.mw.	0	IN	NS	pdns4.ultradns.org.
+expediatravels.mw.	0	IN	NS	pdns5.ultradns.info.
+expediatravels.mw.	0	IN	NS	pdns6.ultradns.co.uk.
 expedite.mw.	0	IN	NS	ns1.freehosting.com.
 expedite.mw.	0	IN	NS	ns2.freehosting.com.
 experts.mw.	0	IN	NS	ns1.instradns.com.
