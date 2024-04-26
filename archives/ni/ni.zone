@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113137 3600 600 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113138 3600 600 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -325,9 +325,13 @@ blum.ni.	0	IN	NS	ns1.eurodns.com.
 blum.ni.	0	IN	NS	ns2.eurodns.com.
 blum.ni.	0	IN	NS	ns3.eurodns.com.
 blum.ni.	0	IN	NS	ns4.eurodns.com.
-blundstone.ni.	0	IN	NS	ns1.101domain.com.
-blundstone.ni.	0	IN	NS	ns2.101domain.com.
-blundstone.ni.	0	IN	NS	ns5.101domain.com.
+blundstone.ni.	0	IN	NS	ns1.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns2.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns3.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns4.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns5.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns6.markmonitor.com.
+blundstone.ni.	0	IN	NS	ns7.markmonitor.com.
 bomonsa.ni.	0	IN	NS	da900a.trouble-free.net.
 bomonsa.ni.	0	IN	NS	da900b.trouble-free.net.
 booking.ni.	0	IN	NS	ns0.bkngs.com.

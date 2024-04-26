@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024042513 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024042617 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3230,8 +3230,10 @@ maison-minelli.gp.	0	IN	NS	ns1.iptwins.net.
 maison-minelli.gp.	0	IN	NS	ns2.iptwins.net.
 maison-minelli.gp.	0	IN	NS	ns3.iptwins.com.
 maison-minelli.gp.	0	IN	NS	ns4.iptwins.com.
-maisonsdumonde.gp.	0	IN	NS	ns-31-c.gandi.net.
-maisonsdumonde.gp.	0	IN	NS	ns-46-a.gandi.net.
+maisonsdumonde.gp.	0	IN	NS	ns1.iptwins.net.
+maisonsdumonde.gp.	0	IN	NS	ns2.iptwins.net.
+maisonsdumonde.gp.	0	IN	NS	ns3.iptwins.com.
+maisonsdumonde.gp.	0	IN	NS	ns4.iptwins.com.
 maitrisons-lenergie.gp.	0	IN	NS	ns1.netim.net.
 maitrisons-lenergie.gp.	0	IN	NS	ns2.netim.net.
 maitrisons-lenergie.gp.	0	IN	NS	ns3.netim.net.
