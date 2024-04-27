@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2024042622 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2024042722 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1714171384"
+cd.	0	IN	TXT	"Generation Time: 1714257835"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -451,7 +451,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1714171386"
+ac.cd.	0	IN	TXT	"Generation Time: 1714257837"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -4221,7 +4221,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1714171387"
+com.cd.	0	IN	TXT	"Generation Time: 1714257838"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -6056,7 +6056,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1714171387"
+edu.cd.	0	IN	TXT	"Generation Time: 1714257838"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -6193,6 +6193,8 @@ elbok.cd.	0	IN	NS	ns.adisys.cd.
 elbok.cd.	0	IN	NS	ns1.adisys.cd.
 elcarecord.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 elcarecord.cd.	0	IN	NS	arch.ns.cloudflare.com.
+elecinfo.cd.	0	IN	NS	ns1.scpt-network.cd.
+elecinfo.cd.	0	IN	NS	ns2.scpt-network.cd.
 election.cd.	0	IN	NS	ns1.panelboxmanager.com.
 election.cd.	0	IN	NS	ns2.panelboxmanager.com.
 elections.cd.	0	IN	NS	ns1.uniteddns.net.
@@ -8037,7 +8039,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1714171389"
+gouv.cd.	0	IN	TXT	"Generation Time: 1714257841"
 acorep.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -8430,7 +8432,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1714171387"
+gov.cd.	0	IN	TXT	"Generation Time: 1714257838"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -13412,7 +13414,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1714171387"
+net.cd.	0	IN	TXT	"Generation Time: 1714257838"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -14220,7 +14222,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1714171387"
+org.cd.	0	IN	TXT	"Generation Time: 1714257838"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -15539,6 +15541,8 @@ ran.cd.	0	IN	NS	ns1.ipsolutions.cd.
 ran.cd.	0	IN	NS	ns2.ipsolutions.cd.
 rangerover.cd.	0	IN	NS	gydns04.jlrext.com.
 rangerover.cd.	0	IN	NS	whdns04.jlrext.com.
+rapidcourse.cd.	0	IN	NS	ns1.scpt-network.cd.
+rapidcourse.cd.	0	IN	NS	ns2.scpt-network.cd.
 rapide.cd.	0	IN	NS	ns-17.awsdns-02.com.
 rapide.cd.	0	IN	NS	ns-530.awsdns-02.net.
 rapide.cd.	0	IN	NS	ns-1523.awsdns-62.org.
