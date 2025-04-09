@@ -1,9 +1,9 @@
-xn--wgbh1c.	0	IN	SOA	ns1.dotmasr.eg. admin.dotmasr.eg. 2025040915 21600 1800 2419200 900
+xn--wgbh1c.	0	IN	SOA	ns1.dotmasr.eg. admin.dotmasr.eg. 2025040941 21600 1800 2419200 900
 xn--wgbh1c.	0	IN	NS	ns1.dotmasr.eg.
 xn--wgbh1c.	0	IN	NS	ns2.dotmasr.eg.
 xn--wgbh1c.	0	IN	NS	ns3.dotmasr.eg.
 xn--wgbh1c.	0	IN	NS	ns4.dotmasr.eg.
-xn--wgbh1c.	0	IN	TXT	"Generation Time: 1744174814"
+xn--wgbh1c.	0	IN	TXT	"Generation Time: 1744221605"
 xn--wgbh1c.	0	IN	DNSKEY	256 3 13 6OBcWfse9EP+sNa5lfW23pBvI6XqnpNc/5t47urSN9CMJsQ/wqnrzvJ7A+UHE0DXaYY8kLLgIjOFo6Wu6xFbCA== ;{id = 20968 (zsk), size = 256b}
 xn--wgbh1c.	0	IN	DNSKEY	257 3 13 1EQyY/oqHVLIYgbb6oel4k0Z4PIMW5wLBM1vQmw8sPAAHaqVRzt35Y0By1pkKpBU8XMiUNJbi4Kcf2beEF/ZrQ== ;{id = 65350 (ksk), size = 256b}
 xn--wgbh1c.	0	IN	NSEC3PARAM	1 0 0 09bbfc2a9a64a9a9 

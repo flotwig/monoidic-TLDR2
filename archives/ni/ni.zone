@@ -1,4 +1,4 @@
-ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113347 60 900 604801 86400
+ni.	0	IN	SOA	ns.ni. root.ns.ni. 2021113350 60 900 604801 86400
 ni.	0	IN	NS	ns.ni.
 ni.	0	IN	NS	ns.uu.net.
 ni.	0	IN	NS	ns.ideay.net.ni.
@@ -777,6 +777,8 @@ freseniusmedicalcare.ni.	0	IN	NS	ns5.markmonitor.com.
 freseniusmedicalcare.ni.	0	IN	NS	ns6.markmonitor.com.
 fujitsu.ni.	0	IN	NS	rns1.rightsdns.com.
 fujitsu.ni.	0	IN	NS	rns2.rightsdns.com.
+gaming.ni.	0	IN	NS	ed.ns.cloudflare.com.
+gaming.ni.	0	IN	NS	kiki.ns.cloudflare.com.
 garantiplus.ni.	0	IN	NS	ns-991.awsdns-59.net.
 garantiplus.ni.	0	IN	NS	ns-1676.awsdns-17.co.uk.
 geedo.ni.	0	IN	NS	burt.ns.cloudflare.com.
