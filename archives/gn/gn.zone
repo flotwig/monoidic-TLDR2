@@ -1,24 +1,26 @@
-gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2024042928 86400 3600 2592000 14400
+gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2025040911 86400 3600 2592000 14400
 gn.	0	IN	NS	ns1.gn.
 gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
 gn.	0	IN	NS	ns-pch.gn.
-gn.	0	IN	TXT	"Generation Time: 1714431600"
-gn.	0	IN	DNSKEY	256 3 8 AwEAAaXCcN3xLESJJg2Iwqcr2QhPUxEAIobHxi02PJbhl+i3zwTq4qM0dchC/jN45yh1VwrSJN1gEvQ6uwSLQskNg3dZOavkFaLwlsg+bKOi/hw7WMlIn9D0JkcLQBIhtRydR6vRmdbToyWSdXAC+Owsw0oPkYLYhK/fcUKbelhhjTrUk7DEWyyIZD4QPkelSw+05yrTMPBmDLvzsEktMJ9BT/g4wJgnWnjBjUDCUERh6FKs1j5rHEUJyePQTZUKPjfWVKJzvyRqK/2v3Tk1T7jK6jiKVfSETgASYd6MI2QgRbVDedKOS8GFvyUK6oHy0yh6UYTCvIdnnpDCY9KvxC+sRKU= ;{id = 24198 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAcaixrcMFIfvXL+mnrSil1HUsWQ7bktIB1Kg0Fs7YOP4TQx7KCfc0IgXYeyx/TrlX4SJpVO04To2ogGMoQSrr/vzgqtMWmGAoe3dijq6wTWJPY+6cjOkFuhMMW1OAF1/3juG50QiMxCO51ANKJAkbXrYPyd9MvagesaqDoyV3hPtYQBzE0bopyupph/fAeuJu/FM1gulPQMWzBvBUjWVAxwTNByM7vT8ginrU3mT+B7mJazKhPKv249qg8DM4IkoZyNBSH/69zEEVSzNtobqCO71qrj38fJOV9JvNDftTJBC84dNHZepZOns20ZlAGP3d5j9giSyh6avlVLiI+H7jf8= ;{id = 21043 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAckkTvpaN902SwGW/6fNe8O5nvYl+0cuSgq61es+JigoiXkKZQ1caiTVCOWyW62Y7RnGgcVoFqHEXCafMyOq3O2ohGW45pZwZCumB43MrEnfVyHesFSOdlulDstKr4zYEueXcIcfruHhIrS+tke7k2k45t+uJCfWyjm/zGQA3GTybEWXkxbhzp3h425exc/cUzJ3Lwct6o/XBBXkyWzP4wH0O0g42O6rS0hfd2fvol9OVqCslYg72wuxaAEl1lG6Ol5cw4loj8m3KUk1JxcD+Sm3Hv9tkKWaZaOWwmJD+4WiWEhXmi5R2KP0YQ+Fzrq0mKj7zjauu7UFeOfBbCjPO38= ;{id = 20023 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAco4lsmfra1XoyoQ7pJ5iDcgt+yE96AgdyRUAJ22bGWMWRI0fEti3Nyg1tMY2W0fKTQhvHbj/6i3Qi4mg0qqNpQYdT1jqiRvo5i9GcZmj5wBKjtVPLL6flWCXXiqRLT4vdQppcQtlC/gSwSAKfGEz6p3r6PYkDQmjbiUo0RPXIBk7DxgmxOh/bJzDjkzU1M5gpe67ooxK+adg2n2UpsdwSArteSCuRNEjTyD3LieSVDZJ42wCfkhFldbEQxMr14OV61n+k8FvG3qd6O4y4nTmMl4xz/3NHFtcB9MSot1oiHBMEzRUrZVgwGji1bESdklzPWXIMYpryhidA4D7E9VpX0= ;{id = 21855 (zsk), size = 2048b}
-gn.	0	IN	DNSKEY	256 3 8 AwEAAcwYfmxj/b/HPLAT0rSWAUIHygNCZGXXxwv2jlrUXkdoLzJwhfvAPEIiCjc2IB94V19DxYufpD+QcNGcQWMoKDKLYvBAtXvGKkNMoyAWniIssudQcwz9LS/ZRa2k2pdUP/t6VutPBVy4/TU9H8+mIAnyUmRacf2w1j7Qq8qzWvwKqulcZFPpxVqkUxSE4WXgK+n7lUYrYxtDUmD3eN6dQRx+8Gy9L0VseerwXkD4TjtJF/mDLGb4ZjBpsMoHmz501ahEagv849eDvpWCmBf2DvlW+Fg89/0cFkgo9QH92ucK6SLvjiJ/ZBXcDI4AK52oh0T89GmHlbCya893ipt0Z/s= ;{id = 51520 (zsk), size = 2048b}
+gn.	0	IN	TXT	"Generation Time: 1744176610"
+gn.	0	IN	DNSKEY	256 3 8 AwEAAb3NiSgI9EnC513Rge223rlFogRJZCpW4OXVMKHxX22YoMmS+YW0ZnAnkdSo0+aUNvM0cTZgbJwnJ8DlQUIE3ulK8CB8EY1LL4bK1+XHjwrCr/AqGHehI3QAg1jWS94KI5Lf81yl8c1MOozZHgG17kebnwstcE6BcQp2ypR+r9BBdrF8KeS3tV6yScceVTAqc8JSX7mcaXnu4M6PUjMNVNuQOY7hmLSqGSbRz0Si+1ujODved6BWOhjbwjrbymT6ILWRCkcM+/zI0YidVgM9g72LRHth2mVDAcwQAXSaKFgPahSkcfBTSJD6UbhTmm5wlG6LVF8+Y477A7+ZcpASS5s= ;{id = 5560 (zsk), size = 2048b}
+gn.	0	IN	DNSKEY	256 3 8 AwEAAfWWDc4Jk9DnJ9NIrdyMMezG+VaRXVlEEb4RnOFbTR2zadS9ozO/pTATaJs5lwZPVhh78U3Te277KJd3KmNF6lOgITvPI7J6Odvp5sK4HEqnVt+xBoSBZIMUWTiPU+lMkOahmiMlFB6xxUwXBMNkNT+nulYTTZ2gmAh2LgGTtWeHFT1uUz+bd6Fl1m0wyyqrprLGG6LiPfhQYbbaGnRVK+0StLPgHY+zigplOIgb04RbgwsDt471QXMKcg5G5F+KJm2yVM1ZuHkHEOyuy6L0ZBgjvvpaGn9UEy2cgb7HQHTkrkyckPHHVcJa59NSEBs2eDp0+Jl9J7ew9NMDQXfk2t8= ;{id = 35754 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0= ;{id = 9311 (ksk), size = 2048b}
 gn.	0	IN	CDS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 gn.	0	IN	CDNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0=
-ac.gn.	0	IN	TXT	"Generation Time: 1714431600"
+ac.gn.	0	IN	TXT	"Generation Time: 1744176610"
 iscgtouba.ac.gn.	0	IN	NS	ns.afripatelecom.net.gn.
 iscgtouba.ac.gn.	0	IN	NS	dns1.crawford.com.
-com.gn.	0	IN	TXT	"Generation Time: 1714431600"
-1xbet.com.gn.	0	IN	NS	dns1.safenames.com.
-1xbet.com.gn.	0	IN	NS	dns2.safenames.net.
-1xbet.com.gn.	0	IN	NS	dns3.safenames.org.
+adressage.gn.	0	IN	NS	ns1.siteground.net.
+adressage.gn.	0	IN	NS	ns2.siteground.net.
+amaracamara.gn.	0	IN	NS	ns1.siteground.net.
+amaracamara.gn.	0	IN	NS	ns2.siteground.net.
+com.gn.	0	IN	TXT	"Generation Time: 1744176611"
+1xbet.com.gn.	0	IN	NS	edns7.ultradns.biz.
+1xbet.com.gn.	0	IN	NS	edns7.ultradns.com.
+1xbet.com.gn.	0	IN	NS	edns7.ultradns.net.
+1xbet.com.gn.	0	IN	NS	edns7.ultradns.org.
 a2a.com.gn.	0	IN	NS	ns.afripatelecom.net.gn.
 a2a.com.gn.	0	IN	NS	ns1.twisted4life.com.
 abcourtage.com.gn.	0	IN	NS	ns1.siteground.net.
@@ -58,6 +60,10 @@ airfr.com.gn.	0	IN	NS	ns2.airfr.fr.
 airfr.com.gn.	0	IN	NS	a1-101.akam.net.
 airfr.com.gn.	0	IN	NS	a20-65.akam.net.
 airfr.com.gn.	0	IN	NS	a22-66.akam.net.
+airfrance.com.gn.	0	IN	NS	a3-64.akam.net.
+airfrance.com.gn.	0	IN	NS	a1-101.akam.net.
+airfrance.com.gn.	0	IN	NS	a20-65.akam.net.
+airfrance.com.gn.	0	IN	NS	a22-66.akam.net.
 airwell.com.gn.	0	IN	NS	ns-25-c.gandi.net.
 airwell.com.gn.	0	IN	NS	ns-231-b.gandi.net.
 airwell.com.gn.	0	IN	NS	ns-232-a.gandi.net.
@@ -144,11 +150,9 @@ bilaregroupe.com.gn.	0	IN	NS	dns1.diiwalnetwork.com.
 bilaregroupe.com.gn.	0	IN	NS	dns2.diiwalnetwork.com.
 bit.com.gn.	0	IN	NS	dns1.diiwalnetwork.com.
 bit.com.gn.	0	IN	NS	dns2.diiwalnetwork.com.
-bluebyrd.com.gn.	0	IN	NS	ns1.francedns.com.
-bluebyrd.com.gn.	0	IN	NS	ns2.francedns.com.
-bluebyrd.com.gn.	0	IN	NS	ns3.francedns.com.
-bluebyrd.com.gn.	0	IN	NS	ns4.francedns.com.
-bluebyrd.com.gn.	0	IN	NS	ns5.francedns.com.
+bluebyrd.com.gn.	0	IN	NS	ns1.netim.net.
+bluebyrd.com.gn.	0	IN	NS	ns2.netim.net.
+bluebyrd.com.gn.	0	IN	NS	ns3.netim.net.
 bmc.com.gn.	0	IN	NS	ns1.sitelutions.com.
 bmc.com.gn.	0	IN	NS	ns2.sitelutions.com.
 bmc.com.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -303,6 +307,12 @@ gps.com.gn.	0	IN	NS	ns5.francedns.com.
 groupescf.com.gn.	0	IN	NS	b.ns.buddyns.com.
 groupescf.com.gn.	0	IN	NS	c.ns.buddyns.com.
 groupescf.com.gn.	0	IN	NS	kimbo.afribone.net.gn.
+grpsiaradiasankaran.com.gn.	0	IN	NS	ns1.netim.net.
+grpsiaradiasankaran.com.gn.	0	IN	NS	ns2.netim.net.
+grpsiaradiasankaran.com.gn.	0	IN	NS	ns3.netim.net.
+grpsiradiasankaran.com.gn.	0	IN	NS	ns1.netim.net.
+grpsiradiasankaran.com.gn.	0	IN	NS	ns2.netim.net.
+grpsiradiasankaran.com.gn.	0	IN	NS	ns3.netim.net.
 guilab.com.gn.	0	IN	NS	pdns13.domaincontrol.com.
 guilab.com.gn.	0	IN	NS	pdns14.domaincontrol.com.
 guinealine.com.gn.	0	IN	NS	ns2.biasy.net.
@@ -410,6 +420,11 @@ makkity.com.gn.	0	IN	NS	ns1.sitelutions.com.
 makkity.com.gn.	0	IN	NS	ns2.sitelutions.com.
 maridad.com.gn.	0	IN	NS	ns2.sitelutions.com.
 maridad.com.gn.	0	IN	NS	ns4.sitelutions.com.
+mastermat.com.gn.	0	IN	NS	ns1.netim.net.
+mastermat.com.gn.	0	IN	NS	ns2.netim.net.
+mastermat.com.gn.	0	IN	NS	ns3.netim.net.
+matelec.com.gn.	0	IN	NS	ns1.netim.net.
+matelec.com.gn.	0	IN	NS	ns2.netim.net.
 mbmconseil.com.gn.	0	IN	NS	ns1.sitelutions.com.
 mbmconseil.com.gn.	0	IN	NS	ns2.sitelutions.com.
 mbmconseil.com.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -532,6 +547,8 @@ salam.com.gn.	0	IN	NS	ns2.sitelutions.com.
 salam.com.gn.	0	IN	NS	ns3.sitelutions.com.
 salam.com.gn.	0	IN	NS	ns4.sitelutions.com.
 salam.com.gn.	0	IN	NS	ns5.sitelutions.com.
+sanoutech.com.gn.	0	IN	NS	ns-8-b.gandi.net.
+sanoutech.com.gn.	0	IN	NS	ns-87-a.gandi.net.
 sapag.com.gn.	0	IN	NS	ns1.sitelutions.com.
 sapag.com.gn.	0	IN	NS	ns2.sitelutions.com.
 sapag.com.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -555,6 +572,8 @@ sges.com.gn.	0	IN	NS	ns5.francedns.com.
 shell.com.gn.	0	IN	NS	dns1.shell.com.
 shell.com.gn.	0	IN	NS	dns2.shell.com.
 shell.com.gn.	0	IN	NS	dns3.shell.com.
+showmax.com.gn.	0	IN	NS	ns1.lexsynergy.net.
+showmax.com.gn.	0	IN	NS	ns2.lexsynergy.us.
 siac.com.gn.	0	IN	NS	ns21.lwsdns.com.
 siac.com.gn.	0	IN	NS	ns22.lwsdns.com.
 siac.com.gn.	0	IN	NS	ns23.lwsdns.com.
@@ -614,6 +633,8 @@ sotelgui.com.gn.	0	IN	NS	kassa.sotelgui.com.gn.
 kassa.sotelgui.com.gn.	0	IN	A	206.98.253.2
 tdss.com.gn.	0	IN	NS	ns1.siteground.net.
 tdss.com.gn.	0	IN	NS	ns2.siteground.net.
+telicon.com.gn.	0	IN	NS	pns52.cloudns.net.
+telicon.com.gn.	0	IN	NS	pns53.cloudns.net.
 tnc.com.gn.	0	IN	NS	ns1.siteground.net.
 tnc.com.gn.	0	IN	NS	ns2.siteground.net.
 toennjes.com.gn.	0	IN	NS	ns1.francedns.com.
@@ -682,7 +703,13 @@ yup.com.gn.	0	IN	NS	pardns11.sgcib.com.
 yup.com.gn.	0	IN	NS	pardns12.sgcib.com.
 yup.com.gn.	0	IN	NS	tokdns11.socgen.co.jp.
 yup.com.gn.	0	IN	NS	tokdns12.socgen.co.jp.
-edu.gn.	0	IN	TXT	"Generation Time: 1714431600"
+debatcitoyen.gn.	0	IN	NS	ns1.siteground.net.
+debatcitoyen.gn.	0	IN	NS	ns2.siteground.net.
+dixinn.gn.	0	IN	NS	ns1.siteground.net.
+dixinn.gn.	0	IN	NS	ns2.siteground.net.
+djibadiakite.gn.	0	IN	NS	ns1.siteground.net.
+djibadiakite.gn.	0	IN	NS	ns2.siteground.net.
+edu.gn.	0	IN	TXT	"Generation Time: 1744176611"
 binkosoft.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 binkosoft.edu.gn.	0	IN	NS	pita.afribone.net.gn.
 cedust.edu.gn.	0	IN	NS	dns1.supremedns.com.
@@ -699,6 +726,12 @@ ci.edu.gn.	0	IN	NS	ns2.sitelutions.com.
 ci.edu.gn.	0	IN	NS	ns3.sitelutions.com.
 ci.edu.gn.	0	IN	NS	ns4.sitelutions.com.
 ci.edu.gn.	0	IN	NS	ns5.sitelutions.com.
+cpge.edu.gn.	0	IN	NS	dns1.supremedns.com.
+cpge.edu.gn.	0	IN	NS	dns2.supremedns.com.
+cpge.edu.gn.	0	IN	NS	dns3.supremedns.com.
+cpge.edu.gn.	0	IN	NS	dns4.supremedns.com.
+crict.edu.gn.	0	IN	NS	dns1.supremedns.com.
+crict.edu.gn.	0	IN	NS	dns2.supremedns.com.
 esth.edu.gn.	0	IN	NS	dns1.supremedns.com.
 esth.edu.gn.	0	IN	NS	dns2.supremedns.com.
 esth.edu.gn.	0	IN	NS	dns3.supremedns.com.
@@ -723,6 +756,8 @@ irvag.edu.gn.	0	IN	NS	dns3.supremedns.com.
 irvag.edu.gn.	0	IN	NS	dns4.supremedns.com.
 irvpm.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 irvpm.edu.gn.	0	IN	NS	pita.afribone.net.gn.
+isamk.edu.gn.	0	IN	NS	ns1.o2switch.net.
+isamk.edu.gn.	0	IN	NS	ns2.o2switch.net.
 isau.edu.gn.	0	IN	NS	dns1.supremedns.com.
 isau.edu.gn.	0	IN	NS	dns2.supremedns.com.
 isau.edu.gn.	0	IN	NS	dns3.supremedns.com.
@@ -731,8 +766,8 @@ isav.edu.gn.	0	IN	NS	dns1.supremedns.com.
 isav.edu.gn.	0	IN	NS	dns2.supremedns.com.
 isav.edu.gn.	0	IN	NS	dns3.supremedns.com.
 isav.edu.gn.	0	IN	NS	dns4.supremedns.com.
-isicguinee.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 isicguinee.edu.gn.	0	IN	NS	pita.afribone.net.gn.
+isicguinee.edu.gn.	0	IN	NS	vps88156.serveur-vps.net.
 isim-unt.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 isim-unt.edu.gn.	0	IN	NS	pita.afribone.net.gn.
 isseg.edu.gn.	0	IN	MX	10 kimbo.afribone.net.gn.
@@ -740,6 +775,12 @@ issmv.edu.gn.	0	IN	NS	dns1.supremedns.com.
 issmv.edu.gn.	0	IN	NS	dns2.supremedns.com.
 issmv.edu.gn.	0	IN	NS	dns3.supremedns.com.
 issmv.edu.gn.	0	IN	NS	dns4.supremedns.com.
+issmvd.edu.gn.	0	IN	NS	dns1.supremedns.com.
+issmvd.edu.gn.	0	IN	NS	dns2.supremedns.com.
+issmvd.edu.gn.	0	IN	NS	dns3.supremedns.com.
+ist.edu.gn.	0	IN	NS	dns1.supremedns.com.
+ist.edu.gn.	0	IN	NS	dns2.supremedns.com.
+ist.edu.gn.	0	IN	NS	dns3.supremedns.com.
 lsu.edu.gn.	0	IN	NS	hank.ns.cloudflare.com.
 lsu.edu.gn.	0	IN	NS	jule.ns.cloudflare.com.
 ristel.edu.gn.	0	IN	NS	dns1.supremedns.com.
@@ -759,20 +800,24 @@ ujnk.edu.gn.	0	IN	NS	dns4.supremedns.com.
 unic.edu.gn.	0	IN	NS	cache.afribone.net.gn.
 unic.edu.gn.	0	IN	NS	mirror.unic.edu.gn.
 mirror.unic.edu.gn.	0	IN	A	207.154.11.98
-univ-labe.edu.gn.	0	IN	NS	d.ns.buddyns.com.
-univ-labe.edu.gn.	0	IN	NS	pita.afribone.net.gn.
+univ-labe.edu.gn.	0	IN	NS	ns1.nkapdns.com.
+univ-labe.edu.gn.	0	IN	NS	ns2.nkapdns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns1.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns2.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns3.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns4.supremedns.com.
-gouv.gn.	0	IN	TXT	"Generation Time: 1714431600"
-gov.gn.	0	IN	TXT	"Generation Time: 1714431600"
+gbessia.gn.	0	IN	NS	ns1.siteground.net.
+gbessia.gn.	0	IN	NS	ns2.siteground.net.
+gouv.gn.	0	IN	TXT	"Generation Time: 1744176611"
+gov.gn.	0	IN	TXT	"Generation Time: 1744176611"
 3ae.gov.gn.	0	IN	NS	ns1.siteground.net.
 3ae.gov.gn.	0	IN	NS	ns2.siteground.net.
 acgp.gov.gn.	0	IN	NS	ns1.siteground.net.
 acgp.gov.gn.	0	IN	NS	ns2.siteground.net.
 adaz.gov.gn.	0	IN	NS	ns1.siteground.net.
 adaz.gov.gn.	0	IN	NS	ns2.siteground.net.
+adressage.gov.gn.	0	IN	NS	ns1.siteground.net.
+adressage.gov.gn.	0	IN	NS	ns2.siteground.net.
 affairesreligieuses.gov.gn.	0	IN	NS	ns1.siteground.net.
 affairesreligieuses.gov.gn.	0	IN	NS	ns2.siteground.net.
 aficcon.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -782,16 +827,14 @@ aficcon.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 aficcon.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 agac.gov.gn.	0	IN	NS	ns10.101domain.com.
 agac.gov.gn.	0	IN	NS	ns11.101domain.com.
-agct.gov.gn.	0	IN	NS	dns-au.pointhq.com.
-agct.gov.gn.	0	IN	NS	dns-ca.pointhq.com.
-agct.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
-agct.gov.gn.	0	IN	NS	dns-us.pointhq.com.
+agct.gov.gn.	0	IN	NS	ns1.siteground.net.
+agct.gov.gn.	0	IN	NS	ns2.siteground.net.
+ager.gov.gn.	0	IN	NS	ns1.siteground.net.
+ager.gov.gn.	0	IN	NS	ns2.siteground.net.
 ageroute.gov.gn.	0	IN	NS	ns1.siteground.net.
 ageroute.gov.gn.	0	IN	NS	ns2.siteground.net.
-agespi.gov.gn.	0	IN	NS	pns31.cloudns.net.
-agespi.gov.gn.	0	IN	NS	pns32.cloudns.net.
-agespi.gov.gn.	0	IN	NS	pns33.cloudns.net.
-agespi.gov.gn.	0	IN	NS	pns34.cloudns.net.
+agespi.gov.gn.	0	IN	NS	ns1.siteground.net.
+agespi.gov.gn.	0	IN	NS	ns2.siteground.net.
 agetipe.gov.gn.	0	IN	NS	ns1.siteground.net.
 agetipe.gov.gn.	0	IN	NS	ns2.siteground.net.
 agriculture.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -814,6 +857,8 @@ ambassade.gov.gn.	0	IN	NS	ns1.siteground.net.
 ambassade.gov.gn.	0	IN	NS	ns2.siteground.net.
 anafe.gov.gn.	0	IN	NS	ns1.siteground.net.
 anafe.gov.gn.	0	IN	NS	ns2.siteground.net.
+anafic.gov.gn.	0	IN	NS	ns1.siteground.net.
+anafic.gov.gn.	0	IN	NS	ns2.siteground.net.
 anaim.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 anaim.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 anaim.gov.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -821,8 +866,12 @@ anaim.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 anaim.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 anasa.gov.gn.	0	IN	NS	ns1.siteground.net.
 anasa.gov.gn.	0	IN	NS	ns2.siteground.net.
+anasp.gov.gn.	0	IN	NS	ns1.siteground.net.
+anasp.gov.gn.	0	IN	NS	ns2.siteground.net.
 ande.gov.gn.	0	IN	NS	ns1.siteground.net.
 ande.gov.gn.	0	IN	NS	ns2.siteground.net.
+andfvc.gov.gn.	0	IN	NS	ns1.siteground.net.
+andfvc.gov.gn.	0	IN	NS	ns2.siteground.net.
 angeie.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 angeie.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 anguch.gov.gn.	0	IN	NS	ns1.siteground.net.
@@ -840,6 +889,8 @@ anlcpbg.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 anlcpbg.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 anlcpbg.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 anlcpbg.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+anmeteo.gov.gn.	0	IN	NS	ns1.siteground.net.
+anmeteo.gov.gn.	0	IN	NS	ns2.siteground.net.
 anru.gov.gn.	0	IN	NS	ns1.siteground.net.
 anru.gov.gn.	0	IN	NS	ns2.siteground.net.
 anssi.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -859,6 +910,8 @@ apip.gov.gn.	0	IN	NS	ns33.cloudns.net.
 apip.gov.gn.	0	IN	NS	ns34.cloudns.net.
 app.gov.gn.	0	IN	NS	ns1.siteground.net.
 app.gov.gn.	0	IN	NS	ns2.siteground.net.
+archivesnationales.gov.gn.	0	IN	NS	ns1.siteground.net.
+archivesnationales.gov.gn.	0	IN	NS	ns2.siteground.net.
 armp.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 armp.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 armp.gov.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -871,6 +924,8 @@ arpt.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 arpt.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 arsjpa.gov.gn.	0	IN	NS	ns1.siteground.net.
 arsjpa.gov.gn.	0	IN	NS	ns2.siteground.net.
+artfm.gov.gn.	0	IN	NS	ns1.siteground.net.
+artfm.gov.gn.	0	IN	NS	ns2.siteground.net.
 assemblee.gov.gn.	0	IN	NS	pns31.cloudns.net.
 assemblee.gov.gn.	0	IN	NS	pns32.cloudns.net.
 assemblee.gov.gn.	0	IN	NS	pns33.cloudns.net.
@@ -949,6 +1004,8 @@ cnag.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 cnag.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 cnc.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 cnc.gov.gn.	0	IN	NS	ns2.sitelutions.com.
+cnds.gov.gn.	0	IN	NS	ns1.siteground.net.
+cnds.gov.gn.	0	IN	NS	ns2.siteground.net.
 cnfrsr.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 cnfrsr.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 cnls.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -1005,13 +1062,14 @@ crv-fhv.gov.gn.	0	IN	NS	dns1.supremedns.com.
 crv-fhv.gov.gn.	0	IN	NS	dns2.supremedns.com.
 crv-fhv.gov.gn.	0	IN	NS	dns3.supremedns.com.
 crv-fhv.gov.gn.	0	IN	NS	dns4.supremedns.com.
-csm.gov.gn.	0	IN	NS	ns1.sitelutions.com.
-csm.gov.gn.	0	IN	NS	ns2.sitelutions.com.
-csm.gov.gn.	0	IN	NS	ns3.sitelutions.com.
-csm.gov.gn.	0	IN	NS	ns4.sitelutions.com.
-csm.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+csm.gov.gn.	0	IN	NS	ns1.siteground.net.
+csm.gov.gn.	0	IN	NS	ns2.siteground.net.
+ddi-dde.gov.gn.	0	IN	NS	ns1.siteground.net.
+ddi-dde.gov.gn.	0	IN	NS	ns2.siteground.net.
 defense.gov.gn.	0	IN	NS	ns1.siteground.net.
 defense.gov.gn.	0	IN	NS	ns2.siteground.net.
+dette.gov.gn.	0	IN	NS	ns1.siteground.net.
+dette.gov.gn.	0	IN	NS	ns2.siteground.net.
 dgb.gov.gn.	0	IN	NS	ns10.101domain.com.
 dgb.gov.gn.	0	IN	NS	ns11.101domain.com.
 dgd.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -1021,10 +1079,10 @@ dgd.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 dgd.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 dgi.gov.gn.	0	IN	NS	ns1.siteground.net.
 dgi.gov.gn.	0	IN	NS	ns2.siteground.net.
-dgtcp.gov.gn.	0	IN	NS	dns-au.pointhq.com.
-dgtcp.gov.gn.	0	IN	NS	dns-ca.pointhq.com.
-dgtcp.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
-dgtcp.gov.gn.	0	IN	NS	dns-us.pointhq.com.
+dgpeip.gov.gn.	0	IN	NS	ns1.siteground.net.
+dgpeip.gov.gn.	0	IN	NS	ns2.siteground.net.
+dgtcp.gov.gn.	0	IN	NS	ns1.siteground.net.
+dgtcp.gov.gn.	0	IN	NS	ns2.siteground.net.
 diasporaguinee.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 diasporaguinee.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 diplomatie.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -1033,6 +1091,10 @@ diplome.gov.gn.	0	IN	NS	dns1.supremedns.com.
 diplome.gov.gn.	0	IN	NS	dns2.supremedns.com.
 diplome.gov.gn.	0	IN	NS	dns3.supremedns.com.
 diplome.gov.gn.	0	IN	NS	dns4.supremedns.com.
+dixinn.gov.gn.	0	IN	NS	ns1.siteground.net.
+dixinn.gov.gn.	0	IN	NS	ns2.siteground.net.
+djamasutura.gov.gn.	0	IN	NS	ns1.siteground.net.
+djamasutura.gov.gn.	0	IN	NS	ns2.siteground.net.
 dnb.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 dnb.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 dncm.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -1055,6 +1117,8 @@ dnpt.gov.gn.	0	IN	NS	ns3.everydns.net.
 dnpt.gov.gn.	0	IN	NS	ns4.everydns.net.
 e-renec.gov.gn.	0	IN	NS	ns1.siteground.net.
 e-renec.gov.gn.	0	IN	NS	ns2.siteground.net.
+ecnss.gov.gn.	0	IN	NS	ns1.siteground.net.
+ecnss.gov.gn.	0	IN	NS	ns2.siteground.net.
 ecofinances.gov.gn.	0	IN	NS	kimbo.afribone.net.gn.
 ecofinances.gov.gn.	0	IN	NS	nomade.afribone.net.gn.
 education.gov.gn.	0	IN	NS	cache.afribone.net.gn.
@@ -1120,6 +1184,10 @@ fria.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 fria.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 fro.gov.gn.	0	IN	NS	coco.bunny.net.
 fro.gov.gn.	0	IN	NS	kiki.bunny.net.
+fugas.gov.gn.	0	IN	NS	tina.ns.cloudflare.com.
+fugas.gov.gn.	0	IN	NS	henry.ns.cloudflare.com.
+gbessia.gov.gn.	0	IN	NS	ns1.siteground.net.
+gbessia.gov.gn.	0	IN	NS	ns2.siteground.net.
 geme.gov.gn.	0	IN	NS	ns1.siteground.net.
 geme.gov.gn.	0	IN	NS	ns2.siteground.net.
 gendarmerie.gov.gn.	0	IN	NS	ns2.sitelutions.com.
@@ -1171,6 +1239,10 @@ hcrema.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 hcrema.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 horoya.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 horoya.gov.gn.	0	IN	NS	ns4.sitelutions.com.
+ige.gov.gn.	0	IN	NS	ns1.siteground.net.
+ige.gov.gn.	0	IN	NS	ns2.siteground.net.
+igt.gov.gn.	0	IN	NS	ns1.siteground.net.
+igt.gov.gn.	0	IN	NS	ns2.siteground.net.
 inamo.gov.gn.	0	IN	NS	ns10.101domain.com.
 inamo.gov.gn.	0	IN	NS	ns11.101domain.com.
 infocommunication.gov.gn.	0	IN	NS	ns2.sitelutions.com.
@@ -1209,10 +1281,20 @@ jeunesse.gov.gn.	0	IN	NS	ns1.siteground350.com.
 jpamb.gov.gn.	0	IN	MX	10 kimbo.afribone.net.gn.
 justiceguinee.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 justiceguinee.gov.gn.	0	IN	NS	ns4.sitelutions.com.
+kagbelen.gov.gn.	0	IN	NS	ns1.siteground.net.
+kagbelen.gov.gn.	0	IN	NS	ns2.siteground.net.
+kaloum.gov.gn.	0	IN	NS	ns1.siteground.net.
+kaloum.gov.gn.	0	IN	NS	ns2.siteground.net.
+kassa.gov.gn.	0	IN	NS	ns1.siteground.net.
+kassa.gov.gn.	0	IN	NS	ns2.siteground.net.
 lacona.gov.gn.	0	IN	NS	dns1.supremedns.com.
 lacona.gov.gn.	0	IN	NS	dns2.supremedns.com.
 lacona.gov.gn.	0	IN	NS	dns3.supremedns.com.
 lacona.gov.gn.	0	IN	NS	dns4.supremedns.com.
+lambanyi.gov.gn.	0	IN	NS	ns1.siteground.net.
+lambanyi.gov.gn.	0	IN	NS	ns2.siteground.net.
+laposte.gov.gn.	0	IN	NS	ns1.siteground.net.
+laposte.gov.gn.	0	IN	NS	ns2.siteground.net.
 legouvernementvousecoute.gov.gn.	0	IN	NS	ns1.siteground.net.
 legouvernementvousecoute.gov.gn.	0	IN	NS	ns2.siteground.net.
 licences.gov.gn.	0	IN	NS	ns1.sitelutions.com.
@@ -1239,6 +1321,8 @@ mamri.gov.gn.	0	IN	NS	dns-au.pointhq.com.
 mamri.gov.gn.	0	IN	NS	dns-ca.pointhq.com.
 mamri.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
 mamri.gov.gn.	0	IN	NS	dns-us.pointhq.com.
+maneah.gov.gn.	0	IN	NS	ns1.siteground.net.
+maneah.gov.gn.	0	IN	NS	ns2.siteground.net.
 marchespublics.gov.gn.	0	IN	NS	ns1.siteground.net.
 marchespublics.gov.gn.	0	IN	NS	ns2.siteground.net.
 marinemarchande.gov.gn.	0	IN	NS	ns1.siteground.net.
@@ -1248,8 +1332,12 @@ maspv.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 maspv.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 maspv.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 maspv.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+matam.gov.gn.	0	IN	NS	ns1.siteground.net.
+matam.gov.gn.	0	IN	NS	ns2.siteground.net.
 matd.gov.gn.	0	IN	NS	ns1.siteground.net.
 matd.gov.gn.	0	IN	NS	ns2.siteground.net.
+matoto.gov.gn.	0	IN	NS	ns1.siteground.net.
+matoto.gov.gn.	0	IN	NS	ns2.siteground.net.
 mbudget.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 mbudget.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 mbudget.gov.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -1257,8 +1345,8 @@ mbudget.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 mbudget.gov.gn.	0	IN	NS	ns5.sitelutions.com.
 mcc.gov.gn.	0	IN	NS	ns1.it12.siteground.eu.
 mcc.gov.gn.	0	IN	NS	ns2.ams17.siteground.eu.
-mcipme.gov.gn.	0	IN	NS	ns10.101domain.com.
-mcipme.gov.gn.	0	IN	NS	ns11.101domain.com.
+mcipme.gov.gn.	0	IN	NS	ns1.siteground.net.
+mcipme.gov.gn.	0	IN	NS	ns2.siteground.net.
 mcsph.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 mcsph.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 mcsph.gov.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -1277,11 +1365,8 @@ meef.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 meef.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 meef.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 meef.gov.gn.	0	IN	NS	ns5.sitelutions.com.
-mef.gov.gn.	0	IN	NS	ns1.sitelutions.com.
-mef.gov.gn.	0	IN	NS	ns2.sitelutions.com.
-mef.gov.gn.	0	IN	NS	ns3.sitelutions.com.
-mef.gov.gn.	0	IN	NS	ns4.sitelutions.com.
-mef.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+mef.gov.gn.	0	IN	NS	ns1.siteground.net.
+mef.gov.gn.	0	IN	NS	ns2.siteground.net.
 mefp.gov.gn.	0	IN	NS	ns1.siteground.net.
 mefp.gov.gn.	0	IN	NS	ns2.siteground.net.
 mehh.gov.gn.	0	IN	NS	ns1.siteground.net.
@@ -1320,6 +1405,8 @@ ministerehabitat.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 ministerehabitat.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 ministerehabitat.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 ministerehabitat.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+ministre-pp.gov.gn.	0	IN	NS	ns1.siteground.net.
+ministre-pp.gov.gn.	0	IN	NS	ns2.siteground.net.
 minspc.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 minspc.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 mit.gov.gn.	0	IN	NS	dns-au.pointhq.com.
@@ -1408,8 +1495,12 @@ peches.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 peches.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 peches.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 peches.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+plaged.gov.gn.	0	IN	NS	ns1.siteground.net.
+plaged.gov.gn.	0	IN	NS	ns2.siteground.net.
 police.gov.gn.	0	IN	NS	ns1.ams17.siteground.eu.
 police.gov.gn.	0	IN	NS	ns1.siteground350.com.
+police-nationale.gov.gn.	0	IN	NS	ns1.siteground.net.
+police-nationale.gov.gn.	0	IN	NS	ns2.siteground.net.
 prefecture-maritime.gov.gn.	0	IN	NS	dns-au.pointhq.com.
 prefecture-maritime.gov.gn.	0	IN	NS	dns-ca.pointhq.com.
 prefecture-maritime.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
@@ -1427,6 +1518,8 @@ privatisation.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 privatisation.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 ptf.gov.gn.	0	IN	NS	ns1.siteground.net.
 ptf.gov.gn.	0	IN	NS	ns2.siteground.net.
+ratoma.gov.gn.	0	IN	NS	ns1.siteground.net.
+ratoma.gov.gn.	0	IN	NS	ns2.siteground.net.
 ravec.gov.gn.	0	IN	NS	ns1.siteground.net.
 ravec.gov.gn.	0	IN	NS	ns2.siteground.net.
 rgph.gov.gn.	0	IN	NS	dns-au.pointhq.com.
@@ -1450,6 +1543,8 @@ sanad.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 sanad.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 sanad.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 sanad.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+sanoyah.gov.gn.	0	IN	NS	ns1.siteground.net.
+sanoyah.gov.gn.	0	IN	NS	ns2.siteground.net.
 sante.gov.gn.	0	IN	NS	ns1.siteground.net.
 sante.gov.gn.	0	IN	NS	ns2.siteground.net.
 santeautravail.gov.gn.	0	IN	NS	nsa.n0c.com.
@@ -1471,6 +1566,8 @@ senarec.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 senarec.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 senarec.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 senarec.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+service-public.gov.gn.	0	IN	NS	ns1.siteground.net.
+service-public.gov.gn.	0	IN	NS	ns2.siteground.net.
 servir224.gov.gn.	0	IN	NS	pns31.cloudns.net.
 servir224.gov.gn.	0	IN	NS	pns32.cloudns.net.
 servir224.gov.gn.	0	IN	NS	pns33.cloudns.net.
@@ -1481,6 +1578,8 @@ sgar.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
 sgar.gov.gn.	0	IN	NS	dns-us.pointhq.com.
 sgg.gov.gn.	0	IN	NS	ns1.giow1000.siteground.us.
 sgg.gov.gn.	0	IN	NS	ns2.giow1000.siteground.us.
+simprix.gov.gn.	0	IN	NS	ns1.siteground.net.
+simprix.gov.gn.	0	IN	NS	ns2.siteground.net.
 smsi.gov.gn.	0	IN	NS	ns1.bb-online.net.
 smsi.gov.gn.	0	IN	NS	ns2.bb-online.net.
 smsi.gov.gn.	0	IN	NS	brain.bb-online.co.uk.
@@ -1490,11 +1589,15 @@ snepup.gov.gn.	0	IN	NS	ns1.siteground.net.
 snepup.gov.gn.	0	IN	NS	ns2.siteground.net.
 societenavaleguineenne.gov.gn.	0	IN	NS	ns1.siteground.net.
 societenavaleguineenne.gov.gn.	0	IN	NS	ns2.siteground.net.
+soguipami.gov.gn.	0	IN	NS	ns1.siteground.net.
+soguipami.gov.gn.	0	IN	NS	ns2.siteground.net.
 sonapi.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 sonapi.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 sonapi.gov.gn.	0	IN	NS	ns3.sitelutions.com.
 sonapi.gov.gn.	0	IN	NS	ns4.sitelutions.com.
 sonapi.gov.gn.	0	IN	NS	ns5.sitelutions.com.
+sonfonia.gov.gn.	0	IN	NS	ns1.siteground.net.
+sonfonia.gov.gn.	0	IN	NS	ns2.siteground.net.
 souapiti.gov.gn.	0	IN	NS	ns1.sitelutions.com.
 souapiti.gov.gn.	0	IN	NS	ns2.sitelutions.com.
 souapiti.gov.gn.	0	IN	NS	ns3.sitelutions.com.
@@ -1516,10 +1619,20 @@ technopolesonfonia.gov.gn.	0	IN	NS	pns31.cloudns.net.
 technopolesonfonia.gov.gn.	0	IN	NS	pns32.cloudns.net.
 technopolesonfonia.gov.gn.	0	IN	NS	pns33.cloudns.net.
 technopolesonfonia.gov.gn.	0	IN	NS	pns34.cloudns.net.
+telemo.gov.gn.	0	IN	NS	ns1.siteground.net.
+telemo.gov.gn.	0	IN	NS	ns2.siteground.net.
+test100.gov.gn.	0	IN	NS	ns1.desec.io.
+test100.gov.gn.	0	IN	NS	ns2.desec.org.
+tombolia.gov.gn.	0	IN	NS	ns1.siteground.net.
+tombolia.gov.gn.	0	IN	NS	ns2.siteground.net.
 tourisme.gov.gn.	0	IN	NS	ns10.101domain.com.
 tourisme.gov.gn.	0	IN	NS	ns11.101domain.com.
 transports.gov.gn.	0	IN	NS	ns1.siteground.net.
 transports.gov.gn.	0	IN	NS	ns2.siteground.net.
+tresor.gov.gn.	0	IN	NS	ns1.siteground.net.
+tresor.gov.gn.	0	IN	NS	ns2.siteground.net.
+tresorpay.gov.gn.	0	IN	NS	ns1.siteground.net.
+tresorpay.gov.gn.	0	IN	NS	ns2.siteground.net.
 usembassy.gov.gn.	0	IN	NS	guinee.afribone.net.
 usembassy.gov.gn.	0	IN	NS	server.usembassy.gov.gn.
 server.usembassy.gov.gn.	0	IN	A	216.252.183.78
@@ -1537,13 +1650,35 @@ visitezlaguinee.gov.gn.	0	IN	NS	dns-au.pointhq.com.
 visitezlaguinee.gov.gn.	0	IN	NS	dns-ca.pointhq.com.
 visitezlaguinee.gov.gn.	0	IN	NS	dns-nl.pointhq.com.
 visitezlaguinee.gov.gn.	0	IN	NS	dns-us.pointhq.com.
+wali.gov.gn.	0	IN	NS	ns1.siteground.net.
+wali.gov.gn.	0	IN	NS	ns2.siteground.net.
 wardip-guinee.gov.gn.	0	IN	NS	ns1.siteground.net.
 wardip-guinee.gov.gn.	0	IN	NS	ns2.siteground.net.
 guinee.gn.	0	IN	NS	ns1.siteground.net.
 guinee.gn.	0	IN	NS	ns2.siteground.net.
 jesuiskaloum.gn.	0	IN	NS	ns1.siteground.net.
 jesuiskaloum.gn.	0	IN	NS	ns2.siteground.net.
-net.gn.	0	IN	TXT	"Generation Time: 1714431600"
+kagbelen.gn.	0	IN	NS	ns1.siteground.net.
+kagbelen.gn.	0	IN	NS	ns2.siteground.net.
+kaloum.gn.	0	IN	NS	ns1.siteground.net.
+kaloum.gn.	0	IN	NS	ns2.siteground.net.
+kassa.gn.	0	IN	NS	ns1.siteground.net.
+kassa.gn.	0	IN	NS	ns2.siteground.net.
+lambanyi.gn.	0	IN	NS	ns1.siteground.net.
+lambanyi.gn.	0	IN	NS	ns2.siteground.net.
+laposte.gn.	0	IN	NS	ns1.siteground.net.
+laposte.gn.	0	IN	NS	ns2.siteground.net.
+laurianedoumbouya.gn.	0	IN	NS	ns1.siteground.net.
+laurianedoumbouya.gn.	0	IN	NS	ns2.siteground.net.
+mamadidoumbouya.gn.	0	IN	NS	ns1.siteground.net.
+mamadidoumbouya.gn.	0	IN	NS	ns2.siteground.net.
+maneah.gn.	0	IN	NS	ns1.siteground.net.
+maneah.gn.	0	IN	NS	ns2.siteground.net.
+matam.gn.	0	IN	NS	ns1.siteground.net.
+matam.gn.	0	IN	NS	ns2.siteground.net.
+matoto.gn.	0	IN	NS	ns1.siteground.net.
+matoto.gn.	0	IN	NS	ns2.siteground.net.
+net.gn.	0	IN	TXT	"Generation Time: 1744176611"
 afribone.net.gn.	0	IN	NS	pita.afribone.net.gn.
 afribone.net.gn.	0	IN	NS	vps88156.serveur-vps.net.
 pita.afribone.net.gn.	0	IN	A	102.218.236.19
@@ -1620,7 +1755,7 @@ nic.gn.	0	IN	NS	ns2.siteground.net.
 ns-pch.gn.	0	IN	A	204.61.216.147
 ns-pch.gn.	0	IN	AAAA	2001:500:14:6147:ad::1
 ns1.gn.	0	IN	A	41.77.190.237
-org.gn.	0	IN	TXT	"Generation Time: 1714431600"
+org.gn.	0	IN	TXT	"Generation Time: 1744176611"
 aca.org.gn.	0	IN	MX	10 cache.afribone.net.gn.
 aca.org.gn.	0	IN	MX	10 kimbo.afribone.net.gn.
 adra.org.gn.	0	IN	MX	10 cache.afribone.net.gn.
@@ -1657,9 +1792,8 @@ berd.org.gn.	0	IN	NS	c.ns.buddyns.com.
 berd.org.gn.	0	IN	NS	kimbo.afribone.net.gn.
 cciag.org.gn.	0	IN	NS	ns1.bluehost.com.
 cciag.org.gn.	0	IN	NS	ns2.bluehost.com.
-ccomptes.org.gn.	0	IN	NS	c.ns.buddyns.com.
-ccomptes.org.gn.	0	IN	NS	d.ns.buddyns.com.
-ccomptes.org.gn.	0	IN	NS	kimbo.afribone.net.gn.
+ccomptes.org.gn.	0	IN	NS	ns1.siteground.net.
+ccomptes.org.gn.	0	IN	NS	ns2.siteground.net.
 cenarpag.org.gn.	0	IN	NS	dns1.supremedns.com.
 cenarpag.org.gn.	0	IN	NS	dns2.supremedns.com.
 cenarpag.org.gn.	0	IN	NS	dns3.supremedns.com.
@@ -1680,6 +1814,8 @@ clac.org.gn.	0	IN	NS	ns4.sitelutions.com.
 clac.org.gn.	0	IN	NS	ns5.sitelutions.com.
 cnls.org.gn.	0	IN	NS	ns1.cloud.com.gn.
 cnls.org.gn.	0	IN	NS	ns2.cloud.com.gn.
+conagdcf.org.gn.	0	IN	NS	ns1.sitelutions.com.
+conagdcf.org.gn.	0	IN	NS	ns2.sitelutions.com.
 consulfr-conakry.org.gn.	0	IN	NS	ns2.biasy.net.
 consulfr-conakry.org.gn.	0	IN	NS	ns3.cols.net.
 consulfr-conakry.org.gn.	0	IN	NS	phloem.uoregon.edu.
@@ -1839,3 +1975,31 @@ votes.org.gn.	0	IN	NS	ns4.sitelutions.com.
 votes.org.gn.	0	IN	NS	ns5.sitelutions.com.
 waqfbidguinee.org.gn.	0	IN	NS	ns1.siteground.net.
 waqfbidguinee.org.gn.	0	IN	NS	ns2.siteground.net.
+wardip-guinee.org.gn.	0	IN	NS	ns1.siteground.net.
+wardip-guinee.org.gn.	0	IN	NS	ns2.siteground.net.
+presidentmamadidoumbouya.gn.	0	IN	NS	ns1.siteground.net.
+presidentmamadidoumbouya.gn.	0	IN	NS	ns2.siteground.net.
+ratoma.gn.	0	IN	NS	ns1.siteground.net.
+ratoma.gn.	0	IN	NS	ns2.siteground.net.
+sanoyah.gn.	0	IN	NS	ns1.siteground.net.
+sanoyah.gn.	0	IN	NS	ns2.siteground.net.
+simandou.gn.	0	IN	NS	ns1.siteground.net.
+simandou.gn.	0	IN	NS	ns2.siteground.net.
+simandou2024.gn.	0	IN	NS	ns1.siteground.net.
+simandou2024.gn.	0	IN	NS	ns2.siteground.net.
+simandou2040.gn.	0	IN	NS	ns1.siteground.net.
+simandou2040.gn.	0	IN	NS	ns2.siteground.net.
+sonfonia.gn.	0	IN	NS	ns1.siteground.net.
+sonfonia.gn.	0	IN	NS	ns2.siteground.net.
+tnt.gn.	0	IN	NS	ns05.domaincontrol.com.
+tnt.gn.	0	IN	NS	ns06.domaincontrol.com.
+tnt.gn.	0	IN	NS	ns27.domaincontrol.com.
+tnt.gn.	0	IN	NS	ns28.domaincontrol.com.
+tntguinee.gn.	0	IN	NS	ns05.domaincontrol.com.
+tntguinee.gn.	0	IN	NS	ns06.domaincontrol.com.
+tntguinee.gn.	0	IN	NS	ns27.domaincontrol.com.
+tntguinee.gn.	0	IN	NS	ns28.domaincontrol.com.
+tombolia.gn.	0	IN	NS	ns1.siteground.net.
+tombolia.gn.	0	IN	NS	ns2.siteground.net.
+wardip.gn.	0	IN	NS	ns1.siteground.net.
+wardip.gn.	0	IN	NS	ns2.siteground.net.

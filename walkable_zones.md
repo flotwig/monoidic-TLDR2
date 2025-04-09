@@ -2,6 +2,7 @@
 
 * `.`
 * `amazon.`
+* `aquarelle.`
 * `arpa.`
 * `audio.`
 * `auto.`
@@ -14,6 +15,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -27,7 +29,6 @@
 * `hosting.`
 * `id.`
 * `ieee.`
-* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -36,13 +37,16 @@
 * `lol.`
 * `lr.`
 * `mc.`
+* `md.`
 * `mom.`
 * `nu.`
+* `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
+* `shell.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`

@@ -1,4 +1,4 @@
-arpa.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2024042901 1800 900 604800 86400
+arpa.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025040801 1800 900 604800 86400
 arpa.	0	IN	NS	a.ns.arpa.
 arpa.	0	IN	NS	b.ns.arpa.
 arpa.	0	IN	NS	c.ns.arpa.
@@ -11,7 +11,8 @@ arpa.	0	IN	NS	i.ns.arpa.
 arpa.	0	IN	NS	k.ns.arpa.
 arpa.	0	IN	NS	l.ns.arpa.
 arpa.	0	IN	NS	m.ns.arpa.
-arpa.	0	IN	DNSKEY	256 3 8 AwEAAdlpHum2yTy19yv4G3lWuevzaOGq+F13rYKLAZsOclnqsaddWLCVN9H0fRiz4Z3yNNui/TCzg6m/mIBP5Mr0gqAQT+WpsEm/70WGJDxkI825kJ/ggt6I5X9keqpqz8nNUH62ErlGZZBAatn18yQ8X8qMLc6YSwEvduK8YdZuq9moyxuLIqpp+beItAnMWvRw1bHx9A/NMWtaHBvJyQ6gntpcnMfSnvrNoHtV0Wj0e34OOSFtrmzIfizqLR83V+f+u4vSNsuN0nrx4Ttp1NUwPjVHYEW1kjGGiMRvNHAiyjowXPMp0eBW+9DS2wWX76e4Oz6+5Lj/BYxTf3R6goCES9s= ;{id = 43060 (zsk), size = 2048b}
+arpa.	0	IN	DNSKEY	256 3 8 AwEAAbCAF2NvpswTT83umSv52T+b4R9/cAywrv/DH5i554E28xXr6bMJiPAFtMGw3LourI9o4Gys9wG1AOTlaeFyw6P6vYuMA7ke+58v2g7R/km3FZRAtWFkp0+/hY04y745xvnN+wOnP2NTQSyApUSNyUcJWy8pQCT3Zaa8qDIDLDQaZGGwFaPBg62mabgArEMtlpeknMFO11JRTrhN8ZxltOE/aaT2RosFO55W+HpY/p1TbdArwH+Exu4j/cFBmL4xk2Zy1t7mWJ6rbAsVz1LBGEM2/au1o6zQu6b+KiDNz805CgKXKIAIVnW190+yDELZbTL8+2PQnx9XBLgY4LFziI8= ;{id = 41220 (zsk), size = 2048b}
+arpa.	0	IN	DNSKEY	256 3 8 AwEAAdkuoSy7ACf5skejyGNQjT6yp4oVeVB726E+uqG71ECa+HOffv1zxdisrx82tnWa1+eTCDTH7b+bhWlHGWV2HUm/7zcATTxe+8LDgJb2O3jknx8IQwzIUrvMFtTxisiG0s97H9z3dv7wWPZuHV6ZsgRiNIYRC0+YjPkgXdZ+RXyntgvtIVjsQD9Bvr+kDYqxRp0YJ1HZ8WYj0VqghMCDgeeFnyLjNEhJ231SPx0+AvM8ePLblKRBvTM/gIaz52FUN+Gwidy22eypA+Lh3CpdXqn4Vpnf+tLScPrq94Rxuk8kConwQQXHHfM77jA5Msm4WdXKBi6vDiNrQf/3rLvRSDk= ;{id = 37615 (zsk), size = 2048b}
 arpa.	0	IN	DNSKEY	257 3 8 AwEAAaTeX8QjGPfu932a6OfQGYeeIdyXdLGLbvQD4LdNmEqJLL98kdOWB3bE97Wdh3FzI87OOqAVCITqWxqAM+phyZ6DsBzHpLDdqvFXkvv99n042rU1DROyIuHdZe/0qjR56PboiSEM6I7cPJWGJxlnR+JZVWXWJ3lK38teTaVrNm2Te/WPU2ntHY160etwVlxms4xbXa7WBbWXEq1q/9y18A56N/yz2dKkVLh9fmMU/frslsnn5BDYlkg4Xo0V+cw2Qw46mYV4g03ueCiDJAenUfV4iU9ud2h0Dq6Rhz7GMuTojDu3hdUz4DskR66yCetWRyofLCwVtZShGYqqLbiDTJc= ;{id = 42581 (ksk), size = 2048b}
 as112.arpa.	0	IN	NS	a.iana-servers.net.
 as112.arpa.	0	IN	NS	b.iana-servers.net.
@@ -22,7 +23,7 @@ e164.arpa.	0	IN	NS	ns3.afrinic.net.
 e164.arpa.	0	IN	NS	ns4.apnic.net.
 e164.arpa.	0	IN	NS	pri.authdns.ripe.net.
 e164.arpa.	0	IN	NS	rirns.arin.net.
-e164.arpa.	0	IN	DS	11519 13 2 c0d1a5bb9ae543ebc4a074b1710eb68dd89a8c966fea3ac824b16e91c38f2c1a
+e164.arpa.	0	IN	DS	38525 13 2 20e0fa2851402b42b046407524932ff7b6a0691368b0e1c6caa0774816f37fb7
 home.arpa.	0	IN	NS	blackhole-1.iana.org.
 home.arpa.	0	IN	NS	blackhole-2.iana.org.
 in-addr.arpa.	0	IN	NS	a.in-addr-servers.arpa.
@@ -122,6 +123,8 @@ l.ns.arpa.	0	IN	A	199.7.83.42
 l.ns.arpa.	0	IN	AAAA	2001:500:9f::42
 m.ns.arpa.	0	IN	A	202.12.27.33
 m.ns.arpa.	0	IN	AAAA	2001:dc3::35
+service.arpa.	0	IN	NS	blackhole-1.iana.org.
+service.arpa.	0	IN	NS	blackhole-2.iana.org.
 uri.arpa.	0	IN	NS	a.iana-servers.net.
 uri.arpa.	0	IN	NS	b.iana-servers.net.
 uri.arpa.	0	IN	NS	c.iana-servers.net.
