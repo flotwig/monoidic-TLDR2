@@ -1,4 +1,4 @@
-xn--ygbi2ammx.	0	IN	SOA	ns2.pnina.ps. radwanm.pnina.ps. 2025040908 86400 7200 3600000 172800
+xn--ygbi2ammx.	0	IN	SOA	ns2.pnina.ps. radwanm.pnina.ps. 2025041006 86400 7200 3600000 172800
 xn--ygbi2ammx.	0	IN	NS	ps.cctld.authdns.ripe.net.
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
@@ -7,7 +7,7 @@ xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	fork.sth.dnsnode.net.
 xn--ygbi2ammx.	0	IN	NS	bilal.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ps-ns.anycast.pch.net.
-xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1744207315"
+xn--ygbi2ammx.	0	IN	TXT	"Generation Time: 1744279316"
 059.xn--ygbi2ammx.	0	IN	NS	ns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	dns.paltel.net.
 059.xn--ygbi2ammx.	0	IN	NS	gns.paltel.net.

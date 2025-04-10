@@ -1,4 +1,4 @@
-cm.	0	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040905 600 300 1209600 3600
+cm.	0	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025041022 600 300 1209600 3600
 cm.	0	IN	A	195.24.205.60
 cm.	0	IN	NS	ns.itu.ch.
 cm.	0	IN	NS	ns1.nic.cm.
@@ -7,7 +7,7 @@ cm.	0	IN	NS	ns-cm.nic.fr.
 cm.	0	IN	NS	ns-cm.afrinic.net.
 cm.	0	IN	NS	auth02.ns.uu.net.
 cm.	0	IN	NS	phloem.uoregon.edu.
-cm.	0	IN	TXT	"Generation Time: 1744175132"
+cm.	0	IN	TXT	"Generation Time: 1744322419"
 cm.	0	IN	DNSKEY	256 3 13 B9O3F8sodSg5Vt06RUXiotZY+6gLNIhr5Rjw0UTkVVEhgoP8RueMAdJ6QSvkwhGb63TLhy1ARVlSlRJaujV0CA== ;{id = 22195 (zsk), size = 256b}
 cm.	0	IN	DNSKEY	257 3 13 Fp8RlfJF9UpaYW+kQ+ktUBNMIONeLML9HBhq5YJwaQoIly/J5FbC6Cv5PHSpmAwXuq9NK/PXtO7rijw04OPk8g== ;{id = 45784 (ksk), size = 256b}
 cm.	0	IN	NSEC3PARAM	1 0 0 - 
@@ -6893,6 +6893,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 49zzz.cm.	0	IN	NS	ns2.netsto.net.
 4a.cm.	0	IN	NS	ns1.netsto.net.
 4a.cm.	0	IN	NS	ns2.netsto.net.
+4allpromos.cm.	0	IN	NS	ns1.101domain.com.
+4allpromos.cm.	0	IN	NS	ns2.101domain.com.
 4b.cm.	0	IN	NS	ns1.infomaniak.ch.
 4b.cm.	0	IN	NS	ns2.infomaniak.ch.
 4bet365.cm.	0	IN	NS	ns1.netsto.net.
@@ -14899,6 +14901,8 @@ afrimnter.cm.	0	IN	NS	ns-1099.awsdns-09.org.
 afrimnter.cm.	0	IN	NS	ns-1843.awsdns-38.co.uk.
 afripay.cm.	0	IN	NS	dns1.namecheaphosting.com.
 afripay.cm.	0	IN	NS	dns2.namecheaphosting.com.
+afripharma.cm.	0	IN	NS	ns1.camoogroup.com.
+afripharma.cm.	0	IN	NS	ns2.camoogroup.com.
 afriprint.cm.	0	IN	NS	ns.adac.cm.
 afriprint.cm.	0	IN	NS	ns1.adac.cm.
 afropari.cm.	0	IN	NS	edns7.ultradns.biz.
@@ -18276,6 +18280,8 @@ bakedeco.cm.	0	IN	NS	ns1.adtraks.com.
 bakedeco.cm.	0	IN	NS	ns2.adtraks.com.
 bakertilly.cm.	0	IN	NS	dns1.obambu.com.
 bakertilly.cm.	0	IN	NS	dns2.obambu.com.
+bakht.cm.	0	IN	NS	dns1.registrar-servers.com.
+bakht.cm.	0	IN	NS	dns2.registrar-servers.com.
 balanceofnature.cm.	0	IN	NS	ns1.parkingcrew.net.
 balanceofnature.cm.	0	IN	NS	ns2.parkingcrew.net.
 balancer.cm.	0	IN	NS	ns1.ddos-guard.net.
@@ -19281,6 +19287,8 @@ bestly.cm.	0	IN	NS	ns5.lwsdns.com.
 bestly.cm.	0	IN	NS	ns6.lwsdns.com.
 bestly.cm.	0	IN	NS	ns7.lwsdns.com.
 bestly.cm.	0	IN	NS	ns8.lwsdns.com.
+bestnamebadges.cm.	0	IN	NS	ns1.101domain.com.
+bestnamebadges.cm.	0	IN	NS	ns2.101domain.com.
 bestofsigns.cm.	0	IN	NS	ns1.adtraks.com.
 bestofsigns.cm.	0	IN	NS	ns2.adtraks.com.
 bestow.cm.	0	IN	NS	ns1.abovedomains.com.
@@ -19900,6 +19908,8 @@ bic.cm.	0	IN	NS	dns1.cscdns.net.
 bic.cm.	0	IN	NS	dns2.cscdns.net.
 biconomy.cm.	0	IN	NS	ns1.aftermarket.pl.
 biconomy.cm.	0	IN	NS	ns2.aftermarket.pl.
+bicucac.cm.	0	IN	NS	ns1.camoogroup.com.
+bicucac.cm.	0	IN	NS	ns2.camoogroup.com.
 bid.cm.	0	IN	NS	ns1.adept.co.za.
 bid.cm.	0	IN	NS	ns2.adept.co.za.
 bidcactus.cm.	0	IN	NS	ns1.dnspanel.com.
@@ -21840,10 +21850,8 @@ brooksbrothers.cm.	0	IN	NS	pns23.cloudns.net.
 brooksbrothers.cm.	0	IN	NS	pns24.cloudns.net.
 brookstone.cm.	0	IN	NS	ns1.parkingcrew.net.
 brookstone.cm.	0	IN	NS	ns2.parkingcrew.net.
-brother.cm.	0	IN	NS	pns21.cloudns.net.
-brother.cm.	0	IN	NS	pns22.cloudns.net.
-brother.cm.	0	IN	NS	pns23.cloudns.net.
-brother.cm.	0	IN	NS	pns24.cloudns.net.
+brother.cm.	0	IN	NS	ns1.hastydns.com.
+brother.cm.	0	IN	NS	ns2.hastydns.com.
 brother-usa.cm.	0	IN	NS	ns1.adtraks.com.
 brother-usa.cm.	0	IN	NS	ns2.adtraks.com.
 brownells.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -24937,6 +24945,8 @@ cj.cm.	0	IN	NS	ns1.4.cn.
 cj.cm.	0	IN	NS	ns2.4.cn.
 cj.cm.	0	IN	NS	ns3.goldenname.com.
 cj.cm.	0	IN	NS	ns4.goldenname.com.
+cjazzik.cm.	0	IN	NS	gabe.ns.cloudflare.com.
+cjazzik.cm.	0	IN	NS	bethany.ns.cloudflare.com.
 cjcp.cm.	0	IN	NS	ns1.netsto.net.
 cjcp.cm.	0	IN	NS	ns2.netsto.net.
 cjq.cm.	0	IN	NS	a.dnspod.com.
@@ -25534,6 +25544,8 @@ codeb.cm.	0	IN	NS	ns1.camoogroup.com.
 codeb.cm.	0	IN	NS	ns2.camoogroup.com.
 codebare.cm.	0	IN	NS	lara.ns.cloudflare.com.
 codebare.cm.	0	IN	NS	rick.ns.cloudflare.com.
+codec.cm.	0	IN	NS	ns1.stackdns.com.
+codec.cm.	0	IN	NS	ns2.stackdns.com.
 codecademy.cm.	0	IN	NS	ns1.adtraks.com.
 codecademy.cm.	0	IN	NS	ns2.adtraks.com.
 codecimmobiliercameroun.cm.	0	IN	NS	nsy.prosygma-cm.com.
@@ -28460,6 +28472,8 @@ discountelectronics.cm.	0	IN	NS	ns1.adtraks.com.
 discountelectronics.cm.	0	IN	NS	ns2.adtraks.com.
 discountfilters.cm.	0	IN	NS	ns1.adtraks.com.
 discountfilters.cm.	0	IN	NS	ns2.adtraks.com.
+discountmugs.cm.	0	IN	NS	ns1.101domain.com.
+discountmugs.cm.	0	IN	NS	ns2.101domain.com.
 discountschoolsupply.cm.	0	IN	NS	ns1.adtraks.com.
 discountschoolsupply.cm.	0	IN	NS	ns2.adtraks.com.
 discounttire.cm.	0	IN	NS	pns21.cloudns.net.
@@ -31451,10 +31465,8 @@ ethicon.cm.	0	IN	NS	ns01.jnjdns.com.
 ethicon.cm.	0	IN	NS	ns02.jnjdns.com.
 ethika.cm.	0	IN	NS	ns1.adtraks.com.
 ethika.cm.	0	IN	NS	ns2.adtraks.com.
-ethiopianairlines.cm.	0	IN	NS	pns21.cloudns.net.
-ethiopianairlines.cm.	0	IN	NS	pns22.cloudns.net.
-ethiopianairlines.cm.	0	IN	NS	pns23.cloudns.net.
-ethiopianairlines.cm.	0	IN	NS	pns24.cloudns.net.
+ethiopianairlines.cm.	0	IN	NS	ns1.hastydns.com.
+ethiopianairlines.cm.	0	IN	NS	ns2.hastydns.com.
 etickets.cm.	0	IN	NS	ns1.blogvisa.com.
 etickets.cm.	0	IN	NS	ns2.blogvisa.com.
 etiennodent.cm.	0	IN	NS	ns1.caurisoftech.com.
@@ -31589,8 +31601,9 @@ evaair.cm.	0	IN	NS	ns2.abovedomains.com.
 evadict.cm.	0	IN	NS	ns-143-b.gandi.net.
 evadict.cm.	0	IN	NS	ns-191-c.gandi.net.
 evadict.cm.	0	IN	NS	ns-243-a.gandi.net.
-evagabor.cm.	0	IN	NS	ns.rackspace.com.
-evagabor.cm.	0	IN	NS	ns2.rackspace.com.
+evagabor.cm.	0	IN	NS	ns1.instradns.com.
+evagabor.cm.	0	IN	NS	ns2.instradns.com.
+evagabor.cm.	0	IN	NS	ns3.instradns.com.
 evat.cm.	0	IN	NS	ns1.digitalocean.com.
 evat.cm.	0	IN	NS	ns2.digitalocean.com.
 eve.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -32401,6 +32414,8 @@ farmville.cm.	0	IN	NS	ns1.parkingcrew.net.
 farmville.cm.	0	IN	NS	ns2.parkingcrew.net.
 farnell.cm.	0	IN	NS	ns1.adtraks.com.
 farnell.cm.	0	IN	NS	ns2.adtraks.com.
+farsroid.cm.	0	IN	NS	dns1.registrar-servers.com.
+farsroid.cm.	0	IN	NS	dns2.registrar-servers.com.
 fascism.cm.	0	IN	NS	jeff.ns.cloudflare.com.
 fascism.cm.	0	IN	NS	lara.ns.cloudflare.com.
 fasfa.cm.	0	IN	NS	ns1.ii51.parklogic.com.
@@ -34335,10 +34350,11 @@ gala.cm.	0	IN	NS	ns2.adtraks.com.
 galactee.cm.	0	IN	NS	ns3.cloud.stdigital.network.
 galactee.cm.	0	IN	NS	ns4.cloud.stdigital.network.
 galactee.cm.	0	IN	NS	ns5.cloud.stdigital.network.
-galantamine.cm.	0	IN	NS	dns1.p01.nsone.net.
-galantamine.cm.	0	IN	NS	dns2.p01.nsone.net.
-galantamine.cm.	0	IN	NS	ns01.jnjdns.com.
-galantamine.cm.	0	IN	NS	ns02.jnjdns.com.
+galantamine.cm.	0	IN	NS	ns1.brandshelter.com.
+galantamine.cm.	0	IN	NS	ns2.brandshelter.de.
+galantamine.cm.	0	IN	NS	ns3.brandshelter.info.
+galantamine.cm.	0	IN	NS	ns4.brandshelter.net.
+galantamine.cm.	0	IN	NS	ns5.brandshelter.us.
 galatee.cm.	0	IN	NS	ns3.cloud.stdigital.network.
 galatee.cm.	0	IN	NS	ns4.cloud.stdigital.network.
 galatee.cm.	0	IN	NS	ns5.cloud.stdigital.network.
@@ -35802,8 +35818,10 @@ governmentjobs.cm.	0	IN	NS	ns1.parkingcrew.net.
 governmentjobs.cm.	0	IN	NS	ns2.parkingcrew.net.
 govx.cm.	0	IN	NS	ns1.ii50.parklogic.com.
 govx.cm.	0	IN	NS	ns2.ii50.parklogic.com.
-gowash.cm.	0	IN	NS	ns1.o2switch.net.
-gowash.cm.	0	IN	NS	ns2.o2switch.net.
+gowash.cm.	0	IN	NS	dns1.p03.nsone.net.
+gowash.cm.	0	IN	NS	dns2.p03.nsone.net.
+gowash.cm.	0	IN	NS	dns3.p03.nsone.net.
+gowash.cm.	0	IN	NS	dns4.p03.nsone.net.
 gowow.cm.	0	IN	NS	e.ezdnscenter.com.
 gowow.cm.	0	IN	NS	f.ezdnscenter.com.
 gp.cm.	0	IN	NS	ns1.4.cn.
@@ -36384,10 +36402,12 @@ hair.cm.	0	IN	NS	ns-1262.awsdns-29.org.
 hair.cm.	0	IN	NS	ns-1821.awsdns-35.co.uk.
 hair-palace.cm.	0	IN	NS	ns1.mtnbusiness.cm.
 hair-palace.cm.	0	IN	NS	ns2.mtnbusiness.cm.
-hairdo.cm.	0	IN	NS	ns.rackspace.com.
-hairdo.cm.	0	IN	NS	ns2.rackspace.com.
-hairuwear.cm.	0	IN	NS	ns.rackspace.com.
-hairuwear.cm.	0	IN	NS	ns2.rackspace.com.
+hairdo.cm.	0	IN	NS	ns1.instradns.com.
+hairdo.cm.	0	IN	NS	ns2.instradns.com.
+hairdo.cm.	0	IN	NS	ns3.instradns.com.
+hairuwear.cm.	0	IN	NS	ns1.instradns.com.
+hairuwear.cm.	0	IN	NS	ns2.instradns.com.
+hairuwear.cm.	0	IN	NS	ns3.instradns.com.
 haldor.cm.	0	IN	NS	ns.domainnetwork.se.
 haldor.cm.	0	IN	NS	ns2.domainnetwork.se.
 haldor.cm.	0	IN	NS	ns3.domainnetwork.com.
@@ -37531,6 +37551,10 @@ highroller.cm.	0	IN	NS	dns2.idp365.net.
 highroller.cm.	0	IN	NS	dns3.idp365.net.
 highupweb.cm.	0	IN	NS	dns1.namecheaphosting.com.
 highupweb.cm.	0	IN	NS	dns2.namecheaphosting.com.
+highwinds.cm.	0	IN	NS	ns1bdg.name.com.
+highwinds.cm.	0	IN	NS	ns2fhn.name.com.
+highwinds.cm.	0	IN	NS	ns3qty.name.com.
+highwinds.cm.	0	IN	NS	ns4dls.name.com.
 hikvision.cm.	0	IN	NS	ns1.markmonitor.com.
 hikvision.cm.	0	IN	NS	ns2.markmonitor.com.
 hilahotel.cm.	0	IN	NS	ns1.globexcamhost.com.
@@ -38486,6 +38510,8 @@ hughesnet.cm.	0	IN	NS	ns1.adtraks.com.
 hughesnet.cm.	0	IN	NS	ns2.adtraks.com.
 hugoboss.cm.	0	IN	NS	a.portsdns.se.
 hugoboss.cm.	0	IN	NS	b.portsdns.net.
+hui.cm.	0	IN	NS	mack.ns.cloudflare.com.
+hui.cm.	0	IN	NS	elisa.ns.cloudflare.com.
 huibo555.cm.	0	IN	NS	ns1.netsto.net.
 huibo555.cm.	0	IN	NS	ns2.netsto.net.
 huiyiing.cm.	0	IN	NS	ns1.netsto.net.
@@ -39261,6 +39287,8 @@ imprimerie-sopecam.cm.	0	IN	NS	ns0.thundercloud.uk.
 imprimerie-sopecam.cm.	0	IN	NS	ns1.thundercloud.uk.
 imprimerienationale.cm.	0	IN	NS	kim.camnet.cm.
 imprimerienationale.cm.	0	IN	NS	mbam.camnet.cm.
+imprintplus.cm.	0	IN	NS	ns1.101domain.com.
+imprintplus.cm.	0	IN	NS	ns2.101domain.com.
 improvenet.cm.	0	IN	NS	ns1.markmonitor.com.
 improvenet.cm.	0	IN	NS	ns3.markmonitor.com.
 imsofer.cm.	0	IN	NS	ns1.barbero.zone.
@@ -39896,6 +39924,9 @@ ir.cm.	0	IN	NS	ns1.netsto.net.
 ir.cm.	0	IN	NS	ns2.netsto.net.
 irad.cm.	0	IN	NS	kim.camnet.cm.
 irad.cm.	0	IN	NS	mbam.camnet.cm.
+iradcameroun.cm.	0	IN	NS	ns1.regery.net.
+iradcameroun.cm.	0	IN	NS	ns2.regery.net.
+iradcameroun.cm.	0	IN	NS	ns3.regery.net.
 iran.cm.	0	IN	NS	dns1.namecheaphosting.com.
 iran.cm.	0	IN	NS	dns2.namecheaphosting.com.
 iretire.cm.	0	IN	NS	ns1.blackrock.com.
@@ -40146,6 +40177,8 @@ iua.cm.	0	IN	NS	nsc.n0c.com.
 iual.cm.	0	IN	NS	nsa.n0c.com.
 iual.cm.	0	IN	NS	nsb.n0c.com.
 iual.cm.	0	IN	NS	nsc.n0c.com.
+iuatif-maroua.cm.	0	IN	NS	ns200.anycast.me.
+iuatif-maroua.cm.	0	IN	NS	dns200.anycast.me.
 iucan.cm.	0	IN	NS	ns1.camoogroup.com.
 iucan.cm.	0	IN	NS	ns2.camoogroup.com.
 iue.cm.	0	IN	NS	pete.ns.cloudflare.com.
@@ -40672,6 +40705,8 @@ jecherche.cm.	0	IN	NS	ns200.anycast.me.
 jecherche.cm.	0	IN	NS	dns200.anycast.me.
 jeconomise.cm.	0	IN	NS	ns13.ovh.net.
 jeconomise.cm.	0	IN	NS	dns13.ovh.net.
+jedolo.cm.	0	IN	NS	ns1.camoogroup.com.
+jedolo.cm.	0	IN	NS	ns2.camoogroup.com.
 jeep.cm.	0	IN	NS	pns21.cloudns.net.
 jeep.cm.	0	IN	NS	pns22.cloudns.net.
 jeep.cm.	0	IN	NS	pns23.cloudns.net.
@@ -42365,8 +42400,6 @@ kenya.cm.	0	IN	NS	pns21.cloudns.net.
 kenya.cm.	0	IN	NS	pns22.cloudns.net.
 kenya.cm.	0	IN	NS	pns23.cloudns.net.
 kenya.cm.	0	IN	NS	pns24.cloudns.net.
-kepseesinest.cm.	0	IN	NS	jill.ns.cloudflare.com.
-kepseesinest.cm.	0	IN	NS	decker.ns.cloudflare.com.
 keranique.cm.	0	IN	NS	ns1.adtraks.com.
 keranique.cm.	0	IN	NS	ns2.adtraks.com.
 kerastase.cm.	0	IN	NS	ns1.adtraks.com.
@@ -46760,6 +46793,9 @@ melbetdownload.cm.	0	IN	NS	kipp.ns.cloudflare.com.
 melbetdownload.cm.	0	IN	NS	cecelia.ns.cloudflare.com.
 melbets.cm.	0	IN	NS	phil.ns.cloudflare.com.
 melbets.cm.	0	IN	NS	surina.ns.cloudflare.com.
+melbettelecharger.cm.	0	IN	NS	ns1.netim.net.
+melbettelecharger.cm.	0	IN	NS	ns2.netim.net.
+melbettelecharger.cm.	0	IN	NS	ns3.netim.net.
 melbourne.cm.	0	IN	NS	pns21.cloudns.net.
 melbourne.cm.	0	IN	NS	pns22.cloudns.net.
 melbourne.cm.	0	IN	NS	pns23.cloudns.net.
@@ -48433,8 +48469,6 @@ mp3cameroon.cm.	0	IN	NS	dns3.supremepanel.com.
 mp3cameroon.cm.	0	IN	NS	dns4.supremepanel.com.
 mp4.cm.	0	IN	NS	rommy.ns.cloudflare.com.
 mp4.cm.	0	IN	NS	yolanda.ns.cloudflare.com.
-mpgconsulting.cm.	0	IN	NS	ns1.camoogroup.com.
-mpgconsulting.cm.	0	IN	NS	ns2.camoogroup.com.
 mpis.cm.	0	IN	NS	ns1.camoogroup.com.
 mpis.cm.	0	IN	NS	ns2.camoogroup.com.
 mpnamatchoua.cm.	0	IN	NS	ns1195.ispapi.net.
@@ -49416,6 +49450,8 @@ name-services.cm.	0	IN	NS	dns1.name-services.com.
 name-services.cm.	0	IN	NS	dns2.name-services.com.
 name-services.cm.	0	IN	NS	dns3.name-services.com.
 name-services.cm.	0	IN	NS	dns4.name-services.com.
+namebadge.cm.	0	IN	NS	ns1.101domain.com.
+namebadge.cm.	0	IN	NS	ns2.101domain.com.
 namecheap.cm.	0	IN	NS	ns1.parkingcrew.net.
 namecheap.cm.	0	IN	NS	ns2.parkingcrew.net.
 nameisp.cm.	0	IN	NS	ns1.nameisp.info.
@@ -50326,10 +50362,8 @@ nissan.cm.	0	IN	NS	sj032467.nissan.co.jp.
 nissan.cm.	0	IN	NS	sj032468.nissan.co.jp.
 nissanfinance.cm.	0	IN	NS	ns1.parkingcrew.net.
 nissanfinance.cm.	0	IN	NS	ns2.parkingcrew.net.
-nissanusa.cm.	0	IN	NS	pns21.cloudns.net.
-nissanusa.cm.	0	IN	NS	pns22.cloudns.net.
-nissanusa.cm.	0	IN	NS	pns23.cloudns.net.
-nissanusa.cm.	0	IN	NS	pns24.cloudns.net.
+nissanusa.cm.	0	IN	NS	ns1.hastydns.com.
+nissanusa.cm.	0	IN	NS	ns2.hastydns.com.
 nissin.cm.	0	IN	NS	dns1.onamae.com.
 nissin.cm.	0	IN	NS	dns2.onamae.com.
 nitagcameroon.cm.	0	IN	NS	ns1.mtnbusiness.cm.
@@ -51903,6 +51937,8 @@ orangecustomer.cm.	0	IN	NS	ns5.lwsdns.com.
 orangecustomer.cm.	0	IN	NS	ns6.lwsdns.com.
 orangecustomer.cm.	0	IN	NS	ns7.lwsdns.com.
 orangecustomer.cm.	0	IN	NS	ns8.lwsdns.com.
+orangedey.cm.	0	IN	NS	dns1.cscdns.net.
+orangedey.cm.	0	IN	NS	dns2.cscdns.net.
 orangeenergie.cm.	0	IN	NS	dns1.cscdns.net.
 orangeenergie.cm.	0	IN	NS	dns2.cscdns.net.
 orangeenergy.cm.	0	IN	NS	dns1.cscdns.net.
@@ -56938,10 +56974,11 @@ remicade.cm.	0	IN	NS	ns01.jnjdns.com.
 remicade.cm.	0	IN	NS	ns02.jnjdns.com.
 remind.cm.	0	IN	NS	ns1.parkingcrew.net.
 remind.cm.	0	IN	NS	ns2.parkingcrew.net.
-reminyl.cm.	0	IN	NS	dns1.p01.nsone.net.
-reminyl.cm.	0	IN	NS	dns2.p01.nsone.net.
-reminyl.cm.	0	IN	NS	ns01.jnjdns.com.
-reminyl.cm.	0	IN	NS	ns02.jnjdns.com.
+reminyl.cm.	0	IN	NS	ns1.brandshelter.com.
+reminyl.cm.	0	IN	NS	ns2.brandshelter.de.
+reminyl.cm.	0	IN	NS	ns3.brandshelter.info.
+reminyl.cm.	0	IN	NS	ns4.brandshelter.net.
+reminyl.cm.	0	IN	NS	ns5.brandshelter.us.
 remitly.cm.	0	IN	NS	ns1.parkingcrew.net.
 remitly.cm.	0	IN	NS	ns2.parkingcrew.net.
 remote.cm.	0	IN	NS	guss.ns.cloudflare.com.
@@ -60068,6 +60105,10 @@ siman.cm.	0	IN	NS	ns11.infomaniak.ch.
 siman.cm.	0	IN	NS	ns12.infomaniak.ch.
 simaservices.cm.	0	IN	NS	ns1.ex2.com.
 simaservices.cm.	0	IN	NS	ns2.ex2.com.
+simbar.cm.	0	IN	NS	ns-18.awsdns-02.com.
+simbar.cm.	0	IN	NS	ns-620.awsdns-13.net.
+simbar.cm.	0	IN	NS	ns-1503.awsdns-59.org.
+simbar.cm.	0	IN	NS	ns-1586.awsdns-06.co.uk.
 similarweb.cm.	0	IN	NS	ns3.abovedomains.com.
 similarweb.cm.	0	IN	NS	ns4.abovedomains.com.
 simon.cm.	0	IN	NS	dns1.cscdns.net.
@@ -60721,8 +60762,6 @@ socablect.cm.	0	IN	NS	ns1.mtnbusiness.cm.
 socablect.cm.	0	IN	NS	ns2.mtnbusiness.cm.
 socacap.cm.	0	IN	NS	ns1.camoogroup.com.
 socacap.cm.	0	IN	NS	ns2.camoogroup.com.
-socaci.cm.	0	IN	NS	ns1.o2switch.net.
-socaci.cm.	0	IN	NS	ns2.o2switch.net.
 socalgas.cm.	0	IN	NS	ns1.parkingcrew.net.
 socalgas.cm.	0	IN	NS	ns2.parkingcrew.net.
 socamid.cm.	0	IN	NS	ns1.mtnbusiness.cm.
@@ -61622,6 +61661,10 @@ stabletech.cm.	0	IN	NS	ns1.camoogroup.com.
 stabletech.cm.	0	IN	NS	ns2.camoogroup.com.
 stackoverflow.cm.	0	IN	NS	ns1.parkingcrew.net.
 stackoverflow.cm.	0	IN	NS	ns2.parkingcrew.net.
+stackpath.cm.	0	IN	NS	ns1bdg.name.com.
+stackpath.cm.	0	IN	NS	ns2fhn.name.com.
+stackpath.cm.	0	IN	NS	ns3qty.name.com.
+stackpath.cm.	0	IN	NS	ns4dls.name.com.
 stadia.cm.	0	IN	NS	ns1.markmonitor.com.
 stadia.cm.	0	IN	NS	ns3.markmonitor.com.
 stadlmann.cm.	0	IN	NS	dns-01.2sic.net.
@@ -63393,6 +63436,9 @@ telec.cm.	0	IN	NS	dns2023a.trouble-free.net.
 telec.cm.	0	IN	NS	dns2023b.trouble-free.net.
 telecharger-1xbet.cm.	0	IN	NS	ns1.dns-parking.com.
 telecharger-1xbet.cm.	0	IN	NS	ns2.dns-parking.com.
+telecharger-melbet.cm.	0	IN	NS	ns1.netim.net.
+telecharger-melbet.cm.	0	IN	NS	ns2.netim.net.
+telecharger-melbet.cm.	0	IN	NS	ns3.netim.net.
 telecharger1xbet.cm.	0	IN	NS	ns41.infomaniak.com.
 telecharger1xbet.cm.	0	IN	NS	ns42.infomaniak.com.
 telechargerbetwinner.cm.	0	IN	NS	gr1.cloudhostingforlinux.com.
@@ -67051,8 +67097,10 @@ vegea.cm.	0	IN	NS	ns2.netim.net.
 vegea.cm.	0	IN	NS	ns3.netim.net.
 velauto.cm.	0	IN	NS	ns1722.websitewelcome.com.
 velauto.cm.	0	IN	NS	ns1723.websitewelcome.com.
-velautoparts.cm.	0	IN	NS	ns.tradesoft.pro.
-velautoparts.cm.	0	IN	NS	ns2.tradesoft.pro.
+velautoparts.cm.	0	IN	NS	ns9.lwsdns.com.
+velautoparts.cm.	0	IN	NS	ns10.lwsdns.com.
+velautoparts.cm.	0	IN	NS	ns11.lwsdns.com.
+velautoparts.cm.	0	IN	NS	ns12.lwsdns.com.
 velcro.cm.	0	IN	NS	ns1.velcro.net.
 velcro.cm.	0	IN	NS	ns2.velcro.net.
 veliva.cm.	0	IN	NS	nsgbr.comlaude.co.uk.
@@ -68821,6 +68869,8 @@ wildfang.cm.	0	IN	NS	ns1.parkingcrew.net.
 wildfang.cm.	0	IN	NS	ns2.parkingcrew.net.
 wildwestdomains.cm.	0	IN	NS	cns1.secureserver.net.
 wildwestdomains.cm.	0	IN	NS	cns2.secureserver.net.
+wilevsolution.cm.	0	IN	NS	nsa.webleasee.com.
+wilevsolution.cm.	0	IN	NS	nsb.webleasee.com.
 wiley.cm.	0	IN	NS	ns1.parkingcrew.net.
 wiley.cm.	0	IN	NS	ns2.parkingcrew.net.
 wiley-x.cm.	0	IN	NS	ns1.101domain.com.

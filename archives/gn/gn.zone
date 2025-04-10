@@ -1,22 +1,22 @@
-gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2025040947 86400 3600 2592000 14400
+gn.	0	IN	SOA	ns1.gn. hostmaster.ande.gov.gn. 2025041047 86400 3600 2592000 14400
 gn.	0	IN	NS	ns1.gn.
 gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
 gn.	0	IN	NS	ns-pch.gn.
-gn.	0	IN	TXT	"Generation Time: 1744239612"
+gn.	0	IN	TXT	"Generation Time: 1744326005"
 gn.	0	IN	DNSKEY	256 3 8 AwEAAb3NiSgI9EnC513Rge223rlFogRJZCpW4OXVMKHxX22YoMmS+YW0ZnAnkdSo0+aUNvM0cTZgbJwnJ8DlQUIE3ulK8CB8EY1LL4bK1+XHjwrCr/AqGHehI3QAg1jWS94KI5Lf81yl8c1MOozZHgG17kebnwstcE6BcQp2ypR+r9BBdrF8KeS3tV6yScceVTAqc8JSX7mcaXnu4M6PUjMNVNuQOY7hmLSqGSbRz0Si+1ujODved6BWOhjbwjrbymT6ILWRCkcM+/zI0YidVgM9g72LRHth2mVDAcwQAXSaKFgPahSkcfBTSJD6UbhTmm5wlG6LVF8+Y477A7+ZcpASS5s= ;{id = 5560 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	256 3 8 AwEAAfWWDc4Jk9DnJ9NIrdyMMezG+VaRXVlEEb4RnOFbTR2zadS9ozO/pTATaJs5lwZPVhh78U3Te277KJd3KmNF6lOgITvPI7J6Odvp5sK4HEqnVt+xBoSBZIMUWTiPU+lMkOahmiMlFB6xxUwXBMNkNT+nulYTTZ2gmAh2LgGTtWeHFT1uUz+bd6Fl1m0wyyqrprLGG6LiPfhQYbbaGnRVK+0StLPgHY+zigplOIgb04RbgwsDt471QXMKcg5G5F+KJm2yVM1ZuHkHEOyuy6L0ZBgjvvpaGn9UEy2cgb7HQHTkrkyckPHHVcJa59NSEBs2eDp0+Jl9J7ew9NMDQXfk2t8= ;{id = 35754 (zsk), size = 2048b}
 gn.	0	IN	DNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0= ;{id = 9311 (ksk), size = 2048b}
 gn.	0	IN	CDS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 gn.	0	IN	CDNSKEY	257 3 8 AwEAAbFQ0G3mIgnAmUJTtk1gwILW3giy+T9Wpj+hsyU7CNEC358GwIxzZVsj+kHszKZ7Xoq3CqOq7S5KMAc919XwAFBslaQwxvh45s9sjEleP1qnquDlleRP3UN/1IABltKraKliBUSz5ZrXK9QbFQHwngZE8KaWyIa1S33q5OnkgSediVtSyFqR16dFGUwS3fdCrFxllN8uut9EGhgBew7GMeQPAB50/lpl5lVVLXpxq0pQ7ptx8f2/0VMAladuapz7wwVJXHS68BPRO1inVp+mpYSiVb6Ay72hIk3Hv5TdjJIJ+ZJpoKKBdbuhiVuq4lX9QZ++7F3XTZ+B4GF2yW1Kpv0=
-ac.gn.	0	IN	TXT	"Generation Time: 1744239612"
+ac.gn.	0	IN	TXT	"Generation Time: 1744326005"
 iscgtouba.ac.gn.	0	IN	NS	ns.afripatelecom.net.gn.
 iscgtouba.ac.gn.	0	IN	NS	dns1.crawford.com.
 adressage.gn.	0	IN	NS	ns1.siteground.net.
 adressage.gn.	0	IN	NS	ns2.siteground.net.
 amaracamara.gn.	0	IN	NS	ns1.siteground.net.
 amaracamara.gn.	0	IN	NS	ns2.siteground.net.
-com.gn.	0	IN	TXT	"Generation Time: 1744239613"
+com.gn.	0	IN	TXT	"Generation Time: 1744326005"
 1xbet.com.gn.	0	IN	NS	edns7.ultradns.biz.
 1xbet.com.gn.	0	IN	NS	edns7.ultradns.com.
 1xbet.com.gn.	0	IN	NS	edns7.ultradns.net.
@@ -709,7 +709,7 @@ dixinn.gn.	0	IN	NS	ns1.siteground.net.
 dixinn.gn.	0	IN	NS	ns2.siteground.net.
 djibadiakite.gn.	0	IN	NS	ns1.siteground.net.
 djibadiakite.gn.	0	IN	NS	ns2.siteground.net.
-edu.gn.	0	IN	TXT	"Generation Time: 1744239613"
+edu.gn.	0	IN	TXT	"Generation Time: 1744326005"
 binkosoft.edu.gn.	0	IN	NS	d.ns.buddyns.com.
 binkosoft.edu.gn.	0	IN	NS	pita.afribone.net.gn.
 cedust.edu.gn.	0	IN	NS	dns1.supremedns.com.
@@ -808,8 +808,8 @@ univ-nzerekore.edu.gn.	0	IN	NS	dns3.supremedns.com.
 univ-nzerekore.edu.gn.	0	IN	NS	dns4.supremedns.com.
 gbessia.gn.	0	IN	NS	ns1.siteground.net.
 gbessia.gn.	0	IN	NS	ns2.siteground.net.
-gouv.gn.	0	IN	TXT	"Generation Time: 1744239613"
-gov.gn.	0	IN	TXT	"Generation Time: 1744239613"
+gouv.gn.	0	IN	TXT	"Generation Time: 1744326005"
+gov.gn.	0	IN	TXT	"Generation Time: 1744326005"
 3ae.gov.gn.	0	IN	NS	ns1.siteground.net.
 3ae.gov.gn.	0	IN	NS	ns2.siteground.net.
 acgp.gov.gn.	0	IN	NS	ns1.siteground.net.
@@ -1678,7 +1678,7 @@ matam.gn.	0	IN	NS	ns1.siteground.net.
 matam.gn.	0	IN	NS	ns2.siteground.net.
 matoto.gn.	0	IN	NS	ns1.siteground.net.
 matoto.gn.	0	IN	NS	ns2.siteground.net.
-net.gn.	0	IN	TXT	"Generation Time: 1744239613"
+net.gn.	0	IN	TXT	"Generation Time: 1744326005"
 afribone.net.gn.	0	IN	NS	pita.afribone.net.gn.
 afribone.net.gn.	0	IN	NS	vps88156.serveur-vps.net.
 pita.afribone.net.gn.	0	IN	A	102.218.236.19
@@ -1755,7 +1755,7 @@ nic.gn.	0	IN	NS	ns2.siteground.net.
 ns-pch.gn.	0	IN	A	204.61.216.147
 ns-pch.gn.	0	IN	AAAA	2001:500:14:6147:ad::1
 ns1.gn.	0	IN	A	41.77.190.237
-org.gn.	0	IN	TXT	"Generation Time: 1744239613"
+org.gn.	0	IN	TXT	"Generation Time: 1744326005"
 aca.org.gn.	0	IN	MX	10 cache.afribone.net.gn.
 aca.org.gn.	0	IN	MX	10 kimbo.afribone.net.gn.
 adra.org.gn.	0	IN	MX	10 cache.afribone.net.gn.

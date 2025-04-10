@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744236301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1744322701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -869,6 +869,8 @@ businessonline.mw.	0	IN	NS	ns2.lexsynergy.us.
 businessonline.mw.	0	IN	NS	ns3.lexsynergy.info.
 businesspartners.mw.	0	IN	NS	ns1.iafrica.com.
 businesspartners.mw.	0	IN	NS	ns2.iafrica.com.
+buymalawi.mw.	0	IN	NS	karl.ns.cloudflare.com.
+buymalawi.mw.	0	IN	NS	lady.ns.cloudflare.com.
 bw-cares.mw.	0	IN	NS	ns1.lexsynergy.net.
 bw-cares.mw.	0	IN	NS	ns2.lexsynergy.us.
 bw-cares.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -2276,6 +2278,8 @@ ihg.mw.	0	IN	NS	ns1.markmonitor.com.
 ihg.mw.	0	IN	NS	ns3.markmonitor.com.
 ikea.mw.	0	IN	NS	udns1.cscdns.net.
 ikea.mw.	0	IN	NS	udns2.cscdns.uk.
+im.mw.	0	IN	NS	ns1.netsto.net.
+im.mw.	0	IN	NS	ns2.netsto.net.
 ima.mw.	0	IN	NS	ns1.websiteserverbox.com.
 ima.mw.	0	IN	NS	ns2.websiteserverbox.com.
 ima.mw.	0	IN	NS	ns3.websiteserverbox.com.
