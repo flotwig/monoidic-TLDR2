@@ -1,4 +1,4 @@
-ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041006 86400 7200 3600000 172800
+ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041109 86400 7200 3600000 172800
 ps.	0	IN	NS	ps.cctld.authdns.ripe.net.
 ps.	0	IN	NS	ns1.pnina.ps.
 ps.	0	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.	0	IN	NS	rip.psg.com.
 ps.	0	IN	NS	fork.sth.dnsnode.net.
 ps.	0	IN	NS	bilal.pnina.ps.
 ps.	0	IN	NS	ps-ns.anycast.pch.net.
-ps.	0	IN	TXT	"Generation Time: 1744279311"
+ps.	0	IN	TXT	"Generation Time: 1744387305"
 01net.ps.	0	IN	NS	ns1.safebrands.fr.
 01net.ps.	0	IN	NS	ns2.safebrands.eu.
 01net.ps.	0	IN	NS	ns3.safebrands.com.
@@ -875,6 +875,8 @@ al-nassar.ps.	0	IN	NS	ns1.zone.ps.
 al-nassar.ps.	0	IN	NS	ns2.zone.ps.
 al-noor.ps.	0	IN	NS	ns1-panda.dl-cms.com.
 al-noor.ps.	0	IN	NS	ns2-panda.dl-cms.com.
+al-qasidtv.ps.	0	IN	NS	ns1.sederhost.com.
+al-qasidtv.ps.	0	IN	NS	ns2.sederhost.com.
 al-raed.ps.	0	IN	NS	ns1.inmotionhosting.com.
 al-raed.ps.	0	IN	NS	ns2.inmotionhosting.com.
 al-razi.ps.	0	IN	NS	ns2.i-net.ps.
@@ -1983,6 +1985,8 @@ aocs.ps.	0	IN	NS	ns1.myvhosting.com.
 aocs.ps.	0	IN	NS	ns2.myvhosting.com.
 aol.ps.	0	IN	NS	ns1.markmonitor.com.
 aol.ps.	0	IN	NS	ns3.markmonitor.com.
+aomeiyh.ps.	0	IN	NS	ns1.1233dns.com.
+aomeiyh.ps.	0	IN	NS	ns2.951dns.com.
 aowa.ps.	0	IN	NS	ns2.i-net.ps.
 aowa.ps.	0	IN	NS	ns4.i-net.ps.
 aowa.ps.	0	IN	NS	ns7.i-net.ps.
@@ -2380,6 +2384,9 @@ astellaspharma.ps.	0	IN	NS	ns6.markmonitor.com.
 astellaspharma.ps.	0	IN	NS	ns7.markmonitor.com.
 astemed.ps.	0	IN	NS	jill.ns.cloudflare.com.
 astemed.ps.	0	IN	NS	arturo.ns.cloudflare.com.
+astoria.ps.	0	IN	NS	ns1.i-net.ps.
+astoria.ps.	0	IN	NS	ns4.i-net.ps.
+astoria.ps.	0	IN	NS	ns7.i-net.ps.
 astra.ps.	0	IN	NS	ns1.astra.ps.
 astra.ps.	0	IN	NS	ns2.astra.ps.
 ns1.astra.ps.	0	IN	A	185.203.66.79
@@ -6449,6 +6456,8 @@ fprojects.ps.	0	IN	NS	ns1.fisvps.com.
 fprojects.ps.	0	IN	NS	ns2.fisvps.com.
 fragrance.ps.	0	IN	NS	terry.ns.cloudflare.com.
 fragrance.ps.	0	IN	NS	tricia.ns.cloudflare.com.
+franji.ps.	0	IN	NS	ns271.websitewelcome.com.
+franji.ps.	0	IN	NS	ns272.websitewelcome.com.
 franke.ps.	0	IN	NS	a.portsdns.se.
 franke.ps.	0	IN	NS	b.portsdns.net.
 freebalance.ps.	0	IN	NS	ns1.101domain.com.
@@ -7101,8 +7110,6 @@ greenhouse.ps.	0	IN	NS	ns1.pts-services.online.
 greenhouse.ps.	0	IN	NS	ns2.pts-services.online.
 greenleaves.ps.	0	IN	NS	cloe.ns.cloudflare.com.
 greenleaves.ps.	0	IN	NS	todd.ns.cloudflare.com.
-greenlife.ps.	0	IN	NS	nscp3.furrera.ps.
-greenlife.ps.	0	IN	NS	nscp4.furrera.ps.
 greenmangaming.ps.	0	IN	NS	ns-30.awsdns-03.com.
 greenmangaming.ps.	0	IN	NS	ns-881.awsdns-46.net.
 greenmangaming.ps.	0	IN	NS	ns-1693.awsdns-19.co.uk.
@@ -7641,8 +7648,8 @@ hiopos.ps.	0	IN	NS	ns1.bdm.microsoftonline.com.
 hiopos.ps.	0	IN	NS	ns2.bdm.microsoftonline.com.
 hiopos.ps.	0	IN	NS	ns3.bdm.microsoftonline.com.
 hiopos.ps.	0	IN	NS	ns4.bdm.microsoftonline.com.
-hirbawi.ps.	0	IN	NS	ns1.jimdo.com.
-hirbawi.ps.	0	IN	NS	ns2.jimdo.com.
+hirbawi.ps.	0	IN	NS	ns13.jimdo.com.
+hirbawi.ps.	0	IN	NS	ns14.jimdo.com.
 hire.ps.	0	IN	NS	ns1.bluetd.com.
 hire.ps.	0	IN	NS	ns2.bluetd.com.
 hisamitsu.ps.	0	IN	NS	rns1.rightsdns.com.
@@ -8723,6 +8730,8 @@ jcdecaux.ps.	0	IN	NS	ns3.nameshield.net.
 jcdecaux.ps.	0	IN	NS	obs.ns1.fr.
 jcic.ps.	0	IN	NS	nscp1.intertech-pal.com.
 jcic.ps.	0	IN	NS	nscp2.intertech-pal.com.
+jcp.ps.	0	IN	NS	ns60.mistrosoft.org.
+jcp.ps.	0	IN	NS	ns61.mistrosoft.org.
 jdc.ps.	0	IN	NS	ns1.bdm.microsoftonline.com.
 jdc.ps.	0	IN	NS	ns2.bdm.microsoftonline.com.
 jdcloud.ps.	0	IN	NS	ns1.brandcloudns.com.
@@ -9128,8 +9137,9 @@ ketcake.ps.	0	IN	NS	ns3.digitalocean.com.
 keter.ps.	0	IN	NS	dns.netvision.net.il.
 keter.ps.	0	IN	NS	eupop.netvision.net.il.
 keter.ps.	0	IN	NS	nypop.netvision.net.il.
-kewi.ps.	0	IN	NS	ns1.sederhost.com.
-kewi.ps.	0	IN	NS	ns2.sederhost.com.
+kewi.ps.	0	IN	NS	ns1.digitalocean.com.
+kewi.ps.	0	IN	NS	ns2.digitalocean.com.
+kewi.ps.	0	IN	NS	ns3.digitalocean.com.
 kfc.ps.	0	IN	NS	skip.ns.cloudflare.com.
 kfc.ps.	0	IN	NS	rayne.ns.cloudflare.com.
 khader.ps.	0	IN	NS	ns1.i-net.ps.
@@ -9953,6 +9963,8 @@ mail.ps.	0	IN	NS	ns1.pnina.ps.
 mail.ps.	0	IN	NS	ns2.pnina.ps.
 mailarabia.ps.	0	IN	NS	ns1.associated.co.uk.
 mailarabia.ps.	0	IN	NS	ns2.anlremote.com.
+mailbox.ps.	0	IN	NS	chris.ns.cloudflare.com.
+mailbox.ps.	0	IN	NS	gemma.ns.cloudflare.com.
 mailchimp.ps.	0	IN	NS	ns1.markmonitor.com.
 mailchimp.ps.	0	IN	NS	ns2.markmonitor.com.
 mailchimp.ps.	0	IN	NS	ns3.markmonitor.com.
@@ -10447,6 +10459,8 @@ mecc.ps.	0	IN	NS	gwen.ns.cloudflare.com.
 mecc.ps.	0	IN	NS	lars.ns.cloudflare.com.
 meco.ps.	0	IN	NS	ns271.websitewelcome.com.
 meco.ps.	0	IN	NS	ns272.websitewelcome.com.
+med.ps.	0	IN	NS	ns271.websitewelcome.com.
+med.ps.	0	IN	NS	ns272.websitewelcome.com.
 media24.ps.	0	IN	NS	ullis.ns.cloudflare.com.
 media24.ps.	0	IN	NS	memphis.ns.cloudflare.com.
 mediaclinic.ps.	0	IN	NS	dns2021a.trouble-free.net.
@@ -13731,6 +13745,8 @@ ppiu.ps.	0	IN	NS	ns2.leg-des.com.
 ppo.ps.	0	IN	NS	dns3.gov.ps.
 ppo.ps.	0	IN	NS	dns4.pna.ps.
 ppo.ps.	0	IN	NS	dns5.gov.ps.
+ppost.ps.	0	IN	NS	dawn.ns.cloudflare.com.
+ppost.ps.	0	IN	NS	gerald.ns.cloudflare.com.
 ppp.ps.	0	IN	NS	ines.ns.cloudflare.com.
 ppp.ps.	0	IN	NS	norm.ns.cloudflare.com.
 pproxy.ps.	0	IN	NS	ns1-cat.dl-cms.com.
@@ -14005,9 +14021,6 @@ putc.ps.	0	IN	NS	cdns1.hadara.ps.
 putc.ps.	0	IN	NS	cdns2.hadara.ps.
 putlocker.ps.	0	IN	NS	jobs.ns.cloudflare.com.
 putlocker.ps.	0	IN	NS	serenity.ns.cloudflare.com.
-putlockers.ps.	0	IN	NS	1-you.njalla.no.
-putlockers.ps.	0	IN	NS	2-can.njalla.in.
-putlockers.ps.	0	IN	NS	3-get.njalla.fo.
 puur.ps.	0	IN	NS	ns01.hostnet.nl.
 puur.ps.	0	IN	NS	ns02.hostnet.nl.
 puzzle.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -16938,6 +16951,8 @@ technopal.ps.	0	IN	NS	ns1.bluetd.com.
 technopal.ps.	0	IN	NS	ns2.bluetd.com.
 technopark.ps.	0	IN	NS	ines.ns.cloudflare.com.
 technopark.ps.	0	IN	NS	norm.ns.cloudflare.com.
+technotime.ps.	0	IN	NS	plesk8700a.trouble-free.net.
+technotime.ps.	0	IN	NS	plesk8700b.trouble-free.net.
 techpark.ps.	0	IN	NS	nscp1.intertech-pal.com.
 techpark.ps.	0	IN	NS	nscp2.intertech-pal.com.
 techplus.ps.	0	IN	NS	ns2.i-net.ps.
