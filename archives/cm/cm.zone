@@ -1,4 +1,4 @@
-cm.	0	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025041117 600 300 1209600 3600
+cm.	0	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025041222 600 300 1209600 3600
 cm.	0	IN	A	195.24.205.60
 cm.	0	IN	NS	ns.itu.ch.
 cm.	0	IN	NS	ns1.nic.cm.
@@ -7,7 +7,7 @@ cm.	0	IN	NS	ns-cm.nic.fr.
 cm.	0	IN	NS	ns-cm.afrinic.net.
 cm.	0	IN	NS	auth02.ns.uu.net.
 cm.	0	IN	NS	phloem.uoregon.edu.
-cm.	0	IN	TXT	"Generation Time: 1744396739"
+cm.	0	IN	TXT	"Generation Time: 1744495217"
 cm.	0	IN	DNSKEY	256 3 13 B9O3F8sodSg5Vt06RUXiotZY+6gLNIhr5Rjw0UTkVVEhgoP8RueMAdJ6QSvkwhGb63TLhy1ARVlSlRJaujV0CA== ;{id = 22195 (zsk), size = 256b}
 cm.	0	IN	DNSKEY	257 3 13 Fp8RlfJF9UpaYW+kQ+ktUBNMIONeLML9HBhq5YJwaQoIly/J5FbC6Cv5PHSpmAwXuq9NK/PXtO7rijw04OPk8g== ;{id = 45784 (ksk), size = 256b}
 cm.	0	IN	NSEC3PARAM	1 0 0 - 
@@ -75,6 +75,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 001444.cm.	0	IN	NS	ns2.netsto.net.
 0015.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 0015.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+00163.cm.	0	IN	NS	ns1.netsto.net.
+00163.cm.	0	IN	NS	ns2.netsto.net.
 0019.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 0019.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 00193.cm.	0	IN	NS	ns1.netsto.net.
@@ -205,6 +207,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 00954.cm.	0	IN	NS	ns2.netsto.net.
 0099.cm.	0	IN	NS	ns1.netsto.net.
 0099.cm.	0	IN	NS	ns2.netsto.net.
+00998.cm.	0	IN	NS	ns1.netsto.net.
+00998.cm.	0	IN	NS	ns2.netsto.net.
 009bet.cm.	0	IN	NS	ns1.alidns.com.
 009bet.cm.	0	IN	NS	ns2.alidns.com.
 00bet.cm.	0	IN	NS	ns1.netsto.net.
@@ -317,6 +321,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 01398.cm.	0	IN	NS	ns2.netsto.net.
 014.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 014.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
+01456.cm.	0	IN	NS	ns1.netsto.net.
+01456.cm.	0	IN	NS	ns2.netsto.net.
 0149.cm.	0	IN	NS	ns1.alidns.com.
 0149.cm.	0	IN	NS	ns2.alidns.com.
 0149001.cm.	0	IN	NS	ns1.alidns.com.
@@ -422,8 +428,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 01946.cm.	0	IN	NS	ns2.netsto.net.
 01bz.cm.	0	IN	NS	ns1.alidns.com.
 01bz.cm.	0	IN	NS	ns2.alidns.com.
-01jihua.cm.	0	IN	NS	ns1.netsto.net.
-01jihua.cm.	0	IN	NS	ns2.netsto.net.
 01zb.cm.	0	IN	NS	ns1.alidns.com.
 01zb.cm.	0	IN	NS	ns2.alidns.com.
 02.cm.	0	IN	NS	dns1.name-services.com.
@@ -958,6 +962,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 085004.cm.	0	IN	NS	ns2.netsto.net.
 085146.cm.	0	IN	NS	ns1.alidns.com.
 085146.cm.	0	IN	NS	ns2.alidns.com.
+0853.cm.	0	IN	NS	gail.ns.cloudflare.com.
+0853.cm.	0	IN	NS	clayton.ns.cloudflare.com.
 08555.cm.	0	IN	NS	ns1.netsto.net.
 08555.cm.	0	IN	NS	ns2.netsto.net.
 08556.cm.	0	IN	NS	ns1.netsto.net.
@@ -1153,6 +1159,14 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 100percentpure.cm.	0	IN	NS	ns2.adtraks.com.
 101.cm.	0	IN	NS	dale.ns.cloudflare.com.
 101.cm.	0	IN	NS	nelly.ns.cloudflare.com.
+1010.cm.	0	IN	NS	ns1.netsto.net.
+1010.cm.	0	IN	NS	ns2.netsto.net.
+1011.cm.	0	IN	NS	ns1.netsto.net.
+1011.cm.	0	IN	NS	ns2.netsto.net.
+1016.cm.	0	IN	NS	ns1.netsto.net.
+1016.cm.	0	IN	NS	ns2.netsto.net.
+1018.cm.	0	IN	NS	ns1.netsto.net.
+1018.cm.	0	IN	NS	ns2.netsto.net.
 101802.cm.	0	IN	NS	ns1.netsto.net.
 101802.cm.	0	IN	NS	ns2.netsto.net.
 101cp.cm.	0	IN	NS	ns1.netsto.net.
@@ -1165,6 +1179,10 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 101kyty.cm.	0	IN	NS	ns2.netsto.net.
 102.cm.	0	IN	NS	hertz.ddddns.net.
 102.cm.	0	IN	NS	vince.ddddns.net.
+1020.cm.	0	IN	NS	ns1.netsto.net.
+1020.cm.	0	IN	NS	ns2.netsto.net.
+1022.cm.	0	IN	NS	ns1.netsto.net.
+1022.cm.	0	IN	NS	ns2.netsto.net.
 10222.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 10222.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 102223.cm.	0	IN	NS	ns1.netsto.net.
@@ -1177,22 +1195,32 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1024xp.cm.	0	IN	NS	ns2.alidns.com.
 102509.cm.	0	IN	NS	ns1.netsto.net.
 102509.cm.	0	IN	NS	ns2.netsto.net.
+1026.cm.	0	IN	NS	ns1.netsto.net.
+1026.cm.	0	IN	NS	ns2.netsto.net.
 10273.cm.	0	IN	NS	n1.xundns.com.
 10273.cm.	0	IN	NS	n2.xundns.com.
 1028.cm.	0	IN	NS	ns1.netsto.net.
 1028.cm.	0	IN	NS	ns2.netsto.net.
 103.cm.	0	IN	NS	hertz.ddddns.net.
 103.cm.	0	IN	NS	vince.ddddns.net.
+1030.cm.	0	IN	NS	ns1.netsto.net.
+1030.cm.	0	IN	NS	ns2.netsto.net.
+1033.cm.	0	IN	NS	ns1.netsto.net.
+1033.cm.	0	IN	NS	ns2.netsto.net.
 103554.cm.	0	IN	NS	ns1.alidns.com.
 103554.cm.	0	IN	NS	ns2.alidns.com.
 1036.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1036.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 1037.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1037.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+1038.cm.	0	IN	NS	ns1.netsto.net.
+1038.cm.	0	IN	NS	ns2.netsto.net.
 104.cm.	0	IN	NS	hertz.ddddns.net.
 104.cm.	0	IN	NS	vince.ddddns.net.
 1040.cm.	0	IN	NS	ns1.ii51.parklogic.com.
 1040.cm.	0	IN	NS	ns2.ii51.parklogic.com.
+1044.cm.	0	IN	NS	ns1.netsto.net.
+1044.cm.	0	IN	NS	ns2.netsto.net.
 1048.cm.	0	IN	NS	ns1.netsto.net.
 1048.cm.	0	IN	NS	ns2.netsto.net.
 105.cm.	0	IN	NS	jakub.ns.cloudflare.com.
@@ -1221,24 +1249,34 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1056775.cm.	0	IN	NS	ns2.alidns.com.
 10567788.cm.	0	IN	NS	ns1.alidns.com.
 10567788.cm.	0	IN	NS	ns2.alidns.com.
+1058.cm.	0	IN	NS	ns1.netsto.net.
+1058.cm.	0	IN	NS	ns2.netsto.net.
 105av.cm.	0	IN	NS	ns1.dnsdal.com.
 105av.cm.	0	IN	NS	ns2.dnsdal.com.
 106.cm.	0	IN	NS	hertz.ddddns.net.
 106.cm.	0	IN	NS	vince.ddddns.net.
+1060.cm.	0	IN	NS	ns1.netsto.net.
+1060.cm.	0	IN	NS	ns2.netsto.net.
 1062.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1062.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 1066.cm.	0	IN	NS	sevki.ns.cloudflare.com.
 1066.cm.	0	IN	NS	autumn.ns.cloudflare.com.
+1068.cm.	0	IN	NS	ns1.netsto.net.
+1068.cm.	0	IN	NS	ns2.netsto.net.
 106w3.cm.	0	IN	NS	ns1.alidns.com.
 106w3.cm.	0	IN	NS	ns2.alidns.com.
 106w9.cm.	0	IN	NS	ns1.alidns.com.
 106w9.cm.	0	IN	NS	ns2.alidns.com.
 107.cm.	0	IN	NS	ns1.dan.com.
 107.cm.	0	IN	NS	ns2.dan.com.
+1070.cm.	0	IN	NS	ns1.netsto.net.
+1070.cm.	0	IN	NS	ns2.netsto.net.
 107366.cm.	0	IN	NS	ns1.netsto.net.
 107366.cm.	0	IN	NS	ns2.netsto.net.
 1076.cm.	0	IN	NS	ns1.alidns.com.
 1076.cm.	0	IN	NS	ns2.alidns.com.
+1077.cm.	0	IN	NS	ns1.netsto.net.
+1077.cm.	0	IN	NS	ns2.netsto.net.
 107700.cm.	0	IN	NS	ns1.netsto.net.
 107700.cm.	0	IN	NS	ns2.netsto.net.
 107733.cm.	0	IN	NS	ns1.netsto.net.
@@ -1247,6 +1285,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1079.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 108.cm.	0	IN	NS	ns1.4.cn.
 108.cm.	0	IN	NS	ns2.4.cn.
+1080.cm.	0	IN	NS	ns1.netsto.net.
+1080.cm.	0	IN	NS	ns2.netsto.net.
 1081.cm.	0	IN	NS	ns1.alidns.com.
 1081.cm.	0	IN	NS	ns2.alidns.com.
 1081088.cm.	0	IN	NS	ns1.netsto.net.
@@ -1265,14 +1305,48 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1088hg.cm.	0	IN	NS	ns2.netsto.net.
 109.cm.	0	IN	NS	ns1.4.cn.
 109.cm.	0	IN	NS	ns2.4.cn.
+1090.cm.	0	IN	NS	ns1.netsto.net.
+1090.cm.	0	IN	NS	ns2.netsto.net.
 1095.cm.	0	IN	NS	ns1.alidns.com.
 1095.cm.	0	IN	NS	ns2.alidns.com.
+1099.cm.	0	IN	NS	ns1.netsto.net.
+1099.cm.	0	IN	NS	ns2.netsto.net.
+10a.cm.	0	IN	NS	ns1.netsto.net.
+10a.cm.	0	IN	NS	ns2.netsto.net.
 10aa.cm.	0	IN	NS	ns1.netsto.net.
 10aa.cm.	0	IN	NS	ns2.netsto.net.
+10b.cm.	0	IN	NS	ns1.netsto.net.
+10b.cm.	0	IN	NS	ns2.netsto.net.
 10bet.cm.	0	IN	NS	ns1.netsto.net.
 10bet.cm.	0	IN	NS	ns2.netsto.net.
+10c.cm.	0	IN	NS	ns1.netsto.net.
+10c.cm.	0	IN	NS	ns2.netsto.net.
+10d.cm.	0	IN	NS	ns1.netsto.net.
+10d.cm.	0	IN	NS	ns2.netsto.net.
+10e.cm.	0	IN	NS	ns1.netsto.net.
+10e.cm.	0	IN	NS	ns2.netsto.net.
+10f.cm.	0	IN	NS	ns1.netsto.net.
+10f.cm.	0	IN	NS	ns2.netsto.net.
+10g.cm.	0	IN	NS	ns1.netsto.net.
+10g.cm.	0	IN	NS	ns2.netsto.net.
+10h.cm.	0	IN	NS	ns1.netsto.net.
+10h.cm.	0	IN	NS	ns2.netsto.net.
+10i.cm.	0	IN	NS	ns1.netsto.net.
+10i.cm.	0	IN	NS	ns2.netsto.net.
+10k.cm.	0	IN	NS	ns1.netsto.net.
+10k.cm.	0	IN	NS	ns2.netsto.net.
 10minutemail.cm.	0	IN	NS	ns1.hastydns.com.
 10minutemail.cm.	0	IN	NS	ns2.hastydns.com.
+10s.cm.	0	IN	NS	ns1.netsto.net.
+10s.cm.	0	IN	NS	ns2.netsto.net.
+10t.cm.	0	IN	NS	ns1.netsto.net.
+10t.cm.	0	IN	NS	ns2.netsto.net.
+10ty.cm.	0	IN	NS	ns1.netsto.net.
+10ty.cm.	0	IN	NS	ns2.netsto.net.
+10u.cm.	0	IN	NS	ns1.netsto.net.
+10u.cm.	0	IN	NS	ns2.netsto.net.
+10vip.cm.	0	IN	NS	ns1.netsto.net.
+10vip.cm.	0	IN	NS	ns2.netsto.net.
 11.cm.	0	IN	NS	ns1.4.cn.
 11.cm.	0	IN	NS	ns2.4.cn.
 110.cm.	0	IN	NS	ns1.4.cn.
@@ -1285,6 +1359,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 111.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 11105.cm.	0	IN	NS	ns1.netsto.net.
 11105.cm.	0	IN	NS	ns2.netsto.net.
+11106.cm.	0	IN	NS	ns1.netsto.net.
+11106.cm.	0	IN	NS	ns2.netsto.net.
 1111.cm.	0	IN	NS	dean.ns.cloudflare.com.
 1111.cm.	0	IN	NS	rose.ns.cloudflare.com.
 11110.cm.	0	IN	NS	park1.ndns.cn.
@@ -1299,6 +1375,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1111qp.cm.	0	IN	NS	ns2.dnsip.com.
 11122.cm.	0	IN	NS	ns1.netsto.net.
 11122.cm.	0	IN	NS	ns2.netsto.net.
+11124.cm.	0	IN	NS	ns1.netsto.net.
+11124.cm.	0	IN	NS	ns2.netsto.net.
 1112468.cm.	0	IN	NS	ns1.netsto.net.
 1112468.cm.	0	IN	NS	ns2.netsto.net.
 111300.cm.	0	IN	NS	ns1.netsto.net.
@@ -1309,6 +1387,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 111333.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 1115303.cm.	0	IN	NS	ns1.alidns.com.
 1115303.cm.	0	IN	NS	ns2.alidns.com.
+11157.cm.	0	IN	NS	ns1.netsto.net.
+11157.cm.	0	IN	NS	ns2.netsto.net.
 1116.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1116.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 11163aa.cm.	0	IN	NS	ns1.netsto.net.
@@ -1357,6 +1437,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 112488.cm.	0	IN	NS	ns2.alidns.com.
 1125.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1125.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+11255.cm.	0	IN	NS	ns1.netsto.net.
+11255.cm.	0	IN	NS	ns2.netsto.net.
 113.cm.	0	IN	NS	hertz.ddddns.net.
 113.cm.	0	IN	NS	vince.ddddns.net.
 113015.cm.	0	IN	NS	ns1.dnsip.com.
@@ -1367,14 +1449,14 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1133.cm.	0	IN	NS	ns2.netsto.net.
 11333.cm.	0	IN	NS	ns1.netsto.net.
 11333.cm.	0	IN	NS	ns2.netsto.net.
-11338.cm.	0	IN	NS	ns1.netsto.net.
-11338.cm.	0	IN	NS	ns2.netsto.net.
 1133wns.cm.	0	IN	NS	ns1.netsto.net.
 1133wns.cm.	0	IN	NS	ns2.netsto.net.
 1136.cm.	0	IN	NS	ns1.netsto.net.
 1136.cm.	0	IN	NS	ns2.netsto.net.
 11365.cm.	0	IN	NS	ns6.netsto.net.
 11365.cm.	0	IN	NS	ns7.netsto.net.
+11369.cm.	0	IN	NS	ns1.netsto.net.
+11369.cm.	0	IN	NS	ns2.netsto.net.
 1137.cm.	0	IN	NS	ns6.netsto.net.
 1137.cm.	0	IN	NS	ns7.netsto.net.
 11384.cm.	0	IN	NS	ns1.alidns.com.
@@ -1521,6 +1603,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 11m12.cm.	0	IN	NS	ns2.alidns.com.
 11qp.cm.	0	IN	NS	ns1.dnsip.com.
 11qp.cm.	0	IN	NS	ns2.dnsip.com.
+11tk.cm.	0	IN	NS	ns1.netsto.net.
+11tk.cm.	0	IN	NS	ns2.netsto.net.
 11ty.cm.	0	IN	NS	ns6.netsto.net.
 11ty.cm.	0	IN	NS	ns7.netsto.net.
 11win.cm.	0	IN	NS	ns6.netsto.net.
@@ -1846,6 +1930,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1413.cm.	0	IN	NS	ns7.netsto.net.
 1414081.cm.	0	IN	NS	ns1.netsto.net.
 1414081.cm.	0	IN	NS	ns2.netsto.net.
+14163.cm.	0	IN	NS	ns1.netsto.net.
+14163.cm.	0	IN	NS	ns2.netsto.net.
 14165.cm.	0	IN	NS	ns1.netsto.net.
 14165.cm.	0	IN	NS	ns2.netsto.net.
 142.cm.	0	IN	NS	jakub.ns.cloudflare.com.
@@ -1944,8 +2030,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 15222.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 1525.cm.	0	IN	NS	ns1.alidns.com.
 1525.cm.	0	IN	NS	ns2.alidns.com.
-152631.cm.	0	IN	NS	ns1.netsto.net.
-152631.cm.	0	IN	NS	ns2.netsto.net.
 1527.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1527.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 152889.cm.	0	IN	NS	ns6.netsto.net.
@@ -2068,8 +2152,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 162299.cm.	0	IN	NS	ns2.alidns.com.
 1624.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 1624.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-162kk.cm.	0	IN	NS	ns1.netsto.net.
-162kk.cm.	0	IN	NS	ns2.netsto.net.
 163.cm.	0	IN	NS	ns1.dns.com.
 163.cm.	0	IN	NS	ns2.dns.com.
 1630.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -2164,8 +2246,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1689614.cm.	0	IN	NS	ns2.alidns.com.
 1689684.cm.	0	IN	NS	ns1.alidns.com.
 1689684.cm.	0	IN	NS	ns2.alidns.com.
-168cp.cm.	0	IN	NS	ns1.netsto.net.
-168cp.cm.	0	IN	NS	ns2.netsto.net.
 168fa.cm.	0	IN	NS	ns1.netsto.net.
 168fa.cm.	0	IN	NS	ns2.netsto.net.
 168kj.cm.	0	IN	NS	ns1.netsto.net.
@@ -2530,8 +2610,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 195z195.cm.	0	IN	NS	ns2.alidns.com.
 196.cm.	0	IN	NS	ns1.netsto.net.
 196.cm.	0	IN	NS	ns2.netsto.net.
-19616.cm.	0	IN	NS	ns1.netsto.net.
-19616.cm.	0	IN	NS	ns2.netsto.net.
 1963.cm.	0	IN	NS	v1s1.xundns.com.
 1963.cm.	0	IN	NS	v1s2.xundns.com.
 1963303.cm.	0	IN	NS	ns1.netsto.net.
@@ -2540,16 +2618,18 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1965050.cm.	0	IN	NS	ns2.alidns.com.
 1965051.cm.	0	IN	NS	ns1.alidns.com.
 1965051.cm.	0	IN	NS	ns2.alidns.com.
+1966.cm.	0	IN	NS	ns1.netsto.net.
+1966.cm.	0	IN	NS	ns2.netsto.net.
 1966602.cm.	0	IN	NS	ns1.alidns.com.
 1966602.cm.	0	IN	NS	ns2.alidns.com.
+196yh.cm.	0	IN	NS	ns1.netsto.net.
+196yh.cm.	0	IN	NS	ns2.netsto.net.
 197.cm.	0	IN	NS	hertz.ddddns.net.
 197.cm.	0	IN	NS	vince.ddddns.net.
 19775312.cm.	0	IN	NS	ns1.alidns.com.
 19775312.cm.	0	IN	NS	ns2.alidns.com.
 19789.cm.	0	IN	NS	ns1.netsto.net.
 19789.cm.	0	IN	NS	ns2.netsto.net.
-197eee.cm.	0	IN	NS	ns1.netsto.net.
-197eee.cm.	0	IN	NS	ns2.netsto.net.
 198.cm.	0	IN	NS	john.ns.cloudflare.com.
 198.cm.	0	IN	NS	jocelyn.ns.cloudflare.com.
 198308.cm.	0	IN	NS	ns1.alidns.com.
@@ -2615,8 +2695,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 1e.cm.	0	IN	NS	clark.ns.cloudflare.com.
 1f.cm.	0	IN	NS	ns01.serverspace.io.
 1f.cm.	0	IN	NS	ns02.serverspace.io.
-1fcw888.cm.	0	IN	NS	ns1.netsto.net.
-1fcw888.cm.	0	IN	NS	ns2.netsto.net.
 1giftbet.cm.	0	IN	NS	dave.ns.cloudflare.com.
 1giftbet.cm.	0	IN	NS	mona.ns.cloudflare.com.
 1h.cm.	0	IN	NS	ns1.netsto.net.
@@ -2800,8 +2878,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 2015aa.cm.	0	IN	NS	ns2.alidns.com.
 2015bb.cm.	0	IN	NS	ns1.alidns.com.
 2015bb.cm.	0	IN	NS	ns2.alidns.com.
-2015vv.cm.	0	IN	NS	ns1.alidns.com.
-2015vv.cm.	0	IN	NS	ns2.alidns.com.
 2016.cm.	0	IN	NS	ns6.netsto.net.
 2016.cm.	0	IN	NS	ns7.netsto.net.
 2016jsjt.cm.	0	IN	NS	ns1.netsto.net.
@@ -2924,6 +3000,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 2093.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 2094.cm.	0	IN	NS	ns6.netsto.net.
 2094.cm.	0	IN	NS	ns7.netsto.net.
+20980.cm.	0	IN	NS	ns1.netsto.net.
+20980.cm.	0	IN	NS	ns2.netsto.net.
 2099.cm.	0	IN	NS	ns1.alidns.com.
 2099.cm.	0	IN	NS	ns2.alidns.com.
 2099004.cm.	0	IN	NS	ns1.alidns.com.
@@ -2966,8 +3044,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 2111.cm.	0	IN	NS	ns2.netsto.net.
 211567.cm.	0	IN	NS	ns1.netsto.net.
 211567.cm.	0	IN	NS	ns2.netsto.net.
-21165.cm.	0	IN	NS	ns1.netsto.net.
-21165.cm.	0	IN	NS	ns2.netsto.net.
 2117.cm.	0	IN	NS	ns6.netsto.net.
 2117.cm.	0	IN	NS	ns7.netsto.net.
 211766.cm.	0	IN	NS	ns1.netsto.net.
@@ -2984,8 +3060,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 2121.cm.	0	IN	NS	ns2.netsto.net.
 212120.cm.	0	IN	NS	ns1.alidns.com.
 212120.cm.	0	IN	NS	ns2.alidns.com.
-21213412.cm.	0	IN	NS	ns1.alidns.com.
-21213412.cm.	0	IN	NS	ns2.alidns.com.
 21215.cm.	0	IN	NS	ns1.netsto.net.
 21215.cm.	0	IN	NS	ns2.netsto.net.
 21218.cm.	0	IN	NS	ns1.netsto.net.
@@ -3075,8 +3149,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 22138.cm.	0	IN	NS	v1s2.xundns.com.
 22177.cm.	0	IN	NS	ns1.netsto.net.
 22177.cm.	0	IN	NS	ns2.netsto.net.
-221782.cm.	0	IN	NS	ns1.netsto.net.
-221782.cm.	0	IN	NS	ns2.netsto.net.
 221922.cm.	0	IN	NS	ns1.alidns.com.
 221922.cm.	0	IN	NS	ns2.alidns.com.
 221vn.cm.	0	IN	NS	ns1.alidns.com.
@@ -3321,6 +3393,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 23615.cm.	0	IN	NS	ns2.alidns.com.
 2365.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 2365.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+23650.cm.	0	IN	NS	ns1.netsto.net.
+23650.cm.	0	IN	NS	ns2.netsto.net.
 236pp.cm.	0	IN	NS	ns1.alidns.com.
 236pp.cm.	0	IN	NS	ns2.alidns.com.
 237.cm.	0	IN	NS	ns1.dan.com.
@@ -3354,6 +3428,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 238.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 2383.cm.	0	IN	NS	ns1.netsto.net.
 2383.cm.	0	IN	NS	ns2.netsto.net.
+23855.cm.	0	IN	NS	ns1.netsto.net.
+23855.cm.	0	IN	NS	ns2.netsto.net.
 23866.cm.	0	IN	NS	ns1.alidns.com.
 23866.cm.	0	IN	NS	ns2.alidns.com.
 239.cm.	0	IN	NS	ns1.dan.com.
@@ -3585,6 +3661,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 26.cm.	0	IN	NS	vince.ddddns.net.
 260.cm.	0	IN	NS	hertz.ddddns.net.
 260.cm.	0	IN	NS	vince.ddddns.net.
+26067.cm.	0	IN	NS	ns1.netsto.net.
+26067.cm.	0	IN	NS	ns2.netsto.net.
 261.cm.	0	IN	NS	ns1.dan.com.
 261.cm.	0	IN	NS	ns2.dan.com.
 2612.cm.	0	IN	NS	ns6.netsto.net.
@@ -3640,6 +3718,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 26724.cm.	0	IN	NS	ns2.alidns.com.
 267299.cm.	0	IN	NS	ns1.alidns.com.
 267299.cm.	0	IN	NS	ns2.alidns.com.
+26730.cm.	0	IN	NS	ns1.netsto.net.
+26730.cm.	0	IN	NS	ns2.netsto.net.
 2677.cm.	0	IN	NS	ns1.netsto.net.
 2677.cm.	0	IN	NS	ns2.netsto.net.
 2678.cm.	0	IN	NS	ns1.netsto.net.
@@ -3904,8 +3984,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 29548.cm.	0	IN	NS	n2.xundns.com.
 296.cm.	0	IN	NS	hertz.ddddns.net.
 296.cm.	0	IN	NS	vince.ddddns.net.
-29660qq.cm.	0	IN	NS	ns1.alidns.com.
-29660qq.cm.	0	IN	NS	ns2.alidns.com.
 297.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 297.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 29761.cm.	0	IN	NS	ns1.netsto.net.
@@ -4104,6 +4182,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 3004.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 301.cm.	0	IN	NS	ns1.parkingcrew.net.
 301.cm.	0	IN	NS	ns2.parkingcrew.net.
+30100.cm.	0	IN	NS	ns1.netsto.net.
+30100.cm.	0	IN	NS	ns2.netsto.net.
 3011.cm.	0	IN	NS	erin.ns.cloudflare.com.
 3011.cm.	0	IN	NS	luke.ns.cloudflare.com.
 3011g3011.cm.	0	IN	NS	ns1.alidns.com.
@@ -4144,6 +4224,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 3032.cm.	0	IN	NS	ns7.netsto.net.
 3033.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 3033.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+30345.cm.	0	IN	NS	ns1.netsto.net.
+30345.cm.	0	IN	NS	ns2.netsto.net.
 3037.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 3037.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 3038.cm.	0	IN	NS	ns1.netsto.net.
@@ -4152,8 +4234,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 3039.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 3039a.cm.	0	IN	NS	ns6.netsto.net.
 3039a.cm.	0	IN	NS	ns7.netsto.net.
-303hh.cm.	0	IN	NS	ns1.netsto.net.
-303hh.cm.	0	IN	NS	ns2.netsto.net.
 304.cm.	0	IN	NS	ns1.parkingcrew.net.
 304.cm.	0	IN	NS	ns2.parkingcrew.net.
 3041.cm.	0	IN	NS	ns6.netsto.net.
@@ -4306,6 +4386,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 319.cm.	0	IN	NS	vince.ddddns.net.
 31913.cm.	0	IN	NS	ns1.netsto.net.
 31913.cm.	0	IN	NS	ns2.netsto.net.
+31922.cm.	0	IN	NS	ns1.netsto.net.
+31922.cm.	0	IN	NS	ns2.netsto.net.
 3194.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 3194.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 3199.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -4348,6 +4430,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 322.cm.	0	IN	NS	vince.ddddns.net.
 322000.cm.	0	IN	NS	ns1.netsto.net.
 322000.cm.	0	IN	NS	ns2.netsto.net.
+32211.cm.	0	IN	NS	ns1.netsto.net.
+32211.cm.	0	IN	NS	ns2.netsto.net.
 3222.cm.	0	IN	NS	ns1.netsto.net.
 3222.cm.	0	IN	NS	ns2.netsto.net.
 322577.cm.	0	IN	NS	ns1.netsto.net.
@@ -4520,10 +4604,10 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 33333.cm.	0	IN	NS	ns2.netsto.net.
 3333qp.cm.	0	IN	NS	ns1.dns.com.
 3333qp.cm.	0	IN	NS	ns2.dns.com.
+33355.cm.	0	IN	NS	ns1.netsto.net.
+33355.cm.	0	IN	NS	ns2.netsto.net.
 333575.cm.	0	IN	NS	ns1.netsto.net.
 333575.cm.	0	IN	NS	ns2.netsto.net.
-333637.cm.	0	IN	NS	ns1.netsto.net.
-333637.cm.	0	IN	NS	ns2.netsto.net.
 33365.cm.	0	IN	NS	ns6.netsto.net.
 33365.cm.	0	IN	NS	ns7.netsto.net.
 33366.cm.	0	IN	NS	ns1.dns.com.
@@ -4544,6 +4628,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 3339393.cm.	0	IN	NS	ns2.netsto.net.
 33397.cm.	0	IN	NS	ns1.alidns.com.
 33397.cm.	0	IN	NS	ns2.alidns.com.
+333b.cm.	0	IN	NS	ns1.netsto.net.
+333b.cm.	0	IN	NS	ns2.netsto.net.
 333qp.cm.	0	IN	NS	ns1.dns.com.
 333qp.cm.	0	IN	NS	ns2.dns.com.
 333ty.cm.	0	IN	NS	ns6.netsto.net.
@@ -5022,8 +5108,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 365838.cm.	0	IN	NS	v1s2.xundns.com.
 36588.cm.	0	IN	NS	ns1.netsto.net.
 36588.cm.	0	IN	NS	ns2.netsto.net.
-365886.cm.	0	IN	NS	ns1.netsto.net.
-365886.cm.	0	IN	NS	ns2.netsto.net.
 365886xz0.cm.	0	IN	NS	ns1.netsto.net.
 365886xz0.cm.	0	IN	NS	ns2.netsto.net.
 365886xz1.cm.	0	IN	NS	ns1.netsto.net.
@@ -5082,8 +5166,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 365c.cm.	0	IN	NS	ns2.netsto.net.
 365cc.cm.	0	IN	NS	ns1.netsto.net.
 365cc.cm.	0	IN	NS	ns2.netsto.net.
-365com.cm.	0	IN	NS	ns1.netsto.net.
-365com.cm.	0	IN	NS	ns2.netsto.net.
 365d.cm.	0	IN	NS	ns1.netsto.net.
 365d.cm.	0	IN	NS	ns2.netsto.net.
 365dd.cm.	0	IN	NS	ns6.netsto.net.
@@ -5230,8 +5312,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 369748.cm.	0	IN	NS	ns7.netsto.net.
 3699.cm.	0	IN	NS	ns1.netsto.net.
 3699.cm.	0	IN	NS	ns2.netsto.net.
-36w7.cm.	0	IN	NS	ns1.alidns.com.
-36w7.cm.	0	IN	NS	ns2.alidns.com.
 37.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 37.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 370.cm.	0	IN	NS	hertz.ddddns.net.
@@ -5278,8 +5358,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 37384.cm.	0	IN	NS	ns2.alidns.com.
 374.cm.	0	IN	NS	ns1.parkingcrew.net.
 374.cm.	0	IN	NS	ns2.parkingcrew.net.
-374374.cm.	0	IN	NS	ns1.netsto.net.
-374374.cm.	0	IN	NS	ns2.netsto.net.
 375.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 375.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 37555.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -5366,8 +5444,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 3830999.cm.	0	IN	NS	ns2.alidns.com.
 38331.cm.	0	IN	NS	ns1.alidns.com.
 38331.cm.	0	IN	NS	ns2.alidns.com.
-383344.cm.	0	IN	NS	ns1.netsto.net.
-383344.cm.	0	IN	NS	ns2.netsto.net.
 3837.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 3837.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 3837a.cm.	0	IN	NS	ns1.netsto.net.
@@ -5911,8 +5987,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 417179.cm.	0	IN	NS	ns2.alidns.com.
 417575.cm.	0	IN	NS	ns1.netsto.net.
 417575.cm.	0	IN	NS	ns2.netsto.net.
-417gg1.cm.	0	IN	NS	ns1.netsto.net.
-417gg1.cm.	0	IN	NS	ns2.netsto.net.
 418.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 418.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 4184.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -5943,6 +6017,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 42055.cm.	0	IN	NS	ns2.dns.com.
 421.cm.	0	IN	NS	ns1.parkingcrew.net.
 421.cm.	0	IN	NS	ns2.parkingcrew.net.
+4213.cm.	0	IN	NS	ns1.netsto.net.
+4213.cm.	0	IN	NS	ns2.netsto.net.
 422.cm.	0	IN	NS	hertz.ddddns.net.
 422.cm.	0	IN	NS	vince.ddddns.net.
 422139.cm.	0	IN	NS	a3.share-dns.com.
@@ -6033,6 +6109,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 428.cm.	0	IN	NS	ns2.netsto.net.
 42862.cm.	0	IN	NS	ns1.netsto.net.
 42862.cm.	0	IN	NS	ns2.netsto.net.
+4288.cm.	0	IN	NS	ns1.netsto.net.
+4288.cm.	0	IN	NS	ns2.netsto.net.
 429.cm.	0	IN	NS	ns1.parkingcrew.net.
 429.cm.	0	IN	NS	ns2.parkingcrew.net.
 42928.cm.	0	IN	NS	ns1.alidns.com.
@@ -6187,6 +6265,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 4444kk.cm.	0	IN	NS	ns2.alidns.com.
 4444qp.cm.	0	IN	NS	ns1.dns.com.
 4444qp.cm.	0	IN	NS	ns2.dns.com.
+44459.cm.	0	IN	NS	ns1.netsto.net.
+44459.cm.	0	IN	NS	ns2.netsto.net.
 444666.cm.	0	IN	NS	ns1.dns.com.
 444666.cm.	0	IN	NS	ns2.dns.com.
 444720.cm.	0	IN	NS	ns1.netsto.net.
@@ -6255,6 +6335,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 4494.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 44955.cm.	0	IN	NS	ns1.netsto.net.
 44955.cm.	0	IN	NS	ns2.netsto.net.
+44962.cm.	0	IN	NS	ns1.netsto.net.
+44962.cm.	0	IN	NS	ns2.netsto.net.
 4499.cm.	0	IN	NS	ns1.netsto.net.
 4499.cm.	0	IN	NS	ns2.netsto.net.
 44bet.cm.	0	IN	NS	ns1.netsto.net.
@@ -6407,8 +6489,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 4656.cm.	0	IN	NS	ns2.netsto.net.
 4656app.cm.	0	IN	NS	ns1.netsto.net.
 4656app.cm.	0	IN	NS	ns2.netsto.net.
-4656kf.cm.	0	IN	NS	ns1.netsto.net.
-4656kf.cm.	0	IN	NS	ns2.netsto.net.
 466.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 466.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 4660.cm.	0	IN	NS	ns1.alidns.com.
@@ -6469,6 +6549,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 47294.cm.	0	IN	NS	ns2.alidns.com.
 473.cm.	0	IN	NS	ns1.parkingcrew.net.
 473.cm.	0	IN	NS	ns2.parkingcrew.net.
+47300.cm.	0	IN	NS	ns1.netsto.net.
+47300.cm.	0	IN	NS	ns2.netsto.net.
 474.cm.	0	IN	NS	ns1.4.cn.
 474.cm.	0	IN	NS	ns2.4.cn.
 47419.cm.	0	IN	NS	ns1.netsto.net.
@@ -6645,6 +6727,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 49.cm.	0	IN	NS	ns8.alidns.com.
 490.cm.	0	IN	NS	ns1.parkingcrew.net.
 490.cm.	0	IN	NS	ns2.parkingcrew.net.
+4900.cm.	0	IN	NS	ns1.netsto.net.
+4900.cm.	0	IN	NS	ns2.netsto.net.
 49000.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 49000.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 490491.cm.	0	IN	NS	ns1.netsto.net.
@@ -6757,6 +6841,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 4972.cm.	0	IN	NS	ns7.netsto.net.
 4975.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 4975.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+4978.cm.	0	IN	NS	ns1.netsto.net.
+4978.cm.	0	IN	NS	ns2.netsto.net.
 49789.cm.	0	IN	NS	ns1.netsto.net.
 49789.cm.	0	IN	NS	ns2.netsto.net.
 498.cm.	0	IN	NS	jakub.ns.cloudflare.com.
@@ -6793,6 +6879,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 49bbb.cm.	0	IN	NS	ns2.netsto.net.
 49ddd.cm.	0	IN	NS	ns1.netsto.net.
 49ddd.cm.	0	IN	NS	ns2.netsto.net.
+49df.cm.	0	IN	NS	ns1.netsto.net.
+49df.cm.	0	IN	NS	ns2.netsto.net.
 49eee.cm.	0	IN	NS	ns1.netsto.net.
 49eee.cm.	0	IN	NS	ns2.netsto.net.
 49ggg.cm.	0	IN	NS	ns1.netsto.net.
@@ -6841,6 +6929,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 49tu.cm.	0	IN	NS	ns2.netsto.net.
 49tuku.cm.	0	IN	NS	ns1.dnscu.com.
 49tuku.cm.	0	IN	NS	ns2.dnscu.com.
+49ty.cm.	0	IN	NS	ns1.netsto.net.
+49ty.cm.	0	IN	NS	ns2.netsto.net.
 49uuu.cm.	0	IN	NS	ns1.netsto.net.
 49uuu.cm.	0	IN	NS	ns2.netsto.net.
 49uw.cm.	0	IN	NS	ns1.netsto.net.
@@ -7085,6 +7175,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 51118126.cm.	0	IN	NS	ns2.alidns.com.
 511456.cm.	0	IN	NS	ns1.alidns.com.
 511456.cm.	0	IN	NS	ns2.alidns.com.
+5115.cm.	0	IN	NS	ns1.netsto.net.
+5115.cm.	0	IN	NS	ns2.netsto.net.
 511744.cm.	0	IN	NS	ns1.netsto.net.
 511744.cm.	0	IN	NS	ns2.netsto.net.
 511tactical.cm.	0	IN	NS	ns1.markmonitor.com.
@@ -7100,6 +7192,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 512.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 51222.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 51222.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+51234.cm.	0	IN	NS	ns1.netsto.net.
+51234.cm.	0	IN	NS	ns2.netsto.net.
 51234h1.cm.	0	IN	NS	ns1.alidns.com.
 51234h1.cm.	0	IN	NS	ns2.alidns.com.
 5129.cm.	0	IN	NS	ns1.netsto.net.
@@ -7654,8 +7748,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 5544.cm.	0	IN	NS	ns2.netsto.net.
 554458.cm.	0	IN	NS	ns1.alidns.com.
 554458.cm.	0	IN	NS	ns2.alidns.com.
-5546.cm.	0	IN	NS	ns1.netsto.net.
-5546.cm.	0	IN	NS	ns2.netsto.net.
 5548bg.cm.	0	IN	NS	ns1.netsto.net.
 5548bg.cm.	0	IN	NS	ns2.netsto.net.
 555.cm.	0	IN	NS	cow.dnspod.net.
@@ -8023,8 +8115,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 586611.cm.	0	IN	NS	ns2.alidns.com.
 5868.cm.	0	IN	NS	vip7.alidns.com.
 5868.cm.	0	IN	NS	vip8.alidns.com.
-586zz.cm.	0	IN	NS	ns1.netsto.net.
-586zz.cm.	0	IN	NS	ns2.netsto.net.
 587.cm.	0	IN	NS	hertz.ddddns.net.
 587.cm.	0	IN	NS	vince.ddddns.net.
 58777.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -8161,8 +8251,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 59888.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 5989.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 5989.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-598cw.cm.	0	IN	NS	ns1.netsto.net.
-598cw.cm.	0	IN	NS	ns2.netsto.net.
 599.cm.	0	IN	NS	hertz.ddddns.net.
 599.cm.	0	IN	NS	vince.ddddns.net.
 5990.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -8280,6 +8368,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 602013.cm.	0	IN	NS	ns2.netsto.net.
 60288c.cm.	0	IN	NS	ns1.alidns.com.
 60288c.cm.	0	IN	NS	ns2.alidns.com.
+60292.cm.	0	IN	NS	ns1.netsto.net.
+60292.cm.	0	IN	NS	ns2.netsto.net.
 60292a.cm.	0	IN	NS	ns1.netsto.net.
 60292a.cm.	0	IN	NS	ns2.netsto.net.
 602u.cm.	0	IN	NS	ns1.netsto.net.
@@ -8500,16 +8590,14 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 6181.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 6188158.cm.	0	IN	NS	ns1.alidns.com.
 6188158.cm.	0	IN	NS	ns2.alidns.com.
+6188f.cm.	0	IN	NS	ns1.netsto.net.
+6188f.cm.	0	IN	NS	ns2.netsto.net.
 619.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 619.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
-61939.cm.	0	IN	NS	ns1.netsto.net.
-61939.cm.	0	IN	NS	ns2.netsto.net.
 619789.cm.	0	IN	NS	ns1.alidns.com.
 619789.cm.	0	IN	NS	ns2.alidns.com.
 61ak.cm.	0	IN	NS	ns1.netsto.net.
 61ak.cm.	0	IN	NS	ns2.netsto.net.
-61maokw.cm.	0	IN	NS	ns1.alidns.com.
-61maokw.cm.	0	IN	NS	ns2.alidns.com.
 61ru.cm.	0	IN	NS	ns1.alidns.com.
 61ru.cm.	0	IN	NS	ns2.alidns.com.
 61ss00.cm.	0	IN	NS	ns1.alidns.com.
@@ -8866,6 +8954,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 653352.cm.	0	IN	NS	ns7.netsto.net.
 65337.cm.	0	IN	NS	ns1.netsto.net.
 65337.cm.	0	IN	NS	ns2.netsto.net.
+65346.cm.	0	IN	NS	ns1.netsto.net.
+65346.cm.	0	IN	NS	ns2.netsto.net.
 6535.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 6535.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 653884.cm.	0	IN	NS	v1s1.xundns.com.
@@ -8874,14 +8964,14 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 653q.cm.	0	IN	NS	ns2.alidns.com.
 654.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 654.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
+65432.cm.	0	IN	NS	ns1.netsto.net.
+65432.cm.	0	IN	NS	ns2.netsto.net.
 6543277.cm.	0	IN	NS	ns1.alidns.com.
 6543277.cm.	0	IN	NS	ns2.alidns.com.
 654355.cm.	0	IN	NS	ns1.alidns.com.
 654355.cm.	0	IN	NS	ns2.alidns.com.
 6547.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 6547.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-654828.cm.	0	IN	NS	ns1.netsto.net.
-654828.cm.	0	IN	NS	ns2.netsto.net.
 6549.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 6549.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 655.cm.	0	IN	NS	hertz.ddddns.net.
@@ -8978,6 +9068,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 66193.cm.	0	IN	NS	ns2.netsto.net.
 662.cm.	0	IN	NS	hertz.ddddns.net.
 662.cm.	0	IN	NS	vince.ddddns.net.
+66211.cm.	0	IN	NS	ns1.netsto.net.
+66211.cm.	0	IN	NS	ns2.netsto.net.
 66211555.cm.	0	IN	NS	ns1.alidns.com.
 66211555.cm.	0	IN	NS	ns2.alidns.com.
 6621v.cm.	0	IN	NS	ns1.netsto.net.
@@ -9016,6 +9108,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 66365.cm.	0	IN	NS	ns7.netsto.net.
 6637.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 6637.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+66373.cm.	0	IN	NS	ns1.netsto.net.
+66373.cm.	0	IN	NS	ns2.netsto.net.
 66373c.cm.	0	IN	NS	ns1.alidns.com.
 66373c.cm.	0	IN	NS	ns2.alidns.com.
 6638.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -9188,8 +9282,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 6670.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 6675.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 6675.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-66767.cm.	0	IN	NS	ns1.netsto.net.
-66767.cm.	0	IN	NS	ns2.netsto.net.
 6677.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 6677.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 66775.cm.	0	IN	NS	ns1.netsto.net.
@@ -9376,6 +9468,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 6745.cm.	0	IN	NS	ns2.netsto.net.
 674503.cm.	0	IN	NS	ns1.alidns.com.
 674503.cm.	0	IN	NS	ns2.alidns.com.
+67468.cm.	0	IN	NS	ns1.netsto.net.
+67468.cm.	0	IN	NS	ns2.netsto.net.
 6749.cm.	0	IN	NS	ns6.netsto.net.
 6749.cm.	0	IN	NS	ns7.netsto.net.
 674901.cm.	0	IN	NS	ns1.netsto.net.
@@ -9404,6 +9498,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 6774.cm.	0	IN	NS	ns7.netsto.net.
 6777.cm.	0	IN	NS	ns1.netsto.net.
 6777.cm.	0	IN	NS	ns2.netsto.net.
+67785.cm.	0	IN	NS	ns1.netsto.net.
+67785.cm.	0	IN	NS	ns2.netsto.net.
 677a37.cm.	0	IN	NS	ns1.alidns.com.
 677a37.cm.	0	IN	NS	ns2.alidns.com.
 678.cm.	0	IN	NS	ns1.4.cn.
@@ -9454,6 +9550,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 68006k.cm.	0	IN	NS	ns2.netsto.net.
 68040.cm.	0	IN	NS	ns1.netsto.net.
 68040.cm.	0	IN	NS	ns2.netsto.net.
+6805.cm.	0	IN	NS	ns1.netsto.net.
+6805.cm.	0	IN	NS	ns2.netsto.net.
 6806.cm.	0	IN	NS	ns1.alidns.com.
 6806.cm.	0	IN	NS	ns2.alidns.com.
 6806361.cm.	0	IN	NS	ns1.alidns.com.
@@ -9556,8 +9654,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 68gamebai.cm.	0	IN	NS	dns2.registrar-servers.com.
 68h.cm.	0	IN	NS	ns6.netsto.net.
 68h.cm.	0	IN	NS	ns7.netsto.net.
-68hantang.cm.	0	IN	NS	ns1.netsto.net.
-68hantang.cm.	0	IN	NS	ns2.netsto.net.
 68k.cm.	0	IN	NS	ns6.netsto.net.
 68k.cm.	0	IN	NS	ns7.netsto.net.
 68ky.cm.	0	IN	NS	ns1.alidns.com.
@@ -9788,6 +9884,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 6u.cm.	0	IN	NS	quincy.ns.cloudflare.com.
 6v.cm.	0	IN	NS	javon.ns.cloudflare.com.
 6v.cm.	0	IN	NS	monroe.ns.cloudflare.com.
+6vip.cm.	0	IN	NS	ns1.netsto.net.
+6vip.cm.	0	IN	NS	ns2.netsto.net.
 6w.cm.	0	IN	NS	ns1.netsto.net.
 6w.cm.	0	IN	NS	ns2.netsto.net.
 6w35.cm.	0	IN	NS	ns1.alidns.com.
@@ -9930,6 +10028,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 711531.cm.	0	IN	NS	ns2.netsto.net.
 7116.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 7116.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+71166.cm.	0	IN	NS	ns1.netsto.net.
+71166.cm.	0	IN	NS	ns2.netsto.net.
 7118666.cm.	0	IN	NS	ns1.alidns.com.
 7118666.cm.	0	IN	NS	ns2.alidns.com.
 7119666.cm.	0	IN	NS	ns1.alidns.com.
@@ -10050,8 +10150,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 723334.cm.	0	IN	NS	ns2.netsto.net.
 72385.cm.	0	IN	NS	ns1.alidns.com.
 72385.cm.	0	IN	NS	ns2.alidns.com.
-72388qq.cm.	0	IN	NS	ns1.alidns.com.
-72388qq.cm.	0	IN	NS	ns2.alidns.com.
 7239.cm.	0	IN	NS	ns6.netsto.net.
 7239.cm.	0	IN	NS	ns7.netsto.net.
 724.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -10449,6 +10547,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 767c7.cm.	0	IN	NS	ns2.netsto.net.
 767c9.cm.	0	IN	NS	ns1.alidns.com.
 767c9.cm.	0	IN	NS	ns2.alidns.com.
+767v5.cm.	0	IN	NS	ns1.netsto.net.
+767v5.cm.	0	IN	NS	ns2.netsto.net.
 768.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 768.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 76891.cm.	0	IN	NS	ns1.alidns.com.
@@ -10491,6 +10591,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 770291.cm.	0	IN	NS	ns2.alidns.com.
 7708.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 7708.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+7709.cm.	0	IN	NS	ns1.netsto.net.
+7709.cm.	0	IN	NS	ns2.netsto.net.
 771.cm.	0	IN	NS	ns1.netsto.net.
 771.cm.	0	IN	NS	ns2.netsto.net.
 7711.cm.	0	IN	NS	ns1.netsto.net.
@@ -10541,8 +10643,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 77303.cm.	0	IN	NS	ns2.alidns.com.
 7731.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 7731.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-7731014.cm.	0	IN	NS	ns1.netsto.net.
-7731014.cm.	0	IN	NS	ns2.netsto.net.
 7732.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 7732.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 7733.cm.	0	IN	NS	hertz.ddddns.net.
@@ -10559,6 +10659,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 77365.cm.	0	IN	NS	ns7.netsto.net.
 7737.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 7737.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+773773.cm.	0	IN	NS	ns1.netsto.net.
+773773.cm.	0	IN	NS	ns2.netsto.net.
 7737app.cm.	0	IN	NS	ns1.netsto.net.
 7737app.cm.	0	IN	NS	ns2.netsto.net.
 7738.cm.	0	IN	NS	sky.ns.cloudflare.com.
@@ -10742,8 +10844,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 7802.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 78040.cm.	0	IN	NS	ns1.netsto.net.
 78040.cm.	0	IN	NS	ns2.netsto.net.
-7806.cm.	0	IN	NS	ns1.netsto.net.
-7806.cm.	0	IN	NS	ns2.netsto.net.
 781.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 781.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 7811.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -10916,8 +11016,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 79796.cm.	0	IN	NS	ns2.netsto.net.
 79796z.cm.	0	IN	NS	ns1.netsto.net.
 79796z.cm.	0	IN	NS	ns2.netsto.net.
-797zz.cm.	0	IN	NS	ns1.netsto.net.
-797zz.cm.	0	IN	NS	ns2.netsto.net.
 798.cm.	0	IN	NS	hertz.ddddns.net.
 798.cm.	0	IN	NS	vince.ddddns.net.
 7981.cm.	0	IN	NS	ns6.netsto.net.
@@ -10958,8 +11056,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 7999.cm.	0	IN	NS	ns4.goldenname.com.
 79991.cm.	0	IN	NS	ns1.alidns.com.
 79991.cm.	0	IN	NS	ns2.alidns.com.
-7999103.cm.	0	IN	NS	ns1.alidns.com.
-7999103.cm.	0	IN	NS	ns2.alidns.com.
 79991qq.cm.	0	IN	NS	ns1.alidns.com.
 79991qq.cm.	0	IN	NS	ns2.alidns.com.
 79992ee.cm.	0	IN	NS	ns1.alidns.com.
@@ -10968,12 +11064,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 79992hh.cm.	0	IN	NS	ns2.alidns.com.
 79992vv.cm.	0	IN	NS	ns1.alidns.com.
 79992vv.cm.	0	IN	NS	ns2.alidns.com.
-79993.cm.	0	IN	NS	ns1.alidns.com.
-79993.cm.	0	IN	NS	ns2.alidns.com.
 7999336.cm.	0	IN	NS	ns1.alidns.com.
 7999336.cm.	0	IN	NS	ns2.alidns.com.
-79993ll.cm.	0	IN	NS	ns1.alidns.com.
-79993ll.cm.	0	IN	NS	ns2.alidns.com.
 79993w.cm.	0	IN	NS	ns1.alidns.com.
 79993w.cm.	0	IN	NS	ns2.alidns.com.
 79994uu.cm.	0	IN	NS	ns1.alidns.com.
@@ -10982,6 +11074,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 79994ww.cm.	0	IN	NS	ns2.alidns.com.
 79995.cm.	0	IN	NS	ns1.netsto.net.
 79995.cm.	0	IN	NS	ns2.netsto.net.
+79997.cm.	0	IN	NS	ns1.netsto.net.
+79997.cm.	0	IN	NS	ns2.netsto.net.
 79ag.cm.	0	IN	NS	ns1.netsto.net.
 79ag.cm.	0	IN	NS	ns2.netsto.net.
 7a.cm.	0	IN	NS	ns7.alidns.com.
@@ -11162,8 +11256,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 80649.cm.	0	IN	NS	ns2.netsto.net.
 8066.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 8066.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-80666.cm.	0	IN	NS	ns1.netsto.net.
-80666.cm.	0	IN	NS	ns2.netsto.net.
 8069.cm.	0	IN	NS	ns6.netsto.net.
 8069.cm.	0	IN	NS	ns7.netsto.net.
 807.cm.	0	IN	NS	martin.ns.cloudflare.com.
@@ -11192,6 +11284,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 80877.cm.	0	IN	NS	ns2.netsto.net.
 8088.cm.	0	IN	NS	ns6.netsto.net.
 8088.cm.	0	IN	NS	ns7.netsto.net.
+808kj.cm.	0	IN	NS	ns1.netsto.net.
+808kj.cm.	0	IN	NS	ns2.netsto.net.
 808pay.cm.	0	IN	NS	ns6.netsto.net.
 808pay.cm.	0	IN	NS	ns7.netsto.net.
 809.cm.	0	IN	NS	ns01.serverspace.io.
@@ -11256,8 +11350,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 8149.cm.	0	IN	NS	ns2.netsto.net.
 815.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 815.cm.	0	IN	NS	ursula.ns.cloudflare.com.
-81519.cm.	0	IN	NS	ns1.netsto.net.
-81519.cm.	0	IN	NS	ns2.netsto.net.
 816.cm.	0	IN	NS	hertz.ddddns.net.
 816.cm.	0	IN	NS	vince.ddddns.net.
 8160.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
@@ -11454,6 +11546,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 8389.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 839.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 839.cm.	0	IN	NS	ursula.ns.cloudflare.com.
+83955.cm.	0	IN	NS	ns1.netsto.net.
+83955.cm.	0	IN	NS	ns2.netsto.net.
 8398.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 8398.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 83k.cm.	0	IN	NS	ns6.netsto.net.
@@ -12068,6 +12162,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 8868.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 88682.cm.	0	IN	NS	ns1.alidns.com.
 88682.cm.	0	IN	NS	ns2.alidns.com.
+8868ty.cm.	0	IN	NS	ns1.netsto.net.
+8868ty.cm.	0	IN	NS	ns2.netsto.net.
 8868ylc.cm.	0	IN	NS	ns6.netsto.net.
 8868ylc.cm.	0	IN	NS	ns7.netsto.net.
 887.cm.	0	IN	NS	hertz.ddddns.net.
@@ -12126,6 +12222,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 8884.cm.	0	IN	NS	vince.ddddns.net.
 8885.cm.	0	IN	NS	hertz.ddddns.net.
 8885.cm.	0	IN	NS	vince.ddddns.net.
+888538.cm.	0	IN	NS	ns1.netsto.net.
+888538.cm.	0	IN	NS	ns2.netsto.net.
 888598.cm.	0	IN	NS	ns1.netsto.net.
 888598.cm.	0	IN	NS	ns2.netsto.net.
 8886.cm.	0	IN	NS	ns1.netsto.net.
@@ -12180,8 +12278,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 888poker.cm.	0	IN	NS	dns1.idp365.net.
 888poker.cm.	0	IN	NS	dns2.idp365.net.
 888poker.cm.	0	IN	NS	dns3.idp365.net.
-888qp.cm.	0	IN	NS	ns1.netsto.net.
-888qp.cm.	0	IN	NS	ns2.netsto.net.
 888sport.cm.	0	IN	NS	dns1.idp365.net.
 888sport.cm.	0	IN	NS	dns2.idp365.net.
 888sport.cm.	0	IN	NS	dns3.idp365.net.
@@ -12201,6 +12297,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 888vip.cm.	0	IN	NS	ns2.dnsip.com.
 888win.cm.	0	IN	NS	khloe.ns.cloudflare.com.
 888win.cm.	0	IN	NS	vasilii.ns.cloudflare.com.
+888y.cm.	0	IN	NS	ns1.netsto.net.
+888y.cm.	0	IN	NS	ns2.netsto.net.
 888zb.cm.	0	IN	NS	ns6.netsto.net.
 888zb.cm.	0	IN	NS	ns7.netsto.net.
 888zhenren.cm.	0	IN	NS	jonah.ns.cloudflare.com.
@@ -12493,8 +12591,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 8xx.cm.	0	IN	NS	ns2.netsto.net.
 8yh.cm.	0	IN	NS	ns1.dns.com.
 8yh.cm.	0	IN	NS	ns2.dns.com.
-8yl7ld.cm.	0	IN	NS	ns1.netsto.net.
-8yl7ld.cm.	0	IN	NS	ns2.netsto.net.
 8z.cm.	0	IN	NS	peyton.ns.cloudflare.com.
 8z.cm.	0	IN	NS	saanvi.ns.cloudflare.com.
 8zb.cm.	0	IN	NS	ns6.netsto.net.
@@ -12689,20 +12785,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 913.cm.	0	IN	NS	vince.ddddns.net.
 9134.cm.	0	IN	NS	ns1.netsto.net.
 9134.cm.	0	IN	NS	ns2.netsto.net.
-9134aa.cm.	0	IN	NS	ns1.netsto.net.
-9134aa.cm.	0	IN	NS	ns2.netsto.net.
-9134bb.cm.	0	IN	NS	ns1.netsto.net.
-9134bb.cm.	0	IN	NS	ns2.netsto.net.
-9134dd.cm.	0	IN	NS	ns1.netsto.net.
-9134dd.cm.	0	IN	NS	ns2.netsto.net.
-9134pp.cm.	0	IN	NS	ns1.netsto.net.
-9134pp.cm.	0	IN	NS	ns2.netsto.net.
-9134qq.cm.	0	IN	NS	ns1.netsto.net.
-9134qq.cm.	0	IN	NS	ns2.netsto.net.
-9134xx.cm.	0	IN	NS	ns1.netsto.net.
-9134xx.cm.	0	IN	NS	ns2.netsto.net.
-9134yy.cm.	0	IN	NS	ns1.netsto.net.
-9134yy.cm.	0	IN	NS	ns2.netsto.net.
 9139.cm.	0	IN	NS	ns1.netsto.net.
 9139.cm.	0	IN	NS	ns2.netsto.net.
 914.cm.	0	IN	NS	hertz.ddddns.net.
@@ -12733,8 +12815,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 91709.cm.	0	IN	NS	ns7.netsto.net.
 917222.cm.	0	IN	NS	ns1.alidns.com.
 917222.cm.	0	IN	NS	ns2.alidns.com.
-91733.cm.	0	IN	NS	ns1.netsto.net.
-91733.cm.	0	IN	NS	ns2.netsto.net.
 9174.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 9174.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
 918.cm.	0	IN	NS	jakub.ns.cloudflare.com.
@@ -13115,8 +13195,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 9581.cm.	0	IN	NS	ns2.alidns.com.
 9581kk.cm.	0	IN	NS	ns1.alidns.com.
 9581kk.cm.	0	IN	NS	ns2.alidns.com.
-9581ll.cm.	0	IN	NS	ns1.alidns.com.
-9581ll.cm.	0	IN	NS	ns2.alidns.com.
 9581nn.cm.	0	IN	NS	ns1.alidns.com.
 9581nn.cm.	0	IN	NS	ns2.alidns.com.
 9581ss.cm.	0	IN	NS	ns1.alidns.com.
@@ -13167,8 +13245,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 963.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 9633888.cm.	0	IN	NS	ns1.netsto.net.
 9633888.cm.	0	IN	NS	ns2.netsto.net.
-96339.cm.	0	IN	NS	ns1.netsto.net.
-96339.cm.	0	IN	NS	ns2.netsto.net.
 964.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 964.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 9646.cm.	0	IN	NS	ns1.netsto.net.
@@ -13179,6 +13255,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 9646b.cm.	0	IN	NS	ns7.netsto.net.
 9646z.cm.	0	IN	NS	ns6.netsto.net.
 9646z.cm.	0	IN	NS	ns7.netsto.net.
+96477.cm.	0	IN	NS	ns1.netsto.net.
+96477.cm.	0	IN	NS	ns2.netsto.net.
 964yyh.cm.	0	IN	NS	ns6.netsto.net.
 964yyh.cm.	0	IN	NS	ns7.netsto.net.
 965.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
@@ -13213,8 +13291,6 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 97.cm.	0	IN	NS	ns2.4.cn.
 970.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 970.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
-97033nn.cm.	0	IN	NS	ns1.alidns.com.
-97033nn.cm.	0	IN	NS	ns2.alidns.com.
 97049.cm.	0	IN	NS	ns1.netsto.net.
 97049.cm.	0	IN	NS	ns2.netsto.net.
 971.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
@@ -13301,8 +13377,12 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 9797.cm.	0	IN	NS	ns4.goldenname.com.
 979760.cm.	0	IN	NS	ns1.alidns.com.
 979760.cm.	0	IN	NS	ns2.alidns.com.
+97997.cm.	0	IN	NS	ns1.netsto.net.
+97997.cm.	0	IN	NS	ns2.netsto.net.
 97av.cm.	0	IN	NS	ns1.alidns.com.
 97av.cm.	0	IN	NS	ns2.alidns.com.
+97bcw.cm.	0	IN	NS	a9.share-dns.com.
+97bcw.cm.	0	IN	NS	b9.share-dns.net.
 97dyy.cm.	0	IN	NS	ns1.alidns.com.
 97dyy.cm.	0	IN	NS	ns2.alidns.com.
 97kyky.cm.	0	IN	NS	ns1.alidns.com.
@@ -13365,14 +13445,14 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 986.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 9860.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 9860.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
+9863.cm.	0	IN	NS	ns1.netsto.net.
+9863.cm.	0	IN	NS	ns2.netsto.net.
 986721.cm.	0	IN	NS	ns1.alidns.com.
 986721.cm.	0	IN	NS	ns2.alidns.com.
 987.cm.	0	IN	NS	kim.ns.cloudflare.com.
 987.cm.	0	IN	NS	jobs.ns.cloudflare.com.
 9873.cm.	0	IN	NS	yoxall.ns.cloudflare.com.
 9873.cm.	0	IN	NS	jasmine.ns.cloudflare.com.
-9876.cm.	0	IN	NS	ns1.netsto.net.
-9876.cm.	0	IN	NS	ns2.netsto.net.
 9878002.cm.	0	IN	NS	ns1.alidns.com.
 9878002.cm.	0	IN	NS	ns2.alidns.com.
 98782.cm.	0	IN	NS	ns1.netsto.net.
@@ -13519,12 +13599,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 99365.cm.	0	IN	NS	ns7.netsto.net.
 9939.cm.	0	IN	NS	ns6.netsto.net.
 9939.cm.	0	IN	NS	ns7.netsto.net.
-99391ll.cm.	0	IN	NS	ns1.alidns.com.
-99391ll.cm.	0	IN	NS	ns2.alidns.com.
 99391w.cm.	0	IN	NS	ns1.alidns.com.
 99391w.cm.	0	IN	NS	ns2.alidns.com.
-99396.cm.	0	IN	NS	ns1.netsto.net.
-99396.cm.	0	IN	NS	ns2.netsto.net.
 994.cm.	0	IN	NS	jakub.ns.cloudflare.com.
 994.cm.	0	IN	NS	cheryl.ns.cloudflare.com.
 99402.cm.	0	IN	NS	ns1.1233dns.com.
@@ -13555,6 +13631,8 @@ cm.	0	IN	NSEC3PARAM	1 0 0 -
 9966.cm.	0	IN	NS	ns2.netsto.net.
 996635.cm.	0	IN	NS	ns1.alidns.com.
 996635.cm.	0	IN	NS	ns2.alidns.com.
+9968.cm.	0	IN	NS	ns1.netsto.net.
+9968.cm.	0	IN	NS	ns2.netsto.net.
 996box.cm.	0	IN	NS	nitin.ns.cloudflare.com.
 996box.cm.	0	IN	NS	virginia.ns.cloudflare.com.
 997.cm.	0	IN	NS	jakub.ns.cloudflare.com.
@@ -13818,6 +13896,8 @@ a01115.cm.	0	IN	NS	ns1.netsto.net.
 a01115.cm.	0	IN	NS	ns2.netsto.net.
 a1.cm.	0	IN	NS	camilo.ns.cloudflare.com.
 a1.cm.	0	IN	NS	annalise.ns.cloudflare.com.
+a10.cm.	0	IN	NS	ns1.netsto.net.
+a10.cm.	0	IN	NS	ns2.netsto.net.
 a12.cm.	0	IN	NS	ns1.netsto.net.
 a12.cm.	0	IN	NS	ns2.netsto.net.
 a16zcrypt0.cm.	0	IN	NS	ns1.lexsynergy.net.
@@ -13841,8 +13921,6 @@ a365.cm.	0	IN	NS	ns1.netsto.net.
 a365.cm.	0	IN	NS	ns2.netsto.net.
 a38.cm.	0	IN	NS	ns6.netsto.net.
 a38.cm.	0	IN	NS	ns7.netsto.net.
-a3833.cm.	0	IN	NS	ns1.netsto.net.
-a3833.cm.	0	IN	NS	ns2.netsto.net.
 a39.cm.	0	IN	NS	ns1.netsto.net.
 a39.cm.	0	IN	NS	ns2.netsto.net.
 a3zb6.cm.	0	IN	NS	ns1.alidns.com.
@@ -13936,6 +14014,8 @@ aab.cm.	0	IN	NS	ns1.netsto.net.
 aab.cm.	0	IN	NS	ns2.netsto.net.
 aabet.cm.	0	IN	NS	ns1.netsto.net.
 aabet.cm.	0	IN	NS	ns2.netsto.net.
+aacc44.cm.	0	IN	NS	ns1.netsto.net.
+aacc44.cm.	0	IN	NS	ns2.netsto.net.
 aads.cm.	0	IN	NS	ns1.dreamhost.com.
 aads.cm.	0	IN	NS	ns2.dreamhost.com.
 aads.cm.	0	IN	NS	ns3.dreamhost.com.
@@ -14062,8 +14142,6 @@ abctelevisionnetworks.cm.	0	IN	NS	dns1.cscdns.net.
 abctelevisionnetworks.cm.	0	IN	NS	dns2.cscdns.net.
 abcya.cm.	0	IN	NS	ns3.abovedomains.com.
 abcya.cm.	0	IN	NS	ns4.abovedomains.com.
-abd6h.cm.	0	IN	NS	ns1.netsto.net.
-abd6h.cm.	0	IN	NS	ns2.netsto.net.
 abebooks.cm.	0	IN	NS	nsgbr.comlaude.co.uk.
 abebooks.cm.	0	IN	NS	nssui.comlaude.ch.
 abebooks.cm.	0	IN	NS	nsusa.comlaude.net.
@@ -14349,8 +14427,6 @@ acrobat.cm.	0	IN	NS	adobe-dns-01.adobe.com.
 acrobat.cm.	0	IN	NS	adobe-dns-03.adobe.com.
 acrobat.cm.	0	IN	NS	adobe-dns-04.adobe.com.
 acrobat.cm.	0	IN	NS	adobe-dns-05.adobe.com.
-acronis.cm.	0	IN	NS	ns3.abovedomains.com.
-acronis.cm.	0	IN	NS	ns4.abovedomains.com.
 acropolis.cm.	0	IN	NS	ns3.abovedomains.com.
 acropolis.cm.	0	IN	NS	ns4.abovedomains.com.
 act.cm.	0	IN	NS	terry.ns.cloudflare.com.
@@ -16489,6 +16565,8 @@ aolnews.cm.	0	IN	NS	ns5.markmonitor.com.
 aolnews.cm.	0	IN	NS	ns6.markmonitor.com.
 aomen.cm.	0	IN	NS	f1g1ns1.dnspod.net.
 aomen.cm.	0	IN	NS	f1g1ns2.dnspod.net.
+aomenxinpujing.cm.	0	IN	NS	ns1.netsto.net.
+aomenxinpujing.cm.	0	IN	NS	ns2.netsto.net.
 aon.cm.	0	IN	NS	ns1.hastydns.com.
 aon.cm.	0	IN	NS	ns2.hastydns.com.
 aongudeek.cm.	0	IN	NS	ns1.netsto.net.
@@ -17929,8 +18007,6 @@ b36598.cm.	0	IN	NS	ns6.netsto.net.
 b36598.cm.	0	IN	NS	ns7.netsto.net.
 b3830.cm.	0	IN	NS	ns1.alidns.com.
 b3830.cm.	0	IN	NS	ns2.alidns.com.
-b3833.cm.	0	IN	NS	ns1.netsto.net.
-b3833.cm.	0	IN	NS	ns2.netsto.net.
 b39.cm.	0	IN	NS	ns6.netsto.net.
 b39.cm.	0	IN	NS	ns7.netsto.net.
 b3c.cm.	0	IN	NS	ns17.lwsdns.com.
@@ -17983,8 +18059,6 @@ b8299.cm.	0	IN	NS	ns1.netsto.net.
 b8299.cm.	0	IN	NS	ns2.netsto.net.
 b8600.cm.	0	IN	NS	ns1.netsto.net.
 b8600.cm.	0	IN	NS	ns2.netsto.net.
-b8644.cm.	0	IN	NS	ns1.netsto.net.
-b8644.cm.	0	IN	NS	ns2.netsto.net.
 b88.cm.	0	IN	NS	ns1.dns.com.
 b88.cm.	0	IN	NS	ns2.dns.com.
 b8844.cm.	0	IN	NS	ns1.netsto.net.
@@ -18019,8 +18093,6 @@ b94519.cm.	0	IN	NS	ns6.netsto.net.
 b94519.cm.	0	IN	NS	ns7.netsto.net.
 b95355.cm.	0	IN	NS	ns1.alidns.com.
 b95355.cm.	0	IN	NS	ns2.alidns.com.
-b9770.cm.	0	IN	NS	ns1.netsto.net.
-b9770.cm.	0	IN	NS	ns2.netsto.net.
 b9ng.cm.	0	IN	NS	ns1-03.azure-dns.com.
 b9ng.cm.	0	IN	NS	ns2-03.azure-dns.net.
 b9ng.cm.	0	IN	NS	ns3-03.azure-dns.org.
@@ -18643,12 +18715,14 @@ bb202463.cm.	0	IN	NS	ns1.netsto.net.
 bb202463.cm.	0	IN	NS	ns2.netsto.net.
 bb202465.cm.	0	IN	NS	ns1.netsto.net.
 bb202465.cm.	0	IN	NS	ns2.netsto.net.
-bb27.cm.	0	IN	NS	ns1.netsto.net.
-bb27.cm.	0	IN	NS	ns2.netsto.net.
 bb365.cm.	0	IN	NS	ns6.netsto.net.
 bb365.cm.	0	IN	NS	ns7.netsto.net.
 bb6.cm.	0	IN	NS	ns1.alidns.com.
 bb6.cm.	0	IN	NS	ns2.alidns.com.
+bb628.cm.	0	IN	NS	ns1.netsto.net.
+bb628.cm.	0	IN	NS	ns2.netsto.net.
+bb862.cm.	0	IN	NS	ns1.netsto.net.
+bb862.cm.	0	IN	NS	ns2.netsto.net.
 bb8897.cm.	0	IN	NS	ns1.alidns.com.
 bb8897.cm.	0	IN	NS	ns2.alidns.com.
 bb9.cm.	0	IN	NS	ns1.netsto.net.
@@ -19172,8 +19246,6 @@ berries.cm.	0	IN	NS	ns1.parkingcrew.net.
 berries.cm.	0	IN	NS	ns2.parkingcrew.net.
 bershka.cm.	0	IN	NS	ns1.adtraks.com.
 bershka.cm.	0	IN	NS	ns2.adtraks.com.
-beryoapps.cm.	0	IN	NS	ns1.camoogroup.com.
-beryoapps.cm.	0	IN	NS	ns2.camoogroup.com.
 besafe.cm.	0	IN	NS	ns110.ovh.net.
 besafe.cm.	0	IN	NS	dns110.ovh.net.
 besbuy.cm.	0	IN	NS	ns3.abovedomains.com.
@@ -19390,8 +19462,6 @@ bet5.cm.	0	IN	NS	ns1.netsto.net.
 bet5.cm.	0	IN	NS	ns2.netsto.net.
 bet6.cm.	0	IN	NS	ns1.netsto.net.
 bet6.cm.	0	IN	NS	ns2.netsto.net.
-bet6263.cm.	0	IN	NS	ns1.netsto.net.
-bet6263.cm.	0	IN	NS	ns2.netsto.net.
 bet670.cm.	0	IN	NS	ns1.netsto.net.
 bet670.cm.	0	IN	NS	ns2.netsto.net.
 bet756.cm.	0	IN	NS	ns1.netsto.net.
@@ -20754,14 +20824,8 @@ bnig.cm.	0	IN	NS	ns1-04.azure-dns.com.
 bnig.cm.	0	IN	NS	ns2-04.azure-dns.net.
 bnig.cm.	0	IN	NS	ns3-04.azure-dns.org.
 bnig.cm.	0	IN	NS	ns4-04.azure-dns.info.
-bnn002.cm.	0	IN	NS	ns1.netsto.net.
-bnn002.cm.	0	IN	NS	ns2.netsto.net.
 bnnty.cm.	0	IN	NS	ns1.netsto.net.
 bnnty.cm.	0	IN	NS	ns2.netsto.net.
-bnnty028.cm.	0	IN	NS	ns1.netsto.net.
-bnnty028.cm.	0	IN	NS	ns2.netsto.net.
-bnnty088.cm.	0	IN	NS	ns1.netsto.net.
-bnnty088.cm.	0	IN	NS	ns2.netsto.net.
 bnnty58.cm.	0	IN	NS	ns1.netsto.net.
 bnnty58.cm.	0	IN	NS	ns2.netsto.net.
 bnnty66.cm.	0	IN	NS	ns1.netsto.net.
@@ -21956,8 +22020,6 @@ btsport.cm.	0	IN	NS	ns1.parkingcrew.net.
 btsport.cm.	0	IN	NS	ns2.parkingcrew.net.
 btt365.cm.	0	IN	NS	mina.ns.cloudflare.com.
 btt365.cm.	0	IN	NS	odin.ns.cloudflare.com.
-btt369.cm.	0	IN	NS	ns1.netsto.net.
-btt369.cm.	0	IN	NS	ns2.netsto.net.
 btt918.cm.	0	IN	NS	ns1.netsto.net.
 btt918.cm.	0	IN	NS	ns2.netsto.net.
 btwin.cm.	0	IN	NS	ns-65-c.gandi.net.
@@ -22298,8 +22360,6 @@ bx.cm.	0	IN	NS	ns2.4.cn.
 bx.cm.	0	IN	NS	ns3.goldenname.com.
 bxm.cm.	0	IN	NS	ns1.netsto.net.
 bxm.cm.	0	IN	NS	ns2.netsto.net.
-bxw222.cm.	0	IN	NS	ns1.netsto.net.
-bxw222.cm.	0	IN	NS	ns2.netsto.net.
 by.cm.	0	IN	NS	ns1.dns.com.
 by.cm.	0	IN	NS	ns2.dns.com.
 by1357.cm.	0	IN	NS	ns1.alidns.com.
@@ -22338,8 +22398,6 @@ by522.cm.	0	IN	NS	ns1.alidns.com.
 by522.cm.	0	IN	NS	ns2.alidns.com.
 by52777.cm.	0	IN	NS	ns1.netsto.net.
 by52777.cm.	0	IN	NS	ns2.netsto.net.
-by540.cm.	0	IN	NS	ns1.netsto.net.
-by540.cm.	0	IN	NS	ns2.netsto.net.
 by55777.cm.	0	IN	NS	ns1.netsto.net.
 by55777.cm.	0	IN	NS	ns2.netsto.net.
 by56777.cm.	0	IN	NS	ns1.netsto.net.
@@ -22354,8 +22412,6 @@ by62777.cm.	0	IN	NS	ns1.netsto.net.
 by62777.cm.	0	IN	NS	ns2.netsto.net.
 by63777.cm.	0	IN	NS	ns1.netsto.net.
 by63777.cm.	0	IN	NS	ns2.netsto.net.
-by640.cm.	0	IN	NS	ns1.netsto.net.
-by640.cm.	0	IN	NS	ns2.netsto.net.
 by65777.cm.	0	IN	NS	ns1.netsto.net.
 by65777.cm.	0	IN	NS	ns2.netsto.net.
 by6687.cm.	0	IN	NS	ns1.netsto.net.
@@ -22436,6 +22492,8 @@ c-sgroup.cm.	0	IN	NS	ns-103-c.gandi.net.
 c-sgroup.cm.	0	IN	NS	ns-196-a.gandi.net.
 c1.cm.	0	IN	NS	ns1.netsto.net.
 c1.cm.	0	IN	NS	ns2.netsto.net.
+c10.cm.	0	IN	NS	ns1.netsto.net.
+c10.cm.	0	IN	NS	ns2.netsto.net.
 c14.cm.	0	IN	NS	ns1.netsto.net.
 c14.cm.	0	IN	NS	ns2.netsto.net.
 c16.cm.	0	IN	NS	ns6.netsto.net.
@@ -23499,6 +23557,8 @@ cashnetusa.cm.	0	IN	NS	3860.ns1.abovedomains.com.
 cashnetusa.cm.	0	IN	NS	3860.ns2.abovedomains.com.
 cashnow.cm.	0	IN	NS	ns3.abovedomains.com.
 cashnow.cm.	0	IN	NS	ns4.abovedomains.com.
+casibom.cm.	0	IN	NS	dns1.registrar-servers.com.
+casibom.cm.	0	IN	NS	dns2.registrar-servers.com.
 casino.cm.	0	IN	NS	ns1.sedoparking.com.
 casino.cm.	0	IN	NS	ns2.sedoparking.com.
 casino-1win.cm.	0	IN	NS	dave.ns.cloudflare.com.
@@ -23719,8 +23779,6 @@ cc138008.cm.	0	IN	NS	ns1.netsto.net.
 cc138008.cm.	0	IN	NS	ns2.netsto.net.
 cc2000.cm.	0	IN	NS	ns1.alidns.com.
 cc2000.cm.	0	IN	NS	ns2.alidns.com.
-cc22728.cm.	0	IN	NS	ns1.alidns.com.
-cc22728.cm.	0	IN	NS	ns2.alidns.com.
 cc365.cm.	0	IN	NS	ns6.netsto.net.
 cc365.cm.	0	IN	NS	ns7.netsto.net.
 cc5262.cm.	0	IN	NS	ns1.alidns.com.
@@ -24505,8 +24563,6 @@ china.cm.	0	IN	NS	pns21.cloudns.net.
 china.cm.	0	IN	NS	pns22.cloudns.net.
 china.cm.	0	IN	NS	pns23.cloudns.net.
 china.cm.	0	IN	NS	pns24.cloudns.net.
-chinaclzz.cm.	0	IN	NS	ns1.netsto.net.
-chinaclzz.cm.	0	IN	NS	ns2.netsto.net.
 chinamall.cm.	0	IN	NS	woz.ns.cloudflare.com.
 chinamall.cm.	0	IN	NS	hope.ns.cloudflare.com.
 chinaz.cm.	0	IN	NS	pns21.cloudns.net.
@@ -25311,8 +25367,6 @@ cnkaf.cm.	0	IN	NS	kim.camnet.cm.
 cnkaf.cm.	0	IN	NS	mbam.camnet.cm.
 cnki.cm.	0	IN	NS	ns1.ndns.cn.
 cnki.cm.	0	IN	NS	ns2.ndns.cn.
-cnlive.cm.	0	IN	NS	ns1.netsto.net.
-cnlive.cm.	0	IN	NS	ns2.netsto.net.
 cnls.cm.	0	IN	NS	kim.camnet.cm.
 cnls.cm.	0	IN	NS	mbam.camnet.cm.
 cnm.cm.	0	IN	NS	ns6.netsto.net.
@@ -26414,6 +26468,10 @@ cp77.cm.	0	IN	NS	ns1.netsto.net.
 cp77.cm.	0	IN	NS	ns2.netsto.net.
 cp777.cm.	0	IN	NS	ns1.netsto.net.
 cp777.cm.	0	IN	NS	ns2.netsto.net.
+cp7888.cm.	0	IN	NS	ns1.netsto.net.
+cp7888.cm.	0	IN	NS	ns2.netsto.net.
+cp8777.cm.	0	IN	NS	ns1.netsto.net.
+cp8777.cm.	0	IN	NS	ns2.netsto.net.
 cpa.cm.	0	IN	NS	lila.ns.cloudflare.com.
 cpa.cm.	0	IN	NS	terry.ns.cloudflare.com.
 cpacameroon.cm.	0	IN	NS	ns1.bh-3.webhostbox.net.
@@ -26704,8 +26762,6 @@ crownandcaliber.cm.	0	IN	NS	ns1.adtraks.com.
 crownandcaliber.cm.	0	IN	NS	ns2.adtraks.com.
 crptoalert.cm.	0	IN	NS	ns1.parkingcrew.net.
 crptoalert.cm.	0	IN	NS	ns2.parkingcrew.net.
-crsky.cm.	0	IN	NS	ns1.netsto.net.
-crsky.cm.	0	IN	NS	ns2.netsto.net.
 crtv.cm.	0	IN	NS	ns1.camoogroup.com.
 crtv.cm.	0	IN	NS	ns2.camoogroup.com.
 crtv237webradio.cm.	0	IN	NS	ns1.camoogroup.com.
@@ -27150,6 +27206,8 @@ d-shop.cm.	0	IN	NS	ns1.servconfig.com.
 d-shop.cm.	0	IN	NS	ns2.servconfig.com.
 d1.cm.	0	IN	NS	ns1.netsto.net.
 d1.cm.	0	IN	NS	ns2.netsto.net.
+d10.cm.	0	IN	NS	ns1.netsto.net.
+d10.cm.	0	IN	NS	ns2.netsto.net.
 d2.cm.	0	IN	NS	ns6.netsto.net.
 d2.cm.	0	IN	NS	ns7.netsto.net.
 d2h.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -27158,8 +27216,6 @@ d35.cm.	0	IN	NS	ns6.netsto.net.
 d35.cm.	0	IN	NS	ns7.netsto.net.
 d365.cm.	0	IN	NS	ns1.netsto.net.
 d365.cm.	0	IN	NS	ns2.netsto.net.
-d3833.cm.	0	IN	NS	ns1.netsto.net.
-d3833.cm.	0	IN	NS	ns2.netsto.net.
 d3market.cm.	0	IN	NS	chuck.ns.cloudflare.com.
 d3market.cm.	0	IN	NS	galilea.ns.cloudflare.com.
 d5365.cm.	0	IN	NS	ns1.netsto.net.
@@ -27235,6 +27291,8 @@ daftrucks.cm.	0	IN	NS	ns5.markmonitor.com.
 daftrucks.cm.	0	IN	NS	ns6.markmonitor.com.
 dafuweng.cm.	0	IN	NS	ns1.netsto.net.
 dafuweng.cm.	0	IN	NS	ns2.netsto.net.
+dagouse.cm.	0	IN	NS	ns1.netsto.net.
+dagouse.cm.	0	IN	NS	ns2.netsto.net.
 dahong666.cm.	0	IN	NS	kira.ns.cloudflare.com.
 dahong666.cm.	0	IN	NS	jacob.ns.cloudflare.com.
 dai.cm.	0	IN	NS	f1g1ns1.dnspod.net.
@@ -28128,6 +28186,8 @@ diamondcu.cm.	0	IN	NS	dns1.registrar-servers.com.
 diamondcu.cm.	0	IN	NS	dns2.registrar-servers.com.
 dian.cm.	0	IN	NS	ns1.parkingcrew.net.
 dian.cm.	0	IN	NS	ns2.parkingcrew.net.
+diandian222.cm.	0	IN	NS	ns1.netsto.net.
+diandian222.cm.	0	IN	NS	ns2.netsto.net.
 diane.cm.	0	IN	NS	ns3.cloud.stdigital.network.
 diane.cm.	0	IN	NS	ns4.cloud.stdigital.network.
 diane.cm.	0	IN	NS	ns5.cloud.stdigital.network.
@@ -28949,6 +29009,8 @@ doc88.cm.	0	IN	NS	ns1.netsto.net.
 doc88.cm.	0	IN	NS	ns2.netsto.net.
 doce.cm.	0	IN	NS	ns6.netsto.net.
 doce.cm.	0	IN	NS	ns7.netsto.net.
+docin.cm.	0	IN	NS	ns1.netsto.net.
+docin.cm.	0	IN	NS	ns2.netsto.net.
 docker.cm.	0	IN	NS	ns1.parkingcrew.net.
 docker.cm.	0	IN	NS	ns2.parkingcrew.net.
 dockers.cm.	0	IN	NS	pns21.cloudns.net.
@@ -29591,6 +29653,8 @@ dx1d2a.cm.	0	IN	NS	ns6.netsto.net.
 dx1d2a.cm.	0	IN	NS	ns7.netsto.net.
 dx1fa9.cm.	0	IN	NS	ns6.netsto.net.
 dx1fa9.cm.	0	IN	NS	ns7.netsto.net.
+dx28.cm.	0	IN	NS	ns1.netsto.net.
+dx28.cm.	0	IN	NS	ns2.netsto.net.
 dx55.cm.	0	IN	NS	ns1.netsto.net.
 dx55.cm.	0	IN	NS	ns2.netsto.net.
 dx66.cm.	0	IN	NS	ns1.netsto.net.
@@ -29746,6 +29810,8 @@ e-supptic.cm.	0	IN	NS	nsb.planethoster.net.
 e-supptic.cm.	0	IN	NS	nsc.planethoster.net.
 e-zpassny.cm.	0	IN	NS	ns1.parkingcrew.net.
 e-zpassny.cm.	0	IN	NS	ns2.parkingcrew.net.
+e10.cm.	0	IN	NS	ns1.netsto.net.
+e10.cm.	0	IN	NS	ns2.netsto.net.
 e28.cm.	0	IN	NS	dns1.registrar-servers.com.
 e28.cm.	0	IN	NS	dns2.registrar-servers.com.
 e365.cm.	0	IN	NS	ns1.netsto.net.
@@ -30370,8 +30436,10 @@ eharmony.cm.	0	IN	NS	pns21.cloudns.net.
 eharmony.cm.	0	IN	NS	pns22.cloudns.net.
 eharmony.cm.	0	IN	NS	pns23.cloudns.net.
 eharmony.cm.	0	IN	NS	pns24.cloudns.net.
-ehd.cm.	0	IN	NS	ns1.camoogroup.com.
-ehd.cm.	0	IN	NS	ns2.camoogroup.com.
+ehd.cm.	0	IN	NS	ns1.dnshostservices.com.
+ehd.cm.	0	IN	NS	ns2.dnshostservices.com.
+ehd.cm.	0	IN	NS	ns3.dnshostservices.com.
+ehd.cm.	0	IN	NS	ns4.dnshostservices.com.
 ehealthinsurance.cm.	0	IN	NS	ns1.hastydns.com.
 ehealthinsurance.cm.	0	IN	NS	ns2.hastydns.com.
 ehiaccount.cm.	0	IN	NS	ns1.markmonitor.com.
@@ -30626,8 +30694,8 @@ ellos.cm.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
 ellos.cm.	0	IN	NS	dns4.zaccodigitaltrustlabs.se.
 elong.cm.	0	IN	NS	ns1.parkingcrew.net.
 elong.cm.	0	IN	NS	ns2.parkingcrew.net.
-elonga.cm.	0	IN	NS	ns1.101domain.com.
-elonga.cm.	0	IN	NS	ns2.101domain.com.
+elonga.cm.	0	IN	NS	ns3.inmotionhosting.com.
+elonga.cm.	0	IN	NS	ns4.inmotionhosting.com.
 elops.cm.	0	IN	NS	ns-37-b.gandi.net.
 elops.cm.	0	IN	NS	ns-39-c.gandi.net.
 elops.cm.	0	IN	NS	ns-219-a.gandi.net.
@@ -30867,6 +30935,8 @@ ens-yde.cm.	0	IN	NS	nsa.n0c.com.
 ens-yde.cm.	0	IN	NS	nsb.n0c.com.
 ens-yde-auditeurslibres.cm.	0	IN	NS	nsa.n0c.com.
 ens-yde-auditeurslibres.cm.	0	IN	NS	nsb.n0c.com.
+ensahv.cm.	0	IN	NS	nsy.prosygma-cm.com.
+ensahv.cm.	0	IN	NS	ns24.prosygma-cm.com.
 ensai-alumni.cm.	0	IN	NS	ns1.mtnbusiness.cm.
 ensai-alumni.cm.	0	IN	NS	ns2.mtnbusiness.cm.
 ensellemarcel.cm.	0	IN	NS	a.dns.gandi.net.
@@ -32044,6 +32114,8 @@ f-secure.cm.	0	IN	NS	ns1.adtraks.com.
 f-secure.cm.	0	IN	NS	ns2.adtraks.com.
 f1.cm.	0	IN	NS	ns1.ii51.parklogic.com.
 f1.cm.	0	IN	NS	ns2.ii51.parklogic.com.
+f10.cm.	0	IN	NS	ns1.netsto.net.
+f10.cm.	0	IN	NS	ns2.netsto.net.
 f2.cm.	0	IN	NS	ns1.alidns.com.
 f2.cm.	0	IN	NS	ns2.alidns.com.
 f292.cm.	0	IN	NS	ns1.alidns.com.
@@ -32436,24 +32508,6 @@ fc456.cm.	0	IN	NS	ns1.netsto.net.
 fc456.cm.	0	IN	NS	ns2.netsto.net.
 fc45600.cm.	0	IN	NS	ns6.netsto.net.
 fc45600.cm.	0	IN	NS	ns7.netsto.net.
-fc45611.cm.	0	IN	NS	ns1.netsto.net.
-fc45611.cm.	0	IN	NS	ns2.netsto.net.
-fc45622.cm.	0	IN	NS	ns1.netsto.net.
-fc45622.cm.	0	IN	NS	ns2.netsto.net.
-fc45633.cm.	0	IN	NS	ns1.netsto.net.
-fc45633.cm.	0	IN	NS	ns2.netsto.net.
-fc45644.cm.	0	IN	NS	ns1.netsto.net.
-fc45644.cm.	0	IN	NS	ns2.netsto.net.
-fc45655.cm.	0	IN	NS	ns1.netsto.net.
-fc45655.cm.	0	IN	NS	ns2.netsto.net.
-fc45666.cm.	0	IN	NS	ns1.netsto.net.
-fc45666.cm.	0	IN	NS	ns2.netsto.net.
-fc45677.cm.	0	IN	NS	ns1.netsto.net.
-fc45677.cm.	0	IN	NS	ns2.netsto.net.
-fc45688.cm.	0	IN	NS	ns1.netsto.net.
-fc45688.cm.	0	IN	NS	ns2.netsto.net.
-fc45699.cm.	0	IN	NS	ns1.netsto.net.
-fc45699.cm.	0	IN	NS	ns2.netsto.net.
 fcaebook.cm.	0	IN	NS	ns1.parkingcrew.net.
 fcaebook.cm.	0	IN	NS	ns2.parkingcrew.net.
 fcb.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -32677,6 +32731,8 @@ fh6629.cm.	0	IN	NS	ns6.netsto.net.
 fh6629.cm.	0	IN	NS	ns7.netsto.net.
 fh6707.cm.	0	IN	NS	ns6.netsto.net.
 fh6707.cm.	0	IN	NS	ns7.netsto.net.
+fh8.cm.	0	IN	NS	ns1.netsto.net.
+fh8.cm.	0	IN	NS	ns2.netsto.net.
 fhapk.cm.	0	IN	NS	ns1.netsto.net.
 fhapk.cm.	0	IN	NS	ns2.netsto.net.
 fhb.cm.	0	IN	NS	ns1.ii51.parklogic.com.
@@ -34184,6 +34240,8 @@ g-tv.cm.	0	IN	NS	kim.camnet.cm.
 g-tv.cm.	0	IN	NS	mbam.camnet.cm.
 g06.cm.	0	IN	NS	amalia.ns.cloudflare.com.
 g06.cm.	0	IN	NS	merlin.ns.cloudflare.com.
+g10.cm.	0	IN	NS	ns1.netsto.net.
+g10.cm.	0	IN	NS	ns2.netsto.net.
 g2.cm.	0	IN	NS	ns1.netsto.net.
 g2.cm.	0	IN	NS	ns2.netsto.net.
 g2a.cm.	0	IN	NS	ns1.bodis.com.
@@ -34868,26 +34926,6 @@ gfs.cm.	0	IN	NS	ns3.abovedomains.com.
 gfs.cm.	0	IN	NS	ns4.abovedomains.com.
 gfty.cm.	0	IN	NS	ns1.netsto.net.
 gfty.cm.	0	IN	NS	ns2.netsto.net.
-gfty18.cm.	0	IN	NS	ns1.netsto.net.
-gfty18.cm.	0	IN	NS	ns2.netsto.net.
-gfty28.cm.	0	IN	NS	ns1.netsto.net.
-gfty28.cm.	0	IN	NS	ns2.netsto.net.
-gfty38.cm.	0	IN	NS	ns1.netsto.net.
-gfty38.cm.	0	IN	NS	ns2.netsto.net.
-gfty48.cm.	0	IN	NS	ns1.netsto.net.
-gfty48.cm.	0	IN	NS	ns2.netsto.net.
-gfty58.cm.	0	IN	NS	ns1.netsto.net.
-gfty58.cm.	0	IN	NS	ns2.netsto.net.
-gfty68.cm.	0	IN	NS	ns1.netsto.net.
-gfty68.cm.	0	IN	NS	ns2.netsto.net.
-gfty78.cm.	0	IN	NS	ns1.netsto.net.
-gfty78.cm.	0	IN	NS	ns2.netsto.net.
-gfty8.cm.	0	IN	NS	ns1.netsto.net.
-gfty8.cm.	0	IN	NS	ns2.netsto.net.
-gfty88.cm.	0	IN	NS	ns1.netsto.net.
-gfty88.cm.	0	IN	NS	ns2.netsto.net.
-gfty98.cm.	0	IN	NS	ns1.netsto.net.
-gfty98.cm.	0	IN	NS	ns2.netsto.net.
 gfw.cm.	0	IN	NS	ns1.netsto.net.
 gfw.cm.	0	IN	NS	ns2.netsto.net.
 gg.cm.	0	IN	NS	dean.ns.cloudflare.com.
@@ -36194,6 +36232,8 @@ h0tline.cm.	0	IN	NS	ns2219.ispapi.net.
 h0tline.cm.	0	IN	NS	ns3202.ispapi.net.
 h1.cm.	0	IN	NS	ns6.netsto.net.
 h1.cm.	0	IN	NS	ns7.netsto.net.
+h10.cm.	0	IN	NS	ns1.netsto.net.
+h10.cm.	0	IN	NS	ns2.netsto.net.
 h16.cm.	0	IN	NS	ns6.netsto.net.
 h16.cm.	0	IN	NS	ns7.netsto.net.
 h17.cm.	0	IN	NS	ns1.netsto.net.
@@ -36215,8 +36255,6 @@ h365.cm.	0	IN	NS	ns1.netsto.net.
 h365.cm.	0	IN	NS	ns2.netsto.net.
 h37.cm.	0	IN	NS	ns6.netsto.net.
 h37.cm.	0	IN	NS	ns7.netsto.net.
-h3833.cm.	0	IN	NS	ns1.netsto.net.
-h3833.cm.	0	IN	NS	ns2.netsto.net.
 h4433.cm.	0	IN	NS	ns1.alidns.com.
 h4433.cm.	0	IN	NS	ns2.alidns.com.
 h4634.cm.	0	IN	NS	ns6.netsto.net.
@@ -37193,6 +37231,8 @@ hg9.cm.	0	IN	NS	ns1.netsto.net.
 hg9.cm.	0	IN	NS	ns2.netsto.net.
 hg909.cm.	0	IN	NS	ns6.netsto.net.
 hg909.cm.	0	IN	NS	ns7.netsto.net.
+hg9300.cm.	0	IN	NS	ns1.netsto.net.
+hg9300.cm.	0	IN	NS	ns2.netsto.net.
 hg9345.cm.	0	IN	NS	ns1.dns.com.
 hg9345.cm.	0	IN	NS	ns2.dns.com.
 hg96.cm.	0	IN	NS	ns1.netsto.net.
@@ -37588,8 +37628,6 @@ hm.cm.	0	IN	NS	a1-139.akam.net.
 hm.cm.	0	IN	NS	a11-66.akam.net.
 hm.cm.	0	IN	NS	a12-67.akam.net.
 hm.cm.	0	IN	NS	a28-64.akam.net.
-hm01.cm.	0	IN	NS	ns1.netsto.net.
-hm01.cm.	0	IN	NS	ns2.netsto.net.
 hm8kff.cm.	0	IN	NS	ns1.netsto.net.
 hm8kff.cm.	0	IN	NS	ns2.netsto.net.
 hmail.cm.	0	IN	NS	ns1.hastydns.com.
@@ -38208,6 +38246,8 @@ hptpoker.cm.	0	IN	NS	dns2.idp365.net.
 hptpoker.cm.	0	IN	NS	dns3.idp365.net.
 hq.cm.	0	IN	NS	ns1.4.cn.
 hq.cm.	0	IN	NS	ns2.4.cn.
+hq115.cm.	0	IN	NS	ns1.netsto.net.
+hq115.cm.	0	IN	NS	ns2.netsto.net.
 hq660.cm.	0	IN	NS	ns1.netsto.net.
 hq660.cm.	0	IN	NS	ns2.netsto.net.
 hq6667.cm.	0	IN	NS	ns1.netsto.net.
@@ -38624,6 +38664,8 @@ i-ready.cm.	0	IN	NS	ns1.ii51.parklogic.com.
 i-ready.cm.	0	IN	NS	ns2.ii51.parklogic.com.
 i1.cm.	0	IN	NS	ns6.netsto.net.
 i1.cm.	0	IN	NS	ns7.netsto.net.
+i10.cm.	0	IN	NS	ns1.netsto.net.
+i10.cm.	0	IN	NS	ns2.netsto.net.
 i18.cm.	0	IN	NS	ns6.netsto.net.
 i18.cm.	0	IN	NS	ns7.netsto.net.
 i2.cm.	0	IN	NS	ns1.netsto.net.
@@ -38751,6 +38793,8 @@ iceage.cm.	0	IN	NS	ns33.twdcns.org.
 iceage.cm.	0	IN	NS	ns34.twdcns.co.uk.
 icenter.cm.	0	IN	NS	ns3.abovedomains.com.
 icenter.cm.	0	IN	NS	ns4.abovedomains.com.
+iceplus.cm.	0	IN	NS	ns1.camoogroup.com.
+iceplus.cm.	0	IN	NS	ns2.camoogroup.com.
 icex.cm.	0	IN	NS	halcon.icex.es.
 icex.cm.	0	IN	NS	milano.icex.es.
 icfesw.cm.	0	IN	NS	dns1.namecheaphosting.com.
@@ -38978,8 +39022,6 @@ iherb.cm.	0	IN	NS	desi.ns.cloudflare.com.
 iherb.cm.	0	IN	NS	evan.ns.cloudflare.com.
 ihg.cm.	0	IN	NS	ns1.hastydns.com.
 ihg.cm.	0	IN	NS	ns2.hastydns.com.
-ihih6.cm.	0	IN	NS	ns1.netsto.net.
-ihih6.cm.	0	IN	NS	ns2.netsto.net.
 ihop.cm.	0	IN	NS	ns1.parkingcrew.net.
 ihop.cm.	0	IN	NS	ns2.parkingcrew.net.
 ihscameroon.cm.	0	IN	NS	ns1.mtnbusiness.cm.
@@ -40209,6 +40251,8 @@ j-n-j.cm.	0	IN	NS	dns1.p01.nsone.net.
 j-n-j.cm.	0	IN	NS	dns2.p01.nsone.net.
 j-n-j.cm.	0	IN	NS	ns01.jnjdns.com.
 j-n-j.cm.	0	IN	NS	ns02.jnjdns.com.
+j10.cm.	0	IN	NS	ns1.netsto.net.
+j10.cm.	0	IN	NS	ns2.netsto.net.
 j1ty.cm.	0	IN	NS	ns6.netsto.net.
 j1ty.cm.	0	IN	NS	ns7.netsto.net.
 j1ty22.cm.	0	IN	NS	ns6.netsto.net.
@@ -40733,8 +40777,6 @@ jhancock.cm.	0	IN	NS	ns0005.secondary.cloudflare.com.
 jhancock.cm.	0	IN	NS	ns0182.secondary.cloudflare.com.
 jhbet.cm.	0	IN	NS	ns1.netsto.net.
 jhbet.cm.	0	IN	NS	ns2.netsto.net.
-jhfuli.cm.	0	IN	NS	ns1.netsto.net.
-jhfuli.cm.	0	IN	NS	ns2.netsto.net.
 jhgame.cm.	0	IN	NS	ns1.netsto.net.
 jhgame.cm.	0	IN	NS	ns2.netsto.net.
 jhtv.cm.	0	IN	NS	ns1.panelbox.net.
@@ -40761,6 +40803,8 @@ jianhua8.cm.	0	IN	NS	ns1.netsto.net.
 jianhua8.cm.	0	IN	NS	ns2.netsto.net.
 jianpian.cm.	0	IN	NS	ns1.netsto.net.
 jianpian.cm.	0	IN	NS	ns2.netsto.net.
+jianshu.cm.	0	IN	NS	ns1.netsto.net.
+jianshu.cm.	0	IN	NS	ns2.netsto.net.
 jiaoyi888.cm.	0	IN	NS	ns6.netsto.net.
 jiaoyi888.cm.	0	IN	NS	ns7.netsto.net.
 jiaxiao.cm.	0	IN	NS	f1g1ns1.dnspod.net.
@@ -40902,8 +40946,6 @@ jj365.cm.	0	IN	NS	ns6.netsto.net.
 jj365.cm.	0	IN	NS	ns7.netsto.net.
 jj78.cm.	0	IN	NS	ns1.dnsdun.com.
 jj78.cm.	0	IN	NS	ns1.dnsdun.net.
-jjb.cm.	0	IN	NS	ns1.netsto.net.
-jjb.cm.	0	IN	NS	ns2.netsto.net.
 jjbet.cm.	0	IN	NS	ns1.netsto.net.
 jjbet.cm.	0	IN	NS	ns2.netsto.net.
 jjbs.cm.	0	IN	NS	ns1.dnsdun.com.
@@ -41414,6 +41456,8 @@ js186100.cm.	0	IN	NS	ns1.netsto.net.
 js186100.cm.	0	IN	NS	ns2.netsto.net.
 js1949.cm.	0	IN	NS	ns1.netsto.net.
 js1949.cm.	0	IN	NS	ns2.netsto.net.
+js345.cm.	0	IN	NS	ns1.netsto.net.
+js345.cm.	0	IN	NS	ns2.netsto.net.
 js45a81.cm.	0	IN	NS	ns1.alidns.com.
 js45a81.cm.	0	IN	NS	ns2.alidns.com.
 js600.cm.	0	IN	NS	ns1.netsto.net.
@@ -41490,8 +41534,6 @@ ju.cm.	0	IN	NS	ns1.4.cn.
 ju.cm.	0	IN	NS	ns2.4.cn.
 jua.cm.	0	IN	NS	dns1.registrar-servers.com.
 jua.cm.	0	IN	NS	dns2.registrar-servers.com.
-jucai310.cm.	0	IN	NS	ns1.netsto.net.
-jucai310.cm.	0	IN	NS	ns2.netsto.net.
 jucy.cm.	0	IN	NS	ns1.adtraks.com.
 jucy.cm.	0	IN	NS	ns2.adtraks.com.
 judo.cm.	0	IN	NS	ns1.brandshelter.com.
@@ -41780,6 +41822,8 @@ k1.cm.	0	IN	NS	ns1.myhostadmin.net.
 k1.cm.	0	IN	NS	ns2.myhostadmin.net.
 k1.cm.	0	IN	NS	ns3.myhostadmin.net.
 k1.cm.	0	IN	NS	ns4.myhostadmin.net.
+k10.cm.	0	IN	NS	ns1.netsto.net.
+k10.cm.	0	IN	NS	ns2.netsto.net.
 k11.cm.	0	IN	NS	ns1.netsto.net.
 k11.cm.	0	IN	NS	ns2.netsto.net.
 k12.cm.	0	IN	NS	ns3.abovedomains.com.
@@ -41796,6 +41840,8 @@ k2.cm.	0	IN	NS	lex.ns.cloudflare.com.
 k2.cm.	0	IN	NS	jessica.ns.cloudflare.com.
 k22.cm.	0	IN	NS	ns1.netsto.net.
 k22.cm.	0	IN	NS	ns2.netsto.net.
+k222.cm.	0	IN	NS	ns1.netsto.net.
+k222.cm.	0	IN	NS	ns2.netsto.net.
 k2449.cm.	0	IN	NS	ns1.netsto.net.
 k2449.cm.	0	IN	NS	ns2.netsto.net.
 k28.cm.	0	IN	NS	ns1.netsto.net.
@@ -41832,8 +41878,6 @@ k458.cm.	0	IN	NS	ns1.netsto.net.
 k458.cm.	0	IN	NS	ns2.netsto.net.
 k4847.cm.	0	IN	NS	ns1.alidns.com.
 k4847.cm.	0	IN	NS	ns2.alidns.com.
-k4t5.cm.	0	IN	NS	ns1.alidns.com.
-k4t5.cm.	0	IN	NS	ns2.alidns.com.
 k5.cm.	0	IN	NS	ns1.netsto.net.
 k5.cm.	0	IN	NS	ns2.netsto.net.
 k5365.cm.	0	IN	NS	ns1.netsto.net.
@@ -41881,8 +41925,6 @@ k79.cm.	0	IN	NS	ns6.netsto.net.
 k79.cm.	0	IN	NS	ns7.netsto.net.
 k79u.cm.	0	IN	NS	ns1.alidns.com.
 k79u.cm.	0	IN	NS	ns2.alidns.com.
-k7t7.cm.	0	IN	NS	ns1.alidns.com.
-k7t7.cm.	0	IN	NS	ns2.alidns.com.
 k7y5.cm.	0	IN	NS	vicente.ns.cloudflare.com.
 k7y5.cm.	0	IN	NS	anastasia.ns.cloudflare.com.
 k8.cm.	0	IN	NS	ns1.netsto.net.
@@ -41915,8 +41957,8 @@ k994.cm.	0	IN	NS	ns1.netsto.net.
 k994.cm.	0	IN	NS	ns2.netsto.net.
 k9cm.cm.	0	IN	NS	dns1.namecheaphosting.com.
 k9cm.cm.	0	IN	NS	dns2.namecheaphosting.com.
-ka.cm.	0	IN	NS	eva.ns.cloudflare.com.
-ka.cm.	0	IN	NS	todd.ns.cloudflare.com.
+ka.cm.	0	IN	NS	ns1.netsto.net.
+ka.cm.	0	IN	NS	ns2.netsto.net.
 kaadie.cm.	0	IN	NS	ns1.ccntechnologies.us.
 kaadie.cm.	0	IN	NS	ns2.ccntechnologies.us.
 kabbalah.cm.	0	IN	NS	dns1.name-services.com.
@@ -43254,6 +43296,8 @@ l0.cm.	0	IN	NS	ns4.value-domain.com.
 l0.cm.	0	IN	NS	ns5.value-domain.com.
 l1.cm.	0	IN	NS	ns1.netsto.net.
 l1.cm.	0	IN	NS	ns2.netsto.net.
+l10.cm.	0	IN	NS	ns1.netsto.net.
+l10.cm.	0	IN	NS	ns2.netsto.net.
 l2012.cm.	0	IN	NS	ns1162.ispapi.net.
 l2012.cm.	0	IN	NS	ns2187.ispapi.net.
 l2012.cm.	0	IN	NS	ns3217.ispapi.net.
@@ -43682,8 +43726,6 @@ le-parisien.cm.	0	IN	NS	ns3.nameshield.net.
 le-parisien.cm.	0	IN	NS	obs.ns1.fr.
 le-souvenir-francais.cm.	0	IN	NS	ns11.infomaniak.ch.
 le-souvenir-francais.cm.	0	IN	NS	ns12.infomaniak.ch.
-le58.cm.	0	IN	NS	ns1.netsto.net.
-le58.cm.	0	IN	NS	ns2.netsto.net.
 le9956.cm.	0	IN	NS	ns6.netsto.net.
 le9956.cm.	0	IN	NS	ns7.netsto.net.
 lea-homeless-shelter.cm.	0	IN	NS	dns1.supremedns.com.
@@ -44591,8 +44633,6 @@ ll.cm.	0	IN	NS	ns1.4.cn.
 ll.cm.	0	IN	NS	ns2.4.cn.
 ll365.cm.	0	IN	NS	ns6.netsto.net.
 ll365.cm.	0	IN	NS	ns7.netsto.net.
-ll6652.cm.	0	IN	NS	ns1.netsto.net.
-ll6652.cm.	0	IN	NS	ns2.netsto.net.
 llama.cm.	0	IN	NS	ns1.daaz.org.
 llama.cm.	0	IN	NS	ns2.daaz.org.
 llbean.cm.	0	IN	NS	ns1.hastydns.com.
@@ -45312,6 +45352,8 @@ m-yassa.cm.	0	IN	NS	ns8.lwsdns.com.
 m0.cm.	0	IN	NS	ns-19-a.gandi.net.
 m0.cm.	0	IN	NS	ns-28-c.gandi.net.
 m0.cm.	0	IN	NS	ns-226-b.gandi.net.
+m10.cm.	0	IN	NS	ns1.netsto.net.
+m10.cm.	0	IN	NS	ns2.netsto.net.
 m138.cm.	0	IN	NS	ns6.netsto.net.
 m138.cm.	0	IN	NS	ns7.netsto.net.
 m1396.cm.	0	IN	NS	ns1.netsto.net.
@@ -45356,8 +45398,6 @@ m8.cm.	0	IN	NS	dns1.registrar-servers.com.
 m8.cm.	0	IN	NS	dns2.registrar-servers.com.
 m86.cm.	0	IN	NS	ns1.netsto.net.
 m86.cm.	0	IN	NS	ns2.netsto.net.
-m88.cm.	0	IN	NS	dns101.registrar-servers.com.
-m88.cm.	0	IN	NS	dns102.registrar-servers.com.
 m889qp.cm.	0	IN	NS	ns6.netsto.net.
 m889qp.cm.	0	IN	NS	ns7.netsto.net.
 m8zb.cm.	0	IN	NS	ns1.netsto.net.
@@ -46541,8 +46581,8 @@ medicalex.cm.	0	IN	NS	ns7.lwsdns.com.
 medicalex.cm.	0	IN	NS	ns8.lwsdns.com.
 medicalinsurance.cm.	0	IN	NS	ns3.abovedomains.com.
 medicalinsurance.cm.	0	IN	NS	ns4.abovedomains.com.
-medicare.cm.	0	IN	NS	ns1.bodis.com.
-medicare.cm.	0	IN	NS	ns2.bodis.com.
+medicare.cm.	0	IN	NS	ns1.parkingcrew.net.
+medicare.cm.	0	IN	NS	ns2.parkingcrew.net.
 medichain.cm.	0	IN	NS	ns1.camoogroup.com.
 medichain.cm.	0	IN	NS	ns2.camoogroup.com.
 medidays.cm.	0	IN	NS	ns109.ovh.net.
@@ -46639,8 +46679,6 @@ megogo.cm.	0	IN	NS	ns2.101domain.com.
 megogo.cm.	0	IN	NS	ns5.101domain.com.
 meh.cm.	0	IN	NS	ns1.parkingcrew.net.
 meh.cm.	0	IN	NS	ns2.parkingcrew.net.
-meibovip.cm.	0	IN	NS	ns1.netsto.net.
-meibovip.cm.	0	IN	NS	ns2.netsto.net.
 meiho.cm.	0	IN	NS	dns1.onamae.com.
 meiho.cm.	0	IN	NS	dns2.onamae.com.
 meijer.cm.	0	IN	NS	ns1.hastydns.com.
@@ -46679,8 +46717,8 @@ melbetapk.cm.	0	IN	NS	frank.ns.cloudflare.com.
 melbetapk.cm.	0	IN	NS	treasure.ns.cloudflare.com.
 melbetapp.cm.	0	IN	NS	frank.ns.cloudflare.com.
 melbetapp.cm.	0	IN	NS	treasure.ns.cloudflare.com.
-melbetdownload.cm.	0	IN	NS	kipp.ns.cloudflare.com.
-melbetdownload.cm.	0	IN	NS	cecelia.ns.cloudflare.com.
+melbetdownload.cm.	0	IN	NS	frank.ns.cloudflare.com.
+melbetdownload.cm.	0	IN	NS	treasure.ns.cloudflare.com.
 melbets.cm.	0	IN	NS	phil.ns.cloudflare.com.
 melbets.cm.	0	IN	NS	surina.ns.cloudflare.com.
 melbettelecharger.cm.	0	IN	NS	ns1.netim.net.
@@ -47349,8 +47387,6 @@ milo.cm.	0	IN	NS	ns4.markmonitor.com.
 milo.cm.	0	IN	NS	ns5.markmonitor.com.
 milo.cm.	0	IN	NS	ns6.markmonitor.com.
 milo.cm.	0	IN	NS	ns7.markmonitor.com.
-mimecast.cm.	0	IN	NS	ns3.abovedomains.com.
-mimecast.cm.	0	IN	NS	ns4.abovedomains.com.
 mimi1.cm.	0	IN	NS	ns1.netsto.net.
 mimi1.cm.	0	IN	NS	ns2.netsto.net.
 min.cm.	0	IN	NS	ns1.create.com.
@@ -47601,6 +47637,8 @@ mitek.cm.	0	IN	NS	dns1.p01.nsone.net.
 mitek.cm.	0	IN	NS	dns2.p01.nsone.net.
 mitek.cm.	0	IN	NS	ns01.jnjdns.com.
 mitek.cm.	0	IN	NS	ns02.jnjdns.com.
+mitolyn.cm.	0	IN	NS	ajay.ns.cloudflare.com.
+mitolyn.cm.	0	IN	NS	zara.ns.cloudflare.com.
 mitre.cm.	0	IN	NS	ns1.markmonitor.com.
 mitre.cm.	0	IN	NS	ns2.markmonitor.com.
 mitre.cm.	0	IN	NS	ns3.markmonitor.com.
@@ -47804,8 +47842,6 @@ moab.cm.	0	IN	NS	dns1.registrar-servers.com.
 moab.cm.	0	IN	NS	dns2.registrar-servers.com.
 mobach.cm.	0	IN	NS	ns1.stackdns.com.
 mobach.cm.	0	IN	NS	ns2.stackdns.com.
-mobaiku.cm.	0	IN	NS	ns1.netsto.net.
-mobaiku.cm.	0	IN	NS	ns2.netsto.net.
 mobi.cm.	0	IN	NS	ns1.netsto.net.
 mobi.cm.	0	IN	NS	ns2.netsto.net.
 mobil.cm.	0	IN	NS	a3-66.akam.net.
@@ -49253,6 +49289,8 @@ n.cm.	0	IN	NS	hasslo.ns.cloudflare.com.
 n.cm.	0	IN	NS	ursula.ns.cloudflare.com.
 n1.cm.	0	IN	NS	ns1.netsto.net.
 n1.cm.	0	IN	NS	ns2.netsto.net.
+n10.cm.	0	IN	NS	ns1.netsto.net.
+n10.cm.	0	IN	NS	ns2.netsto.net.
 n26.cm.	0	IN	NS	ns1.netsto.net.
 n26.cm.	0	IN	NS	ns2.netsto.net.
 n2y.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -50345,6 +50383,8 @@ nmvip.cm.	0	IN	NS	ns1.netsto.net.
 nmvip.cm.	0	IN	NS	ns2.netsto.net.
 nn.cm.	0	IN	NS	grace.ns.cloudflare.com.
 nn.cm.	0	IN	NS	gerald.ns.cloudflare.com.
+nn288.cm.	0	IN	NS	ns1.netsto.net.
+nn288.cm.	0	IN	NS	ns2.netsto.net.
 nn88.cm.	0	IN	NS	ns1.gcorelabs.net.
 nn88.cm.	0	IN	NS	ns2.gcdn.services.
 nnbet.cm.	0	IN	NS	ns1.gcorelabs.net.
@@ -50355,6 +50395,8 @@ nnn365.cm.	0	IN	NS	amalia.ns.cloudflare.com.
 nnn365.cm.	0	IN	NS	merlin.ns.cloudflare.com.
 nnn49.cm.	0	IN	NS	ns1.netsto.net.
 nnn49.cm.	0	IN	NS	ns2.netsto.net.
+nnw55.cm.	0	IN	NS	ns1.netsto.net.
+nnw55.cm.	0	IN	NS	ns2.netsto.net.
 no.cm.	0	IN	NS	cow.dnspod.net.
 no.cm.	0	IN	NS	cormorant.dnspod.net.
 noah.cm.	0	IN	NS	ns1.netsto.net.
@@ -50893,6 +50935,8 @@ o-b.cm.	0	IN	NS	ns03.kenvuedns.com.
 o-b.cm.	0	IN	NS	ns04.kenvuedns.com.
 o-music.cm.	0	IN	NS	cattle.dnspod.net.
 o-music.cm.	0	IN	NS	macadamias.dnspod.net.
+o10.cm.	0	IN	NS	ns1.netsto.net.
+o10.cm.	0	IN	NS	ns2.netsto.net.
 o2.cm.	0	IN	NS	ns1.myhostadmin.net.
 o2.cm.	0	IN	NS	ns2.myhostadmin.net.
 o365.cm.	0	IN	NS	ns1.netsto.net.
@@ -51171,18 +51215,6 @@ ok88888.cm.	0	IN	NS	ns6.netsto.net.
 ok88888.cm.	0	IN	NS	ns7.netsto.net.
 ok89.cm.	0	IN	NS	ns6.netsto.net.
 ok89.cm.	0	IN	NS	ns7.netsto.net.
-ok89a.cm.	0	IN	NS	ns1.netsto.net.
-ok89a.cm.	0	IN	NS	ns2.netsto.net.
-ok89b.cm.	0	IN	NS	ns1.netsto.net.
-ok89b.cm.	0	IN	NS	ns2.netsto.net.
-ok89c.cm.	0	IN	NS	ns1.netsto.net.
-ok89c.cm.	0	IN	NS	ns2.netsto.net.
-ok89d.cm.	0	IN	NS	ns1.netsto.net.
-ok89d.cm.	0	IN	NS	ns2.netsto.net.
-ok89e.cm.	0	IN	NS	ns1.netsto.net.
-ok89e.cm.	0	IN	NS	ns2.netsto.net.
-ok89f.cm.	0	IN	NS	ns1.netsto.net.
-ok89f.cm.	0	IN	NS	ns2.netsto.net.
 okada.cm.	0	IN	NS	ns1.netsto.net.
 okada.cm.	0	IN	NS	ns2.netsto.net.
 okadamanila.cm.	0	IN	NS	ns1.netsto.net.
@@ -52230,8 +52262,6 @@ oxlumo.cm.	0	IN	NS	nssui.comlaude.ch.
 oxlumo.cm.	0	IN	NS	nsusa.comlaude.net.
 oxo.cm.	0	IN	NS	ns1.adtraks.com.
 oxo.cm.	0	IN	NS	ns2.adtraks.com.
-oxtorrent.cm.	0	IN	NS	ns3.abovedomains.com.
-oxtorrent.cm.	0	IN	NS	ns4.abovedomains.com.
 oxylane.cm.	0	IN	NS	ns-44-b.gandi.net.
 oxylane.cm.	0	IN	NS	ns-155-a.gandi.net.
 oxylane.cm.	0	IN	NS	ns-194-c.gandi.net.
@@ -52263,6 +52293,8 @@ p.cm.	0	IN	NS	ns1.netsto.net.
 p.cm.	0	IN	NS	ns2.netsto.net.
 p1.cm.	0	IN	NS	ns1.jiasule.net.
 p1.cm.	0	IN	NS	ns2.jiasule.net.
+p10.cm.	0	IN	NS	ns1.netsto.net.
+p10.cm.	0	IN	NS	ns2.netsto.net.
 p12.cm.	0	IN	NS	ns1.netsto.net.
 p12.cm.	0	IN	NS	ns2.netsto.net.
 p2.cm.	0	IN	NS	ns1.netsto.net.
@@ -54974,8 +55006,6 @@ prolac.cm.	0	IN	NS	ns1.creawebhosting.org.
 prolac.cm.	0	IN	NS	ns2.creawebhosting.org.
 prolac.cm.	0	IN	NS	ns3.creawebhosting.org.
 prolac.cm.	0	IN	NS	ns4.creawebhosting.org.
-prolacc.cm.	0	IN	NS	ns1.eu15.tmd.cloud.
-prolacc.cm.	0	IN	NS	ns2.eu15.tmd.cloud.
 prologis.cm.	0	IN	NS	dns1.ipmanagerinc.net.
 prologis.cm.	0	IN	NS	dns2.ipmanagerinc.net.
 prologis.cm.	0	IN	NS	dns3.ipmanagerinc.net.
@@ -55400,6 +55430,8 @@ q.cm.	0	IN	NS	ns.aimhigh.net.
 q.cm.	0	IN	NS	cats.aimhigh.net.
 q1.cm.	0	IN	NS	ns1.netsto.net.
 q1.cm.	0	IN	NS	ns2.netsto.net.
+q10.cm.	0	IN	NS	ns1.netsto.net.
+q10.cm.	0	IN	NS	ns2.netsto.net.
 q2.cm.	0	IN	NS	ns1.netsto.net.
 q2.cm.	0	IN	NS	ns2.netsto.net.
 q28880.cm.	0	IN	NS	ns1.alidns.com.
@@ -56084,8 +56116,6 @@ qvq.cm.	0	IN	NS	poult.dnspod.net.
 qvq.cm.	0	IN	NS	concrete.dnspod.net.
 qw.cm.	0	IN	NS	ns1.parkingcrew.net.
 qw.cm.	0	IN	NS	ns2.parkingcrew.net.
-qwe668.cm.	0	IN	NS	ns1.netsto.net.
-qwe668.cm.	0	IN	NS	ns2.netsto.net.
 qwen.cm.	0	IN	NS	ns1.4.cn.
 qwen.cm.	0	IN	NS	ns2.4.cn.
 qwerty.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -56182,6 +56212,8 @@ r0pesgray.cm.	0	IN	NS	ns6.markmonitor.com.
 r0peswealth.cm.	0	IN	NS	nsbo.ropesgray.net.
 r0peswealth.cm.	0	IN	NS	nsea.ropesgray.net.
 r0peswealth.cm.	0	IN	NS	nsma.ropesgray.net.
+r10.cm.	0	IN	NS	ns1.netsto.net.
+r10.cm.	0	IN	NS	ns2.netsto.net.
 r3.cm.	0	IN	NS	ns3.abovedomains.com.
 r3.cm.	0	IN	NS	ns4.abovedomains.com.
 r34.cm.	0	IN	NS	ns1.netsto.net.
@@ -58075,6 +58107,8 @@ s.cm.	0	IN	NS	hertz.ddddns.net.
 s.cm.	0	IN	NS	vince.ddddns.net.
 s1.cm.	0	IN	NS	ns1.netsto.net.
 s1.cm.	0	IN	NS	ns2.netsto.net.
+s10.cm.	0	IN	NS	ns1.netsto.net.
+s10.cm.	0	IN	NS	ns2.netsto.net.
 s168.cm.	0	IN	NS	dns1.registrar-servers.com.
 s168.cm.	0	IN	NS	dns2.registrar-servers.com.
 s2.cm.	0	IN	NS	ns1.netsto.net.
@@ -62798,6 +62832,8 @@ t0.cm.	0	IN	NS	ns1.netsto.net.
 t0.cm.	0	IN	NS	ns2.netsto.net.
 t1.cm.	0	IN	NS	ns1.netsto.net.
 t1.cm.	0	IN	NS	ns2.netsto.net.
+t10.cm.	0	IN	NS	ns1.netsto.net.
+t10.cm.	0	IN	NS	ns2.netsto.net.
 t1285.cm.	0	IN	NS	ns1.alidns.com.
 t1285.cm.	0	IN	NS	ns2.alidns.com.
 t1885.cm.	0	IN	NS	ns1.alidns.com.
@@ -63096,8 +63132,6 @@ tazer.cm.	0	IN	NS	nssui.comlaude.ch.
 tazer.cm.	0	IN	NS	nsusa.comlaude.net.
 tb.cm.	0	IN	NS	ns1.parkingcrew.net.
 tb.cm.	0	IN	NS	ns2.parkingcrew.net.
-tb345.cm.	0	IN	NS	ns1.alidns.com.
-tb345.cm.	0	IN	NS	ns2.alidns.com.
 tb5588.cm.	0	IN	NS	ns1.netsto.net.
 tb5588.cm.	0	IN	NS	ns2.netsto.net.
 tb765.cm.	0	IN	NS	ns6.netsto.net.
@@ -63604,8 +63638,6 @@ th.cm.	0	IN	NS	ns1.4.cn.
 th.cm.	0	IN	NS	ns2.4.cn.
 th.cm.	0	IN	NS	ns3.goldenname.com.
 th.cm.	0	IN	NS	ns4.goldenname.com.
-thabet.cm.	0	IN	NS	dns101.registrar-servers.com.
-thabet.cm.	0	IN	NS	dns102.registrar-servers.com.
 thaiairways.cm.	0	IN	NS	ns1.hastydns.com.
 thaiairways.cm.	0	IN	NS	ns2.hastydns.com.
 thailand.cm.	0	IN	NS	ns1.parkingcrew.net.
@@ -64201,6 +64233,8 @@ titlenine.cm.	0	IN	NS	ns1.adtraks.com.
 titlenine.cm.	0	IN	NS	ns2.adtraks.com.
 tj.cm.	0	IN	NS	ns1.4.cn.
 tj.cm.	0	IN	NS	ns2.4.cn.
+tj1.cm.	0	IN	NS	ns1.netsto.net.
+tj1.cm.	0	IN	NS	ns2.netsto.net.
 tjmax.cm.	0	IN	NS	ns11.abovedomains.com.
 tjmax.cm.	0	IN	NS	ns12.abovedomains.com.
 tjmaxx.cm.	0	IN	NS	ns1.markmonitor.com.
@@ -64394,6 +64428,8 @@ ton.cm.	0	IN	NS	dns1.registrar-servers.com.
 ton.cm.	0	IN	NS	dns2.registrar-servers.com.
 tonaexim.cm.	0	IN	NS	eu.domainhizmetleri.net.
 tonaexim.cm.	0	IN	NS	tr.domainhizmetleri.net.
+tongbao01.cm.	0	IN	NS	ns1.netsto.net.
+tongbao01.cm.	0	IN	NS	ns2.netsto.net.
 tonkeeper.cm.	0	IN	NS	ns1cnb.name.com.
 tonkeeper.cm.	0	IN	NS	ns2bkr.name.com.
 tonkeeper.cm.	0	IN	NS	ns3cna.name.com.
@@ -64611,8 +64647,6 @@ toysrus.cm.	0	IN	NS	pns23.cloudns.net.
 toysrus.cm.	0	IN	NS	pns24.cloudns.net.
 tp.cm.	0	IN	NS	pk1.lzhs.com.
 tp.cm.	0	IN	NS	pk2.lzhs.com.
-tp519.cm.	0	IN	NS	ns1.netsto.net.
-tp519.cm.	0	IN	NS	ns2.netsto.net.
 tplogin.cm.	0	IN	NS	leo.ns.cloudflare.com.
 tplogin.cm.	0	IN	NS	erin.ns.cloudflare.com.
 tpp.cm.	0	IN	NS	ns3.abovedomains.com.
@@ -65460,6 +65494,8 @@ txty2f4f.cm.	0	IN	NS	ns6.netsto.net.
 txty2f4f.cm.	0	IN	NS	ns7.netsto.net.
 txty359.cm.	0	IN	NS	ns6.netsto.net.
 txty359.cm.	0	IN	NS	ns7.netsto.net.
+txty88.cm.	0	IN	NS	ns1.netsto.net.
+txty88.cm.	0	IN	NS	ns2.netsto.net.
 txu.cm.	0	IN	NS	ns3.abovedomains.com.
 txu.cm.	0	IN	NS	ns4.abovedomains.com.
 txvlog.cm.	0	IN	NS	ns6.netsto.net.
@@ -65486,8 +65522,6 @@ ty11.cm.	0	IN	NS	ns6.netsto.net.
 ty11.cm.	0	IN	NS	ns7.netsto.net.
 ty111.cm.	0	IN	NS	ns6.netsto.net.
 ty111.cm.	0	IN	NS	ns7.netsto.net.
-ty11111.cm.	0	IN	NS	ns1.netsto.net.
-ty11111.cm.	0	IN	NS	ns2.netsto.net.
 ty2.cm.	0	IN	NS	ns6.netsto.net.
 ty2.cm.	0	IN	NS	ns7.netsto.net.
 ty22.cm.	0	IN	NS	ns6.netsto.net.
@@ -65680,6 +65714,8 @@ u1.cm.	0	IN	NS	ns1.huaweicloud-dns.cn.
 u1.cm.	0	IN	NS	ns1.huaweicloud-dns.com.
 u1.cm.	0	IN	NS	ns1.huaweicloud-dns.net.
 u1.cm.	0	IN	NS	ns1.huaweicloud-dns.org.
+u10.cm.	0	IN	NS	ns1.netsto.net.
+u10.cm.	0	IN	NS	ns2.netsto.net.
 u16.cm.	0	IN	NS	ns1.netsto.net.
 u16.cm.	0	IN	NS	ns2.netsto.net.
 u18.cm.	0	IN	NS	ns1.netsto.net.
@@ -66671,6 +66707,8 @@ v0028.cm.	0	IN	NS	ns1.alidns.com.
 v0028.cm.	0	IN	NS	ns2.alidns.com.
 v1.cm.	0	IN	NS	tim.ns.cloudflare.com.
 v1.cm.	0	IN	NS	ulla.ns.cloudflare.com.
+v10.cm.	0	IN	NS	ns1.netsto.net.
+v10.cm.	0	IN	NS	ns2.netsto.net.
 v11.cm.	0	IN	NS	ns1.netsto.net.
 v11.cm.	0	IN	NS	ns2.netsto.net.
 v111333.cm.	0	IN	NS	ns1.alidns.com.
@@ -66683,8 +66721,6 @@ v27a80.cm.	0	IN	NS	ns1.alidns.com.
 v27a80.cm.	0	IN	NS	ns2.alidns.com.
 v2968.cm.	0	IN	NS	ns1.alidns.com.
 v2968.cm.	0	IN	NS	ns2.alidns.com.
-v2obm2.cm.	0	IN	NS	ns1.netsto.net.
-v2obm2.cm.	0	IN	NS	ns2.netsto.net.
 v3.cm.	0	IN	NS	ns3.dnsv2.com.
 v3.cm.	0	IN	NS	ns4.dnsv2.com.
 v3146.cm.	0	IN	NS	ns1.alidns.com.
@@ -66725,6 +66761,8 @@ v755.cm.	0	IN	NS	ns1.alidns.com.
 v755.cm.	0	IN	NS	ns2.alidns.com.
 v77.cm.	0	IN	NS	ns1.netsto.net.
 v77.cm.	0	IN	NS	ns2.netsto.net.
+v777.cm.	0	IN	NS	ns1.netsto.net.
+v777.cm.	0	IN	NS	ns2.netsto.net.
 v8.cm.	0	IN	NS	ns1.netsto.net.
 v8.cm.	0	IN	NS	ns2.netsto.net.
 v82.cm.	0	IN	NS	ns6.netsto.net.
@@ -67867,6 +67905,8 @@ vzw.cm.	0	IN	NS	ns1.parkingcrew.net.
 vzw.cm.	0	IN	NS	ns2.parkingcrew.net.
 w.cm.	0	IN	NS	ns1.dn.com.
 w.cm.	0	IN	NS	ns2.dn.com.
+w10.cm.	0	IN	NS	ns1.netsto.net.
+w10.cm.	0	IN	NS	ns2.netsto.net.
 w111.cm.	0	IN	NS	ns1.netsto.net.
 w111.cm.	0	IN	NS	ns2.netsto.net.
 w255tyc.cm.	0	IN	NS	ns1.netsto.net.
@@ -67991,6 +68031,8 @@ wakanow.cm.	0	IN	NS	ns1.101domain.com.
 wakanow.cm.	0	IN	NS	ns2.101domain.com.
 wakavite.cm.	0	IN	NS	val.ns.cloudflare.com.
 wakavite.cm.	0	IN	NS	piotr.ns.cloudflare.com.
+wakosindustry.cm.	0	IN	NS	nsy.prosygma-cm.com.
+wakosindustry.cm.	0	IN	NS	ns24.prosygma-cm.com.
 wal-mart.cm.	0	IN	NS	pns21.cloudns.net.
 wal-mart.cm.	0	IN	NS	pns22.cloudns.net.
 wal-mart.cm.	0	IN	NS	pns23.cloudns.net.
@@ -68199,8 +68241,6 @@ wb-discovery.cm.	0	IN	NS	dns1.cscdns.net.
 wb-discovery.cm.	0	IN	NS	dns2.cscdns.net.
 wb46.cm.	0	IN	NS	ns1.netsto.net.
 wb46.cm.	0	IN	NS	ns2.netsto.net.
-wb88.cm.	0	IN	NS	ns1.netsto.net.
-wb88.cm.	0	IN	NS	ns2.netsto.net.
 wb909.cm.	0	IN	NS	ns1.alidns.com.
 wb909.cm.	0	IN	NS	ns2.alidns.com.
 wbc555.cm.	0	IN	NS	ns1.netsto.net.
@@ -69837,6 +69877,8 @@ wynnmacau.cm.	0	IN	NS	dns1.cscdns.net.
 wynnmacau.cm.	0	IN	NS	dns2.cscdns.net.
 wynnpalace.cm.	0	IN	NS	dns1.cscdns.net.
 wynnpalace.cm.	0	IN	NS	dns2.cscdns.net.
+wytsp.cm.	0	IN	NS	ns1.netsto.net.
+wytsp.cm.	0	IN	NS	ns2.netsto.net.
 wyty.cm.	0	IN	NS	ns6.netsto.net.
 wyty.cm.	0	IN	NS	ns7.netsto.net.
 wyzant.cm.	0	IN	NS	ns1.adtraks.com.
@@ -69861,6 +69903,8 @@ x0.cm.	0	IN	NS	ns1.netsto.net.
 x0.cm.	0	IN	NS	ns2.netsto.net.
 x1.cm.	0	IN	NS	ns1.netsto.net.
 x1.cm.	0	IN	NS	ns2.netsto.net.
+x10.cm.	0	IN	NS	ns1.netsto.net.
+x10.cm.	0	IN	NS	ns2.netsto.net.
 x11805.cm.	0	IN	NS	ns1.netsto.net.
 x11805.cm.	0	IN	NS	ns2.netsto.net.
 x2.cm.	0	IN	NS	ns1.netsto.net.
@@ -70155,8 +70199,6 @@ xhamsterlive.cm.	0	IN	NS	ns3.domainmanager.com.
 xhamsterlive.cm.	0	IN	NS	ns4.domainmanager.com.
 xhg333.cm.	0	IN	NS	ns6.netsto.net.
 xhg333.cm.	0	IN	NS	ns7.netsto.net.
-xhh69.cm.	0	IN	NS	ns1.alidns.com.
-xhh69.cm.	0	IN	NS	ns2.alidns.com.
 xhs.cm.	0	IN	NS	claude.dnspod.net.
 xhs.cm.	0	IN	NS	pomfret.dnspod.net.
 xhtd.cm.	0	IN	NS	ns1.dns.com.
@@ -70181,8 +70223,6 @@ xianlu.cm.	0	IN	NS	walk.ns.cloudflare.com.
 xianlu.cm.	0	IN	NS	ignacio.ns.cloudflare.com.
 xianzhi.cm.	0	IN	NS	eugene.ns.cloudflare.com.
 xianzhi.cm.	0	IN	NS	addilyn.ns.cloudflare.com.
-xiao9.cm.	0	IN	NS	ns1.netsto.net.
-xiao9.cm.	0	IN	NS	ns2.netsto.net.
 xiaohongshu.cm.	0	IN	NS	ns1.netsto.net.
 xiaohongshu.cm.	0	IN	NS	ns2.netsto.net.
 xiaohua.cm.	0	IN	NS	f1g1ns1.dnspod.net.
@@ -70195,8 +70235,6 @@ xiaomirom.cm.	0	IN	NS	ns3.abovedomains.com.
 xiaomirom.cm.	0	IN	NS	ns4.abovedomains.com.
 xiaoyouxi100.cm.	0	IN	NS	ns1.netsto.net.
 xiaoyouxi100.cm.	0	IN	NS	ns2.netsto.net.
-xiazaiap.cm.	0	IN	NS	ns1.netsto.net.
-xiazaiap.cm.	0	IN	NS	ns2.netsto.net.
 xiecheng.cm.	0	IN	NS	f1g1ns1.dnspod.net.
 xiecheng.cm.	0	IN	NS	f1g1ns2.dnspod.net.
 xigang.cm.	0	IN	NS	ns1.netsto.net.
@@ -70586,6 +70624,8 @@ y0.cm.	0	IN	NS	ns1.dnsip.com.
 y0.cm.	0	IN	NS	ns2.dnsip.com.
 y1.cm.	0	IN	NS	ns1.dnsip.com.
 y1.cm.	0	IN	NS	ns2.dnsip.com.
+y10.cm.	0	IN	NS	ns1.netsto.net.
+y10.cm.	0	IN	NS	ns2.netsto.net.
 y12.cm.	0	IN	NS	zoe.ns.cloudflare.com.
 y12.cm.	0	IN	NS	bryce.ns.cloudflare.com.
 y18.cm.	0	IN	NS	ns1.netsto.net.
@@ -71028,6 +71068,8 @@ yh1.cm.	0	IN	NS	ns1.netsto.net.
 yh1.cm.	0	IN	NS	ns2.netsto.net.
 yh111.cm.	0	IN	NS	ns1.netsto.net.
 yh111.cm.	0	IN	NS	ns2.netsto.net.
+yh123.cm.	0	IN	NS	ns1.netsto.net.
+yh123.cm.	0	IN	NS	ns2.netsto.net.
 yh14.cm.	0	IN	NS	ns1.netsto.net.
 yh14.cm.	0	IN	NS	ns2.netsto.net.
 yh26006.cm.	0	IN	NS	ns1.netsto.net.
@@ -71166,8 +71208,6 @@ yl003.cm.	0	IN	NS	ns1.alidns.com.
 yl003.cm.	0	IN	NS	ns2.alidns.com.
 yl22.cm.	0	IN	NS	ns1.netsto.net.
 yl22.cm.	0	IN	NS	ns2.netsto.net.
-yl269.cm.	0	IN	NS	ns1.alidns.com.
-yl269.cm.	0	IN	NS	ns2.alidns.com.
 yl56.cm.	0	IN	NS	ns1.alidns.com.
 yl56.cm.	0	IN	NS	ns2.alidns.com.
 yl5626.cm.	0	IN	NS	ns1.alidns.com.
@@ -71519,8 +71559,6 @@ yy1111.cm.	0	IN	NS	ns1.alidns.com.
 yy1111.cm.	0	IN	NS	ns2.alidns.com.
 yy25.cm.	0	IN	NS	ns1.netsto.net.
 yy25.cm.	0	IN	NS	ns2.netsto.net.
-yy30.cm.	0	IN	NS	ns1.netsto.net.
-yy30.cm.	0	IN	NS	ns2.netsto.net.
 yy365.cm.	0	IN	NS	ns6.netsto.net.
 yy365.cm.	0	IN	NS	ns7.netsto.net.
 yy5532.cm.	0	IN	NS	ns1.netsto.net.
@@ -71603,6 +71641,8 @@ z-group.cm.	0	IN	NS	ns1.kevsecurity.net.
 z-group.cm.	0	IN	NS	ns2.kevsecurity.net.
 z-tech.cm.	0	IN	NS	ns1.camoogroup.com.
 z-tech.cm.	0	IN	NS	ns2.camoogroup.com.
+z10.cm.	0	IN	NS	ns1.netsto.net.
+z10.cm.	0	IN	NS	ns2.netsto.net.
 z1526.cm.	0	IN	NS	ns1.netsto.net.
 z1526.cm.	0	IN	NS	ns2.netsto.net.
 z1966.cm.	0	IN	NS	ns1.netsto.net.
@@ -71958,8 +71998,6 @@ zhhotels.cm.	0	IN	NS	ns1.adtraks.com.
 zhhotels.cm.	0	IN	NS	ns2.adtraks.com.
 zhi.cm.	0	IN	NS	ns1.netsto.net.
 zhi.cm.	0	IN	NS	ns2.netsto.net.
-zhibo.cm.	0	IN	NS	ns1.netsto.net.
-zhibo.cm.	0	IN	NS	ns2.netsto.net.
 zhibo8.cm.	0	IN	NS	ns1.netsto.net.
 zhibo8.cm.	0	IN	NS	ns2.netsto.net.
 zhiboba.cm.	0	IN	NS	ns1.netsto.net.
@@ -72161,8 +72199,6 @@ zralimarkt.cm.	0	IN	NS	ns1.dns-parking.com.
 zralimarkt.cm.	0	IN	NS	ns2.dns-parking.com.
 zs.cm.	0	IN	NS	jaziel.ns.cloudflare.com.
 zs.cm.	0	IN	NS	rosemary.ns.cloudflare.com.
-zs8181.cm.	0	IN	NS	ns1.netsto.net.
-zs8181.cm.	0	IN	NS	ns2.netsto.net.
 zs88.cm.	0	IN	NS	ns1.alidns.com.
 zs88.cm.	0	IN	NS	ns2.alidns.com.
 zs88a31.cm.	0	IN	NS	ns1.alidns.com.
@@ -72190,10 +72226,8 @@ ztt.cm.	0	IN	NS	ns1.parkingcrew.net.
 ztt.cm.	0	IN	NS	ns2.parkingcrew.net.
 zu.cm.	0	IN	NS	ns01.serverspace.io.
 zu.cm.	0	IN	NS	ns02.serverspace.io.
-zubo1112.cm.	0	IN	NS	ns1.netsto.net.
-zubo1112.cm.	0	IN	NS	ns2.netsto.net.
-zubo1139.cm.	0	IN	NS	ns1.netsto.net.
-zubo1139.cm.	0	IN	NS	ns2.netsto.net.
+zubo.cm.	0	IN	NS	ns1.netsto.net.
+zubo.cm.	0	IN	NS	ns2.netsto.net.
 zui.cm.	0	IN	NS	f1g1ns1.dnspod.net.
 zui.cm.	0	IN	NS	f1g1ns2.dnspod.net.
 zukulu.cm.	0	IN	NS	ns1.mtnbusiness.cm.
@@ -72215,8 +72249,6 @@ zunostore.cm.	0	IN	NS	crystal.ns.cloudflare.com.
 zuora.cm.	0	IN	NS	dns1.idp365.net.
 zuora.cm.	0	IN	NS	dns2.idp365.net.
 zuora.cm.	0	IN	NS	dns3.idp365.net.
-zuqiu.cm.	0	IN	NS	ns1.netsto.net.
-zuqiu.cm.	0	IN	NS	ns2.netsto.net.
 zurich.cm.	0	IN	NS	dns1.cscdns.net.
 zurich.cm.	0	IN	NS	dns2.cscdns.net.
 zurichinsurancegroup.cm.	0	IN	NS	dns1.cscdns.net.
