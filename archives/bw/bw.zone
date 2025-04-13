@@ -1,12 +1,12 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041224 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041324 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1744498814"
+bw.	0	IN	TXT	"Generation Time: 1744585507"
 bw.	0	IN	DNSKEY	256 3 13 x+0Kyr3shK5wPaQFOxiKys1PttM0bJvC4z057b0nmwTS3n+VJ7DEon1Y14itjuNyE/omoUQVYLoqbMq/zbKnBg== ;{id = 11050 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
-bw.	0	IN	NSEC3PARAM	1 0 0 8e3dd6d564071f6d 
+bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 bw.	0	IN	CDNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA==
 a.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -8581,6 +8581,9 @@ drakeandskull.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 drakeandskull.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 drchiguyeandpartners.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
 drchiguyeandpartners.co.bw.	0	IN	NS	ns2.paratustelco.co.bw.
+dreamcatcherhotel.co.bw.	0	IN	NS	ns1.contabo.net.
+dreamcatcherhotel.co.bw.	0	IN	NS	ns2.contabo.net.
+dreamcatcherhotel.co.bw.	0	IN	NS	ns3.contabo.net.
 dreamchoice.co.bw.	0	IN	NS	ns1.botsnet.bw.
 dreamchoice.co.bw.	0	IN	NS	ns2.botsnet.bw.
 dreamdestination.co.bw.	0	IN	NS	bekomedia.mars.orderbox-dns.com.
@@ -20745,6 +20748,8 @@ nvfbots.co.bw.	0	IN	NS	ns2.opq.net.bw.
 nvfbots.co.bw.	0	IN	NS	ns3.opq.net.bw.
 nwa.co.bw.	0	IN	NS	ns01.ngami.net.bw.
 nwa.co.bw.	0	IN	NS	ns02.ngami.net.bw.
+nwnrml.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
+nwnrml.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 nybble.co.bw.	0	IN	NS	bwadomains.mars.orderbox-dns.com.
 nybble.co.bw.	0	IN	NS	bwadomains.earth.orderbox-dns.com.
 nybble.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
@@ -33305,7 +33310,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1744498854"
+ote.bw.	0	IN	TXT	"Generation Time: 1744585546"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.
