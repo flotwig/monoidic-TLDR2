@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2025041322 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2025041421 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1744584373"
+cd.	0	IN	TXT	"Generation Time: 1744670771"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -536,7 +536,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1744584375"
+ac.cd.	0	IN	TXT	"Generation Time: 1744670772"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -2870,6 +2870,9 @@ betwinner.cd.	0	IN	NS	edns7.ultradns.biz.
 betwinner.cd.	0	IN	NS	edns7.ultradns.com.
 betwinner.cd.	0	IN	NS	edns7.ultradns.net.
 betwinner.cd.	0	IN	NS	edns7.ultradns.org.
+betwinner1.cd.	0	IN	NS	ns1.netim.net.
+betwinner1.cd.	0	IN	NS	ns2.netim.net.
+betwinner1.cd.	0	IN	NS	ns3.netim.net.
 betyetu.cd.	0	IN	NS	ns0.oxygen8.com.
 betyetu.cd.	0	IN	NS	ns1.oxygen8.com.
 bewin-group.cd.	0	IN	NS	ns1.nitro-server.uk.
@@ -3713,8 +3716,8 @@ cape.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 cape.cd.	0	IN	NS	arch.ns.cloudflare.com.
 capital.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 capital.cd.	0	IN	NS	arch.ns.cloudflare.com.
-capitalinvest.cd.	0	IN	NS	dns3.eltech-congo.cd.
-capitalinvest.cd.	0	IN	NS	dns4.eltech-congo.cd.
+capitalinvest.cd.	0	IN	NS	brad.ns.cloudflare.com.
+capitalinvest.cd.	0	IN	NS	nena.ns.cloudflare.com.
 capri.cd.	0	IN	NS	zod.ns.cloudflare.com.
 capri.cd.	0	IN	NS	dora.ns.cloudflare.com.
 capuidc.cd.	0	IN	NS	ns1.bluehost.com.
@@ -3807,6 +3810,8 @@ cashxpressrdc.cd.	0	IN	NS	ns2.onlydomains.com.
 cashxpressrdc.cd.	0	IN	NS	ns3.onlydomains.com.
 casino.cd.	0	IN	NS	henry.ns.cloudflare.com.
 casino.cd.	0	IN	NS	sofia.ns.cloudflare.com.
+casino-pin-up.cd.	0	IN	NS	andy.ns.cloudflare.com.
+casino-pin-up.cd.	0	IN	NS	alice.ns.cloudflare.com.
 casinoenligne.cd.	0	IN	NS	dns1.idp365.net.
 casinoenligne.cd.	0	IN	NS	dns2.idp365.net.
 casinoenligne.cd.	0	IN	NS	dns3.idp365.net.
@@ -4251,6 +4256,8 @@ chroniquedunumerique.cd.	0	IN	NS	ns1.ipsolutions.cd.
 chroniquedunumerique.cd.	0	IN	NS	ns2.ipsolutions.cd.
 chronoconcept.cd.	0	IN	NS	ns1.scpt-network.cd.
 chronoconcept.cd.	0	IN	NS	ns2.scpt-network.cd.
+chttcnss.cd.	0	IN	NS	ns1.scpt-network.cd.
+chttcnss.cd.	0	IN	NS	ns2.scpt-network.cd.
 chu-renaissance.cd.	0	IN	NS	ns1.scpt-network.cd.
 chu-renaissance.cd.	0	IN	NS	ns2.scpt-network.cd.
 church.cd.	0	IN	NS	dns1.namecheaphosting.com.
@@ -4658,7 +4665,7 @@ coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
 colub.cd.	0	IN	NS	ns8259.hostgator.com.
 colub.cd.	0	IN	NS	ns8260.hostgator.com.
-com.cd.	0	IN	TXT	"Generation Time: 1744584376"
+com.cd.	0	IN	TXT	"Generation Time: 1744670773"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -4737,6 +4744,9 @@ commerce.cd.	0	IN	NS	ns1045.ui-dns.de.
 commerce.cd.	0	IN	NS	ns1045.ui-dns.biz.
 commerce.cd.	0	IN	NS	ns1045.ui-dns.com.
 commerce.cd.	0	IN	NS	ns1045.ui-dns.org.
+commerce-exterieur.cd.	0	IN	NS	helium.ns.hetzner.de.
+commerce-exterieur.cd.	0	IN	NS	oxygen.ns.hetzner.com.
+commerce-exterieur.cd.	0	IN	NS	hydrogen.ns.hetzner.com.
 commercialproperty.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 commercialproperty.cd.	0	IN	NS	arch.ns.cloudflare.com.
 commune-kintambo.cd.	0	IN	NS	ns1.dns.cd.
@@ -6695,7 +6705,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1744584376"
+edu.cd.	0	IN	TXT	"Generation Time: 1744670773"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.	0	IN	NS	ns3.nitrowebhost.co.uk.
@@ -8888,7 +8898,7 @@ gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
 gourmet.cd.	0	IN	NS	ns1.dns-parking.com.
 gourmet.cd.	0	IN	NS	ns2.dns-parking.com.
-gouv.cd.	0	IN	TXT	"Generation Time: 1744584379"
+gouv.cd.	0	IN	TXT	"Generation Time: 1744670775"
 acorep.gouv.cd.	0	IN	NS	ns1.anicns.com.
 acorep.gouv.cd.	0	IN	NS	ns2.anicns.com.
 affaires-coutumieres.gouv.cd.	0	IN	NS	ns1-cpeu7.likuid.com.
@@ -9324,7 +9334,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1744584376"
+gov.cd.	0	IN	TXT	"Generation Time: 1744670773"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -14769,7 +14779,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1744584376"
+net.cd.	0	IN	TXT	"Generation Time: 1744670773"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -15625,7 +15635,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1744584376"
+org.cd.	0	IN	TXT	"Generation Time: 1744670773"
 centic.org.cd.	0	IN	NS	ns1.4levels.net.
 centic.org.cd.	0	IN	NS	ns2.4levels.net.
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
@@ -15828,8 +15838,8 @@ panther.cd.	0	IN	NS	ns-49.awsdns-06.com.
 panther.cd.	0	IN	NS	ns-1013.awsdns-62.net.
 panther.cd.	0	IN	NS	ns-1384.awsdns-45.org.
 panther.cd.	0	IN	NS	ns-1861.awsdns-40.co.uk.
-pantheralliance.cd.	0	IN	NS	dns3.eltech-congo.cd.
-pantheralliance.cd.	0	IN	NS	dns4.eltech-congo.cd.
+pantheralliance.cd.	0	IN	NS	jen.ns.cloudflare.com.
+pantheralliance.cd.	0	IN	NS	clint.ns.cloudflare.com.
 panu.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 panu.cd.	0	IN	NS	arch.ns.cloudflare.com.
 papakin.cd.	0	IN	NS	ns1.dotcd.net.
@@ -16231,20 +16241,16 @@ pin-up-app.cd.	0	IN	NS	nora.ns.cloudflare.com.
 pin-up-app.cd.	0	IN	NS	weston.ns.cloudflare.com.
 pin-up-bet.cd.	0	IN	NS	mack.ns.cloudflare.com.
 pin-up-bet.cd.	0	IN	NS	miki.ns.cloudflare.com.
-pin-up-casino.cd.	0	IN	NS	ns1.regery.net.
-pin-up-casino.cd.	0	IN	NS	ns2.regery.net.
-pin-up-casino.cd.	0	IN	NS	ns3.regery.net.
+pin-up-casino.cd.	0	IN	NS	dan.ns.cloudflare.com.
+pin-up-casino.cd.	0	IN	NS	joan.ns.cloudflare.com.
 pin-up-casino-en-ligne.cd.	0	IN	NS	meg.ns.cloudflare.com.
 pin-up-casino-en-ligne.cd.	0	IN	NS	ryan.ns.cloudflare.com.
-pin-up-casino-online.cd.	0	IN	NS	ns1.regery.net.
-pin-up-casino-online.cd.	0	IN	NS	ns2.regery.net.
-pin-up-casino-online.cd.	0	IN	NS	ns3.regery.net.
-pin-up-casino-rdc.cd.	0	IN	NS	ns1.regery.net.
-pin-up-casino-rdc.cd.	0	IN	NS	ns2.regery.net.
-pin-up-casino-rdc.cd.	0	IN	NS	ns3.regery.net.
-pin-up-rdc.cd.	0	IN	NS	ns1.regery.net.
-pin-up-rdc.cd.	0	IN	NS	ns2.regery.net.
-pin-up-rdc.cd.	0	IN	NS	ns3.regery.net.
+pin-up-casino-online.cd.	0	IN	NS	drake.ns.cloudflare.com.
+pin-up-casino-online.cd.	0	IN	NS	ryleigh.ns.cloudflare.com.
+pin-up-casino-rdc.cd.	0	IN	NS	mimi.ns.cloudflare.com.
+pin-up-casino-rdc.cd.	0	IN	NS	elias.ns.cloudflare.com.
+pin-up-rdc.cd.	0	IN	NS	erin.ns.cloudflare.com.
+pin-up-rdc.cd.	0	IN	NS	hasslo.ns.cloudflare.com.
 ping.cd.	0	IN	NS	nora.ns.cloudflare.com.
 ping.cd.	0	IN	NS	renan.ns.cloudflare.com.
 pingan.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -16267,9 +16273,8 @@ pinupbet.cd.	0	IN	NS	hugh.ns.cloudflare.com.
 pinupbet.cd.	0	IN	NS	raegan.ns.cloudflare.com.
 pinupcasino.cd.	0	IN	NS	amit.ns.cloudflare.com.
 pinupcasino.cd.	0	IN	NS	laila.ns.cloudflare.com.
-pinuponline.cd.	0	IN	NS	ns1.regery.net.
-pinuponline.cd.	0	IN	NS	ns2.regery.net.
-pinuponline.cd.	0	IN	NS	ns3.regery.net.
+pinuponline.cd.	0	IN	NS	odin.ns.cloudflare.com.
+pinuponline.cd.	0	IN	NS	teagan.ns.cloudflare.com.
 pinupwin.cd.	0	IN	NS	lara.ns.cloudflare.com.
 pinupwin.cd.	0	IN	NS	tadeo.ns.cloudflare.com.
 pipeline.cd.	0	IN	NS	ns-339.awsdns-42.com.
@@ -17161,6 +17166,8 @@ rcst.cd.	0	IN	NS	dns1.namecheaphosting.com.
 rcst.cd.	0	IN	NS	dns2.namecheaphosting.com.
 rcvtv.cd.	0	IN	NS	ns1.myinnovahosting.com.
 rcvtv.cd.	0	IN	NS	ns2.myinnovahosting.com.
+rd-congo.cd.	0	IN	NS	ns1.scpt-network.cd.
+rd-congo.cd.	0	IN	NS	ns2.scpt-network.cd.
 rdc.cd.	0	IN	NS	ns1.scpt-network.cd.
 rdc.cd.	0	IN	NS	ns2.scpt-network.cd.
 rdc-cadastre.cd.	0	IN	NS	ns1.101domain.com.

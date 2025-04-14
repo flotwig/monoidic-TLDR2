@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041015 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041016 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -4724,9 +4724,9 @@ sokol.gp.	0	IN	NS	achiel.ns.cloudflare.com.
 somappro.gp.	0	IN	NS	ns-35-b.gandi.net.
 somappro.gp.	0	IN	NS	ns-48-c.gandi.net.
 somappro.gp.	0	IN	NS	ns-92-a.gandi.net.
-somfy.gp.	0	IN	NS	ns.domainnetwork.se.
-somfy.gp.	0	IN	NS	ns2.domainnetwork.se.
-somfy.gp.	0	IN	NS	ns3.domainnetwork.com.
+somfy.gp.	0	IN	NS	ns1.perf1.fr.
+somfy.gp.	0	IN	NS	nsb.perf1.com.
+somfy.gp.	0	IN	NS	nsc.perf1.com.
 sonic.gp.	0	IN	NS	mimi.ns.cloudflare.com.
 sonic.gp.	0	IN	NS	owen.ns.cloudflare.com.
 sosgemes.gp.	0	IN	NS	art.ns.cloudflare.com.
