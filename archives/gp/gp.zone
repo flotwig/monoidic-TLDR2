@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041016 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041515 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -564,6 +564,9 @@ autodiscover.gp.	0	IN	NS	ns1-36.azure-dns.com.
 autodiscover.gp.	0	IN	NS	ns2-36.azure-dns.net.
 autodiscover.gp.	0	IN	NS	ns3-36.azure-dns.org.
 autodiscover.gp.	0	IN	NS	ns4-36.azure-dns.info.
+autodoc.gp.	0	IN	NS	ns1.netim.net.
+autodoc.gp.	0	IN	NS	ns2.netim.net.
+autodoc.gp.	0	IN	NS	ns3.netim.net.
 autoguadeloupepieces.gp.	0	IN	NS	ns1.francedns.com.
 autoguadeloupepieces.gp.	0	IN	NS	ns2.francedns.com.
 autoguadeloupepieces.gp.	0	IN	NS	ns3.francedns.com.
@@ -1206,7 +1209,6 @@ ns1.connectic.gp.	0	IN	A	163.172.116.98
 ns2.connectic.gp.	0	IN	A	163.172.116.99
 conocophillips.gp.	0	IN	NS	dns1.cscdns.net.
 conocophillips.gp.	0	IN	NS	dns2.cscdns.net.
-consciouscapital.gp.	0	IN	NS	ns2.101domain.com.
 container.gp.	0	IN	NS	ns1.dns.millenniumarts.net.
 container.gp.	0	IN	NS	ns2.dns.millenniumarts.net.
 container.gp.	0	IN	NS	ns3.dns.millenniumarts.net.
@@ -1631,8 +1633,8 @@ ehiglobal.gp.	0	IN	NS	ns6.markmonitor.com.
 ehiglobal.gp.	0	IN	NS	ns7.markmonitor.com.
 ejemplo.gp.	0	IN	NS	dns1.cloudns.net.
 ejemplo.gp.	0	IN	NS	dns2.cloudns.net.
-ekip.gp.	0	IN	NS	dns1.cloudns.net.
-ekip.gp.	0	IN	NS	dns2.cloudns.net.
+ekip.gp.	0	IN	NS	ns20.ovh.net.
+ekip.gp.	0	IN	NS	dns20.ovh.net.
 electric.gp.	0	IN	NS	ns1045.ui-dns.de.
 electric.gp.	0	IN	NS	ns1045.ui-dns.biz.
 electric.gp.	0	IN	NS	ns1045.ui-dns.com.
@@ -4675,10 +4677,8 @@ skyscanner.gp.	0	IN	NS	ns2.skyscanner-dns.org.
 slg.gp.	0	IN	NS	ns1.netim.net.
 slg.gp.	0	IN	NS	ns2.netim.net.
 slg.gp.	0	IN	NS	ns3.netim.net.
-slink.gp.	0	IN	NS	ns1-38.azure-dns.com.
-slink.gp.	0	IN	NS	ns2-38.azure-dns.net.
-slink.gp.	0	IN	NS	ns3-38.azure-dns.org.
-slink.gp.	0	IN	NS	ns4-38.azure-dns.info.
+slink.gp.	0	IN	NS	ns0.wixdns.net.
+slink.gp.	0	IN	NS	ns1.wixdns.net.
 smart.gp.	0	IN	NS	ns1.corpinter.net.
 smart.gp.	0	IN	NS	ns2.corpinter.de.
 smart.gp.	0	IN	NS	ns3.corpinter.net.
@@ -4724,7 +4724,7 @@ sokol.gp.	0	IN	NS	achiel.ns.cloudflare.com.
 somappro.gp.	0	IN	NS	ns-35-b.gandi.net.
 somappro.gp.	0	IN	NS	ns-48-c.gandi.net.
 somappro.gp.	0	IN	NS	ns-92-a.gandi.net.
-somfy.gp.	0	IN	NS	ns1.perf1.fr.
+somfy.gp.	0	IN	NS	nsa.perf1.fr.
 somfy.gp.	0	IN	NS	nsb.perf1.com.
 somfy.gp.	0	IN	NS	nsc.perf1.com.
 sonic.gp.	0	IN	NS	mimi.ns.cloudflare.com.
