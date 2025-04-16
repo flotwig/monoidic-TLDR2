@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162545 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162602 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1935,11 +1935,6 @@ atlascopco.gl.	0	IN	NS	ns2.domainnetwork.se.
 attat.gl.	0	IN	NS	ns1.modulo.gl.
 attat.gl.	0	IN	NS	ns2.modulo.gl.
 attat.gl.	0	IN	NS	ns3.modulo.gl.
-attento.gl.	0	IN	NS	ns1.gigahost.dk.
-attento.gl.	0	IN	NS	ns2.gigahost.dk.
-attento.gl.	0	IN	NS	ns3.gigahost.dk.
-attento.gl.	0	IN	NS	ns4.gigahost.dk.
-attento.gl.	0	IN	NS	ns5.gigahost.dk.
 attu.gl.	0	IN	NS	a.hosting.gl.
 attu.gl.	0	IN	NS	b.hosting.gl.
 attu.gl.	0	IN	NS	c.hosting.gl.
@@ -3178,8 +3173,6 @@ bs.gl.	0	IN	NS	kaiser.ns.cloudflare.com.
 bs.gl.	0	IN	NS	crystal.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	ligia.ns.cloudflare.com.
-bs2.gl.	0	IN	NS	ns1.expired.reg.ru.
-bs2.gl.	0	IN	NS	ns2.expired.reg.ru.
 bs2best.gl.	0	IN	NS	3-pas.njalla.in.
 bs2best.gl.	0	IN	NS	1-ceci.njalla.do.
 bs2best.gl.	0	IN	NS	2-nest.pipe.ma.
@@ -4136,8 +4129,8 @@ cultureconnect.gl.	0	IN	DS	34627 13 4 8767759d0c372bb1b25db7a2a25d99f017a324aa9e
 curling.gl.	0	IN	NS	ns.hostpoint.ch.
 curling.gl.	0	IN	NS	ns2.hostpoint.ch.
 curling.gl.	0	IN	NS	ns3.hostpoint.ch.
-cut.gl.	0	IN	NS	dns1.hostmana.com.
-cut.gl.	0	IN	NS	dns2.hostmana.com.
+cut.gl.	0	IN	NS	randy.ns.cloudflare.com.
+cut.gl.	0	IN	NS	emerie.ns.cloudflare.com.
 cv.gl.	0	IN	NS	ns1.netim.net.
 cv.gl.	0	IN	NS	ns2.netim.net.
 cv.gl.	0	IN	NS	ns3.netim.net.
@@ -5221,8 +5214,8 @@ elconsult.gl.	0	IN	NS	ns4.nunahosting.net.
 eldirekt.gl.	0	IN	NS	ns1.hyp.net.
 eldirekt.gl.	0	IN	NS	ns2.hyp.net.
 eldirekt.gl.	0	IN	NS	ns3.hyp.net.
-eldirekt.gl.	0	IN	DS	48365 13 2 26a72ab72a76f4b3c061d0821685e11a011d2a8a3962f94bedd827d7c9636b7e
-eldirekt.gl.	0	IN	DS	48365 13 4 fc55ec74e284b5ba28cad828522e26372b3bf10aca3147c92938a9c12c926abf6e468ddcfdf459c47a53bc4174bba576
+eldirekt.gl.	0	IN	DS	37562 15 2 a61d4d68a849948ccd7dc74f8aa73a92b71b77ee6dfa07436924d8bfbd858db7
+eldirekt.gl.	0	IN	DS	37562 15 4 877f4685f90d031f6f2e2efa73c19f026f6a03b7b374a643a837fef19240e770247706656c40c9ea10c7d603b08b904d
 electrolux.gl.	0	IN	NS	udns1.cscdns.net.
 electrolux.gl.	0	IN	NS	udns2.cscdns.uk.
 elekt.gl.	0	IN	NS	a.hosting.gl.
@@ -5287,6 +5280,8 @@ emanuel.gl.	0	IN	NS	ns3.aputit.gl.
 emanuel.gl.	0	IN	NS	ns4.aputit.gl.
 emi.gl.	0	IN	NS	aisha.ns.cloudflare.com.
 emi.gl.	0	IN	NS	marek.ns.cloudflare.com.
+emiliano.gl.	0	IN	NS	liz.ns.cloudflare.com.
+emiliano.gl.	0	IN	NS	jobs.ns.cloudflare.com.
 emilien.gl.	0	IN	NS	ns1.messagingengine.com.
 emilien.gl.	0	IN	NS	ns2.messagingengine.com.
 emirates.gl.	0	IN	NS	ns3.emirates.com.
@@ -10215,6 +10210,10 @@ kisii.gl.	0	IN	NS	c.hosting.gl.
 kisii.gl.	0	IN	NS	d.hosting.gl.
 kiss.gl.	0	IN	NS	ns1.curanet.dk.
 kiss.gl.	0	IN	NS	ns2.curanet.dk.
+kissa.gl.	0	IN	NS	ns1.nunahosting.net.
+kissa.gl.	0	IN	NS	ns2.nunahosting.net.
+kissa.gl.	0	IN	NS	ns3.nunahosting.net.
+kissa.gl.	0	IN	NS	ns4.nunahosting.net.
 kistler.gl.	0	IN	NS	ns9.managed-ip.com.
 kistler.gl.	0	IN	NS	ns10.managed-ip.com.
 kistler.gl.	0	IN	NS	ns11.managed-ip.info.
@@ -12275,8 +12274,6 @@ meltwater.gl.	0	IN	NS	ns-1216.awsdns-24.org.
 meltwater.gl.	0	IN	NS	ns-1627.awsdns-11.co.uk.
 mentech.gl.	0	IN	NS	ns01.one.com.
 mentech.gl.	0	IN	NS	ns02.one.com.
-mentorix.gl.	0	IN	NS	ns.scannet2.dk.
-mentorix.gl.	0	IN	NS	ns2.scannet2.dk.
 menu.gl.	0	IN	NS	ns1.reg.ru.
 menu.gl.	0	IN	NS	ns2.reg.ru.
 menzi.gl.	0	IN	NS	ns.hostpoint.ch.
@@ -12538,6 +12535,10 @@ mittnavn.gl.	0	IN	NS	ns2.hyp.net.
 mittnavn.gl.	0	IN	NS	ns3.hyp.net.
 mittnavn.gl.	0	IN	DS	49330 13 2 35bda8e557735440435eb081482773892b3a2e2fdb996af6b312073eaca7ee0d
 mittnavn.gl.	0	IN	DS	49330 13 4 d5d5d3c054db237264c4cc46dad2d2f0e23586a9e4dfb4ea7a2974618bfbb3e7d178f5a71916cac52681f7e46d0330ae
+mix.gl.	0	IN	NS	a.hosting.gl.
+mix.gl.	0	IN	NS	b.hosting.gl.
+mix.gl.	0	IN	NS	c.hosting.gl.
+mix.gl.	0	IN	NS	d.hosting.gl.
 mixdrop.gl.	0	IN	NS	ns1.bodis.com.
 mixdrop.gl.	0	IN	NS	ns2.bodis.com.
 miz.gl.	0	IN	NS	ns.hostpoint.ch.
@@ -14621,10 +14622,8 @@ ombudsmandi.gl.	0	IN	NS	ns2.nukik.it.
 ombudsmandi.gl.	0	IN	NS	ns3.nukik.it.
 ome.gl.	0	IN	NS	dion.ns.cloudflare.com.
 ome.gl.	0	IN	NS	zariyah.ns.cloudflare.com.
-omega.gl.	0	IN	NS	dns1.p01.nsone.net.
-omega.gl.	0	IN	NS	dns2.p01.nsone.net.
-omega.gl.	0	IN	NS	dns3.p01.nsone.net.
-omega.gl.	0	IN	NS	dns4.p01.nsone.net.
+omega.gl.	0	IN	NS	ns1a.dodns.net.
+omega.gl.	0	IN	NS	ns2a.dodns.net.
 omg.gl.	0	IN	NS	mark.ns.cloudflare.com.
 omg.gl.	0	IN	NS	heather.ns.cloudflare.com.
 omg1.gl.	0	IN	NS	ns1.bodis.com.
@@ -14878,6 +14877,9 @@ oomg3.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 oomg3.gl.	0	IN	NS	diana.ns.cloudflare.com.
 oomg4.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 oomg4.gl.	0	IN	NS	diana.ns.cloudflare.com.
+oon.gl.	0	IN	NS	ns1.netim.net.
+oon.gl.	0	IN	NS	ns2.netim.net.
+oon.gl.	0	IN	NS	ns3.netim.net.
 ooo.gl.	0	IN	NS	ns1.sedoparking.com.
 ooo.gl.	0	IN	NS	ns2.sedoparking.com.
 oortonline.gl.	0	IN	NS	ns1.netim.net.
@@ -15931,8 +15933,6 @@ prin.gl.	0	IN	NS	ns4-01.azure-dns.info.
 prince.gl.	0	IN	NS	nsgbr.comlaude.co.uk.
 prince.gl.	0	IN	NS	nssui.comlaude.ch.
 prince.gl.	0	IN	NS	nsusa.comlaude.net.
-prince2.gl.	0	IN	NS	ns.scannet2.dk.
-prince2.gl.	0	IN	NS	ns2.scannet2.dk.
 print.gl.	0	IN	NS	a.hosting.gl.
 print.gl.	0	IN	NS	b.hosting.gl.
 print.gl.	0	IN	NS	c.hosting.gl.
@@ -19815,7 +19815,7 @@ tumiconsulting.gl.	0	IN	DS	10476 13 4 0bba2e29f6d01cb11a11ba549d949aca9948a3d7ef
 tun.gl.	0	IN	NS	ns1.netim.net.
 tun.gl.	0	IN	NS	ns2.netim.net.
 tun.gl.	0	IN	NS	ns3.netim.net.
-tun.gl.	0	IN	DS	22019 8 2 630226dc402fd60e6b3d22c882659c8f8114fb2085fb30b4b32c025bfaae9784
+tun.gl.	0	IN	DS	17077 8 2 24abb5e7e91685a2b67af785c7d060abb2411b1256d887d84fbea3352b9e5292
 tuniniaasut.gl.	0	IN	NS	ns1.simply.com.
 tuniniaasut.gl.	0	IN	NS	ns2.simply.com.
 tuniniaasut.gl.	0	IN	NS	ns3.simply.com.
@@ -20300,8 +20300,6 @@ vbet.gl.	0	IN	NS	ns3.alphadnszone.com.
 vbet.gl.	0	IN	NS	ns4.alphadnszone.com.
 vc.gl.	0	IN	NS	ns7.cnmsn.net.
 vc.gl.	0	IN	NS	ns8.cnmsn.net.
-vcc.gl.	0	IN	NS	expired-domain.domrobot.com.
-vcc.gl.	0	IN	NS	please-renew-domain.domrobot.com.
 vcqhqy.gl.	0	IN	NS	ns1.dnsexit.com.
 vcqhqy.gl.	0	IN	NS	ns2.dnsexit.com.
 vcqhqy.gl.	0	IN	NS	ns3.dnsexit.com.
@@ -20779,10 +20777,6 @@ vvs.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 vvs.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 vvsfirmaet.gl.	0	IN	NS	ns01.one.com.
 vvsfirmaet.gl.	0	IN	NS	ns02.one.com.
-vvsqas.gl.	0	IN	NS	ns1.aputit.gl.
-vvsqas.gl.	0	IN	NS	ns2.aputit.gl.
-vvsqas.gl.	0	IN	NS	ns3.aputit.gl.
-vvsqas.gl.	0	IN	NS	ns4.aputit.gl.
 vvsservice.gl.	0	IN	NS	ns1.modulo.gl.
 vvsservice.gl.	0	IN	NS	ns2.modulo.gl.
 vvsservice.gl.	0	IN	NS	ns3.modulo.gl.

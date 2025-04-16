@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041515 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041613 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -58,6 +58,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 24.gp.	0	IN	NS	ns2.subdomain.net.
 2411.gp.	0	IN	NS	ns1.sedoparking.com.
 2411.gp.	0	IN	NS	ns2.sedoparking.com.
+246.gp.	0	IN	NS	ns1.registry-server.com.
+246.gp.	0	IN	NS	ns2.registry-server.com.
 24h.gp.	0	IN	NS	ns1.routing.net.
 24h.gp.	0	IN	NS	ns2.routing.net.
 24h.gp.	0	IN	NS	ns3.routing.net.
@@ -534,6 +536,9 @@ aubade.gp.	0	IN	NS	ns4.brandshelter.net.
 aubade.gp.	0	IN	NS	ns5.brandshelter.us.
 auboncoin.gp.	0	IN	NS	ns-302.awsdns-37.com.
 auboncoin.gp.	0	IN	NS	ns-988.awsdns-59.net.
+audaciacenter.gp.	0	IN	NS	ns1.netim.net.
+audaciacenter.gp.	0	IN	NS	ns2.netim.net.
+audaciacenter.gp.	0	IN	NS	ns3.netim.net.
 audi.gp.	0	IN	NS	ns2.audi.de.
 audi.gp.	0	IN	NS	ns5.xc-ns.de.
 audit.gp.	0	IN	NS	pns1.cloudns.net.
@@ -1097,6 +1102,9 @@ cidff.gp.	0	IN	NS	freedns2.registrar-servers.com.
 cidff.gp.	0	IN	NS	freedns3.registrar-servers.com.
 cidff.gp.	0	IN	NS	freedns4.registrar-servers.com.
 cidff.gp.	0	IN	NS	freedns5.registrar-servers.com.
+cine-village.gp.	0	IN	NS	ns1.netim.net.
+cine-village.gp.	0	IN	NS	ns2.netim.net.
+cine-village.gp.	0	IN	NS	ns3.netim.net.
 cippa.gp.	0	IN	NS	ns16.ovh.net.
 cippa.gp.	0	IN	NS	dns16.ovh.net.
 circuit.gp.	0	IN	NS	kiki.ns.cloudflare.com.
