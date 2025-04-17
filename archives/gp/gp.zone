@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041613 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041718 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2753,6 +2753,9 @@ karulis.gp.	0	IN	NS	ns3.francedns.com.
 kaspersky.gp.	0	IN	NS	ns1.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns2.kasperskylabs.net.
 kaspersky.gp.	0	IN	NS	ns3.kasperskylabs.net.
+kavehome.gp.	0	IN	NS	ns01.trademarkarea.com.
+kavehome.gp.	0	IN	NS	ns02.trademarkarea.com.
+kavehome.gp.	0	IN	NS	ns03.trademarkarea.com.
 kayak.gp.	0	IN	NS	ns1.101domain.com.
 kayak.gp.	0	IN	NS	ns2.101domain.com.
 kaz.gp.	0	IN	NS	pns101.cloudns.net.
@@ -3481,6 +3484,8 @@ moinschersdeguadeloupe.gp.	0	IN	NS	ns-165-b.gandi.net.
 moinschersdeguadeloupe.gp.	0	IN	NS	ns-210-c.gandi.net.
 moltonel.gp.	0	IN	NS	melkor.sgn.sca.se.
 moltonel.gp.	0	IN	NS	tilion.sgn.sca.se.
+momcozy.gp.	0	IN	NS	ns1.icp100.net.
+momcozy.gp.	0	IN	NS	ns2.icp100.net.
 mon-domaine-chez-ovh.gp.	0	IN	NS	dns5.cloudns.net.
 mon-domaine-chez-ovh.gp.	0	IN	NS	dns6.cloudns.net.
 monaco.gp.	0	IN	NS	hal.ns.cloudflare.com.
