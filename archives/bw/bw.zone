@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041725 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041823 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1744930806"
+bw.	0	IN	TXT	"Generation Time: 1745017512"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -2203,8 +2203,6 @@ analoxholdings.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
 analoxholdings.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 analytika.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 analytika.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
-anayainnovations.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
-anayainnovations.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 anbachemicals.co.bw.	0	IN	NS	ns1.botsnet.bw.
 anbachemicals.co.bw.	0	IN	NS	ns2.botsnet.bw.
 anbachemicals.co.bw.	0	IN	NS	ns3.botsnet.bw.
@@ -8405,6 +8403,8 @@ dna.co.bw.	0	IN	NS	bekomedia.mars.orderbox-dns.com.
 dna.co.bw.	0	IN	NS	bekomedia.earth.orderbox-dns.com.
 dna.co.bw.	0	IN	NS	bekomedia.venus.orderbox-dns.com.
 dna.co.bw.	0	IN	NS	bekomedia.mercury.orderbox-dns.com.
+dnb.co.bw.	0	IN	NS	ns1.vehost.co.za.
+dnb.co.bw.	0	IN	NS	ns2.vehost.co.za.
 dnslinksystems.co.bw.	0	IN	NS	ns1.dns-parking.com.
 dnslinksystems.co.bw.	0	IN	NS	ns2.dns-parking.com.
 dnwof.co.bw.	0	IN	NS	dns1.webmart.co.bw.
@@ -17027,6 +17027,7 @@ maanicaz.co.bw.	0	IN	NS	ns-cloud-b3.googledomains.com.
 maanicaz.co.bw.	0	IN	NS	ns-cloud-b4.googledomains.com.
 maanogroup.co.bw.	0	IN	NS	dns2047a.trouble-free.net.
 maanogroup.co.bw.	0	IN	NS	dns2047b.trouble-free.net.
+maarifa.co.bw.	0	IN	NS	dns1.web-hosting.com.
 maarifa.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
 maarifa.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 maasaimara.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
@@ -20979,7 +20980,9 @@ ohp.co.bw.	0	IN	NS	ns2.cp-29.webhostbox.net.
 oienergy.co.bw.	0	IN	NS	ns1.contabo.net.
 oienergy.co.bw.	0	IN	NS	ns2.contabo.net.
 oienergy.co.bw.	0	IN	NS	ns3.contabo.net.
-ojimah.co.bw.	0	IN	NS	ec2-3-143-148-168.us-east-2.compute.amazonaws.com.
+ojimah.co.bw.	0	IN	NS	ns-386.awsdns-48.com.
+ojimah.co.bw.	0	IN	NS	ns-834.awsdns-40.net.
+ojimah.co.bw.	0	IN	NS	ns-1168.awsdns-18.org.
 okachozi.co.bw.	0	IN	NS	dns1.yandex.net.
 okachozi.co.bw.	0	IN	NS	dns2.yandex.net.
 okachozisafaris.co.bw.	0	IN	NS	dns1.yandex.net.
@@ -28829,6 +28832,8 @@ tlousafari.co.bw.	0	IN	NS	dns2.easydns.net.
 tlousafari.co.bw.	0	IN	NS	dns3.easydns.ca.
 tloutimbers.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
 tloutimbers.co.bw.	0	IN	NS	ns2.paratustelco.co.bw.
+tm.co.bw.	0	IN	NS	ns1.dns-parking.com.
+tm.co.bw.	0	IN	NS	ns2.dns-parking.com.
 tma.co.bw.	0	IN	NS	ns1-sin.vivawebhost.com.
 tma.co.bw.	0	IN	NS	ns2-sin.vivawebhost.com.
 tmb.co.bw.	0	IN	NS	ns1.iob.co.bw.
@@ -33389,7 +33394,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1744930846"
+ote.bw.	0	IN	TXT	"Generation Time: 1745017552"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.
