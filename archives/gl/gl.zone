@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162717 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162775 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1999,18 +1999,14 @@ autozone.gl.	0	IN	NS	dns1.cscdns.net.
 autozone.gl.	0	IN	NS	dns2.cscdns.net.
 av.gl.	0	IN	NS	ivy.ns.cloudflare.com.
 av.gl.	0	IN	NS	grant.ns.cloudflare.com.
-ava.gl.	0	IN	NS	ns1.omninet.dk.
-ava.gl.	0	IN	NS	ns2.omninet.dk.
-ava.gl.	0	IN	NS	ns3.omninet.dk.
-ava.gl.	0	IN	NS	ns4.omninet.dk.
+ava.gl.	0	IN	NS	ns1.curanet.dk.
+ava.gl.	0	IN	NS	ns2.curanet.dk.
 avaatu.gl.	0	IN	NS	a.hosting.gl.
 avaatu.gl.	0	IN	NS	b.hosting.gl.
 avaatu.gl.	0	IN	NS	c.hosting.gl.
 avaatu.gl.	0	IN	NS	d.hosting.gl.
-avafish.gl.	0	IN	NS	ns1.omninet.dk.
-avafish.gl.	0	IN	NS	ns2.omninet.dk.
-avafish.gl.	0	IN	NS	ns3.omninet.dk.
-avafish.gl.	0	IN	NS	ns4.omninet.dk.
+avafish.gl.	0	IN	NS	ns1.curanet.dk.
+avafish.gl.	0	IN	NS	ns2.curanet.dk.
 avalequt.gl.	0	IN	NS	ns1.netim.net.
 avalequt.gl.	0	IN	NS	ns2.netim.net.
 avalequt.gl.	0	IN	NS	ns3.netim.net.
@@ -2156,6 +2152,11 @@ b67.gl.	0	IN	NS	d.hosting.gl.
 b67badminton.gl.	0	IN	NS	helium.ns.hetzner.de.
 b67badminton.gl.	0	IN	NS	oxygen.ns.hetzner.com.
 b67badminton.gl.	0	IN	NS	hydrogen.ns.hetzner.com.
+b7.gl.	0	IN	NS	ns1.hyp.net.
+b7.gl.	0	IN	NS	ns2.hyp.net.
+b7.gl.	0	IN	NS	ns3.hyp.net.
+b7.gl.	0	IN	DS	57988 15 2 1cd5b4067eea4be7e83e82d1093d7d9704726abcb2f9627144d00ee5992dc5e5
+b7.gl.	0	IN	DS	57988 15 4 8b9397e899b3fd2ca396ee1f23f38adaf445476501c98e6f5c2b64c621e0a0e315c173c7c65a9c06e0d0f5b2617b6671
 ba.gl.	0	IN	NS	ns1.hyp.net.
 ba.gl.	0	IN	NS	ns2.hyp.net.
 ba.gl.	0	IN	NS	ns3.hyp.net.
@@ -9587,6 +9588,8 @@ jysk.gl.	0	IN	NS	dns1.zaccodigitaltrustlabs.com.
 jysk.gl.	0	IN	NS	dns2.zaccodigitaltrustlabs.net.
 jysk.gl.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
 jysk.gl.	0	IN	NS	dns4.zaccodigitaltrustlabs.se.
+jz.gl.	0	IN	NS	hope.ns.cloudflare.com.
+jz.gl.	0	IN	NS	tanner.ns.cloudflare.com.
 k.gl.	0	IN	NS	ns-119.awsdns-14.com.
 k.gl.	0	IN	NS	ns-610.awsdns-12.net.
 k.gl.	0	IN	NS	ns-1413.awsdns-48.org.
@@ -11901,8 +11904,8 @@ mdclon.gl.	0	IN	NS	ns1.aputit.gl.
 mdclon.gl.	0	IN	NS	ns2.aputit.gl.
 mdclon.gl.	0	IN	NS	ns3.aputit.gl.
 mdclon.gl.	0	IN	NS	ns4.aputit.gl.
-me.gl.	0	IN	NS	ns1.catched.com.
-me.gl.	0	IN	NS	ns2.catched.com.
+me.gl.	0	IN	NS	sk.s7.ans1.ns58.klczy.com.
+me.gl.	0	IN	NS	sk.s7.ans2.ns58.klczy.com.
 me3a.gl.	0	IN	NS	woz.ns.cloudflare.com.
 me3a.gl.	0	IN	NS	aron.ns.cloudflare.com.
 me3ga.gl.	0	IN	NS	woz.ns.cloudflare.com.
@@ -12755,6 +12758,11 @@ mz.gl.	0	IN	NS	chloe.ns.cloudflare.com.
 n.gl.	0	IN	NS	ns1.netim.net.
 n.gl.	0	IN	NS	ns2.netim.net.
 n.gl.	0	IN	NS	ns3.netim.net.
+n1.gl.	0	IN	NS	ns1.hyp.net.
+n1.gl.	0	IN	NS	ns2.hyp.net.
+n1.gl.	0	IN	NS	ns3.hyp.net.
+n1.gl.	0	IN	DS	13110 15 2 5158b5235e987722a770bdcae4641abae3418af5cdba4a78cc172c09e1ae28a4
+n1.gl.	0	IN	DS	13110 15 4 514b49bf2f66a72e8a0ca5dedb7d13c9ed7a58e6a361d6db4ed9f609c3229bd1e76a6be8b5ba1151f885c910f21158fc
 na.gl.	0	IN	NS	ns1.blacknight.com.
 na.gl.	0	IN	NS	ns2.blacknight.com.
 naa.gl.	0	IN	NS	a.hysing.is.
@@ -12852,10 +12860,8 @@ nalunng.gl.	0	IN	NS	b.hosting.gl.
 nalunng.gl.	0	IN	NS	c.hosting.gl.
 nalunng.gl.	0	IN	NS	d.hosting.gl.
 name.gl.	0	IN	NS	ns1.anycastdns.cz.
-name.gl.	0	IN	NS	ns2.name.gl.
+name.gl.	0	IN	NS	ns2.anycastdns.cz.
 name.gl.	0	IN	DS	7193 13 2 2c427cb1568b42ae8468e895b43ef47c0a91c23f74bc983bf845fec20030cba9
-ns2.name.gl.	0	IN	A	51.68.34.85
-ns2.name.gl.	0	IN	AAAA	2001:41d0:303:7655::1
 nameyourownprice.gl.	0	IN	NS	ns1.markmonitor.com.
 nameyourownprice.gl.	0	IN	NS	ns2.markmonitor.com.
 nameyourownprice.gl.	0	IN	NS	ns3.markmonitor.com.
@@ -13328,10 +13334,8 @@ ni.gl.	0	IN	NS	ns4.iwantmyname.net.
 ni-elev.gl.	0	IN	NS	ns1.modulo.gl.
 ni-elev.gl.	0	IN	NS	ns2.modulo.gl.
 ni-elev.gl.	0	IN	NS	ns3.modulo.gl.
-niaqornatseafood.gl.	0	IN	NS	ns1.omninet.dk.
-niaqornatseafood.gl.	0	IN	NS	ns2.omninet.dk.
-niaqornatseafood.gl.	0	IN	NS	ns3.omninet.dk.
-niaqornatseafood.gl.	0	IN	NS	ns4.omninet.dk.
+niaqornatseafood.gl.	0	IN	NS	ns1.curanet.dk.
+niaqornatseafood.gl.	0	IN	NS	ns2.curanet.dk.
 nibc.gl.	0	IN	NS	a.hosting.gl.
 nibc.gl.	0	IN	NS	b.hosting.gl.
 nibc.gl.	0	IN	NS	c.hosting.gl.
@@ -19388,10 +19392,8 @@ tugtupit.gl.	0	IN	DS	25806 13 2 a99201b308f1a85cd42fb27e3caf93ca558e34b1fd74454b
 tuilik.gl.	0	IN	NS	ns1.modulo.gl.
 tuilik.gl.	0	IN	NS	ns2.modulo.gl.
 tuilik.gl.	0	IN	NS	ns3.modulo.gl.
-tukku.gl.	0	IN	NS	ns1.omninet.dk.
-tukku.gl.	0	IN	NS	ns2.omninet.dk.
-tukku.gl.	0	IN	NS	ns3.omninet.dk.
-tukku.gl.	0	IN	NS	ns4.omninet.dk.
+tukku.gl.	0	IN	NS	ns1.curanet.dk.
+tukku.gl.	0	IN	NS	ns2.curanet.dk.
 tulleq.gl.	0	IN	NS	ns1.nukik.it.
 tulleq.gl.	0	IN	NS	ns2.nukik.it.
 tulleq.gl.	0	IN	NS	ns3.nukik.it.

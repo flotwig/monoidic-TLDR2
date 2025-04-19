@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041823 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025041924 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1745017512"
+bw.	0	IN	TXT	"Generation Time: 1745103604"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -17148,6 +17148,8 @@ magala.co.bw.	0	IN	NS	ns3.name.com.
 magala.co.bw.	0	IN	NS	ns4.name.com.
 maghanisosafaris.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 maghanisosafaris.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+magicaleducation.co.bw.	0	IN	NS	ns1.vertigobw.net.
+magicaleducation.co.bw.	0	IN	NS	ns2.vertigobw.net.
 magicconcept.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 magicconcept.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
 magicking.co.bw.	0	IN	NS	ns1.jasmintech.africa.
@@ -33394,7 +33396,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1745017552"
+ote.bw.	0	IN	TXT	"Generation Time: 1745103645"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.
