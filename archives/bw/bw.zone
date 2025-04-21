@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042023 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042124 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1745190311"
+bw.	0	IN	TXT	"Generation Time: 1745272847"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -15401,10 +15401,8 @@ kimmys.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 kimmys.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 kimmys.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 kimmys.co.bw.	0	IN	NS	dns4.webmart.co.bw.
-kimmysgroup.co.bw.	0	IN	NS	dns1.webmart.co.bw.
-kimmysgroup.co.bw.	0	IN	NS	dns2.webmart.co.bw.
-kimmysgroup.co.bw.	0	IN	NS	dns3.webmart.co.bw.
-kimmysgroup.co.bw.	0	IN	NS	dns4.webmart.co.bw.
+kimmysgroup.co.bw.	0	IN	NS	ns1.dns-parking.com.
+kimmysgroup.co.bw.	0	IN	NS	ns2.dns-parking.com.
 kindlycare.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
 kindlycare.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 kingalliance.co.bw.	0	IN	NS	ns1.md-83.webhostbox.net.
@@ -17037,7 +17035,6 @@ maanicaz.co.bw.	0	IN	NS	ns-cloud-b3.googledomains.com.
 maanicaz.co.bw.	0	IN	NS	ns-cloud-b4.googledomains.com.
 maanogroup.co.bw.	0	IN	NS	dns2047a.trouble-free.net.
 maanogroup.co.bw.	0	IN	NS	dns2047b.trouble-free.net.
-maarifa.co.bw.	0	IN	NS	dns1.web-hosting.com.
 maarifa.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
 maarifa.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 maasaimara.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
@@ -27733,12 +27730,8 @@ taskbench.co.bw.	0	IN	NS	cash.ns.cloudflare.com.
 taskbench.co.bw.	0	IN	NS	lily.ns.cloudflare.com.
 taskconnect.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 taskconnect.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
-taskfinder.co.bw.	0	IN	NS	ns.nscluster.us.
-taskfinder.co.bw.	0	IN	NS	dns1.cloudns.net.
-taskfinder.co.bw.	0	IN	NS	dns2.cloudns.net.
-taskfinder.co.bw.	0	IN	NS	anycast1.dnsres.net.
-taskfinder.co.bw.	0	IN	NS	anycast2.dnsres.net.
-taskfinder.co.bw.	0	IN	DS	34854 13 2 927f6ce72523e4c7547c06b255dfd222e5d3f93382c8129e903584334cc794a6
+taskfinder.co.bw.	0	IN	NS	tmp.nscluster.eu.
+taskfinder.co.bw.	0	IN	NS	tmp.nscluster.us.
 taskpro.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 taskpro.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 taskpro.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -33406,7 +33399,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1745190351"
+ote.bw.	0	IN	TXT	"Generation Time: 1745272888"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

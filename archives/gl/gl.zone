@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162835 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162892 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -6712,6 +6712,8 @@ go2.gl.	0	IN	NS	trace.ns.cloudflare.com.
 go2.gl.	0	IN	NS	gracie.ns.cloudflare.com.
 goallover.gl.	0	IN	NS	ns1.markmonitor.com.
 goallover.gl.	0	IN	NS	ns3.markmonitor.com.
+goat.gl.	0	IN	NS	lindsey.ns.cloudflare.com.
+goat.gl.	0	IN	NS	anderson.ns.cloudflare.com.
 gob.gl.	0	IN	NS	ns1.dandydns.com.
 gob.gl.	0	IN	NS	ns2.dandydns.com.
 gob.gl.	0	IN	NS	ns3.dandydns.com.
@@ -11100,6 +11102,9 @@ looneytunes.gl.	0	IN	NS	ns3-b2.warnerbros.com.
 looneytunes.gl.	0	IN	NS	ns4-b2.warnerbros.com.
 loop.gl.	0	IN	NS	vin.ns.cloudflare.com.
 loop.gl.	0	IN	NS	dell.ns.cloudflare.com.
+loot.gl.	0	IN	NS	1-you.njalla.no.
+loot.gl.	0	IN	NS	2-can.njalla.in.
+loot.gl.	0	IN	NS	3-get.njalla.fo.
 lorenzen.gl.	0	IN	NS	ns55.1und1.de.
 lorenzen.gl.	0	IN	NS	ns56.1und1.de.
 loropiana.gl.	0	IN	NS	ns.dotnice.eu.
@@ -17892,9 +17897,6 @@ styreg.gl.	0	IN	NS	ns2.simply.com.
 styreg.gl.	0	IN	NS	ns3.simply.com.
 styreg.gl.	0	IN	DS	6043 13 2 010b6cbac5f5a02221a1cf0a60c8d153f14c2259468177f5a96caae7bfa54a18
 styreg.gl.	0	IN	DS	6043 13 4 e32e90360caf8dd63a07f1e6ffec97cb291b280285a46de8bec4c478bff070c341712e6739f135e566ea7b07e68e4296
-su.gl.	0	IN	NS	ns.inwx.de.
-su.gl.	0	IN	NS	ns2.inwx.de.
-su.gl.	0	IN	NS	ns3.inwx.eu.
 subaru.gl.	0	IN	NS	ns1.eurodns.com.
 subaru.gl.	0	IN	NS	ns2.eurodns.com.
 subaru.gl.	0	IN	NS	ns3.eurodns.com.
