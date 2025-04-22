@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162892 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162950 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -3250,6 +3250,8 @@ bx.gl.	0	IN	NS	hal.ns.cloudflare.com.
 bx.gl.	0	IN	NS	olga.ns.cloudflare.com.
 by.gl.	0	IN	NS	ns1.sedoparking.com.
 by.gl.	0	IN	NS	ns2.sedoparking.com.
+bybit.gl.	0	IN	NS	dns1.cscdns.net.
+bybit.gl.	0	IN	NS	dns2.cscdns.net.
 byer.gl.	0	IN	NS	ns1.netim.net.
 byer.gl.	0	IN	NS	ns2.netim.net.
 byer.gl.	0	IN	NS	ns3.netim.net.
@@ -3385,8 +3387,8 @@ captcha-kra6.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra6.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 captcha-kra7.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra7.gl.	0	IN	NS	ns3.disabled.ispapi.net.
-car.gl.	0	IN	NS	ns1.domaineasy.com.
-car.gl.	0	IN	NS	ns2.domaineasy.com.
+car.gl.	0	IN	NS	ns1.gofruits.co.
+car.gl.	0	IN	NS	ns2.gofruits.co.
 caravan.gl.	0	IN	NS	ns1.brandshelter.com.
 caravan.gl.	0	IN	NS	ns2.brandshelter.de.
 caravan.gl.	0	IN	NS	ns3.brandshelter.info.
@@ -8630,6 +8632,9 @@ inooqateqarnerit.gl.	0	IN	NS	kip.ns.cloudflare.com.
 inooqateqarnerit.gl.	0	IN	NS	serena.ns.cloudflare.com.
 insane.gl.	0	IN	NS	gloria.ns.cloudflare.com.
 insane.gl.	0	IN	NS	mustafa.ns.cloudflare.com.
+inservice.gl.	0	IN	NS	ns1.netim.net.
+inservice.gl.	0	IN	NS	ns2.netim.net.
+inservice.gl.	0	IN	NS	ns3.netim.net.
 insightly.gl.	0	IN	NS	ns-403.awsdns-50.com.
 insightly.gl.	0	IN	NS	ns-726.awsdns-26.net.
 insightly.gl.	0	IN	NS	ns-1052.awsdns-03.org.
@@ -15811,8 +15816,10 @@ qtech.gl.	0	IN	DS	20012 13 2 e9ee061d6c51fffbb6ee56d727be0221e2fb70e3c23d4d421e6
 qtech.gl.	0	IN	DS	20012 13 4 eb35165ac5b48a0b7a328a3172af41b91fc62ecb0b4ab4680c2b67c2f9bfa089d912235c5a9ec3af5aa5aa3afe7442fc
 qtime.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 qtime.gl.	0	IN	NS	ns2.hosting.inuit.gl.
-qtimersortarfia.gl.	0	IN	NS	ns1.curanet.dk.
-qtimersortarfia.gl.	0	IN	NS	ns2.curanet.dk.
+qtimersortarfia.gl.	0	IN	NS	ns1.nunahosting.net.
+qtimersortarfia.gl.	0	IN	NS	ns2.nunahosting.net.
+qtimersortarfia.gl.	0	IN	NS	ns3.nunahosting.net.
+qtimersortarfia.gl.	0	IN	NS	ns4.nunahosting.net.
 qu.gl.	0	IN	NS	ns5.awardspace.com.
 qu.gl.	0	IN	NS	ns6.awardspace.com.
 quantum.gl.	0	IN	NS	gail.ns.cloudflare.com.
@@ -16173,8 +16180,9 @@ ri.gl.	0	IN	NS	ns3.simply.com.
 ri.gl.	0	IN	NS	ns4.simply.com.
 ri.gl.	0	IN	DS	56308 13 2 532a917da5a8d858af5da57d2a77b696811afa07c276b8455d701d8e5914999b
 ri.gl.	0	IN	DS	56308 13 4 7eab64944a30a9234690f28d9a7d802d042209c188a7c6209a7240ea80ccc900053e5361e18e932acf524157788f61cc
-richenhagen.gl.	0	IN	NS	ns07.domaincontrol.com.
-richenhagen.gl.	0	IN	NS	ns08.domaincontrol.com.
+richenhagen.gl.	0	IN	NS	helium.ns.hetzner.de.
+richenhagen.gl.	0	IN	NS	oxygen.ns.hetzner.com.
+richenhagen.gl.	0	IN	NS	hydrogen.ns.hetzner.com.
 rightnowclimatefund.gl.	0	IN	NS	nsgbr.comlaude.co.uk.
 rightnowclimatefund.gl.	0	IN	NS	nssui.comlaude.ch.
 rightnowclimatefund.gl.	0	IN	NS	nsusa.comlaude.net.
@@ -16506,8 +16514,10 @@ sanasa-art.gl.	0	IN	NS	ns2.simply.com.
 sanasa-art.gl.	0	IN	NS	ns3.simply.com.
 sanasa-art.gl.	0	IN	DS	47878 13 2 75b86bfe9ff5f283f52e1038f314b00de715dc0e770989f4d8f4554f9ae2a9a2
 sanasa-art.gl.	0	IN	DS	47878 13 4 6f0f87f0b2b4313a5c543e466d25d5d4ae276504e7655ba6f681b9c1604065a9b52a9c14eda8347052c3cb94978fe642
-sanasabyg.gl.	0	IN	NS	ns1.curanet.dk.
-sanasabyg.gl.	0	IN	NS	ns2.curanet.dk.
+sanasabyg.gl.	0	IN	NS	ns1.nunahosting.net.
+sanasabyg.gl.	0	IN	NS	ns2.nunahosting.net.
+sanasabyg.gl.	0	IN	NS	ns3.nunahosting.net.
+sanasabyg.gl.	0	IN	NS	ns4.nunahosting.net.
 sanasoq.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 sanasoq.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 sanasoq.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -16956,6 +16966,9 @@ sh.gl.	0	IN	NS	anna.ns.cloudflare.com.
 sh.gl.	0	IN	NS	dave.ns.cloudflare.com.
 shade.gl.	0	IN	NS	ns1.vercel-dns.com.
 shade.gl.	0	IN	NS	ns2.vercel-dns.com.
+shader.gl.	0	IN	NS	ns-51-c.gandi.net.
+shader.gl.	0	IN	NS	ns-119-a.gandi.net.
+shader.gl.	0	IN	NS	ns-168-b.gandi.net.
 shadowray.gl.	0	IN	NS	ns5.hawkhost.com.
 shadowray.gl.	0	IN	NS	ns6.hawkhost.com.
 shalmi.gl.	0	IN	NS	ns1.wannafind.dk.
@@ -17169,8 +17182,10 @@ sisak.gl.	0	IN	DS	51622 13 2 f14b0489b24d846542d88c83637b7c8129c3d08b93bf393cffd
 sisak.gl.	0	IN	DS	51622 13 4 c4ae84bbc5449160896cc77eed258ff6ab28c05f09871348e19f5b5794a5ddf74750fe957d80ce1c853d47bb8d9ecb8b
 sisanet.gl.	0	IN	NS	ns1.wwi.dk.
 sisanet.gl.	0	IN	NS	ns2.wwi.dk.
-sisbaad.gl.	0	IN	NS	ns1.curanet.dk.
-sisbaad.gl.	0	IN	NS	ns2.curanet.dk.
+sisbaad.gl.	0	IN	NS	ns1.nunahosting.net.
+sisbaad.gl.	0	IN	NS	ns2.nunahosting.net.
+sisbaad.gl.	0	IN	NS	ns3.nunahosting.net.
+sisbaad.gl.	0	IN	NS	ns4.nunahosting.net.
 sisimiut.gl.	0	IN	NS	ns13.hawkhost.com.
 sisimiut.gl.	0	IN	NS	ns14.hawkhost.com.
 sisimiut-el.gl.	0	IN	NS	ns1.omninet.dk.
@@ -18083,8 +18098,10 @@ sustainabilitywithsubstance.gl.	0	IN	NS	edns1.ultradns.biz.
 sustainabilitywithsubstance.gl.	0	IN	NS	edns1.ultradns.com.
 sustainabilitywithsubstance.gl.	0	IN	NS	edns1.ultradns.net.
 sustainabilitywithsubstance.gl.	0	IN	NS	edns1.ultradns.org.
-sustine.gl.	0	IN	NS	ns1.curanet.dk.
-sustine.gl.	0	IN	NS	ns2.curanet.dk.
+sustine.gl.	0	IN	NS	ns1.nunahosting.net.
+sustine.gl.	0	IN	NS	ns2.nunahosting.net.
+sustine.gl.	0	IN	NS	ns3.nunahosting.net.
+sustine.gl.	0	IN	NS	ns4.nunahosting.net.
 suzukimarine.gl.	0	IN	NS	ns01.one.com.
 suzukimarine.gl.	0	IN	NS	ns02.one.com.
 sv.gl.	0	IN	NS	pdns05.domaincontrol.com.
@@ -18361,8 +18378,10 @@ tax-free.gl.	0	IN	NS	c.hosting.gl.
 tax-free.gl.	0	IN	NS	d.hosting.gl.
 taxa.gl.	0	IN	NS	ns01.one.com.
 taxa.gl.	0	IN	NS	ns02.one.com.
-taxa944944.gl.	0	IN	NS	ns1.curanet.dk.
-taxa944944.gl.	0	IN	NS	ns2.curanet.dk.
+taxa944944.gl.	0	IN	NS	ns1.nunahosting.net.
+taxa944944.gl.	0	IN	NS	ns2.nunahosting.net.
+taxa944944.gl.	0	IN	NS	ns3.nunahosting.net.
+taxa944944.gl.	0	IN	NS	ns4.nunahosting.net.
 taxagut.gl.	0	IN	NS	ns1.gigahost.dk.
 taxagut.gl.	0	IN	NS	ns2.gigahost.dk.
 taxagut.gl.	0	IN	NS	ns3.gigahost.dk.
@@ -20702,6 +20721,9 @@ yt.gl.	0	IN	NS	marty.ns.cloudflare.com.
 yu.gl.	0	IN	NS	ns1.systemdns.com.
 yu.gl.	0	IN	NS	ns2.systemdns.com.
 yu.gl.	0	IN	NS	ns3.systemdns.com.
+yume.gl.	0	IN	NS	ns-1-a.gandi.net.
+yume.gl.	0	IN	NS	ns-72-c.gandi.net.
+yume.gl.	0	IN	NS	ns-164-b.gandi.net.
 yuri.gl.	0	IN	NS	bob.ns.cloudflare.com.
 yuri.gl.	0	IN	NS	chan.ns.cloudflare.com.
 yw.gl.	0	IN	NS	ns1.vercel-dns.com.

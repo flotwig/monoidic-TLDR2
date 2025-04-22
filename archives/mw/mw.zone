@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745273101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745359501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2668,6 +2668,8 @@ ladbrokes.mw.	0	IN	NS	dns3.itsfogo.com.
 ladbrokes.mw.	0	IN	NS	dns4.itsfogo.com.
 ladbrokes.mw.	0	IN	NS	dns5.itsfogo.com.
 ladbrokes.mw.	0	IN	NS	dns6.itsfogo.com.
+ladybirdprivateschools.mw.	0	IN	NS	ns1.dns-parking.com.
+ladybirdprivateschools.mw.	0	IN	NS	ns2.dns-parking.com.
 lafarge.mw.	0	IN	NS	dns1.cscdns.net.
 lafarge.mw.	0	IN	NS	dns2.cscdns.net.
 lafarge-holcim.mw.	0	IN	NS	ns01ch.holcim.com.
@@ -3247,6 +3249,8 @@ mmif.mw.	0	IN	NS	ns1.blingmw.com.
 mmif.mw.	0	IN	NS	ns2.blingmw.com.
 mmj.mw.	0	IN	NS	ns1.medcol.mw.
 mmj.mw.	0	IN	NS	nyala.sdnp.org.mw.
+mmklodge.mw.	0	IN	NS	domwe.sdn.mw.
+mmklodge.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmra.mw.	0	IN	NS	ns1.blingmw.com.
 mmra.mw.	0	IN	NS	ns2.blingmw.com.
 mmtaxadvisory.mw.	0	IN	NS	maxdns.globemw.net.
@@ -3573,12 +3577,12 @@ nft.mw.	0	IN	NS	ns1.sedoparking.com.
 nft.mw.	0	IN	NS	ns2.sedoparking.com.
 ngogcn.mw.	0	IN	NS	ns1289.websitewelcome.com.
 ngogcn.mw.	0	IN	NS	ns1290.websitewelcome.com.
-ngora.mw.	0	IN	NS	ns-cloud-a1.googledomains.com.
-ngora.mw.	0	IN	NS	ns-cloud-a2.googledomains.com.
-ngora.mw.	0	IN	NS	ns-cloud-a3.googledomains.com.
-ngora.mw.	0	IN	NS	ns-cloud-a4.googledomains.com.
+ngora.mw.	0	IN	NS	vda7600a.trouble-free.net.
+ngora.mw.	0	IN	NS	vda7600b.trouble-free.net.
 ngweengweengweefund.mw.	0	IN	NS	ns1.kjinvest.net.
 ngweengweengweefund.mw.	0	IN	NS	ns2.kjinvest.net.
+nhbg.mw.	0	IN	NS	ns1.cloud-a8ed1b.managed-vps.net.
+nhbg.mw.	0	IN	NS	ns2.cloud-a8ed1b.managed-vps.net.
 nic.mw.	0	IN	NS	rip.psg.com.
 nic.mw.	0	IN	NS	domwe.nic.mw.
 nic.mw.	0	IN	NS	domwe.sdn.mw.
@@ -4086,6 +4090,8 @@ rangerover.mw.	0	IN	NS	gydns04.jlrext.com.
 rangerover.mw.	0	IN	NS	nydns04.jlrext.com.
 rangerover.mw.	0	IN	NS	sgdns04.jlrext.com.
 rangerover.mw.	0	IN	NS	whdns04.jlrext.com.
+rbc.mw.	0	IN	NS	ns1.coolenterprisesmw.net.
+rbc.mw.	0	IN	NS	ns2.coolenterprisesmw.net.
 rbm.mw.	0	IN	NS	domwe.sdn.mw.
 rbm.mw.	0	IN	NS	nyala.sdnp.org.mw.
 rbm.mw.	0	IN	NS	maxdns.globemw.net.
@@ -4214,6 +4220,8 @@ rolls-royce.mw.	0	IN	NS	dns1.cscdns.net.
 rolls-royce.mw.	0	IN	NS	dns2.cscdns.net.
 rollsroyce.mw.	0	IN	NS	dns31.register.com.
 rollsroyce.mw.	0	IN	NS	dns32.register.com.
+rop.mw.	0	IN	NS	proxy2.africa-online.net.
+rop.mw.	0	IN	NS	proxy3.africa-online.net.
 ropmw.mw.	0	IN	NS	proxy2.africa-online.net.
 ropmw.mw.	0	IN	NS	proxy3.africa-online.net.
 rsagroup.mw.	0	IN	NS	dns1.cscdns.net.
