@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162950 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163009 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -840,6 +840,8 @@ airzafari.gl.	0	IN	NS	ns1.simply.com.
 airzafari.gl.	0	IN	NS	ns2.simply.com.
 airzafari.gl.	0	IN	NS	ns3.simply.com.
 airzafari.gl.	0	IN	NS	ns4.simply.com.
+aja.gl.	0	IN	NS	ns1.curanet.dk.
+aja.gl.	0	IN	NS	ns2.curanet.dk.
 ajudanti.gl.	0	IN	NS	ns1.simply.com.
 ajudanti.gl.	0	IN	NS	ns2.simply.com.
 ajudanti.gl.	0	IN	NS	ns3.simply.com.
@@ -2265,6 +2267,8 @@ banknordik.gl.	0	IN	NS	ns3.eurodns.com.
 banknordik.gl.	0	IN	NS	ns4.eurodns.com.
 bankofamerica.gl.	0	IN	NS	dns1.cscdns.net.
 bankofamerica.gl.	0	IN	NS	dns2.cscdns.net.
+bannken.gl.	0	IN	NS	ns1.curanet.dk.
+bannken.gl.	0	IN	NS	ns2.curanet.dk.
 bar.gl.	0	IN	NS	ns1.netim.net.
 bar.gl.	0	IN	NS	ns2.netim.net.
 bar.gl.	0	IN	NS	ns3.netim.net.
@@ -3006,8 +3010,8 @@ briller.gl.	0	IN	NS	ns2.unoeuro.com.
 brim.gl.	0	IN	NS	ns1.hyp.net.
 brim.gl.	0	IN	NS	ns2.hyp.net.
 brim.gl.	0	IN	NS	ns3.hyp.net.
-brim.gl.	0	IN	DS	12060 13 2 68542172ffc1e7184f54dd00145ce9d9100a53720f313e1b9d63e738081da6df
-brim.gl.	0	IN	DS	12060 13 4 5abfd8f773ebc5c80104965e7f9f92bdf0587bd21e169bdc8f2444fede79f516936654d39be686f37ff172eb1d59ab78
+brim.gl.	0	IN	DS	54673 15 2 f67a65a9a62e287e10be40ee43ec29699e47896e62ea081f251e197b8bc77a8f
+brim.gl.	0	IN	DS	54673 15 4 d331ffbc794222da9c67efd16633f848a053fef29ae39bfaf805b3d7a00513601d9ba6dcb36572482365e736b84bb418
 brimseafood.gl.	0	IN	NS	ns1.hyp.net.
 brimseafood.gl.	0	IN	NS	ns2.hyp.net.
 brimseafood.gl.	0	IN	NS	ns3.hyp.net.
@@ -4574,21 +4578,21 @@ domainname.gl.	0	IN	NS	ns3.register.be.
 domainnameshop.gl.	0	IN	NS	ns1.hyp.net.
 domainnameshop.gl.	0	IN	NS	ns2.hyp.net.
 domainnameshop.gl.	0	IN	NS	ns3.hyp.net.
-domainnameshop.gl.	0	IN	DS	1833 13 2 94886c48c86a5a99317477f554c0a5974d4efa2dc5273996fd0aea67fa95d09b
-domainnameshop.gl.	0	IN	DS	1833 13 4 d359182c2e026c97339475f4ce670c347e861129dfecdbd813659ef56aca8ca5bf29921a33568888ecf9d1e685a73e93
+domainnameshop.gl.	0	IN	DS	17961 15 2 d076f4ceecd1622f72b389f282562030e5118205324ac23d224db112ae9c9267
+domainnameshop.gl.	0	IN	DS	17961 15 4 6fb215fb8f6e2563e79b6d2b8709a2f31d8d9ee13e1d447bea748c68751d5edd9a639400a4d2899836c2cb3b2f0631b3
 domains.gl.	0	IN	NS	ns1.gigalayer.com.
 domains.gl.	0	IN	NS	ns2.gigalayer.com.
 domains.gl.	0	IN	NS	ns3.gigalayer.com.
 domene.gl.	0	IN	NS	ns1.hyp.net.
 domene.gl.	0	IN	NS	ns2.hyp.net.
 domene.gl.	0	IN	NS	ns3.hyp.net.
-domene.gl.	0	IN	DS	5665 13 2 946a41c0566d8f3ba56dcaa4ff112b23f0aad58585be46c0de809b8aaaa73ed6
-domene.gl.	0	IN	DS	5665 13 4 4c0b0d04e425c7d9abbb30d515b29758c516374b150b28aab81010b1e2f3204cb799f1883ebdf3a4cb220feb581f4a9d
+domene.gl.	0	IN	DS	38004 15 2 6e80e5af164add27858c0f1bbf83eb3ad9df83914283bbdf361d5f6b28c8dbab
+domene.gl.	0	IN	DS	38004 15 4 de5b6b6b94f5cf44b80b3d8733a68d4d0b02577443ee2af7eaddea507dae2624fff741a40bc98e14ef434ecef778db4b
 domenenavn.gl.	0	IN	NS	ns1.hyp.net.
 domenenavn.gl.	0	IN	NS	ns2.hyp.net.
 domenenavn.gl.	0	IN	NS	ns3.hyp.net.
-domenenavn.gl.	0	IN	DS	24620 13 2 e9393c1df8bc61db99385f0f66e35a022292e2a2dd32550a3f1ff3e761fa0026
-domenenavn.gl.	0	IN	DS	24620 13 4 406d709397e0ec73f093d0728a294918830940113bc9851e42dd1b87c4749adc0e908f18477a4d9729695274648fa6ff
+domenenavn.gl.	0	IN	DS	49361 15 2 f6dfc5abca50dbe7d72e85856aae69db027eff988a1f0ec3bba2247157a0f5c5
+domenenavn.gl.	0	IN	DS	49361 15 4 a65d76a2c8bb5e65340c270274dcd80524ebb127d318b541653cec684c4f34f52aa9775a6e76941d46871afe7380f986
 domeneshop.gl.	0	IN	NS	ns1.hyp.net.
 domeneshop.gl.	0	IN	NS	ns2.hyp.net.
 domeneshop.gl.	0	IN	NS	ns3.hyp.net.
@@ -5088,6 +5092,7 @@ elplus.gl.	0	IN	NS	a.hosting.gl.
 elplus.gl.	0	IN	NS	b.hosting.gl.
 elplus.gl.	0	IN	NS	c.hosting.gl.
 elplus.gl.	0	IN	NS	d.hosting.gl.
+elplus.gl.	0	IN	DS	63945 13 2 2d5766f99f55a71aac795ed74abf9d95ab3d9458bdb864cf5fc340ebbdf1cfb0
 elteknik.gl.	0	IN	NS	ns3.nordicway.dk.
 elteknik.gl.	0	IN	NS	ns4.nordicway.dk.
 elvineclothing.gl.	0	IN	NS	ns1.zaccodns.com.
@@ -9809,8 +9814,8 @@ kigutit.gl.	0	IN	NS	ns02.one.com.
 kikora.gl.	0	IN	NS	ns1.hyp.net.
 kikora.gl.	0	IN	NS	ns2.hyp.net.
 kikora.gl.	0	IN	NS	ns3.hyp.net.
-kikora.gl.	0	IN	DS	52907 13 2 2b0813ae7e611f7d9a8533e0c6d673ce63a764652813603f05e315d0ca9d7553
-kikora.gl.	0	IN	DS	52907 13 4 15131ecfb97926f7f91116808b3c035e009040e79a96fe9f2aeb536a36ffbe63e025a767c459053b9c9635e86cc58f3d
+kikora.gl.	0	IN	DS	3388 15 2 50b900096cc21274d8011ec2cb96c68f5c3f2778ffb95e7170b687f53cdd385e
+kikora.gl.	0	IN	DS	3388 15 4 29cde2569f793589d06d247c0884657ce11ace5dcf340bdadcb3a2026b7f20b6cb217061f890266e962eee0b3784d95d
 kilaas.gl.	0	IN	NS	a.hosting.gl.
 kilaas.gl.	0	IN	NS	b.hosting.gl.
 kilaas.gl.	0	IN	NS	c.hosting.gl.
@@ -10311,6 +10316,8 @@ kraiburg.gl.	0	IN	NS	a.ns14.net.
 kraiburg.gl.	0	IN	NS	b.ns14.net.
 kraiburg.gl.	0	IN	NS	c.ns14.net.
 kraiburg.gl.	0	IN	NS	d.ns14.net.
+kraken.gl.	0	IN	NS	boyd.ns.cloudflare.com.
+kraken.gl.	0	IN	NS	lady.ns.cloudflare.com.
 kraken10.gl.	0	IN	NS	ns1.expired.reg.ru.
 kraken10.gl.	0	IN	NS	ns2.expired.reg.ru.
 kraken3.gl.	0	IN	NS	ns1.expired.reg.ru.
@@ -10940,8 +10947,8 @@ link.gl.	0	IN	NS	ns02.one.com.
 links.gl.	0	IN	NS	ns-71-b.gandi.net.
 links.gl.	0	IN	NS	ns-184-a.gandi.net.
 links.gl.	0	IN	NS	ns-221-c.gandi.net.
-linux.gl.	0	IN	NS	ns1.northtrack.net.
-linux.gl.	0	IN	NS	ns2.northtrack.net.
+linux.gl.	0	IN	NS	aron.ns.cloudflare.com.
+linux.gl.	0	IN	NS	dilbert.ns.cloudflare.com.
 lionsnuuk.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 lionsnuuk.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 lionsnuuk.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -12133,15 +12140,15 @@ mitmachen.gl.	0	IN	NS	ns.udag.org.
 mitnavn.gl.	0	IN	NS	ns1.hyp.net.
 mitnavn.gl.	0	IN	NS	ns2.hyp.net.
 mitnavn.gl.	0	IN	NS	ns3.hyp.net.
-mitnavn.gl.	0	IN	DS	24727 13 2 9d1f8d69492d55b861737a296f7f5aa95e719845e8a36e4fd5d1c783adddbe0a
-mitnavn.gl.	0	IN	DS	24727 13 4 b0da8b4a5c88a55991cbca03c1690573dc5a714168733d9dcff5b107066d4e7b2524921773c3fcfebcff35bae3653590
+mitnavn.gl.	0	IN	DS	34934 15 2 ba76148c6842a9d780f5133c35b6daa7da93f61847dbdf7b0d32be98bfc487ad
+mitnavn.gl.	0	IN	DS	34934 15 4 e7479228055c2929a8e1c0a24fb7d355bcf5d466dec8d5cfbcfe1f47781f16a16a113eb41c1d4d59c09914455f955487
 mitsimmavik.gl.	0	IN	NS	ns1.curanet.dk.
 mitsimmavik.gl.	0	IN	NS	ns2.curanet.dk.
 mittnavn.gl.	0	IN	NS	ns1.hyp.net.
 mittnavn.gl.	0	IN	NS	ns2.hyp.net.
 mittnavn.gl.	0	IN	NS	ns3.hyp.net.
-mittnavn.gl.	0	IN	DS	49330 13 2 35bda8e557735440435eb081482773892b3a2e2fdb996af6b312073eaca7ee0d
-mittnavn.gl.	0	IN	DS	49330 13 4 d5d5d3c054db237264c4cc46dad2d2f0e23586a9e4dfb4ea7a2974618bfbb3e7d178f5a71916cac52681f7e46d0330ae
+mittnavn.gl.	0	IN	DS	26494 15 2 5a602662b642d72a21501f9f68bb714c37b66ad09d40e9e42b7a257b2c76d753
+mittnavn.gl.	0	IN	DS	26494 15 4 435c54325ab43b5921952f5007fad39863a2853e62a6d4a232ccf6a8fab6a333f904dffc10389ddb7ba54f00a3983776
 mix.gl.	0	IN	NS	a.hosting.gl.
 mix.gl.	0	IN	NS	b.hosting.gl.
 mix.gl.	0	IN	NS	c.hosting.gl.
@@ -12528,6 +12535,9 @@ mygreenland.gl.	0	IN	DS	23425 13 2 be9c3c5d391c0cd9bf42c4c5775d4088d6502be896acd
 mygreenland.gl.	0	IN	DS	23425 13 4 f7725c0d34900c417d0d783e9ca925675ed697bc76175d0ac6cd1a7c3e1fa08bf92249113aa585d459287664dad025a0
 myherbalife.gl.	0	IN	NS	ns1.markmonitor.com.
 myherbalife.gl.	0	IN	NS	ns2.markmonitor.com.
+myid.gl.	0	IN	NS	1-you.njalla.no.
+myid.gl.	0	IN	NS	2-can.njalla.in.
+myid.gl.	0	IN	NS	3-get.njalla.fo.
 myivcevidensia.gl.	0	IN	NS	sto.excedodns.se.
 myivcevidensia.gl.	0	IN	NS	emea.excedodns.eu.
 myivcevidensia.gl.	0	IN	NS	world.excedodns.org.
@@ -12540,8 +12550,8 @@ mymail.gl.	0	IN	NS	ns4.iwantmyname.net.
 myname.gl.	0	IN	NS	ns1.hyp.net.
 myname.gl.	0	IN	NS	ns2.hyp.net.
 myname.gl.	0	IN	NS	ns3.hyp.net.
-myname.gl.	0	IN	DS	43151 13 2 f551d04926275881f7c7184ec2ac253eb2b9ae1bb57940dd5ba5a402febe365f
-myname.gl.	0	IN	DS	43151 13 4 da40f0f55e9f7f983f4b6fd2a0e0e964af2a237a2a4eecb5f27db686e5e3ffbf27f533efc6d0212777558e21c777ec53
+myname.gl.	0	IN	DS	367 15 2 09306b9fde35a4be0d090bc3cdd6bae32fc0bd92a0f317179f311e1c825ea1f2
+myname.gl.	0	IN	DS	367 15 4 f2fad561a33df7903df9626c2419184ff71e7a858eeda32fa8e00786af6ba61f9cde6df07190e9cd9f8bc7f988485124
 myperfectcoverletter.gl.	0	IN	NS	ns1.markmonitor.com.
 myperfectcoverletter.gl.	0	IN	NS	ns2.markmonitor.com.
 myperfectcoverletter.gl.	0	IN	NS	ns3.markmonitor.com.
@@ -13120,10 +13130,6 @@ nexthop.gl.	0	IN	NS	ns1.anycast.no.
 nexthop.gl.	0	IN	NS	ns2.anycast.no.
 nexthop.gl.	0	IN	NS	ns3.anycast.no.
 nexthop.gl.	0	IN	NS	ns4.anycast.no.
-nexus.gl.	0	IN	NS	ns1.romarg.com.
-nexus.gl.	0	IN	NS	ns2.romarg.com.
-nexus.gl.	0	IN	NS	ns3.romarg.com.
-nexus.gl.	0	IN	NS	ns4.romarg.com.
 nf.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 nf.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 nfs.gl.	0	IN	NS	ns.dandomain.dk.
@@ -15282,8 +15288,8 @@ polarupernavik.gl.	0	IN	NS	ns4.eurodns.com.
 pole-position.gl.	0	IN	NS	ns1.hyp.net.
 pole-position.gl.	0	IN	NS	ns2.hyp.net.
 pole-position.gl.	0	IN	NS	ns3.hyp.net.
-pole-position.gl.	0	IN	DS	14246 13 2 e2ce383e564448e1b4cc25cad349a7a0a2b5b588e72b07a20f6832e520c5e77e
-pole-position.gl.	0	IN	DS	14246 13 4 2bf39c2536389c9b2e7e9a39190020e4477baf6f160d711cfd9a861bfdd756a4aac52118654ec0bab4143231dc596a29
+pole-position.gl.	0	IN	DS	37971 15 2 580c75800c7fca94b2fc3f1d527e79ac321d59d4fa6cd2aeb2041ceefe0e528a
+pole-position.gl.	0	IN	DS	37971 15 4 d5917c6937902ce23451392406aa15594925f580ac2a5011821f57dc2ae24fb55ec4eaa025a0d4850c7d0b40f1315cb2
 police.gl.	0	IN	NS	udns1.cscdns.net.
 police.gl.	0	IN	NS	udns2.cscdns.uk.
 politi.gl.	0	IN	NS	a.hosting.gl.
@@ -19293,8 +19299,6 @@ tysc.gl.	0	IN	NS	amber.ns.cloudflare.com.
 tysc.gl.	0	IN	NS	simon.ns.cloudflare.com.
 tz.gl.	0	IN	NS	ns1.wnokta.com.
 tz.gl.	0	IN	NS	ns2.wnokta.com.
-ua.gl.	0	IN	NS	logan.ns.cloudflare.com.
-ua.gl.	0	IN	NS	cheryl.ns.cloudflare.com.
 ub.gl.	0	IN	NS	clcp1.nibsdns.com.
 ub.gl.	0	IN	NS	clcp2.nibsdns.com.
 ub.gl.	0	IN	NS	clcp3.nibsdns.com.
@@ -20578,8 +20582,8 @@ xomg.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 xoo.gl.	0	IN	NS	ns1.hyp.net.
 xoo.gl.	0	IN	NS	ns2.hyp.net.
 xoo.gl.	0	IN	NS	ns3.hyp.net.
-xoo.gl.	0	IN	DS	29048 13 2 7db8bee203e6d92d86468fae057673dd0e0abdbdcd547c7c064fbd695fca8929
-xoo.gl.	0	IN	DS	29048 13 4 cd2cbeacf2b24e9a2e177c86fb01f1a895ff6a4c977701df34f316cf48d41a38b906814ebcfedd4bef762bf41dd1f1bd
+xoo.gl.	0	IN	DS	8441 15 2 55b727e3110c2ce40ae88e37f98f2f260042f70c2592b7656b598b13c9ff40e8
+xoo.gl.	0	IN	DS	8441 15 4 b173f77e56b9eb67788edc077599acbbc2c02b8d8b4c86370c0a7c0f9d00d8d611cccd037efc288e9b87db3c4c6709f1
 xoom.gl.	0	IN	NS	ns1.markmonitor.com.
 xoom.gl.	0	IN	NS	ns2.markmonitor.com.
 xoom.gl.	0	IN	NS	ns3.markmonitor.com.

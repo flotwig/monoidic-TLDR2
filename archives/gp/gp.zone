@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025041718 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025042314 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1041,6 +1041,9 @@ cart-in.gp.	0	IN	NS	dana.ns.cloudflare.com.
 cart-in.gp.	0	IN	NS	quincy.ns.cloudflare.com.
 cartegrise.gp.	0	IN	NS	ns1.dns-parking.com.
 cartegrise.gp.	0	IN	NS	ns2.dns-parking.com.
+cartin.gp.	0	IN	NS	ns1.netim.net.
+cartin.gp.	0	IN	NS	ns2.netim.net.
+cartin.gp.	0	IN	NS	ns3.netim.net.
 carwiz.gp.	0	IN	NS	dns1.hostingcentar.com.
 carwiz.gp.	0	IN	NS	dns2.hostingcentar.com.
 casbt.gp.	0	IN	NS	ns1-gp.mediaserv.net.
@@ -5033,9 +5036,9 @@ tinderselect.gp.	0	IN	NS	ns1.markmonitor.com.
 tinderselect.gp.	0	IN	NS	ns3.markmonitor.com.
 tinkoff.gp.	0	IN	NS	ns4-l2.nic.ru.
 tinkoff.gp.	0	IN	NS	ns8-l2.nic.ru.
-tipiak.gp.	0	IN	NS	ns1.imcr.io.
-tipiak.gp.	0	IN	NS	ns2.imcr.io.
-tipiak.gp.	0	IN	NS	ns3.imcr.io.
+tipiak.gp.	0	IN	NS	nsa.perf1.fr.
+tipiak.gp.	0	IN	NS	nsb.perf1.com.
+tipiak.gp.	0	IN	NS	nsc.perf1.com.
 titiri.gp.	0	IN	NS	ns105.ovh.net.
 titiri.gp.	0	IN	NS	dns105.ovh.net.
 tllppy.gp.	0	IN	NS	cora.ns.cloudflare.com.
