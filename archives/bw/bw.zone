@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042423 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042524 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1745535905"
+bw.	0	IN	TXT	"Generation Time: 1745622012"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -1267,8 +1267,8 @@ advantech.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 advantech.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 advcloudsol.co.bw.	0	IN	NS	ns1.debunked.website.
 advcloudsol.co.bw.	0	IN	NS	ns2.debunked.website.
-advcraigchambers.co.bw.	0	IN	NS	ns1.tswanadomains.xyz.
-advcraigchambers.co.bw.	0	IN	NS	ns2.tswanadomains.xyz.
+advcraigchambers.co.bw.	0	IN	NS	ns1.maranyane.digital.
+advcraigchambers.co.bw.	0	IN	NS	ns2.maranyane.digital.
 advenergy.co.bw.	0	IN	NS	ns1.cp-3.webhostbox.net.
 advenergy.co.bw.	0	IN	NS	ns2.cp-3.webhostbox.net.
 advertise.co.bw.	0	IN	NS	ns1.signarite.com.
@@ -9118,6 +9118,8 @@ ed-ga.co.bw.	0	IN	NS	ns2.botsnet.bw.
 ed-ga.co.bw.	0	IN	NS	ns3.botsnet.bw.
 edbrands.co.bw.	0	IN	NS	rs59a.registrar-servers.com.
 edbrands.co.bw.	0	IN	NS	rs59b.registrar-servers.com.
+edcarpenters.co.bw.	0	IN	NS	ns1.dns-parking.com.
+edcarpenters.co.bw.	0	IN	NS	ns2.dns-parking.com.
 edden.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
 edden.co.bw.	0	IN	NS	dns02.concerotel.net.bw.
 edelman.co.bw.	0	IN	NS	ns1.markmonitor.com.
@@ -15964,6 +15966,9 @@ lancone.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 lancone.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 landbuilders.co.bw.	0	IN	NS	ns1.tswanadomains.xyz.
 landbuilders.co.bw.	0	IN	NS	ns2.tswanadomains.xyz.
+landlautotech.co.bw.	0	IN	NS	ns1.dreamhost.com.
+landlautotech.co.bw.	0	IN	NS	ns2.dreamhost.com.
+landlautotech.co.bw.	0	IN	NS	ns3.dreamhost.com.
 landmark.co.bw.	0	IN	NS	carl.ns.cloudflare.com.
 landmark.co.bw.	0	IN	NS	sneh.ns.cloudflare.com.
 landmarkconsult.co.bw.	0	IN	NS	ns1.md-uk-3.webhostbox.net.
@@ -18293,8 +18298,8 @@ mercedes-benz.co.bw.	0	IN	NS	ns1.corpinter.net.
 mercedes-benz.co.bw.	0	IN	NS	ns2.corpinter.de.
 mercedes-benz.co.bw.	0	IN	NS	ns3.corpinter.net.
 mercedes-benz.co.bw.	0	IN	NS	ns4.corpinter.de.
-merchantaisle.co.bw.	0	IN	NS	ns1.tswanadomains.xyz.
-merchantaisle.co.bw.	0	IN	NS	ns2.tswanadomains.xyz.
+merchantaisle.co.bw.	0	IN	NS	ns1.maranyane.digital.
+merchantaisle.co.bw.	0	IN	NS	ns2.maranyane.digital.
 merchantwest.co.bw.	0	IN	NS	ns1.dns-h.com.
 merchantwest.co.bw.	0	IN	NS	ns1.host-h.net.
 merchantwest.co.bw.	0	IN	NS	ns2.dns-h.com.
@@ -23501,6 +23506,8 @@ pulapower.co.bw.	0	IN	NS	ns8001.hostgator.com.
 pulapower.co.bw.	0	IN	NS	ns8002.hostgator.com.
 pulaprecision.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 pulaprecision.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
+pulapreschool.co.bw.	0	IN	NS	ns1.supercp.com.
+pulapreschool.co.bw.	0	IN	NS	ns2.supercp.com.
 pulapress.co.bw.	0	IN	NS	ns7.shared-servers.com.
 pulapress.co.bw.	0	IN	NS	ns8.shared-servers.com.
 pulariver.co.bw.	0	IN	NS	ns1.debunked.website.
@@ -28007,6 +28014,8 @@ tdc.co.bw.	0	IN	NS	ns1.dns-h.com.
 tdc.co.bw.	0	IN	NS	ns1.host-h.net.
 tdc.co.bw.	0	IN	NS	ns2.dns-h.com.
 tdc.co.bw.	0	IN	NS	ns2.host-h.net.
+tdserver.co.bw.	0	IN	NS	ns1.tdserver.us.
+tdserver.co.bw.	0	IN	NS	ns2.tdserver.us.
 team.co.bw.	0	IN	NS	ole.nconnect.co.bw.
 team.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 teamagencies.co.bw.	0	IN	NS	ns1.eco-dns.co.uk.
@@ -31121,8 +31130,8 @@ willgold.co.bw.	0	IN	NS	rs73a.registrar-servers.com.
 willgold.co.bw.	0	IN	NS	rs73b.registrar-servers.com.
 williamlastkrm.co.bw.	0	IN	NS	ns216.cloudwebhosting.com.
 williamlastkrm.co.bw.	0	IN	NS	ns217.cloudwebhosting.com.
-williamsattorneys.co.bw.	0	IN	NS	ns1.debunked.website.
-williamsattorneys.co.bw.	0	IN	NS	ns2.debunked.website.
+williamsattorneys.co.bw.	0	IN	NS	ns1.tswanadomains.xyz.
+williamsattorneys.co.bw.	0	IN	NS	ns2.tswanadomains.xyz.
 willpower.co.bw.	0	IN	NS	ns1.debunked.website.
 willpower.co.bw.	0	IN	NS	ns2.debunked.website.
 willpower.co.bw.	0	IN	NS	ns3.debunked.website.
@@ -33532,6 +33541,8 @@ vivoenergy.org.bw.	0	IN	NS	pdns83.ultradns.net.
 vivoenergy.org.bw.	0	IN	NS	pdns83.ultradns.org.
 voiceofgrace.org.bw.	0	IN	NS	ns1.sh004.webhostbox.net.
 voiceofgrace.org.bw.	0	IN	NS	ns2.sh004.webhostbox.net.
+vop.org.bw.	0	IN	NS	ns1.bwdomains.co.bw.
+vop.org.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 wfhb.org.bw.	0	IN	NS	ns3.asurahosting.com.
 wfhb.org.bw.	0	IN	NS	ns4.asurahosting.com.
 wildbirdtrust.org.bw.	0	IN	NS	ns1.dns-h.com.
@@ -33581,7 +33592,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1745535945"
+ote.bw.	0	IN	TXT	"Generation Time: 1745622056"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

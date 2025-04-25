@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163067 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163125 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -450,8 +450,8 @@ a5.gl.	0	IN	NS	fish.ns.cloudflare.com.
 a5.gl.	0	IN	NS	igor.ns.cloudflare.com.
 aa.gl.	0	IN	NS	dns1.cscdns.net.
 aa.gl.	0	IN	NS	dns2.cscdns.net.
-aaa.gl.	0	IN	NS	a11.share-dns.com.
-aaa.gl.	0	IN	NS	b11.share-dns.net.
+aaa.gl.	0	IN	NS	alla.ns.cloudflare.com.
+aaa.gl.	0	IN	NS	owen.ns.cloudflare.com.
 aac.gl.	0	IN	NS	ns1.dns.services.
 aac.gl.	0	IN	NS	ns2.dns.services.
 aac.gl.	0	IN	NS	ns3.dns.services.
@@ -4539,6 +4539,9 @@ docs.gl.	0	IN	NS	ns3.epik.com.
 docs.gl.	0	IN	NS	ns4.epik.com.
 doctolib.gl.	0	IN	NS	dns1.cscdns.net.
 doctolib.gl.	0	IN	NS	dns2.cscdns.net.
+doctor.gl.	0	IN	NS	ns1.netim.net.
+doctor.gl.	0	IN	NS	ns2.netim.net.
+doctor.gl.	0	IN	NS	ns3.netim.net.
 docusign.gl.	0	IN	NS	ns1.markmonitor.com.
 docusign.gl.	0	IN	NS	ns3.markmonitor.com.
 dog.gl.	0	IN	NS	laura.ns.cloudflare.com.
@@ -6176,6 +6179,9 @@ frontrunneroutfitters.gl.	0	IN	NS	sofia.ns.cloudflare.com.
 fru.gl.	0	IN	NS	ns1.netim.net.
 fru.gl.	0	IN	NS	ns2.netim.net.
 fru.gl.	0	IN	NS	ns3.netim.net.
+fruit.gl.	0	IN	NS	ns1.netim.net.
+fruit.gl.	0	IN	NS	ns2.netim.net.
+fruit.gl.	0	IN	NS	ns3.netim.net.
 fs.gl.	0	IN	NS	ns1.digitalocean.com.
 fs.gl.	0	IN	NS	ns2.digitalocean.com.
 fs.gl.	0	IN	NS	ns3.digitalocean.com.
@@ -6727,8 +6733,6 @@ go2.gl.	0	IN	NS	trace.ns.cloudflare.com.
 go2.gl.	0	IN	NS	gracie.ns.cloudflare.com.
 goallover.gl.	0	IN	NS	ns1.markmonitor.com.
 goallover.gl.	0	IN	NS	ns3.markmonitor.com.
-goat.gl.	0	IN	NS	lindsey.ns.cloudflare.com.
-goat.gl.	0	IN	NS	anderson.ns.cloudflare.com.
 gob.gl.	0	IN	NS	ns1.dandydns.com.
 gob.gl.	0	IN	NS	ns2.dandydns.com.
 gob.gl.	0	IN	NS	ns3.dandydns.com.
@@ -11569,8 +11573,8 @@ maplesoft.gl.	0	IN	NS	ns4.netim.net.
 maplesoft.gl.	0	IN	NS	ns5.netim.net.
 marcasparaganado.gl.	0	IN	NS	ns1.as3sorait.com.
 marcasparaganado.gl.	0	IN	NS	ns2.as3sorait.com.
-maritim.gl.	0	IN	NS	ns01.one.com.
-maritim.gl.	0	IN	NS	ns02.one.com.
+maritim.gl.	0	IN	NS	ns1.curanet.dk.
+maritim.gl.	0	IN	NS	ns2.curanet.dk.
 mark.gl.	0	IN	NS	art.ns.cloudflare.com.
 mark.gl.	0	IN	NS	raegan.ns.cloudflare.com.
 mark-six.gl.	0	IN	NS	ns1.dnscu.com.
@@ -11667,8 +11671,8 @@ mastervolt.gl.	0	IN	DS	22386 13 4 b74b0622da99430376b814738fa5fed8cebb372dd846e7
 mat.gl.	0	IN	NS	ns-209-a.gandi.net.
 mat.gl.	0	IN	NS	ns-210-c.gandi.net.
 mat.gl.	0	IN	NS	ns-217-b.gandi.net.
-matas.gl.	0	IN	NS	ns01.one.com.
-matas.gl.	0	IN	NS	ns02.one.com.
+matas.gl.	0	IN	NS	ns1.curanet.dk.
+matas.gl.	0	IN	NS	ns2.curanet.dk.
 match-affinity.gl.	0	IN	NS	ns1.markmonitor.com.
 match-affinity.gl.	0	IN	NS	ns3.markmonitor.com.
 matchaffinity.gl.	0	IN	NS	ns1.markmonitor.com.
@@ -12914,8 +12918,8 @@ nattoralinnguaq.gl.	0	IN	NS	ns3.simply.com.
 nattoralinnguaq.gl.	0	IN	NS	ns4.simply.com.
 nattoralinnguaq.gl.	0	IN	DS	11895 13 2 b820056e8c059ca50cd14f55e1d831f32f47d4e1377977e80a4c39e74b69abda
 nattoralinnguaq.gl.	0	IN	DS	11895 13 4 113199ef509b16d93cdcf7ba7de2f5e65ebf684e3362b084eba9bf6467c9f4ddb5af6044dd1245dbc148a929c1f26ff3
-natur.gl.	0	IN	NS	ns01.one.com.
-natur.gl.	0	IN	NS	ns02.one.com.
+natur.gl.	0	IN	NS	ns1.curanet.dk.
+natur.gl.	0	IN	NS	ns2.curanet.dk.
 naturalhemplife.gl.	0	IN	NS	ns1.hyp.net.
 naturalhemplife.gl.	0	IN	NS	ns2.hyp.net.
 naturalhemplife.gl.	0	IN	NS	ns3.hyp.net.
@@ -14273,8 +14277,6 @@ omgomgshop4.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgomgshop4.gl.	0	IN	NS	diana.ns.cloudflare.com.
 omgomgstore.gl.	0	IN	NS	thomas.ns.cloudflare.com.
 omgomgstore.gl.	0	IN	NS	gabriella.ns.cloudflare.com.
-omgomgx.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-omgomgx.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 omgomgzzz.gl.	0	IN	NS	eleanor.ns.cloudflare.com.
 omgomgzzz.gl.	0	IN	NS	santino.ns.cloudflare.com.
 omgpwa.gl.	0	IN	NS	eu.atakdomain.com.
@@ -14286,8 +14288,6 @@ omgshop4.gl.	0	IN	NS	diana.ns.cloudflare.com.
 omgshop5.gl.	0	IN	NS	ns1.regery.net.
 omgshop5.gl.	0	IN	NS	ns2.regery.net.
 omgshop5.gl.	0	IN	NS	ns3.regery.net.
-omgshopx.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-omgshopx.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 omgshopzzz.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgshopzzz.gl.	0	IN	NS	diana.ns.cloudflare.com.
 omgstore.gl.	0	IN	NS	thomas.ns.cloudflare.com.
@@ -14314,14 +14314,8 @@ omgto8.gl.	0	IN	NS	eva.ns.cloudflare.com.
 omgto8.gl.	0	IN	NS	keanu.ns.cloudflare.com.
 omgto9.gl.	0	IN	NS	eva.ns.cloudflare.com.
 omgto9.gl.	0	IN	NS	keanu.ns.cloudflare.com.
-omgx1.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-omgx1.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 omgx3.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgx3.gl.	0	IN	NS	diana.ns.cloudflare.com.
-omgxomg.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-omgxomg.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
-omgxshop.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-omgxshop.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 omgxxx.gl.	0	IN	NS	dexter.ns.cloudflare.com.
 omgxxx.gl.	0	IN	NS	kimora.ns.cloudflare.com.
 omgz.gl.	0	IN	NS	eleanor.ns.cloudflare.com.
@@ -15871,8 +15865,8 @@ qussuk.gl.	0	IN	NS	d.hosting.gl.
 qv.gl.	0	IN	NS	ns1.hyp.net.
 qv.gl.	0	IN	NS	ns2.hyp.net.
 qv.gl.	0	IN	NS	ns3.hyp.net.
-qv.gl.	0	IN	DS	5345 13 2 53e56ad6919cba303db2dcdfb70a2b46ab692d79132d6c5dd6e810c6b64f53c2
-qv.gl.	0	IN	DS	5345 13 4 b3991aefafbc68657818b49c1087b3ab352f9d985f4810a0bee53e84dc5273407747611c1a23116bc68c0d49dd49387d
+qv.gl.	0	IN	DS	36003 15 2 adf0fd973973d790960750b233eebaa4054c7be255311abdc5e4edacf7224df0
+qv.gl.	0	IN	DS	36003 15 4 368c9ae18822d76ddd8b1061f8f649d175e6188b4322729865c82094b54d07fce80287041285546c0bb440e6781b53a9
 qvist.gl.	0	IN	NS	a.hosting.gl.
 qvist.gl.	0	IN	NS	b.hosting.gl.
 qvist.gl.	0	IN	NS	c.hosting.gl.
@@ -19376,6 +19370,9 @@ ugeavisen.gl.	0	IN	NS	ns2.modulo.gl.
 ugeavisen.gl.	0	IN	NS	ns3.modulo.gl.
 uh.gl.	0	IN	NS	kyrie.ns.cloudflare.com.
 uh.gl.	0	IN	NS	venus.ns.cloudflare.com.
+ui.gl.	0	IN	NS	ns1.netim.net.
+ui.gl.	0	IN	NS	ns2.netim.net.
+ui.gl.	0	IN	NS	ns3.netim.net.
 uilu.gl.	0	IN	NS	ns1.gigahost.dk.
 uilu.gl.	0	IN	NS	ns2.gigahost.dk.
 ujaasivoq.gl.	0	IN	NS	ns1.dreamhost.com.
@@ -19636,6 +19633,9 @@ vanderspie.gl.	0	IN	NS	ajay.ns.cloudflare.com.
 vanderspie.gl.	0	IN	NS	fiona.ns.cloudflare.com.
 vanja.gl.	0	IN	NS	pns.atznet.dk.
 vanja.gl.	0	IN	NS	sns.atznet.dk.
+vault.gl.	0	IN	NS	ns1.netim.net.
+vault.gl.	0	IN	NS	ns2.netim.net.
+vault.gl.	0	IN	NS	ns3.netim.net.
 vb.gl.	0	IN	NS	ns-454.awsdns-56.com.
 vb.gl.	0	IN	NS	ns-761.awsdns-31.net.
 vb.gl.	0	IN	NS	ns-1155.awsdns-16.org.
@@ -20582,8 +20582,6 @@ xo.gl.	0	IN	NS	a.hosting.gl.
 xo.gl.	0	IN	NS	b.hosting.gl.
 xo.gl.	0	IN	NS	c.hosting.gl.
 xo.gl.	0	IN	NS	d.hosting.gl.
-xomg.gl.	0	IN	NS	aragorn.ns.cloudflare.com.
-xomg.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 xoo.gl.	0	IN	NS	ns1.hyp.net.
 xoo.gl.	0	IN	NS	ns2.hyp.net.
 xoo.gl.	0	IN	NS	ns3.hyp.net.
