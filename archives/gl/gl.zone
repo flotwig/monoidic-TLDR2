@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163125 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163182 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -323,6 +323,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 52.gl.	0	IN	NS	uns02.lolipop.jp.
 55.gl.	0	IN	NS	ns1.dns.com.
 55.gl.	0	IN	NS	ns2.dns.com.
+555.gl.	0	IN	NS	a2.share-dns.com.
+555.gl.	0	IN	NS	b2.share-dns.net.
 588.gl.	0	IN	NS	v1s1.xundns.com.
 588.gl.	0	IN	NS	v1s2.xundns.com.
 5a.gl.	0	IN	NS	ns1.systemdns.com.
@@ -1320,8 +1322,8 @@ apollo.gl.	0	IN	NS	ns.udag.org.
 apomed.gl.	0	IN	NS	ns1.hyp.net.
 apomed.gl.	0	IN	NS	ns2.hyp.net.
 apomed.gl.	0	IN	NS	ns3.hyp.net.
-apomed.gl.	0	IN	DS	63444 13 2 613e9d745a2c9ed82cffbd82b548d163389297b2587f913bf9e4ec6424e88d6f
-apomed.gl.	0	IN	DS	63444 13 4 821650d12076dbb81615b77f476d4659987797f842cd75fda790db45e27be305a364bedbc809e3cba37bdf89be44e19e
+apomed.gl.	0	IN	DS	25963 15 2 3710869e77f34d855c347b416f665b256f307941a5e73f5c637c143afc55fdd1
+apomed.gl.	0	IN	DS	25963 15 4 e2861ee7ac787c4b467d07f6e6420cff8c6ba7b26974e20d19d3bc347e14e5dbb42d4118e302530abb5ccd1e9d5c327c
 app.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 app.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 app-taxa.gl.	0	IN	NS	a.hosting.gl.
@@ -1948,9 +1950,6 @@ aus-g4s.gl.	0	IN	NS	ns1.101domain.com.
 aus-g4s.gl.	0	IN	NS	ns2.101domain.com.
 ausecurity.gl.	0	IN	NS	ns1.101domain.com.
 ausecurity.gl.	0	IN	NS	ns2.101domain.com.
-auth.gl.	0	IN	NS	ns1.netim.net.
-auth.gl.	0	IN	NS	ns2.netim.net.
-auth.gl.	0	IN	NS	ns3.netim.net.
 autisme.gl.	0	IN	NS	ns1.unoeuro.com.
 autisme.gl.	0	IN	NS	ns2.unoeuro.com.
 autisme.gl.	0	IN	NS	ns3.unoeuro.com.
@@ -3777,6 +3776,10 @@ code.gl.	0	IN	NS	alina.ns.cloudflare.com.
 code.gl.	0	IN	NS	peyton.ns.cloudflare.com.
 code-bureau.gl.	0	IN	NS	ns1.messagingengine.com.
 code-bureau.gl.	0	IN	NS	ns2.messagingengine.com.
+coffee.gl.	0	IN	NS	a.hosting.gl.
+coffee.gl.	0	IN	NS	b.hosting.gl.
+coffee.gl.	0	IN	NS	c.hosting.gl.
+coffee.gl.	0	IN	NS	d.hosting.gl.
 cogc.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 cogc.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 cohen.gl.	0	IN	NS	a.hosting.gl.
@@ -3853,8 +3856,8 @@ compute.gl.	0	IN	NS	ns-1239.awsdns-26.org.
 compute.gl.	0	IN	NS	ns-1894.awsdns-44.co.uk.
 computer.gl.	0	IN	NS	ns.checkdomain.de.
 computer.gl.	0	IN	NS	ns2.checkdomain.de.
-computerfit.gl.	0	IN	NS	ns.checkdomain.de.
-computerfit.gl.	0	IN	NS	ns2.checkdomain.de.
+computerfit.gl.	0	IN	NS	ns13.jimdo.com.
+computerfit.gl.	0	IN	NS	ns14.jimdo.com.
 con.gl.	0	IN	NS	ns1.bodis.com.
 con.gl.	0	IN	NS	ns2.bodis.com.
 conference.gl.	0	IN	NS	ns1.hosting.inuit.gl.
@@ -5119,10 +5122,8 @@ emanuel.gl.	0	IN	NS	ns1.aputit.gl.
 emanuel.gl.	0	IN	NS	ns2.aputit.gl.
 emanuel.gl.	0	IN	NS	ns3.aputit.gl.
 emanuel.gl.	0	IN	NS	ns4.aputit.gl.
-emi.gl.	0	IN	NS	aaron.ns.cloudflare.com.
-emi.gl.	0	IN	NS	aisha.ns.cloudflare.com.
-emi.gl.	0	IN	NS	marek.ns.cloudflare.com.
-emi.gl.	0	IN	NS	nucum.ns.cloudflare.com.
+emi.gl.	0	IN	NS	cleo.ns.cloudflare.com.
+emi.gl.	0	IN	NS	christina.ns.cloudflare.com.
 emiliano.gl.	0	IN	NS	liz.ns.cloudflare.com.
 emiliano.gl.	0	IN	NS	jobs.ns.cloudflare.com.
 emilien.gl.	0	IN	NS	ns1.messagingengine.com.
@@ -6565,8 +6566,6 @@ giochipreziosi.gl.	0	IN	NS	ns1.register.it.
 giochipreziosi.gl.	0	IN	NS	ns2.register.it.
 gip.gl.	0	IN	NS	dns.gipuzkoa.net.
 gip.gl.	0	IN	NS	dns2.gipuzkoa.net.
-girl.gl.	0	IN	NS	ns1.dan.com.
-girl.gl.	0	IN	NS	ns2.dan.com.
 git.gl.	0	IN	NS	1-you.njalla.no.
 git.gl.	0	IN	NS	2-can.njalla.in.
 git.gl.	0	IN	NS	3-get.njalla.fo.
@@ -6807,6 +6806,8 @@ googlemaps.gl.	0	IN	NS	ns3.markmonitor.com.
 gool.gl.	0	IN	NS	ns1.netim.net.
 gool.gl.	0	IN	NS	ns2.netim.net.
 gool.gl.	0	IN	NS	ns3.netim.net.
+goon.gl.	0	IN	NS	elmo.ns.cloudflare.com.
+goon.gl.	0	IN	NS	fish.ns.cloudflare.com.
 gooo.gl.	0	IN	NS	ns1.markmonitor.com.
 gooo.gl.	0	IN	NS	ns2.markmonitor.com.
 goooo.gl.	0	IN	NS	ns1.markmonitor.com.
@@ -14121,6 +14122,10 @@ odme.gl.	0	IN	NS	ns1a.dodns.net.
 odme.gl.	0	IN	NS	ns2a.dodns.net.
 of.gl.	0	IN	NS	ns5.private-nameserver.net.
 of.gl.	0	IN	NS	ns6.private-nameserver.net.
+offgrid.gl.	0	IN	NS	ns1.simply.com.
+offgrid.gl.	0	IN	NS	ns2.simply.com.
+offgrid.gl.	0	IN	NS	ns3.simply.com.
+offgrid.gl.	0	IN	DS	61003 13 2 cfe978fe069cad4465371d765d8a65469f877cd6bf8c998b96064d50fae52096
 offset.gl.	0	IN	NS	a.hosting.gl.
 offset.gl.	0	IN	NS	b.hosting.gl.
 offset.gl.	0	IN	NS	c.hosting.gl.
@@ -17857,11 +17862,6 @@ steuerberatung.gl.	0	IN	NS	ns2.espectrum.de.
 steuerberatung.gl.	0	IN	NS	ns3.espectrum.de.
 steuern.gl.	0	IN	NS	ns91.tophost.ch.
 steuern.gl.	0	IN	NS	ns92.tophost.ch.
-stick.gl.	0	IN	NS	ns1.simply.com.
-stick.gl.	0	IN	NS	ns2.simply.com.
-stick.gl.	0	IN	NS	ns3.simply.com.
-stick.gl.	0	IN	DS	15243 13 2 62699ac23b4381a881d44c44c211e055c191855d91cbf21ced960051bf9c21e0
-stick.gl.	0	IN	DS	15243 13 4 3fdff376e32f1d5696eb1cfd8658c5fb939ccb36d1d9e0c86ece82291cf7bf488f49b65d1eec09d8d69670c57066fddc
 stie.gl.	0	IN	NS	ns1.netzpionier.at.
 stie.gl.	0	IN	NS	ns2.netzpionier.at.
 stie.gl.	0	IN	NS	ns3.netzpionier.at.
@@ -19627,8 +19627,8 @@ valg.gl.	0	IN	NS	ns1-07.azure-dns.com.
 valg.gl.	0	IN	NS	ns1-07.azure-dns.net.
 valg.gl.	0	IN	NS	ns1-07.azure-dns.org.
 valg.gl.	0	IN	NS	ns1-07.azure-dns.info.
-van.gl.	0	IN	NS	ns1-coming-soon.sav.com.
-van.gl.	0	IN	NS	ns2-coming-soon.sav.com.
+van.gl.	0	IN	NS	lucy.ns.cloudflare.com.
+van.gl.	0	IN	NS	will.ns.cloudflare.com.
 vanderspie.gl.	0	IN	NS	ajay.ns.cloudflare.com.
 vanderspie.gl.	0	IN	NS	fiona.ns.cloudflare.com.
 vanja.gl.	0	IN	NS	pns.atznet.dk.
@@ -19853,8 +19853,6 @@ visiobox.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 visiondirect.gl.	0	IN	NS	ns1.101domain.com.
 visiondirect.gl.	0	IN	NS	ns2.101domain.com.
 visiondirect.gl.	0	IN	NS	ns5.101domain.com.
-visit.gl.	0	IN	NS	ns1.dan.com.
-visit.gl.	0	IN	NS	ns2.dan.com.
 visiteastgreenland.gl.	0	IN	NS	ns01.trademarkarea.com.
 visiteastgreenland.gl.	0	IN	NS	ns02.trademarkarea.com.
 visiteastgreenland.gl.	0	IN	NS	ns03.trademarkarea.com.
