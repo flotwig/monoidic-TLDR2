@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042624 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025042724 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1745704847"
+bw.	0	IN	TXT	"Generation Time: 1745791255"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -2138,8 +2138,8 @@ ame.co.bw.	0	IN	NS	ns2.contabo.net.
 ame.co.bw.	0	IN	NS	ns3.contabo.net.
 ameavenues.co.bw.	0	IN	NS	ns391.websitewelcome.com.
 ameavenues.co.bw.	0	IN	NS	ns392.websitewelcome.com.
-amec.co.bw.	0	IN	NS	cdns1.webmart.co.bw.
-amec.co.bw.	0	IN	NS	cdns2.webmart.co.bw.
+amec.co.bw.	0	IN	NS	ns1.botshosting.co.za.
+amec.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 americanswiss.co.bw.	0	IN	NS	ns1.lexsynergy.net.
 americanswiss.co.bw.	0	IN	NS	ns2.lexsynergy.us.
 americanswiss.co.bw.	0	IN	NS	ns3.lexsynergy.info.
@@ -8898,8 +8898,8 @@ eadvertiser.co.bw.	0	IN	NS	ns1.signarite.com.
 eadvertiser.co.bw.	0	IN	NS	ns2.signarite.com.
 eaglebotswana.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 eaglebotswana.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-eagleprosthetics.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
-eagleprosthetics.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
+eagleprosthetics.co.bw.	0	IN	NS	jasper.ns.cloudflare.com.
+eagleprosthetics.co.bw.	0	IN	NS	simone.ns.cloudflare.com.
 eaglepunchsecurities.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 eaglepunchsecurities.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 eaglepunchsecurities.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -12143,6 +12143,10 @@ goget.co.bw.	0	IN	NS	ns1.mws.co.bw.
 goget.co.bw.	0	IN	NS	ns2.mws.co.bw.
 goimus.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 goimus.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+golaventuresbotswana.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
+golaventuresbotswana.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
+golaventuresbotswana.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
+golaventuresbotswana.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
 goldale.co.bw.	0	IN	NS	ns216.cloudwebhosting.com.
 goldale.co.bw.	0	IN	NS	ns217.cloudwebhosting.com.
 golddeals.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
@@ -26212,7 +26216,10 @@ simplenet.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 simplenet.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 simplenet.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 simplenet.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
-simplenotes.co.bw.	0	IN	NS	chimbise.github.io.
+simplenotes.co.bw.	0	IN	NS	ns-220.awsdns-27.com.
+simplenotes.co.bw.	0	IN	NS	ns-783.awsdns-33.net.
+simplenotes.co.bw.	0	IN	NS	ns-1523.awsdns-62.org.
+simplenotes.co.bw.	0	IN	NS	ns-1973.awsdns-54.co.uk.
 simpleskills.co.bw.	0	IN	NS	ns01.gcsat.co.bw.
 simpleskills.co.bw.	0	IN	NS	ns02.gcsat.co.bw.
 simplesolutions.co.bw.	0	IN	NS	ns1.eco-dns.co.uk.
@@ -26566,12 +26573,8 @@ sms.co.bw.	0	IN	NS	ns3.supercp.com.
 sms.co.bw.	0	IN	NS	ns4.supercp.com.
 smsglobal.co.bw.	0	IN	NS	ns8001.hostgator.com.
 smsglobal.co.bw.	0	IN	NS	ns8002.hostgator.com.
-smsjinvestments.co.bw.	0	IN	NS	ns.bnamed.eu.
-smsjinvestments.co.bw.	0	IN	NS	ns.bnamed.uk.
-smsjinvestments.co.bw.	0	IN	NS	ns.bnamed.us.
-smsjinvestments.co.bw.	0	IN	NS	ns.nscluster.gr.
-smsjinvestments.co.bw.	0	IN	NS	ns.nscluster.no.
-smsjinvestments.co.bw.	0	IN	DS	41988 13 2 7fc156b0fa0f0d60d00a9a01037c06498bc5100169735529e76a43082c72589c
+smsjinvestments.co.bw.	0	IN	NS	tmp.nscluster.eu.
+smsjinvestments.co.bw.	0	IN	NS	tmp.nscluster.us.
 smwkkks.co.bw.	0	IN	NS	sid.ns.cloudflare.com.
 smwkkks.co.bw.	0	IN	NS	adrian.ns.cloudflare.com.
 snackbox.co.bw.	0	IN	NS	opqns1.opqnet.net.
@@ -33593,7 +33596,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1745704886"
+ote.bw.	0	IN	TXT	"Generation Time: 1745791295"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

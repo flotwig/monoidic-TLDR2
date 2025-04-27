@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163182 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163240 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -323,8 +323,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 52.gl.	0	IN	NS	uns02.lolipop.jp.
 55.gl.	0	IN	NS	ns1.dns.com.
 55.gl.	0	IN	NS	ns2.dns.com.
-555.gl.	0	IN	NS	a2.share-dns.com.
-555.gl.	0	IN	NS	b2.share-dns.net.
+555.gl.	0	IN	NS	alla.ns.cloudflare.com.
+555.gl.	0	IN	NS	owen.ns.cloudflare.com.
 588.gl.	0	IN	NS	v1s1.xundns.com.
 588.gl.	0	IN	NS	v1s2.xundns.com.
 5a.gl.	0	IN	NS	ns1.systemdns.com.
@@ -4068,9 +4068,6 @@ cyberspace.gl.	0	IN	NS	ns-205.awsdns-25.com.
 cyberspace.gl.	0	IN	NS	ns-524.awsdns-01.net.
 cyberspace.gl.	0	IN	NS	ns-1264.awsdns-30.org.
 cyberspace.gl.	0	IN	NS	ns-1948.awsdns-51.co.uk.
-cysec.gl.	0	IN	NS	1-you.njalla.no.
-cysec.gl.	0	IN	NS	2-can.njalla.in.
-cysec.gl.	0	IN	NS	3-get.njalla.fo.
 cysmos.gl.	0	IN	NS	ns1.netim.net.
 cysmos.gl.	0	IN	NS	ns2.netim.net.
 cysmos.gl.	0	IN	NS	ns3.netim.net.
@@ -5733,7 +5730,7 @@ fh.gl.	0	IN	NS	ns.udag.org.
 fi.gl.	0	IN	NS	ns1.bb-online.net.
 fi.gl.	0	IN	NS	ns2.bb-online.org.
 fi.gl.	0	IN	NS	ns3.bb-online.info.
-fi.gl.	0	IN	DS	24829 8 2 ad052a83abfc6cb13aa449f73b217cca646fc3866b4136a1e205e0e296c25556
+fi.gl.	0	IN	DS	10261 8 2 987c40f2c2c3316b35bd02c556cd620f241398607a56914a968338dc5ed7dca3
 fiatprofessional.gl.	0	IN	NS	dns1.p09.nsone.net.
 fiatprofessional.gl.	0	IN	NS	dns2.p09.nsone.net.
 fiatprofessional.gl.	0	IN	NS	dns3.p09.nsone.net.
@@ -6579,8 +6576,8 @@ gjob.gl.	0	IN	NS	mxns.peqqik.gl.
 gk.gl.	0	IN	NS	ns1.hyp.net.
 gk.gl.	0	IN	NS	ns2.hyp.net.
 gk.gl.	0	IN	NS	ns3.hyp.net.
-gk.gl.	0	IN	DS	16447 13 2 5613a562d2bf80c5800e77fc54bdfbc55562acdb156cf3a6b517164b42e9f813
-gk.gl.	0	IN	DS	16447 13 4 a66b46660570df45d8fc9564dff60e89aec48654c97ee81fa2e594175e280209a0bdf9a2400d4df25d1f30fef502e7c2
+gk.gl.	0	IN	DS	33086 15 2 fc95c37eed4632c5b2c65964cafddc7ef1c300c2bf03863871a72e2304fbad1f
+gk.gl.	0	IN	DS	33086 15 4 d918e30c1c7f4b8070295299cec0829c910b7b4367a12b8838d20447aae36610cd7dbf05bf0d2e17feca5edeaee2dabe
 gkejendomme.gl.	0	IN	NS	ns1.simply.com.
 gkejendomme.gl.	0	IN	NS	ns2.simply.com.
 gkejendomme.gl.	0	IN	NS	ns3.simply.com.
@@ -11359,9 +11356,6 @@ m3gahide.gl.	0	IN	NS	dax.ns.cloudflare.com.
 m3gahide.gl.	0	IN	NS	zoe.ns.cloudflare.com.
 m3galook.gl.	0	IN	NS	piper.ns.cloudflare.com.
 m3galook.gl.	0	IN	NS	rocco.ns.cloudflare.com.
-m3gat.gl.	0	IN	NS	ns1.disabled.ispapi.net.
-m3gat.gl.	0	IN	NS	ns2.disabled.ispapi.net.
-m3gat.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 m3gaweb2.gl.	0	IN	NS	reese.ns.cloudflare.com.
 m3gaweb2.gl.	0	IN	NS	adaline.ns.cloudflare.com.
 m3gaweb3.gl.	0	IN	NS	reese.ns.cloudflare.com.
@@ -16233,8 +16227,10 @@ ring.gl.	0	IN	NS	ns02.one.com.
 rip.gl.	0	IN	NS	ns3.epik.com.
 rip.gl.	0	IN	NS	ns4.epik.com.
 rip.gl.	0	IN	DS	8659 13 2 303e3cd2885658ae12f50bff10e4a75e92ca5ff3ca54febf53603c61b7c4b780
-ritchielist.gl.	0	IN	NS	ns1.101domain.com.
-ritchielist.gl.	0	IN	NS	ns2.101domain.com.
+ritchielist.gl.	0	IN	NS	ns-140.awsdns-17.com.
+ritchielist.gl.	0	IN	NS	ns-974.awsdns-57.net.
+ritchielist.gl.	0	IN	NS	ns-1224.awsdns-25.org.
+ritchielist.gl.	0	IN	NS	ns-1783.awsdns-30.co.uk.
 rituals.gl.	0	IN	NS	ns1.brandshelter.com.
 rituals.gl.	0	IN	NS	ns2.brandshelter.de.
 rituals.gl.	0	IN	NS	ns3.brandshelter.info.
@@ -17207,10 +17203,8 @@ sisbaad.gl.	0	IN	NS	ns3.nunahosting.net.
 sisbaad.gl.	0	IN	NS	ns4.nunahosting.net.
 sisimiut.gl.	0	IN	NS	ns13.hawkhost.com.
 sisimiut.gl.	0	IN	NS	ns14.hawkhost.com.
-sisimiut-el.gl.	0	IN	NS	ns1.omninet.dk.
-sisimiut-el.gl.	0	IN	NS	ns2.omninet.dk.
-sisimiut-el.gl.	0	IN	NS	ns3.omninet.dk.
-sisimiut-el.gl.	0	IN	NS	ns4.omninet.dk.
+sisimiut-el.gl.	0	IN	NS	ns1.curanet.dk.
+sisimiut-el.gl.	0	IN	NS	ns2.curanet.dk.
 sisimiutfestival.gl.	0	IN	NS	ns1.simply.com.
 sisimiutfestival.gl.	0	IN	NS	ns2.simply.com.
 sisimiutfestival.gl.	0	IN	NS	ns3.simply.com.
@@ -17226,14 +17220,10 @@ sisorartartut.gl.	0	IN	NS	ns1.nunahosting.net.
 sisorartartut.gl.	0	IN	NS	ns2.nunahosting.net.
 sisorartartut.gl.	0	IN	NS	ns3.nunahosting.net.
 sisorartartut.gl.	0	IN	NS	ns4.nunahosting.net.
-sisreno.gl.	0	IN	NS	ns1.aputit.gl.
-sisreno.gl.	0	IN	NS	ns2.aputit.gl.
-sisreno.gl.	0	IN	NS	ns3.aputit.gl.
-sisreno.gl.	0	IN	NS	ns4.aputit.gl.
-sistim.gl.	0	IN	NS	ns1.aputit.gl.
-sistim.gl.	0	IN	NS	ns2.aputit.gl.
-sistim.gl.	0	IN	NS	ns3.aputit.gl.
-sistim.gl.	0	IN	NS	ns4.aputit.gl.
+sisreno.gl.	0	IN	NS	ns1.curanet.dk.
+sisreno.gl.	0	IN	NS	ns2.curanet.dk.
+sistim.gl.	0	IN	NS	ns1.curanet.dk.
+sistim.gl.	0	IN	NS	ns2.curanet.dk.
 sistus.gl.	0	IN	NS	ns-cloud-c1.googledomains.com.
 sistus.gl.	0	IN	NS	ns-cloud-c2.googledomains.com.
 sistus.gl.	0	IN	NS	ns-cloud-c3.googledomains.com.
@@ -17669,10 +17659,8 @@ sps.gl.	0	IN	NS	ns3.simply.com.
 sps.gl.	0	IN	NS	ns4.simply.com.
 sps.gl.	0	IN	DS	17925 13 2 a162bb1a3fcb8c2f1cbcbd5d35e05c24478939cb03226bd62e58f1ece5c5c347
 sps.gl.	0	IN	DS	17925 13 4 828304ffc374e76335667288f89d3c4ac1711905e84bbd7b8beadbd2e50c4ad36a2e2b927f7037066ff08110fb8f544b
-sps-sisimiut.gl.	0	IN	NS	ns1.aputit.gl.
-sps-sisimiut.gl.	0	IN	NS	ns2.aputit.gl.
-sps-sisimiut.gl.	0	IN	NS	ns3.aputit.gl.
-sps-sisimiut.gl.	0	IN	NS	ns4.aputit.gl.
+sps-sisimiut.gl.	0	IN	NS	ns1.curanet.dk.
+sps-sisimiut.gl.	0	IN	NS	ns2.curanet.dk.
 sputnik.gl.	0	IN	NS	dns1.epag.net.
 sputnik.gl.	0	IN	NS	dns2.epag.net.
 sq.gl.	0	IN	NS	ns1.bodis.com.
@@ -17942,10 +17930,8 @@ suialaa.gl.	0	IN	NS	ns2.curanet.dk.
 suila.gl.	0	IN	NS	ns1.modulo.gl.
 suila.gl.	0	IN	NS	ns2.modulo.gl.
 suila.gl.	0	IN	NS	ns3.modulo.gl.
-sukaq.gl.	0	IN	NS	ns1.aputit.gl.
-sukaq.gl.	0	IN	NS	ns2.aputit.gl.
-sukaq.gl.	0	IN	NS	ns3.aputit.gl.
-sukaq.gl.	0	IN	NS	ns4.aputit.gl.
+sukaq.gl.	0	IN	NS	ns1.curanet.dk.
+sukaq.gl.	0	IN	NS	ns2.curanet.dk.
 sukorseq.gl.	0	IN	NS	ns1.supercp.com.
 sukorseq.gl.	0	IN	NS	ns2.supercp.com.
 sukorseq.gl.	0	IN	NS	ns3.supercp.com.
@@ -18307,10 +18293,8 @@ takuss.gl.	0	IN	NS	ns1.eurodns.com.
 takuss.gl.	0	IN	NS	ns2.eurodns.com.
 takuss.gl.	0	IN	NS	ns3.eurodns.com.
 takuss.gl.	0	IN	NS	ns4.eurodns.com.
-tamalaat.gl.	0	IN	NS	ns1.aputit.gl.
-tamalaat.gl.	0	IN	NS	ns2.aputit.gl.
-tamalaat.gl.	0	IN	NS	ns3.aputit.gl.
-tamalaat.gl.	0	IN	NS	ns4.aputit.gl.
+tamalaat.gl.	0	IN	NS	ns1.curanet.dk.
+tamalaat.gl.	0	IN	NS	ns2.curanet.dk.
 tamanut.gl.	0	IN	NS	ns1.modulo.gl.
 tamanut.gl.	0	IN	NS	ns2.modulo.gl.
 tamanut.gl.	0	IN	NS	ns3.modulo.gl.
@@ -18596,6 +18580,7 @@ tg.gl.	0	IN	NS	a.ns.tusass.gl.
 tg.gl.	0	IN	NS	b.ns.tusass.gl.
 tg.gl.	0	IN	NS	adam.ns.cloudflare.com.
 tg.gl.	0	IN	NS	sharon.ns.cloudflare.com.
+tg.gl.	0	IN	DS	2371 13 2 8ab8d3307752fbca6bc8ab81a73ccea98bdede2b3a5666467bd1701d559bcfa1
 tge.gl.	0	IN	NS	adam.ns.cloudflare.com.
 tge.gl.	0	IN	NS	sharon.ns.cloudflare.com.
 tgi.gl.	0	IN	NS	adam.ns.cloudflare.com.
@@ -19490,10 +19475,8 @@ upa.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 upa.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 upernavik.gl.	0	IN	NS	ns1.curanet.dk.
 upernavik.gl.	0	IN	NS	ns2.curanet.dk.
-upernavikvvs.gl.	0	IN	NS	ns1.aputit.gl.
-upernavikvvs.gl.	0	IN	NS	ns2.aputit.gl.
-upernavikvvs.gl.	0	IN	NS	ns3.aputit.gl.
-upernavikvvs.gl.	0	IN	NS	ns4.aputit.gl.
+upernavikvvs.gl.	0	IN	NS	ns1.curanet.dk.
+upernavikvvs.gl.	0	IN	NS	ns2.curanet.dk.
 upi.gl.	0	IN	NS	ns1.simply.com.
 upi.gl.	0	IN	NS	ns2.simply.com.
 upi.gl.	0	IN	NS	ns3.simply.com.
@@ -19937,10 +19920,8 @@ vivendi.gl.	0	IN	NS	obs.ns1.fr.
 vivian.gl.	0	IN	NS	ns1.wordpress.com.
 vivian.gl.	0	IN	NS	ns2.wordpress.com.
 vivian.gl.	0	IN	NS	ns3.wordpress.com.
-vivips.gl.	0	IN	NS	ns1.aputit.gl.
-vivips.gl.	0	IN	NS	ns2.aputit.gl.
-vivips.gl.	0	IN	NS	ns3.aputit.gl.
-vivips.gl.	0	IN	NS	ns4.aputit.gl.
+vivips.gl.	0	IN	NS	ns1.curanet.dk.
+vivips.gl.	0	IN	NS	ns2.curanet.dk.
 vivo.gl.	0	IN	NS	ns1.brandcloudns.com.
 vivo.gl.	0	IN	NS	ns2.brandcloudns.com.
 vivo.gl.	0	IN	NS	ns3.brandcloudns.com.
@@ -19952,6 +19933,8 @@ vl.gl.	0	IN	NS	ns-217.awsdns-27.com.
 vl.gl.	0	IN	NS	ns-1004.awsdns-61.net.
 vl.gl.	0	IN	NS	ns-1272.awsdns-31.org.
 vl.gl.	0	IN	NS	ns-1940.awsdns-50.co.uk.
+vlxx.gl.	0	IN	NS	a10.share-dns.com.
+vlxx.gl.	0	IN	NS	b10.share-dns.net.
 vm.gl.	0	IN	NS	1-you.njalla.no.
 vm.gl.	0	IN	NS	2-can.njalla.in.
 vm.gl.	0	IN	NS	3-get.njalla.fo.
