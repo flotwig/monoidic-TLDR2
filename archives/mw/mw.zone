@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745791501 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745877901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1865,6 +1865,9 @@ fundme.mw.	0	IN	NS	ns1664.websitewelcome.com.
 fxcm.mw.	0	IN	NS	dns1.idp365.net.
 fxcm.mw.	0	IN	NS	dns2.idp365.net.
 fxcm.mw.	0	IN	NS	dns3.idp365.net.
+fxpro.mw.	0	IN	NS	ns01.trademarkarea.com.
+fxpro.mw.	0	IN	NS	ns02.trademarkarea.com.
+fxpro.mw.	0	IN	NS	ns03.trademarkarea.com.
 g.mw.	0	IN	NS	ns1.netim.net.
 g.mw.	0	IN	NS	ns2.netim.net.
 g.mw.	0	IN	NS	ns3.netim.net.
@@ -3417,9 +3420,8 @@ mummysgold.mw.	0	IN	NS	ns1.instradns.com.
 mummysgold.mw.	0	IN	NS	ns2.instradns.com.
 mundo.mw.	0	IN	NS	ns871.websitewelcome.com.
 mundo.mw.	0	IN	NS	ns872.websitewelcome.com.
-museum.mw.	0	IN	NS	a.dnspod.com.
-museum.mw.	0	IN	NS	b.dnspod.com.
-museum.mw.	0	IN	NS	c.dnspod.com.
+museum.mw.	0	IN	NS	ken.ns.cloudflare.com.
+museum.mw.	0	IN	NS	dina.ns.cloudflare.com.
 museume.mw.	0	IN	NS	a.dnspod.com.
 museume.mw.	0	IN	NS	b.dnspod.com.
 museume.mw.	0	IN	NS	c.dnspod.com.
@@ -3576,8 +3578,6 @@ networkappliance.mw.	0	IN	NS	ns1.netnames.net.
 networkappliance.mw.	0	IN	NS	ns2.netnames.net.
 netx.mw.	0	IN	NS	ns7.alidns.com.
 netx.mw.	0	IN	NS	ns8.alidns.com.
-newagesolutions.mw.	0	IN	NS	ns1.newagesolutions.africa.
-newagesolutions.mw.	0	IN	NS	ns2.newagesolutions.africa.
 news.mw.	0	IN	NS	ns1.dyna-ns.net.
 news.mw.	0	IN	NS	ns2.dyna-ns.net.
 newwave.mw.	0	IN	NS	ns1.inmotionhosting.com.
