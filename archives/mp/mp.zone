@@ -178,8 +178,6 @@ anders.mp.	0	IN	NS	ns-420.awsdns-52.com.
 anders.mp.	0	IN	NS	ns-579.awsdns-08.net.
 anders.mp.	0	IN	NS	ns-1153.awsdns-16.org.
 anders.mp.	0	IN	NS	ns-1597.awsdns-07.co.uk.
-anymail01.mp.	0	IN	NS	potato.scrapinglot.com.
-anymail01.mp.	0	IN	NS	potato2.scrapinglot.com.
 anyuk.mp.	0	IN	NS	ns1.site4now.net.
 anyuk.mp.	0	IN	NS	ns2.site4now.net.
 anyuk.mp.	0	IN	NS	ns3.site4now.net.
@@ -315,8 +313,12 @@ bcllubb.mp.	0	IN	NS	ns2.openprovider.be.
 bcllubb.mp.	0	IN	NS	ns3.openprovider.eu.
 bclub-la.mp.	0	IN	NS	josh.ns.cloudflare.com.
 bclub-la.mp.	0	IN	NS	leah.ns.cloudflare.com.
+bclub-mk.mp.	0	IN	NS	toby.ns.cloudflare.com.
+bclub-mk.mp.	0	IN	NS	angelina.ns.cloudflare.com.
 bclub-mp.mp.	0	IN	NS	bart.ns.cloudflare.com.
 bclub-mp.mp.	0	IN	NS	sneh.ns.cloudflare.com.
+bclub-pe.mp.	0	IN	NS	toby.ns.cloudflare.com.
+bclub-pe.mp.	0	IN	NS	angelina.ns.cloudflare.com.
 bclub-tk.mp.	0	IN	NS	josh.ns.cloudflare.com.
 bclub-tk.mp.	0	IN	NS	leah.ns.cloudflare.com.
 bclub-tm.mp.	0	IN	NS	josh.ns.cloudflare.com.
@@ -342,6 +344,10 @@ bclubl.mp.	0	IN	NS	sandra.ns.cloudflare.com.
 bclubl.mp.	0	IN	NS	felicity.ns.cloudflare.com.
 bclubmarket.mp.	0	IN	NS	josh.ns.cloudflare.com.
 bclubmarket.mp.	0	IN	NS	leah.ns.cloudflare.com.
+bclubmk.mp.	0	IN	NS	toby.ns.cloudflare.com.
+bclubmk.mp.	0	IN	NS	angelina.ns.cloudflare.com.
+bclubpe.mp.	0	IN	NS	toby.ns.cloudflare.com.
+bclubpe.mp.	0	IN	NS	angelina.ns.cloudflare.com.
 bclubs.mp.	0	IN	NS	jule.ns.cloudflare.com.
 bclubs.mp.	0	IN	NS	julian.ns.cloudflare.com.
 bclubst.mp.	0	IN	NS	ns1.my-ns.com.
@@ -958,8 +964,8 @@ freestreams.mp.	0	IN	NS	190.ns1.abovedomains.com.
 freestreams.mp.	0	IN	NS	190.ns2.abovedomains.com.
 freestreams-live.mp.	0	IN	NS	diana.ns.cloudflare.com.
 freestreams-live.mp.	0	IN	NS	nolan.ns.cloudflare.com.
-freestreams-live1.mp.	0	IN	NS	ns1.parkingcrew.net.
-freestreams-live1.mp.	0	IN	NS	ns2.parkingcrew.net.
+freestreams-live1.mp.	0	IN	NS	ns1.bodis.com.
+freestreams-live1.mp.	0	IN	NS	ns2.bodis.com.
 freseniusmedicalcare.mp.	0	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.mp.	0	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.mp.	0	IN	NS	ns3.markmonitor.com.
@@ -1317,6 +1323,9 @@ kaio.mp.	0	IN	NS	georgia.ns.cloudflare.com.
 kaspersky.mp.	0	IN	NS	ns1.kasperskylabs.net.
 kaspersky.mp.	0	IN	NS	ns2.kasperskylabs.net.
 kaspersky.mp.	0	IN	NS	ns3.kasperskylabs.net.
+ke.mp.	0	IN	NS	n2.dreamhost.com.
+ke.mp.	0	IN	NS	n3.dreamhost.com.
+ke.mp.	0	IN	NS	ns1.dreamhost.com.
 kenvue.mp.	0	IN	NS	dns1.p01.nsone.net.
 kenvue.mp.	0	IN	NS	dns2.p01.nsone.net.
 kenvue.mp.	0	IN	NS	dns3.p01.nsone.net.
@@ -2258,6 +2267,8 @@ tylenol.mp.	0	IN	NS	dns3.p01.nsone.net.
 tylenol.mp.	0	IN	NS	dns4.p01.nsone.net.
 tylenol.mp.	0	IN	NS	ns01.kenvuedns.com.
 tylenol.mp.	0	IN	NS	ns02.kenvuedns.com.
+ubico.mp.	0	IN	NS	aida.ns.cloudflare.com.
+ubico.mp.	0	IN	NS	chip.ns.cloudflare.com.
 ubimet.mp.	0	IN	NS	ns1.markmonitor.com.
 ubimet.mp.	0	IN	NS	ns2.markmonitor.com.
 ubimet.mp.	0	IN	NS	ns3.markmonitor.com.

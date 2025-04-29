@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163297 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163354 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -211,14 +211,10 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 2kk.gl.	0	IN	NS	rihana.ns.cloudflare.com.
 2kkm.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2kkm.gl.	0	IN	NS	diana.ns.cloudflare.com.
-2kmp.gl.	0	IN	NS	kellen.ns.cloudflare.com.
-2kmp.gl.	0	IN	NS	sreeni.ns.cloudflare.com.
 2kn.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2kn.gl.	0	IN	NS	diana.ns.cloudflare.com.
 2knm.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2knm.gl.	0	IN	NS	diana.ns.cloudflare.com.
-2kr.gl.	0	IN	NS	kellen.ns.cloudflare.com.
-2kr.gl.	0	IN	NS	sreeni.ns.cloudflare.com.
 2krk.gl.	0	IN	NS	rommy.ns.cloudflare.com.
 2krk.gl.	0	IN	NS	dalary.ns.cloudflare.com.
 2krm.gl.	0	IN	NS	eoin.ns.cloudflare.com.
@@ -892,8 +888,6 @@ akissarsialerissut.gl.	0	IN	NS	ns1.aputit.gl.
 akissarsialerissut.gl.	0	IN	NS	ns2.aputit.gl.
 akissarsialerissut.gl.	0	IN	NS	ns3.aputit.gl.
 akissarsialerissut.gl.	0	IN	NS	ns4.aputit.gl.
-akki.gl.	0	IN	NS	ns1.dns-parking.com.
-akki.gl.	0	IN	NS	ns2.dns-parking.com.
 akmontage.gl.	0	IN	NS	ns1.aputit.gl.
 akmontage.gl.	0	IN	NS	ns2.aputit.gl.
 akmontage.gl.	0	IN	NS	ns3.aputit.gl.
@@ -1579,6 +1573,10 @@ arcticomm.gl.	0	IN	NS	d.hosting.gl.
 arcticprint.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 arcticprint.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 arcticprint.gl.	0	IN	NS	ns3.hosting.inuit.gl.
+arcticproaccounting.gl.	0	IN	NS	a.hosting.gl.
+arcticproaccounting.gl.	0	IN	NS	b.hosting.gl.
+arcticproaccounting.gl.	0	IN	NS	c.hosting.gl.
+arcticproaccounting.gl.	0	IN	NS	d.hosting.gl.
 arcticrental.gl.	0	IN	NS	ns1.modulo.gl.
 arcticrental.gl.	0	IN	NS	ns2.modulo.gl.
 arcticrental.gl.	0	IN	NS	ns3.modulo.gl.
@@ -4106,9 +4104,6 @@ dahls.gl.	0	IN	NS	ns1.simply.com.
 dahls.gl.	0	IN	NS	ns2.simply.com.
 dahls.gl.	0	IN	NS	ns3.simply.com.
 dahls.gl.	0	IN	DS	15602 13 2 be3fb05448f26c0e8da6564210540b833cebc31e508eeda79f2a647135265a46
-dai.gl.	0	IN	NS	ns1.netim.net.
-dai.gl.	0	IN	NS	ns2.netim.net.
-dai.gl.	0	IN	NS	ns3.netim.net.
 daikin.gl.	0	IN	NS	dns1.cscdns.net.
 daikin.gl.	0	IN	NS	dns2.cscdns.net.
 daily.gl.	0	IN	NS	ns1.nunahosting.net.
@@ -12965,6 +12960,8 @@ navtex.gl.	0	IN	NS	b.ns.tusass.gl.
 nb.gl.	0	IN	NS	coen.ns.cloudflare.com.
 nb.gl.	0	IN	NS	kehlani.ns.cloudflare.com.
 nb.gl.	0	IN	DS	2371 13 2 1e2a57c916592e10cc5cafe1e29b003be3e1c4b87388c8e10ace5dbd20e2c26d
+nba.gl.	0	IN	NS	a1.share-dns.com.
+nba.gl.	0	IN	NS	b1.share-dns.net.
 nbauto.gl.	0	IN	NS	a.hosting.gl.
 nbauto.gl.	0	IN	NS	b.hosting.gl.
 nbauto.gl.	0	IN	NS	c.hosting.gl.
@@ -15410,6 +15407,8 @@ powerproducts.gl.	0	IN	DS	3166 13 2 d29f35255ecb33e1d30001e735efc105b072f01d1d45
 powerproducts.gl.	0	IN	DS	3166 13 4 2355b49f0aa4b9674be9eb5e6960de59a4f5c1eefce0d79302a5e007d2fae5ebb65ef7422a0f7e365d3c28f52b99e86d
 pp.gl.	0	IN	NS	alaric.ns.cloudflare.com.
 pp.gl.	0	IN	NS	ophelia.ns.cloudflare.com.
+ppcblue.gl.	0	IN	NS	dns1.papaki.gr.
+ppcblue.gl.	0	IN	NS	dns2.papaki.gr.
 ppk.gl.	0	IN	NS	a.hosting.gl.
 ppk.gl.	0	IN	NS	b.hosting.gl.
 ppk.gl.	0	IN	NS	c.hosting.gl.
@@ -15965,10 +15964,8 @@ rbt.gl.	0	IN	NS	ns2.jimdo.com.
 rc.gl.	0	IN	NS	a.dns.gandi.net.
 rc.gl.	0	IN	NS	b.dns.gandi.net.
 rc.gl.	0	IN	NS	c.dns.gandi.net.
-rcdesign.gl.	0	IN	NS	ns1.omninet.dk.
-rcdesign.gl.	0	IN	NS	ns2.omninet.dk.
-rcdesign.gl.	0	IN	NS	ns3.omninet.dk.
-rcdesign.gl.	0	IN	NS	ns4.omninet.dk.
+rcdesign.gl.	0	IN	NS	ns1.curanet.dk.
+rcdesign.gl.	0	IN	NS	ns2.curanet.dk.
 rctn.gl.	0	IN	NS	ns1.netim.net.
 rctn.gl.	0	IN	NS	ns2.netim.net.
 rctn.gl.	0	IN	NS	ns3.netim.net.
@@ -17615,8 +17612,6 @@ sportdirect.gl.	0	IN	NS	ns1.netnames.net.
 sportdirect.gl.	0	IN	NS	ns2.netnames.net.
 sportdirect.gl.	0	IN	NS	ns5.netnames.net.
 sportdirect.gl.	0	IN	NS	ns6.netnames.net.
-sportonline.gl.	0	IN	NS	190.ns1.abovedomains.com.
-sportonline.gl.	0	IN	NS	190.ns2.abovedomains.com.
 sportpesa.gl.	0	IN	NS	dns1.safenames.com.
 sportpesa.gl.	0	IN	NS	dns2.safenames.net.
 sportpesa.gl.	0	IN	NS	dns3.safenames.org.
@@ -20878,6 +20873,8 @@ zoom.gl.	0	IN	NS	ns2.webglobe.cz.
 zoom.gl.	0	IN	NS	ns3.webglobe.com.
 zorotools.gl.	0	IN	NS	ans1.cw.net.
 zorotools.gl.	0	IN	NS	ans2.cw.net.
+zq.gl.	0	IN	NS	a5.share-dns.com.
+zq.gl.	0	IN	NS	b5.share-dns.net.
 zs.gl.	0	IN	NS	ns1.hyp.net.
 zs.gl.	0	IN	NS	ns2.hyp.net.
 zs.gl.	0	IN	NS	ns3.hyp.net.

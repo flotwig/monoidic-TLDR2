@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745877901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745964301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1647,6 +1647,10 @@ evolution.mw.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
 evolution.mw.	0	IN	NS	dns4.zaccodigitaltrustlabs.se.
 ewimax.mw.	0	IN	NS	ns1.bdsmw.com.
 ewimax.mw.	0	IN	NS	ns2.bdsmw.com.
+ews.mw.	0	IN	NS	ns-9.awsdns-01.com.
+ews.mw.	0	IN	NS	ns-947.awsdns-54.net.
+ews.mw.	0	IN	NS	ns-1099.awsdns-09.org.
+ews.mw.	0	IN	NS	ns-2010.awsdns-59.co.uk.
 executivebanking.mw.	0	IN	NS	ns1.lexsynergy.net.
 executivebanking.mw.	0	IN	NS	ns2.lexsynergy.us.
 executivebanking.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -4135,6 +4139,8 @@ reddit.mw.	0	IN	NS	ns4.markmonitor.com.
 reddit.mw.	0	IN	NS	ns5.markmonitor.com.
 reddit.mw.	0	IN	NS	ns6.markmonitor.com.
 reddit.mw.	0	IN	NS	ns7.markmonitor.com.
+regency.mw.	0	IN	NS	ns1.servconfig.com.
+regency.mw.	0	IN	NS	ns2.servconfig.com.
 registrar.mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 registrar.mw.	0	IN	NS	rip.psg.com.
 registrar.mw.	0	IN	NS	domwe.sdn.mw.
@@ -4487,6 +4493,9 @@ smartads.mw.	0	IN	NS	ns3.globemw.com.
 smartapps.mw.	0	IN	NS	ns1.websiteserverbox.com.
 smartapps.mw.	0	IN	NS	ns2.websiteserverbox.com.
 smartapps.mw.	0	IN	NS	ns3.websiteserverbox.com.
+smartfees.mw.	0	IN	NS	ns1.instradns.com.
+smartfees.mw.	0	IN	NS	ns2.instradns.com.
+smartfees.mw.	0	IN	NS	ns3.instradns.com.
 smartschools.mw.	0	IN	NS	ns6135.hostgator.com.
 smartschools.mw.	0	IN	NS	ns6136.hostgator.com.
 smeclinic.mw.	0	IN	NS	ns1.linthipe4.com.
