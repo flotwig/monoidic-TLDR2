@@ -306,8 +306,6 @@ bcg.mp.	0	IN	NS	dns1.cscdns.net.
 bcg.mp.	0	IN	NS	dns2.cscdns.net.
 bciub.mp.	0	IN	NS	peter.ns.cloudflare.com.
 bciub.mp.	0	IN	NS	eleanor.ns.cloudflare.com.
-bcllub.mp.	0	IN	NS	sandra.ns.cloudflare.com.
-bcllub.mp.	0	IN	NS	felicity.ns.cloudflare.com.
 bcllubb.mp.	0	IN	NS	ns1.openprovider.nl.
 bcllubb.mp.	0	IN	NS	ns2.openprovider.be.
 bcllubb.mp.	0	IN	NS	ns3.openprovider.eu.
@@ -450,8 +448,6 @@ bitswa.mp.	0	IN	NS	freedns2.registrar-servers.com.
 bitswa.mp.	0	IN	NS	freedns3.registrar-servers.com.
 bitswa.mp.	0	IN	NS	freedns4.registrar-servers.com.
 bitswa.mp.	0	IN	NS	freedns5.registrar-servers.com.
-biub.mp.	0	IN	NS	kai.ns.cloudflare.com.
-biub.mp.	0	IN	NS	hazel.ns.cloudflare.com.
 bklub.mp.	0	IN	NS	ns1.openprovider.nl.
 bklub.mp.	0	IN	NS	ns2.openprovider.be.
 bklub.mp.	0	IN	NS	ns3.openprovider.eu.
@@ -1119,6 +1115,8 @@ hotels.mp.	0	IN	NS	ns2.dreamhost.com.
 hotels.mp.	0	IN	NS	ns3.dreamhost.com.
 http-bclub.mp.	0	IN	NS	terry.ns.cloudflare.com.
 http-bclub.mp.	0	IN	NS	meilani.ns.cloudflare.com.
+https-bclub.mp.	0	IN	NS	jule.ns.cloudflare.com.
+https-bclub.mp.	0	IN	NS	julian.ns.cloudflare.com.
 huobi.mp.	0	IN	NS	ns-233.awsdns-29.com.
 huobi.mp.	0	IN	NS	ns-956.awsdns-55.net.
 huobi.mp.	0	IN	NS	ns-1489.awsdns-58.org.

@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1745964301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746050701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3582,6 +3582,8 @@ networkappliance.mw.	0	IN	NS	ns1.netnames.net.
 networkappliance.mw.	0	IN	NS	ns2.netnames.net.
 netx.mw.	0	IN	NS	ns7.alidns.com.
 netx.mw.	0	IN	NS	ns8.alidns.com.
+newagesolutions.mw.	0	IN	NS	ns1.newagesolutions.africa.
+newagesolutions.mw.	0	IN	NS	ns2.newagesolutions.africa.
 news.mw.	0	IN	NS	ns1.dyna-ns.net.
 news.mw.	0	IN	NS	ns2.dyna-ns.net.
 newwave.mw.	0	IN	NS	ns1.inmotionhosting.com.
@@ -4243,9 +4245,6 @@ ropmw.mw.	0	IN	NS	proxy2.africa-online.net.
 ropmw.mw.	0	IN	NS	proxy3.africa-online.net.
 rsagroup.mw.	0	IN	NS	dns1.cscdns.net.
 rsagroup.mw.	0	IN	NS	dns2.cscdns.net.
-rtr.mw.	0	IN	NS	ns0.internetmalawi.com.
-rtr.mw.	0	IN	NS	ns1.internetmalawi.com.
-rtr.mw.	0	IN	NS	ns2.internetmalawi.com.
 rubyfortune.mw.	0	IN	NS	ns1.instradns.com.
 rubyfortune.mw.	0	IN	NS	ns2.instradns.com.
 rubyfortunecasino.mw.	0	IN	NS	ns1.instradns.com.

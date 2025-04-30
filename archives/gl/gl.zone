@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163354 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163411 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -7482,8 +7482,6 @@ hcandersen.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
 hcandersen.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 hcorsted.gl.	0	IN	NS	udns1.cscdns.net.
 hcorsted.gl.	0	IN	NS	udns2.cscdns.uk.
-hd.gl.	0	IN	NS	ns3.dnsv2.com.
-hd.gl.	0	IN	NS	ns4.dnsv2.com.
 hds.gl.	0	IN	NS	ns1.iwantmyname.net.
 hds.gl.	0	IN	NS	ns2.iwantmyname.net.
 hds.gl.	0	IN	NS	ns3.iwantmyname.net.
@@ -8568,8 +8566,6 @@ infashion.gl.	0	IN	NS	ns1.gigahost.dk.
 infashion.gl.	0	IN	NS	ns2.gigahost.dk.
 infashion.gl.	0	IN	NS	ns3.gigahost.dk.
 infashion.gl.	0	IN	NS	ns4.gigahost.dk.
-infinity.gl.	0	IN	NS	ns1.vercel-dns.com.
-infinity.gl.	0	IN	NS	ns2.vercel-dns.com.
 infinium.gl.	0	IN	NS	ns1.101domain.com.
 infinium.gl.	0	IN	NS	ns2.101domain.com.
 info.gl.	0	IN	NS	ns1.bodis.com.
@@ -12006,6 +12002,8 @@ mgea.gl.	0	IN	NS	reese.ns.cloudflare.com.
 mgea.gl.	0	IN	NS	adaline.ns.cloudflare.com.
 mgmarket4.gl.	0	IN	NS	fay.ns.cloudflare.com.
 mgmarket4.gl.	0	IN	NS	yevgen.ns.cloudflare.com.
+mgrf.gl.	0	IN	NS	meera.ns.cloudflare.com.
+mgrf.gl.	0	IN	NS	pablo.ns.cloudflare.com.
 mh.gl.	0	IN	NS	ns1.iwantmyname.net.
 mh.gl.	0	IN	NS	ns2.iwantmyname.net.
 mh.gl.	0	IN	NS	ns3.iwantmyname.net.
@@ -16977,8 +16975,6 @@ sgbc44.gl.	0	IN	NS	ns3.nunahosting.net.
 sgbc44.gl.	0	IN	NS	ns4.nunahosting.net.
 sh.gl.	0	IN	NS	anna.ns.cloudflare.com.
 sh.gl.	0	IN	NS	dave.ns.cloudflare.com.
-shade.gl.	0	IN	NS	ns1.vercel-dns.com.
-shade.gl.	0	IN	NS	ns2.vercel-dns.com.
 shader.gl.	0	IN	NS	ns-51-c.gandi.net.
 shader.gl.	0	IN	NS	ns-119-a.gandi.net.
 shader.gl.	0	IN	NS	ns-168-b.gandi.net.
@@ -18298,6 +18294,10 @@ takeda.gl.	0	IN	NS	ns-1041.awsdns-02.org.
 takeda.gl.	0	IN	NS	ns-1583.awsdns-05.co.uk.
 takulaa.gl.	0	IN	NS	dax.ns.cloudflare.com.
 takulaa.gl.	0	IN	NS	adaline.ns.cloudflare.com.
+takusakka.gl.	0	IN	NS	ns1.simply.com.
+takusakka.gl.	0	IN	NS	ns2.simply.com.
+takusakka.gl.	0	IN	NS	ns3.simply.com.
+takusakka.gl.	0	IN	DS	30850 13 2 164645f959f794f7e32130cc040c3ba39b2fb2feae8760b060f38df1e1341cde
 takuss.gl.	0	IN	NS	ns1.eurodns.com.
 takuss.gl.	0	IN	NS	ns2.eurodns.com.
 takuss.gl.	0	IN	NS	ns3.eurodns.com.

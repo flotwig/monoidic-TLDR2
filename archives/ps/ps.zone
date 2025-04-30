@@ -1,4 +1,4 @@
-ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042907 86400 7200 3600000 172800
+ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025043009 86400 7200 3600000 172800
 ps.	0	IN	NS	ps.cctld.authdns.ripe.net.
 ps.	0	IN	NS	ns1.pnina.ps.
 ps.	0	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.	0	IN	NS	rip.psg.com.
 ps.	0	IN	NS	fork.sth.dnsnode.net.
 ps.	0	IN	NS	bilal.pnina.ps.
 ps.	0	IN	NS	ps-ns.anycast.pch.net.
-ps.	0	IN	TXT	"Generation Time: 1745928100"
+ps.	0	IN	TXT	"Generation Time: 1746028898"
 01net.ps.	0	IN	NS	ns1.safebrands.fr.
 01net.ps.	0	IN	NS	ns2.safebrands.eu.
 01net.ps.	0	IN	NS	ns3.safebrands.com.
@@ -280,8 +280,8 @@ a7lagoal.ps.	0	IN	NS	cdns2.hadara.ps.
 aal-ard.ps.	0	IN	NS	mg-ns-a.massar.com.
 aal-ard.ps.	0	IN	NS	mg-ns-b.massar.com.
 aal-ard.ps.	0	IN	NS	mg-ns-d.massar.com.
-aard.ps.	0	IN	NS	dns1.namecheaphosting.com.
-aard.ps.	0	IN	NS	dns2.namecheaphosting.com.
+aard.ps.	0	IN	NS	magali.ns.cloudflare.com.
+aard.ps.	0	IN	NS	agustin.ns.cloudflare.com.
 aarmena.ps.	0	IN	NS	ns1.mongiddesigns.com.
 aarmena.ps.	0	IN	NS	ns2.mongiddesigns.com.
 aauj.ps.	0	IN	NS	ns1.a30.com.
@@ -401,8 +401,8 @@ abusalah.ps.	0	IN	NS	ns1.injazatcloud.ps.
 abusalah.ps.	0	IN	NS	ns2.injazatcloud.ps.
 abusaleh.ps.	0	IN	NS	ns1.mysecurecloudhost.com.
 abusaleh.ps.	0	IN	NS	ns2.mysecurecloudhost.com.
-abuseir.ps.	0	IN	NS	ns1-ded100317.plesklogin.net.
-abuseir.ps.	0	IN	NS	ns2-ded100317.plesklogin.net.
+abuseir.ps.	0	IN	NS	ns7.start-pal.com.
+abuseir.ps.	0	IN	NS	ns8.start-pal.com.
 abushalbak.ps.	0	IN	NS	ns1.bluetd.com.
 abushalbak.ps.	0	IN	NS	ns2.bluetd.com.
 abusharar.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -2322,6 +2322,8 @@ ascendispharma.ps.	0	IN	NS	a.portsdns.se.
 ascendispharma.ps.	0	IN	NS	b.portsdns.net.
 asd.ps.	0	IN	NS	ns16.ovh.net.
 asd.ps.	0	IN	NS	dns16.ovh.net.
+asdeqa.ps.	0	IN	NS	ns1-cat.dl-cms.com.
+asdeqa.ps.	0	IN	NS	ns2-cat.dl-cms.com.
 aseabrownboveri.ps.	0	IN	NS	a4-64.akam.net.
 aseabrownboveri.ps.	0	IN	NS	a7-64.akam.net.
 aseabrownboveri.ps.	0	IN	NS	a1-226.akam.net.
@@ -6134,8 +6136,8 @@ femarelle.ps.	0	IN	NS	ns3.onlydomains.com.
 femmebeyou.ps.	0	IN	NS	ns1.i-net.ps.
 femmebeyou.ps.	0	IN	NS	ns4.i-net.ps.
 femmebeyou.ps.	0	IN	NS	ns7.i-net.ps.
-feng.ps.	0	IN	NS	eu.atakdomain.com.
-feng.ps.	0	IN	NS	tr.atakdomain.com.
+feng.ps.	0	IN	NS	eu.apiname.com.
+feng.ps.	0	IN	NS	tr.apiname.com.
 fenix.ps.	0	IN	NS	deb.ns.cloudflare.com.
 fenix.ps.	0	IN	NS	nitin.ns.cloudflare.com.
 fenjani.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -6461,13 +6463,6 @@ fox.ps.	0	IN	NS	ns09.gcd-dns.com.
 fox.ps.	0	IN	NS	ns10.gcd-dns.com.
 fox2.ps.	0	IN	NS	ns1.leg-des.com.
 fox2.ps.	0	IN	NS	ns2.leg-des.com.
-foxnetworksgroup.ps.	0	IN	NS	ns1.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns2.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns3.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns4.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns5.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns6.markmonitor.com.
-foxnetworksgroup.ps.	0	IN	NS	ns7.markmonitor.com.
 foxplus.ps.	0	IN	NS	ns1.markmonitor.com.
 foxplus.ps.	0	IN	NS	ns2.markmonitor.com.
 foxplus.ps.	0	IN	NS	ns3.markmonitor.com.
@@ -6836,6 +6831,8 @@ ghefari.ps.	0	IN	NS	ns1.high-five.co.
 ghefari.ps.	0	IN	NS	ns2.high-five.co.
 ghilal.ps.	0	IN	NS	ines.ns.cloudflare.com.
 ghilal.ps.	0	IN	NS	norm.ns.cloudflare.com.
+ghome.ps.	0	IN	NS	ns1-cat.dl-cms.com.
+ghome.ps.	0	IN	NS	ns2-cat.dl-cms.com.
 ghorbetlagee.ps.	0	IN	NS	cdns1.hadara.ps.
 ghorbetlagee.ps.	0	IN	NS	cdns2.hadara.ps.
 ghurza.ps.	0	IN	NS	ns1-lion.dl-cms.com.
@@ -7000,6 +6997,8 @@ goldman-sachs.ps.	0	IN	NS	dns1.cscdns.net.
 goldman-sachs.ps.	0	IN	NS	dns2.cscdns.net.
 goldmansachs.ps.	0	IN	NS	dns1.cscdns.net.
 goldmansachs.ps.	0	IN	NS	dns2.cscdns.net.
+goldstar.ps.	0	IN	NS	donna.ns.cloudflare.com.
+goldstar.ps.	0	IN	NS	alexis.ns.cloudflare.com.
 golf.ps.	0	IN	NS	ns1.leg-des.com.
 golf.ps.	0	IN	NS	ns2.leg-des.com.
 golfood.ps.	0	IN	NS	ns1.injazatcloud.ps.
@@ -8260,8 +8259,8 @@ inference.ps.	0	IN	NS	hosting01.mada.ps.
 inference.ps.	0	IN	NS	hosting02.mada.ps.
 infinet.ps.	0	IN	NS	ns14.nepras.net.
 infinet.ps.	0	IN	NS	ns15.nepras.net.
-infinity.ps.	0	IN	NS	ns1.trustedcom.com.
-infinity.ps.	0	IN	NS	ns2.trustedcom.com.
+infinity.ps.	0	IN	NS	grant.ns.cloudflare.com.
+infinity.ps.	0	IN	NS	sandy.ns.cloudflare.com.
 infinitywheels.ps.	0	IN	NS	becky.ns.cloudflare.com.
 infinitywheels.ps.	0	IN	NS	louis.ns.cloudflare.com.
 infinium.ps.	0	IN	NS	ns1.101domain.com.
@@ -9229,6 +9228,8 @@ khawaja.ps.	0	IN	NS	ns1.bluetd.com.
 khawaja.ps.	0	IN	NS	ns2.bluetd.com.
 khayal.ps.	0	IN	NS	ns1-panda.dl-cms.com.
 khayal.ps.	0	IN	NS	ns2-panda.dl-cms.com.
+khayalag.ps.	0	IN	NS	ns1.injazatcloud.ps.
+khayalag.ps.	0	IN	NS	ns2.injazatcloud.ps.
 khazanah.ps.	0	IN	NS	ns1.bdm.microsoftonline.com.
 khazanah.ps.	0	IN	NS	ns2.bdm.microsoftonline.com.
 khazanah.ps.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -9355,8 +9356,8 @@ kredit.ps.	0	IN	NS	ns1.variomedia.de.
 kredit.ps.	0	IN	NS	ns2.variomedia.de.
 kringlecandle.ps.	0	IN	NS	ns1.instradns.com.
 kringlecandle.ps.	0	IN	NS	ns2.instradns.com.
-krs.ps.	0	IN	NS	ns1.trustedcom.com.
-krs.ps.	0	IN	NS	ns2.trustedcom.com.
+krs.ps.	0	IN	NS	grant.ns.cloudflare.com.
+krs.ps.	0	IN	NS	sandy.ns.cloudflare.com.
 krte.ps.	0	IN	NS	ns1.mtechs.site.
 krte.ps.	0	IN	NS	ns2.metchs.site.
 ksh.ps.	0	IN	NS	ns13.nepras.net.
@@ -10465,8 +10466,8 @@ mazinakersweets.ps.	0	IN	NS	ns1.dns-parking.com.
 mazinakersweets.ps.	0	IN	NS	ns2.dns-parking.com.
 mbec.ps.	0	IN	NS	ns1.dns-parking.com.
 mbec.ps.	0	IN	NS	ns2.dns-parking.com.
-mbusiness.ps.	0	IN	NS	gail.ns.cloudflare.com.
-mbusiness.ps.	0	IN	NS	norm.ns.cloudflare.com.
+mbusiness.ps.	0	IN	NS	ns1.dns-parking.com.
+mbusiness.ps.	0	IN	NS	ns2.dns-parking.com.
 mcafee.ps.	0	IN	NS	dns-a.mcafee.com.
 mcafee.ps.	0	IN	NS	dns-b.mcafee.com.
 mccc.ps.	0	IN	NS	ns1-penguin.dl-cms.com.
@@ -12266,6 +12267,8 @@ onyx.ps.	0	IN	NS	ryan.ns.cloudflare.com.
 onyx.ps.	0	IN	NS	sasha.ns.cloudflare.com.
 oo.ps.	0	IN	NS	ns1.cctld.com.
 oo.ps.	0	IN	NS	ns2.cctld.com.
+oodoor.ps.	0	IN	NS	ns1.injazatcloud.ps.
+oodoor.ps.	0	IN	NS	ns2.injazatcloud.ps.
 oohpod.ps.	0	IN	NS	norm.ns.cloudflare.com.
 oohpod.ps.	0	IN	NS	piper.ns.cloudflare.com.
 ooredo.ps.	0	IN	NS	ns1.tagidomains.com.
@@ -13028,6 +13031,8 @@ paltrade.ps.	0	IN	NS	ns2.provision-servers.com.
 paltrails.ps.	0	IN	NS	ns1.contabo.net.
 paltrails.ps.	0	IN	NS	ns2.contabo.net.
 paltrails.ps.	0	IN	NS	ns3.contabo.net.
+paltrend.ps.	0	IN	NS	ns337.cleannameservers.com.
+paltrend.ps.	0	IN	NS	ns338.cleannameservers.com.
 palused.ps.	0	IN	NS	ns1-34.azure-dns.com.
 palused.ps.	0	IN	NS	ns2-34.azure-dns.net.
 palused.ps.	0	IN	NS	ns3-34.azure-dns.org.
@@ -13092,6 +13097,8 @@ panoramafm.ps.	0	IN	NS	ns23.asurahosting.com.
 panoramafm.ps.	0	IN	NS	ns24.asurahosting.com.
 paofm.ps.	0	IN	NS	ns1.provision-servers.com.
 paofm.ps.	0	IN	NS	ns2.provision-servers.com.
+paperpal.ps.	0	IN	NS	ns1253.websitewelcome.com.
+paperpal.ps.	0	IN	NS	ns1254.websitewelcome.com.
 papyros.ps.	0	IN	NS	ns1152.papaki.gr.
 papyros.ps.	0	IN	NS	ns2152.papaki.gr.
 paradisegroup.ps.	0	IN	NS	leif.ns.cloudflare.com.
@@ -14062,6 +14069,8 @@ pti.ps.	0	IN	NS	ns1.mongiddesigns.com.
 pti.ps.	0	IN	NS	ns2.mongiddesigns.com.
 pts.ps.	0	IN	NS	ns1.pts-services.online.
 pts.ps.	0	IN	NS	ns2.pts-services.online.
+pullable.ps.	0	IN	NS	isla.ns.cloudflare.com.
+pullable.ps.	0	IN	NS	razvan.ns.cloudflare.com.
 pulse.ps.	0	IN	NS	ns1.alquds.cloud.
 pulse.ps.	0	IN	NS	ns2.alquds.cloud.
 pulsefitness.ps.	0	IN	NS	nsp10.mada.ps.
@@ -14513,9 +14522,8 @@ redecanais.ps.	0	IN	NS	chan.ns.cloudflare.com.
 redecanais.ps.	0	IN	NS	finley.ns.cloudflare.com.
 redecanaistv.ps.	0	IN	NS	chan.ns.cloudflare.com.
 redecanaistv.ps.	0	IN	NS	finley.ns.cloudflare.com.
-redflag.ps.	0	IN	NS	1-you.njalla.no.
-redflag.ps.	0	IN	NS	2-can.njalla.in.
-redflag.ps.	0	IN	NS	3-get.njalla.fo.
+redflag.ps.	0	IN	NS	bob.ns.cloudflare.com.
+redflag.ps.	0	IN	NS	tina.ns.cloudflare.com.
 redit.ps.	0	IN	NS	ns1.injazatcloud.ps.
 redit.ps.	0	IN	NS	ns2.injazatcloud.ps.
 redline.ps.	0	IN	NS	ns-50.awsdns-06.com.
@@ -15134,6 +15142,9 @@ salesbook.ps.	0	IN	NS	ns897.websitewelcome.com.
 salesbook.ps.	0	IN	NS	ns898.websitewelcome.com.
 salfeet.ps.	0	IN	NS	ns1.101domain.com.
 salfeet.ps.	0	IN	NS	ns2.101domain.com.
+salfeet-khibrat.ps.	0	IN	NS	ns1.i-net.ps.
+salfeet-khibrat.ps.	0	IN	NS	ns4.i-net.ps.
+salfeet-khibrat.ps.	0	IN	NS	ns7.i-net.ps.
 salfitech.ps.	0	IN	NS	aisha.ns.cloudflare.com.
 salfitech.ps.	0	IN	NS	lennox.ns.cloudflare.com.
 salla.ps.	0	IN	NS	ns1.netaqe.com.
@@ -15929,6 +15940,8 @@ smartart.ps.	0	IN	NS	dns2.namecheaphosting.com.
 smartbag.ps.	0	IN	NS	ns1.i-net.ps.
 smartbag.ps.	0	IN	NS	ns4.i-net.ps.
 smartbag.ps.	0	IN	NS	ns7.i-net.ps.
+smartbuy.ps.	0	IN	NS	ns1.injazatcloud.ps.
+smartbuy.ps.	0	IN	NS	ns2.injazatcloud.ps.
 smartcash.ps.	0	IN	NS	ns1.bluetd.com.
 smartcash.ps.	0	IN	NS	ns2.bluetd.com.
 smartcenter.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -17203,8 +17216,6 @@ thscore.ps.	0	IN	NS	ns2.101domain.com.
 thscore.ps.	0	IN	NS	ns5.101domain.com.
 ti.ps.	0	IN	NS	joan.ns.cloudflare.com.
 ti.ps.	0	IN	NS	west.ns.cloudflare.com.
-tiacar.ps.	0	IN	NS	ns1.101domain.com.
-tiacar.ps.	0	IN	NS	ns2.101domain.com.
 tiandy.ps.	0	IN	NS	hosting01.mada.ps.
 tiandy.ps.	0	IN	NS	hosting02.mada.ps.
 tiba.ps.	0	IN	NS	aida.ns.cloudflare.com.
