@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025043024 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025050124 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1746050447"
+bw.	0	IN	TXT	"Generation Time: 1746140411"
 bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 84fde84837795d47 
@@ -15135,10 +15135,8 @@ katha.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 katha.co.bw.	0	IN	NS	dns4.webmart.co.bw.
 kathexis.co.bw.	0	IN	NS	cns4003.webhostbox.net.
 kathexis.co.bw.	0	IN	NS	cns4004.webhostbox.net.
-katnet.co.bw.	0	IN	NS	ns1.bdm.microsoftonline.com.
-katnet.co.bw.	0	IN	NS	ns2.bdm.microsoftonline.com.
-katnet.co.bw.	0	IN	NS	ns3.bdm.microsoftonline.com.
-katnet.co.bw.	0	IN	NS	ns4.bdm.microsoftonline.com.
+katnet.co.bw.	0	IN	NS	ns1.botshosting.co.za.
+katnet.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 katshipiadventures.co.bw.	0	IN	NS	ns.bnamed.eu.
 katshipiadventures.co.bw.	0	IN	NS	ns.bnamed.uk.
 katshipiadventures.co.bw.	0	IN	NS	ns.bnamed.us.
@@ -17319,10 +17317,8 @@ magnabrands.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
 magnabrands.co.bw.	0	IN	NS	bwadomains.mercury.orderbox-dns.com.
 magnet.co.bw.	0	IN	NS	ns1.eco-dns.co.uk.
 magnet.co.bw.	0	IN	NS	ns2.eco-dns.co.uk.
-magnish.co.bw.	0	IN	NS	dns1.webmart.co.bw.
-magnish.co.bw.	0	IN	NS	dns2.webmart.co.bw.
-magnish.co.bw.	0	IN	NS	dns3.webmart.co.bw.
-magnish.co.bw.	0	IN	NS	dns4.webmart.co.bw.
+magnish.co.bw.	0	IN	NS	ns1.botshosting.co.za.
+magnish.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 magnummedical.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 magnummedical.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 magnumrecycling.co.bw.	0	IN	NS	ns1.md-62.webhostbox.net.
@@ -33665,7 +33661,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1746050488"
+ote.bw.	0	IN	TXT	"Generation Time: 1746140451"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

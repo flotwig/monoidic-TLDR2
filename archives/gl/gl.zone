@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163411 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163469 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -46,6 +46,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 113.gl.	0	IN	NS	ns2.wannafind.dk.
 11kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 11kra.gl.	0	IN	NS	ns3.disabled.ispapi.net.
+12.gl.	0	IN	NS	n1.xundns.com.
+12.gl.	0	IN	NS	n2.xundns.com.
 123.gl.	0	IN	NS	ns1.netim.net.
 123.gl.	0	IN	NS	ns2.netim.net.
 123.gl.	0	IN	NS	ns3.netim.net.
@@ -131,8 +133,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 20kra.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 21.gl.	0	IN	NS	ns1.sedoparking.com.
 21.gl.	0	IN	NS	ns2.sedoparking.com.
-21kra.gl.	0	IN	NS	algin.ns.cloudflare.com.
-21kra.gl.	0	IN	NS	jacqueline.ns.cloudflare.com.
+21kra.gl.	0	IN	NS	joan.ns.cloudflare.com.
+21kra.gl.	0	IN	NS	yisroel.ns.cloudflare.com.
 22.gl.	0	IN	NS	ns1210.ispapi.net.
 22.gl.	0	IN	NS	ns2180.ispapi.net.
 22.gl.	0	IN	NS	ns3194.ispapi.net.
@@ -167,8 +169,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 24kmp.gl.	0	IN	NS	diana.ns.cloudflare.com.
 24kr.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 24kr.gl.	0	IN	NS	diana.ns.cloudflare.com.
-24kra.gl.	0	IN	NS	algin.ns.cloudflare.com.
-24kra.gl.	0	IN	NS	jacqueline.ns.cloudflare.com.
+24kra.gl.	0	IN	NS	joan.ns.cloudflare.com.
+24kra.gl.	0	IN	NS	yisroel.ns.cloudflare.com.
 24krn.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 24krn.gl.	0	IN	NS	diana.ns.cloudflare.com.
 25kra.gl.	0	IN	NS	algin.ns.cloudflare.com.
@@ -219,9 +221,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 2krk.gl.	0	IN	NS	dalary.ns.cloudflare.com.
 2krm.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2krm.gl.	0	IN	NS	diana.ns.cloudflare.com.
-2krn.gl.	0	IN	NS	ns1.disabled.ispapi.net.
-2krn.gl.	0	IN	NS	ns2.disabled.ispapi.net.
-2krn.gl.	0	IN	NS	ns3.disabled.ispapi.net.
+2krn.gl.	0	IN	NS	meera.ns.cloudflare.com.
+2krn.gl.	0	IN	NS	pablo.ns.cloudflare.com.
 2plus-greenland.gl.	0	IN	NS	ns1.nunahosting.net.
 2plus-greenland.gl.	0	IN	NS	ns2.nunahosting.net.
 2plus-greenland.gl.	0	IN	NS	ns3.nunahosting.net.
@@ -321,6 +322,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 55.gl.	0	IN	NS	ns2.dns.com.
 555.gl.	0	IN	NS	alla.ns.cloudflare.com.
 555.gl.	0	IN	NS	owen.ns.cloudflare.com.
+56.gl.	0	IN	NS	n1.xundns.com.
+56.gl.	0	IN	NS	n2.xundns.com.
 588.gl.	0	IN	NS	v1s1.xundns.com.
 588.gl.	0	IN	NS	v1s2.xundns.com.
 5a.gl.	0	IN	NS	ns1.systemdns.com.
@@ -403,6 +406,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 88.gl.	0	IN	NS	ns2.gofruits.co.
 888.gl.	0	IN	NS	cow.dnspod.net.
 888.gl.	0	IN	NS	cormorant.dnspod.net.
+89.gl.	0	IN	NS	alla.ns.cloudflare.com.
+89.gl.	0	IN	NS	owen.ns.cloudflare.com.
 8kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 8kra.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 8krn.gl.	0	IN	NS	bob.ns.cloudflare.com.
@@ -422,6 +427,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 96176.gl.	0	IN	NS	c.dnspod.com.
 97063.gl.	0	IN	NS	ns1.netsto.net.
 97063.gl.	0	IN	NS	ns2.netsto.net.
+98.gl.	0	IN	NS	alla.ns.cloudflare.com.
+98.gl.	0	IN	NS	owen.ns.cloudflare.com.
 99.gl.	0	IN	NS	ns1.dns-parking.com.
 99.gl.	0	IN	NS	ns2.dns-parking.com.
 999.gl.	0	IN	NS	a1.share-dns.com.
@@ -3462,6 +3469,8 @@ casipon.gl.	0	IN	NS	dns03.ports.se.
 casipon.gl.	0	IN	NS	dns04.ports.net.
 cat.gl.	0	IN	NS	ns6227.hostgator.com.
 cat.gl.	0	IN	NS	ns6228.hostgator.com.
+catfish.gl.	0	IN	NS	ns1.hosting.inuit.gl.
+catfish.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 cb.gl.	0	IN	NS	ns1.regery.net.
 cb.gl.	0	IN	NS	ns2.regery.net.
 cb.gl.	0	IN	NS	ns3.regery.net.
@@ -3599,9 +3608,8 @@ china.gl.	0	IN	NS	khloe.ns.cloudflare.com.
 china.gl.	0	IN	NS	keenan.ns.cloudflare.com.
 chirp.gl.	0	IN	NS	hal.ns.cloudflare.com.
 chirp.gl.	0	IN	NS	donna.ns.cloudflare.com.
-chocolate.gl.	0	IN	NS	ns1.netim.net.
-chocolate.gl.	0	IN	NS	ns2.netim.net.
-chocolate.gl.	0	IN	NS	ns3.netim.net.
+chocolate.gl.	0	IN	NS	coco.bunny.net.
+chocolate.gl.	0	IN	NS	kiki.bunny.net.
 christel.gl.	0	IN	NS	ns1.simply.com.
 christel.gl.	0	IN	NS	ns2.simply.com.
 christel.gl.	0	IN	NS	ns3.simply.com.
@@ -5863,7 +5871,7 @@ fleurop.gl.	0	IN	NS	dns2.fleurop.com.
 fli.gl.	0	IN	NS	ns1.bb-online.net.
 fli.gl.	0	IN	NS	ns2.bb-online.org.
 fli.gl.	0	IN	NS	ns3.bb-online.info.
-fli.gl.	0	IN	DS	42424 8 2 fb9e5247a65938cd051e64176fc48d953d5c6ed7287580f2fc78cd0fe5340414
+fli.gl.	0	IN	DS	39382 8 2 203d0e88bf550750898c6b2583a2c54aef589e5b0509d008ddec693075d27653
 fliesen.gl.	0	IN	NS	ns10.inch-media.de.
 fliesen.gl.	0	IN	NS	ns11.inch-media.de.
 fliesenlegermeister.gl.	0	IN	NS	ns10.inch-media.de.
@@ -7445,8 +7453,8 @@ hartmann-petersen.gl.	0	IN	DS	19921 13 4 c798636c6c18f59709b8bc20f1308150bf0093b
 haugen.gl.	0	IN	NS	ns1.hyp.net.
 haugen.gl.	0	IN	NS	ns2.hyp.net.
 haugen.gl.	0	IN	NS	ns3.hyp.net.
-haugen.gl.	0	IN	DS	61194 13 2 f2566d664406ad50e830470005a82161bced5007190d6e5fd79167b53d37aa36
-haugen.gl.	0	IN	DS	61194 13 4 4767eba6b609ad06760e8934e977661a5f8ed6fc8b530c2b619cb2900695309283b5c9178054dc5f263fbcb89781dccb
+haugen.gl.	0	IN	DS	60140 15 2 5e648df86f7d651079011e12173be0b24424757b2fe1aa79570e5acea013bf80
+haugen.gl.	0	IN	DS	60140 15 4 853ace4c24550c17ed905447e37338ef97ae2f9fa9ad5d019af3c82e6863b0ef1bba7ac776538d41a0c093251bce1ce7
 hauser.gl.	0	IN	NS	ns01.hostfactory.ch.
 hauser.gl.	0	IN	NS	ns02.hostfactory.ch.
 havne.gl.	0	IN	NS	ns1.hosting.inuit.gl.
@@ -7711,9 +7719,9 @@ holcimgroup.gl.	0	IN	NS	ns02ch.holcim.com.
 holding.gl.	0	IN	NS	ns1.modulo.gl.
 holding.gl.	0	IN	NS	ns2.modulo.gl.
 holding.gl.	0	IN	NS	ns3.modulo.gl.
-holiday.gl.	0	IN	NS	ns1.netim.net.
-holiday.gl.	0	IN	NS	ns2.netim.net.
-holiday.gl.	0	IN	NS	ns3.netim.net.
+holiday.gl.	0	IN	NS	coco.bunny.net.
+holiday.gl.	0	IN	NS	kiki.bunny.net.
+holiday.gl.	0	IN	DS	54034 8 2 e38d76acae44d2d6d080c4c0f6fa3f7c4ea7f8d1cd84fe1785c4066e5a74070c
 holidaycheck.gl.	0	IN	NS	dns.noris.ch.
 holidaycheck.gl.	0	IN	NS	dns.noris.de.
 holidaycheck.gl.	0	IN	NS	dns.noris.net.
@@ -8133,8 +8141,8 @@ icetour.gl.	0	IN	DS	913 15 4 16731211bdc583812b1c26aa94e6785bcdca5a1541578d0177a
 icetours.gl.	0	IN	NS	ns1.hyp.net.
 icetours.gl.	0	IN	NS	ns2.hyp.net.
 icetours.gl.	0	IN	NS	ns3.hyp.net.
-icetours.gl.	0	IN	DS	14432 13 2 903ddbc8f01b0721fb1088ed2e338f72f6c27ecaaaae1a3cfff3d7f265db289a
-icetours.gl.	0	IN	DS	14432 13 4 8772a4bfee7eca879cfde52fc90d2e0b4e34e5ad6da8dddf9efb6f4fc6084dc320984f1736d7a71ee0fc90347a06fce0
+icetours.gl.	0	IN	DS	19919 15 2 85981b7feb459e74f8ef3e630dfd49cd52b91d1576a93ea07b823c9f2024f39b
+icetours.gl.	0	IN	DS	19919 15 4 341f3270d6aa4dde5b4714fac647a71d5de0d20286a39a8e1a44b35144b3ff2b39b90c12327bc769c325f44c508e0251
 icicero.gl.	0	IN	NS	a.hosting.gl.
 icicero.gl.	0	IN	NS	b.hosting.gl.
 icicero.gl.	0	IN	NS	c.hosting.gl.
@@ -11870,8 +11878,8 @@ megawed3.gl.	0	IN	NS	reese.ns.cloudflare.com.
 megawed3.gl.	0	IN	NS	adaline.ns.cloudflare.com.
 megga.gl.	0	IN	NS	reese.ns.cloudflare.com.
 megga.gl.	0	IN	NS	adaline.ns.cloudflare.com.
-mego.gl.	0	IN	NS	luke.ns.cloudflare.com.
-mego.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
+mego.gl.	0	IN	NS	jerry.ns.cloudflare.com.
+mego.gl.	0	IN	NS	rachel.ns.cloudflare.com.
 meilvang.gl.	0	IN	NS	a.hosting.gl.
 meilvang.gl.	0	IN	NS	b.hosting.gl.
 meilvang.gl.	0	IN	NS	c.hosting.gl.
@@ -13982,6 +13990,10 @@ nuukservice.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 nuukservice.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 nuukservice.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
 nuukservice.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
+nuuksmykkerens.gl.	0	IN	NS	ns1.simply.com.
+nuuksmykkerens.gl.	0	IN	NS	ns2.simply.com.
+nuuksmykkerens.gl.	0	IN	NS	ns3.simply.com.
+nuuksmykkerens.gl.	0	IN	DS	43432 13 2 ed68294afaccdc1da2765724f7fe6c1d33abdaebef120698c281c29c4bac2f87
 nuuktaxi.gl.	0	IN	NS	ns1.curanet.dk.
 nuuktaxi.gl.	0	IN	NS	ns2.curanet.dk.
 nuuktogo.gl.	0	IN	NS	ns1.nunahosting.net.
@@ -15046,8 +15058,8 @@ pim.gl.	0	IN	NS	ns-242-c.gandi.net.
 pin.gl.	0	IN	NS	ns1.hyp.net.
 pin.gl.	0	IN	NS	ns2.hyp.net.
 pin.gl.	0	IN	NS	ns3.hyp.net.
-pin.gl.	0	IN	DS	65263 13 2 3f14f39516af53019967e30a190641aaa56e125b59ee6cebfd0397352c7a3a63
-pin.gl.	0	IN	DS	65263 13 4 508209ca3438d059b03753b26dd625e3abd14aed290bf7d962a5d7110657ddc7710b7103d9aea1761dd32f721b774870
+pin.gl.	0	IN	DS	60262 15 2 30605f4b633e4b0943599b686528bbad54cbddc28671114f20737b080c6f1fca
+pin.gl.	0	IN	DS	60262 15 4 dfd1395a3c76f7341cab8ed2e15973e82e808d9fd35a2a0a5efee239cad2ee917abffedb428ea8607f29502dc83a0108
 pind.gl.	0	IN	NS	helium.ns.hetzner.de.
 pind.gl.	0	IN	NS	oxygen.ns.hetzner.com.
 pind.gl.	0	IN	NS	hydrogen.ns.hetzner.com.
@@ -16347,6 +16359,7 @@ royalarcticline.gl.	0	IN	NS	a.hosting.gl.
 royalarcticline.gl.	0	IN	NS	b.hosting.gl.
 royalarcticline.gl.	0	IN	NS	c.hosting.gl.
 royalarcticline.gl.	0	IN	NS	d.hosting.gl.
+royalarcticline.gl.	0	IN	DS	41350 13 2 5e51d69e221a6947aeaa1a344116019e856db48d0e068f7fec30e4e191843f41
 royalgreenland.gl.	0	IN	NS	a.ns.netic.dk.
 royalgreenland.gl.	0	IN	NS	b.ns.netic.dk.
 royalgreenland.gl.	0	IN	NS	c.ns.netic.dk.
@@ -20164,12 +20177,6 @@ web.gl.	0	IN	NS	ns1.directories.org.
 web.gl.	0	IN	NS	ns2.directories.org.
 web3.gl.	0	IN	NS	holding-ns1.paomi.com.
 web3.gl.	0	IN	NS	holding-ns2.paomi.com.
-webavisen.gl.	0	IN	NS	ns1.simply.com.
-webavisen.gl.	0	IN	NS	ns2.simply.com.
-webavisen.gl.	0	IN	NS	ns3.simply.com.
-webavisen.gl.	0	IN	NS	ns4.simply.com.
-webavisen.gl.	0	IN	DS	46264 13 2 3a5ec757135d93e2c42cea41f4e75bc57a3fc2f6a62dc0ffe112f1aad5cf9874
-webavisen.gl.	0	IN	DS	46264 13 4 f27fbd8398e0634824cd8051212e4fd14ef785e6822ddb3338a5e69401bfcfde610e675d94a000bbb0908187daf28fd9
 webbanken.gl.	0	IN	NS	a.hosting.gl.
 webbanken.gl.	0	IN	NS	b.hosting.gl.
 webbanken.gl.	0	IN	NS	c.hosting.gl.
@@ -20281,6 +20288,8 @@ who.gl.	0	IN	NS	forty.dnspod.net.
 who.gl.	0	IN	NS	running.dnspod.net.
 whois.gl.	0	IN	NS	bella.ns.cloudflare.com.
 whois.gl.	0	IN	NS	brett.ns.cloudflare.com.
+wholesale.gl.	0	IN	NS	coco.bunny.net.
+wholesale.gl.	0	IN	NS	kiki.bunny.net.
 whoop.gl.	0	IN	NS	ns1.101domain.com.
 whoop.gl.	0	IN	NS	ns2.101domain.com.
 wi.gl.	0	IN	NS	ns1.dan.com.
