@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163469 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163526 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -324,6 +324,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 555.gl.	0	IN	NS	owen.ns.cloudflare.com.
 56.gl.	0	IN	NS	n1.xundns.com.
 56.gl.	0	IN	NS	n2.xundns.com.
+58.gl.	0	IN	NS	n1.xundns.com.
+58.gl.	0	IN	NS	n2.xundns.com.
 588.gl.	0	IN	NS	v1s1.xundns.com.
 588.gl.	0	IN	NS	v1s2.xundns.com.
 5a.gl.	0	IN	NS	ns1.systemdns.com.
@@ -345,6 +347,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 66.gl.	0	IN	NS	ns2.dan.com.
 666.gl.	0	IN	NS	ns1.domainnamedns.com.
 666.gl.	0	IN	NS	ns2.domainnamedns.com.
+68.gl.	0	IN	NS	n1.xundns.com.
+68.gl.	0	IN	NS	n2.xundns.com.
 688.gl.	0	IN	NS	ns1.domainnamedns.com.
 688.gl.	0	IN	NS	ns2.domainnamedns.com.
 69.gl.	0	IN	NS	ns1210.ispapi.net.
@@ -4184,8 +4188,6 @@ danskespil.gl.	0	IN	NS	ns1-37.azure-dns.com.
 danskespil.gl.	0	IN	NS	ns2-37.azure-dns.net.
 danskespil.gl.	0	IN	NS	ns3-37.azure-dns.org.
 danskespil.gl.	0	IN	NS	ns4-37.azure-dns.info.
-dappradars.gl.	0	IN	NS	maleah.ns.cloudflare.com.
-dappradars.gl.	0	IN	NS	merlin.ns.cloudflare.com.
 dapradar.gl.	0	IN	NS	duke.ns.cloudflare.com.
 dapradar.gl.	0	IN	NS	celine.ns.cloudflare.com.
 darag.gl.	0	IN	NS	ns0.terralink.de.
@@ -8345,6 +8347,10 @@ ilj.gl.	0	IN	NS	ns4.gigahost.dk.
 ilj.gl.	0	IN	NS	ns5.gigahost.dk.
 ill.gl.	0	IN	NS	desi.ns.cloudflare.com.
 ill.gl.	0	IN	NS	porter.ns.cloudflare.com.
+illerfissarsiutileqatigiit.gl.	0	IN	NS	a.hosting.gl.
+illerfissarsiutileqatigiit.gl.	0	IN	NS	b.hosting.gl.
+illerfissarsiutileqatigiit.gl.	0	IN	NS	c.hosting.gl.
+illerfissarsiutileqatigiit.gl.	0	IN	NS	d.hosting.gl.
 illersuisoq.gl.	0	IN	NS	ns1.curanet.dk.
 illersuisoq.gl.	0	IN	NS	ns2.curanet.dk.
 illersuisuuneq.gl.	0	IN	NS	ns1.simply.com.
@@ -14421,7 +14427,7 @@ onlinecasinos.gl.	0	IN	NS	ns1.bb-online.net.
 onlinecasinos.gl.	0	IN	NS	ns2.bb-online.org.
 onlinecasinos.gl.	0	IN	NS	ns3.bb-online.info.
 onlinecasinos.gl.	0	IN	NS	ns4.bb-online.biz.
-onlinecasinos.gl.	0	IN	DS	37519 8 2 247ea78562e1a05aad16a0af49eecd7e6dc4e18f94bc3bdf16417f15400b9b3b
+onlinecasinos.gl.	0	IN	DS	20344 8 2 b4fef429f2abb6c344972352314cdee26ae38e55197a5af194adf27dcd1ade30
 onlineshop.gl.	0	IN	NS	ns.gransy.com.
 onlineshop.gl.	0	IN	NS	ns2.gransy.com.
 onlineshop.gl.	0	IN	NS	ns3.gransy.com.
@@ -15948,8 +15954,8 @@ rampen.gl.	0	IN	DS	47336 15 4 33bbe78a40af0be4bed8db7d0e1061be4c4cda4cc0e51ba12c
 ran.gl.	0	IN	NS	ns1.hyp.net.
 ran.gl.	0	IN	NS	ns2.hyp.net.
 ran.gl.	0	IN	NS	ns3.hyp.net.
-ran.gl.	0	IN	DS	49556 13 2 f3adedc7804b1339e0d46a639fb9f0f360d22860eb0aaa937c507fedc5eebb09
-ran.gl.	0	IN	DS	49556 13 4 00f1ee6531d8c98a97c2f2db7d7dbc7f124ea0b9fe1d735ee3964affec40cf8ff6112907a51b66f85fccbaea80a5fbb8
+ran.gl.	0	IN	DS	64946 15 2 911b3da50bbeae986d4209c29f30fe372c3db76880b5c9f2c7a85765b6deaa46
+ran.gl.	0	IN	DS	64946 15 4 1551f1bf683a660c8221b965fb844270437549928a945a026013178c583e13ffd39692b861b425d6054126d2893698b0
 rapido.gl.	0	IN	NS	ns1.101domain.com.
 rapido.gl.	0	IN	NS	ns2.101domain.com.
 rapido.gl.	0	IN	NS	ns5.101domain.com.

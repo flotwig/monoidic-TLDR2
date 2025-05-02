@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746137101 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746223502 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -166,6 +166,8 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 99daysco.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 a.mw.	0	IN	NS	domwe.sdn.mw.
 a.mw.	0	IN	NS	nyala.sdnp.org.mw.
+a5iv.mw.	0	IN	NS	ns1.vercel-dns.com.
+a5iv.mw.	0	IN	NS	ns2.vercel-dns.com.
 abb.mw.	0	IN	NS	a4-64.akam.net.
 abb.mw.	0	IN	NS	a7-64.akam.net.
 abb.mw.	0	IN	NS	a1-226.akam.net.
@@ -1114,6 +1116,8 @@ citigroup.mw.	0	IN	NS	ns.citicorp.com.
 citigroup.mw.	0	IN	NS	ns2.citicorp.com.
 clariant.mw.	0	IN	NS	dns1.cscdns.net.
 clariant.mw.	0	IN	NS	dns2.cscdns.net.
+clicktech.mw.	0	IN	NS	ns1.ipage.com.
+clicktech.mw.	0	IN	NS	ns2.ipage.com.
 climatepledge.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
 climatepledge.mw.	0	IN	NS	nssui.comlaude.ch.
 climatepledge.mw.	0	IN	NS	nsusa.comlaude.net.
@@ -2159,9 +2163,8 @@ hollywoodbet.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbet.mw.	0	IN	NS	ns2.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns2.101domain.com.
-honey.mw.	0	IN	NS	dns1.web-hosting.com.
-honey.mw.	0	IN	NS	dns1.namecheaphosting.com.
-honey.mw.	0	IN	NS	dns2.namecheaphosting.com.
+honey.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
+honey.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
 hopeedu.mw.	0	IN	NS	nyala.sdnp.org.mw.
 hopetv.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3267,8 +3270,8 @@ mmif.mw.	0	IN	NS	ns1.blingmw.com.
 mmif.mw.	0	IN	NS	ns2.blingmw.com.
 mmj.mw.	0	IN	NS	ns1.medcol.mw.
 mmj.mw.	0	IN	NS	nyala.sdnp.org.mw.
-mmklodge.mw.	0	IN	NS	domwe.sdn.mw.
-mmklodge.mw.	0	IN	NS	nyala.sdnp.org.mw.
+mmklodge.mw.	0	IN	NS	ns1.websitewelcome.com.
+mmklodge.mw.	0	IN	NS	ns2.websitewelcome.com.
 mmra.mw.	0	IN	NS	ns1.blingmw.com.
 mmra.mw.	0	IN	NS	ns2.blingmw.com.
 mmtaxadvisory.mw.	0	IN	NS	maxdns.globemw.net.

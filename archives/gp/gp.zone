@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025050120 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025050222 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -665,6 +665,8 @@ bbva.gp.	0	IN	NS	a3-66.akam.net.
 bbva.gp.	0	IN	NS	a4-67.akam.net.
 bbva.gp.	0	IN	NS	a6-64.akam.net.
 bbva.gp.	0	IN	NS	a1-166.akam.net.
+bd.gp.	0	IN	NS	ray.ns.cloudflare.com.
+bd.gp.	0	IN	NS	molly.ns.cloudflare.com.
 bda.gp.	0	IN	NS	ns15.ovh.net.
 bda.gp.	0	IN	NS	dns15.ovh.net.
 bdm.gp.	0	IN	NS	ns1.bdmi.net.
@@ -3158,6 +3160,8 @@ macte.gp.	0	IN	NS	ns111.ovh.net.
 macte.gp.	0	IN	NS	dns111.ovh.net.
 madame-v.gp.	0	IN	NS	ns1.cloudns.net.
 madame-v.gp.	0	IN	NS	ns2.cloudns.net.
+madnix.gp.	0	IN	NS	ns01.trademarkarea.com.
+madnix.gp.	0	IN	NS	ns02.trademarkarea.com.
 madrid.gp.	0	IN	NS	kiki.ns.cloudflare.com.
 madrid.gp.	0	IN	NS	achiel.ns.cloudflare.com.
 madring.gp.	0	IN	NS	kiki.ns.cloudflare.com.
@@ -5449,6 +5453,9 @@ winlight.gp.	0	IN	NS	ns3.netim.net.
 winner.gp.	0	IN	NS	dns1.idp365.net.
 winner.gp.	0	IN	NS	dns2.idp365.net.
 winner.gp.	0	IN	NS	dns3.idp365.net.
+winoui.gp.	0	IN	NS	ns01.trademarkarea.com.
+winoui.gp.	0	IN	NS	ns02.trademarkarea.com.
+winoui.gp.	0	IN	NS	ns03.trademarkarea.com.
 witech.gp.	0	IN	NS	ns14.ovh.net.
 witech.gp.	0	IN	NS	dns14.ovh.net.
 wkkelloggco.gp.	0	IN	NS	dns1.cscdns.net.
