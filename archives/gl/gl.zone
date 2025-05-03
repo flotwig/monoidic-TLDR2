@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163526 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163583 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -7532,8 +7532,8 @@ hereford.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 hermes.gl.	0	IN	NS	1-you.njalla.no.
 hermes.gl.	0	IN	NS	2-can.njalla.in.
 hermes.gl.	0	IN	NS	3-get.njalla.fo.
-heu.gl.	0	IN	NS	ns.namespace4you.de.
-heu.gl.	0	IN	NS	ns2.namespace4you.de.
+heu.gl.	0	IN	NS	ns45.domaincontrol.com.
+heu.gl.	0	IN	NS	ns46.domaincontrol.com.
 hewitt.gl.	0	IN	NS	gabe.ns.cloudflare.com.
 hewitt.gl.	0	IN	NS	jacqueline.ns.cloudflare.com.
 hewlett-packard.gl.	0	IN	NS	ns1.hpe.com.
@@ -15908,8 +15908,6 @@ qz.gl.	0	IN	NS	dean.ns.cloudflare.com.
 qz.gl.	0	IN	NS	zara.ns.cloudflare.com.
 r.gl.	0	IN	NS	ns1.dan.com.
 r.gl.	0	IN	NS	ns2.dan.com.
-ra.gl.	0	IN	NS	gail.ns.cloudflare.com.
-ra.gl.	0	IN	NS	uriah.ns.cloudflare.com.
 ra10.gl.	0	IN	NS	coen.ns.cloudflare.com.
 ra10.gl.	0	IN	NS	karina.ns.cloudflare.com.
 ra5.gl.	0	IN	NS	eu.atakdomain.com.

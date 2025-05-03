@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746223502 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746165901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1424,6 +1424,10 @@ dpo.mw.	0	IN	NS	ns3.onlydomains.com.
 dpogroup.mw.	0	IN	NS	ns1.onlydomains.com.
 dpogroup.mw.	0	IN	NS	ns2.onlydomains.com.
 dpogroup.mw.	0	IN	NS	ns3.onlydomains.com.
+dpp.mw.	0	IN	NS	ns1.bdsmw.com.
+dpp.mw.	0	IN	NS	ns2.bdsmw.com.
+dpp.mw.	0	IN	NS	ns3.bdsmw.com.
+dpp.mw.	0	IN	NS	ns4.bdsmw.com.
 dr.mw.	0	IN	NS	ns1.101domain.com.
 dr.mw.	0	IN	NS	ns2.101domain.com.
 dragonflyservices.mw.	0	IN	NS	ns1.dns-h.com.
@@ -2163,6 +2167,9 @@ hollywoodbet.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbet.mw.	0	IN	NS	ns2.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns2.101domain.com.
+honey.mw.	0	IN	NS	dns1.web-hosting.com.
+honey.mw.	0	IN	NS	dns1.namecheaphosting.com.
+honey.mw.	0	IN	NS	dns2.namecheaphosting.com.
 honey.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 honey.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3272,6 +3279,8 @@ mmj.mw.	0	IN	NS	ns1.medcol.mw.
 mmj.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmklodge.mw.	0	IN	NS	ns1.websitewelcome.com.
 mmklodge.mw.	0	IN	NS	ns2.websitewelcome.com.
+mmklodge.mw.	0	IN	NS	domwe.sdn.mw.
+mmklodge.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmra.mw.	0	IN	NS	ns1.blingmw.com.
 mmra.mw.	0	IN	NS	ns2.blingmw.com.
 mmtaxadvisory.mw.	0	IN	NS	maxdns.globemw.net.
@@ -4989,6 +4998,8 @@ ups.mw.	0	IN	NS	dns1.cscdns.net.
 ups.mw.	0	IN	NS	dns2.cscdns.net.
 usdt.mw.	0	IN	NS	ns1.netsto.net.
 usdt.mw.	0	IN	NS	ns2.netsto.net.
+usdt.mw.	0	IN	NS	ns-386.awsdns-48.com.
+usdt.mw.	0	IN	NS	ns-533.awsdns-02.net.
 usf.mw.	0	IN	NS	ns1.bdsmw.com.
 usf.mw.	0	IN	NS	ns2.bdsmw.com.
 usf.mw.	0	IN	NS	ns3.bdsmw.com.
