@@ -1,10 +1,12 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `g.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
+* `arpa.` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `c.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `f.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
@@ -25,7 +27,6 @@
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
-* `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `ps.` via `bilal.pnina.ps.`: [Click here to view zone data.](archives/ps/ps.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
