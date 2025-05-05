@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163640 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163696 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -248,8 +248,6 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 33.gl.	0	IN	NS	ns2.registry-server.com.
 345.gl.	0	IN	NS	ns1.netsto.net.
 345.gl.	0	IN	NS	ns2.netsto.net.
-360.gl.	0	IN	NS	ns1.bodis.com.
-360.gl.	0	IN	NS	ns2.bodis.com.
 363636.gl.	0	IN	NS	ns1.curanet.dk.
 363636.gl.	0	IN	NS	ns2.curanet.dk.
 36485.gl.	0	IN	NS	ns1.netsto.net.
@@ -712,10 +710,6 @@ affald.gl.	0	IN	NS	ns3.modulo.gl.
 ag.gl.	0	IN	NS	ns1.modulo.gl.
 ag.gl.	0	IN	NS	ns2.modulo.gl.
 ag.gl.	0	IN	NS	ns3.modulo.gl.
-agency.gl.	0	IN	NS	a.hosting.gl.
-agency.gl.	0	IN	NS	b.hosting.gl.
-agency.gl.	0	IN	NS	c.hosting.gl.
-agency.gl.	0	IN	NS	d.hosting.gl.
 agent.gl.	0	IN	NS	pns41.cloudns.net.
 agent.gl.	0	IN	NS	pns42.cloudns.net.
 agent.gl.	0	IN	NS	pns43.cloudns.net.
@@ -1594,6 +1588,10 @@ arcticproaccounting.gl.	0	IN	NS	d.hosting.gl.
 arcticrental.gl.	0	IN	NS	ns1.modulo.gl.
 arcticrental.gl.	0	IN	NS	ns2.modulo.gl.
 arcticrental.gl.	0	IN	NS	ns3.modulo.gl.
+arcticrentals.gl.	0	IN	NS	ns1.simply.com.
+arcticrentals.gl.	0	IN	NS	ns2.simply.com.
+arcticrentals.gl.	0	IN	NS	ns3.simply.com.
+arcticrentals.gl.	0	IN	DS	37568 13 2 fa91e1feb967000c8138d408babb272bc6e8210e0523b43249787436d67904b8
 arcticseaweed.gl.	0	IN	NS	ns01.one.com.
 arcticseaweed.gl.	0	IN	NS	ns02.one.com.
 arcticsecurity.gl.	0	IN	NS	ns1.nunahosting.net.
@@ -2465,8 +2463,8 @@ beredskabsinfo.gl.	0	IN	NS	ns3.modulo.gl.
 berg.gl.	0	IN	NS	ns1.hyp.net.
 berg.gl.	0	IN	NS	ns2.hyp.net.
 berg.gl.	0	IN	NS	ns3.hyp.net.
-berg.gl.	0	IN	DS	28132 13 2 5b8283a618daf802a53665357f1847c34956be5706d212a11100ce582100ddb0
-berg.gl.	0	IN	DS	28132 13 4 431f031f7471cd2f9c9a7e13889c7f49b92d9cb0d3fe948aadbda9d8b9c5d5dd0f5aff6388344b0e982a16ea859fc062
+berg.gl.	0	IN	DS	35820 15 2 f828fc3005a139e61d96a2164e2e6021a5fd3f27602a26a3bdf3674c6d2930b7
+berg.gl.	0	IN	DS	35820 15 4 bd6799456d90686e2d2e768eb33a614e1a571b29ebeea3b7e3675c79fe16d579aaf2803d04b7fd913a3697630cb311a6
 berger.gl.	0	IN	NS	ns1.variomedia.de.
 berger.gl.	0	IN	NS	ns2.variomedia.de.
 berggenuss.gl.	0	IN	NS	ns1.cyon.ch.
@@ -4965,8 +4963,9 @@ eduroam.gl.	0	IN	NS	ns-soa.darenet.dk.
 eduroam.gl.	0	IN	DS	11394 13 2 89629e94d0555cdb966bbbba79370297976fd3090ae8c393c9b6b441be48514f
 edv.gl.	0	IN	NS	ns.checkdomain.de.
 edv.gl.	0	IN	NS	ns2.checkdomain.de.
-ee.gl.	0	IN	NS	ns1.sav.com.
-ee.gl.	0	IN	NS	ns2.sav.com.
+ee.gl.	0	IN	NS	ns1.afternic.com.
+ee.gl.	0	IN	NS	ns2.afternic.com.
+ee.gl.	0	IN	NS	verification-mjzgwbegydtnz5nquch3e2.ns101.verify.hn.
 eee.gl.	0	IN	NS	a5.share-dns.com.
 eee.gl.	0	IN	NS	b5.share-dns.net.
 ef.gl.	0	IN	NS	pam.ns.cloudflare.com.
@@ -7120,9 +7119,6 @@ greenmin.gl.	0	IN	NS	ryan.ns.cloudflare.com.
 greenmin.gl.	0	IN	NS	fatima.ns.cloudflare.com.
 greennet.gl.	0	IN	NS	a.ns.tusass.gl.
 greennet.gl.	0	IN	NS	b.ns.tusass.gl.
-greenpeace.gl.	0	IN	NS	ns-37-c.gandi.net.
-greenpeace.gl.	0	IN	NS	ns-43-b.gandi.net.
-greenpeace.gl.	0	IN	NS	ns-94-a.gandi.net.
 greensparsolution.gl.	0	IN	NS	a.hosting.gl.
 greensparsolution.gl.	0	IN	NS	b.hosting.gl.
 greensparsolution.gl.	0	IN	NS	c.hosting.gl.
@@ -7502,9 +7498,6 @@ hds.gl.	0	IN	NS	ns3.iwantmyname.net.
 hds.gl.	0	IN	NS	ns4.iwantmyname.net.
 he.gl.	0	IN	NS	ns1.aftermarket.com.
 he.gl.	0	IN	NS	ns2.aftermarket.com.
-health.gl.	0	IN	NS	ns1.sedoparking.com.
-health.gl.	0	IN	NS	ns2.sedoparking.com.
-health.gl.	0	IN	NS	verification-ivgrjvjkrzbgkhmtmq2uzh.ns101.verify.hn.
 hedegaard.gl.	0	IN	NS	ns1.curanet.dk.
 hedegaard.gl.	0	IN	NS	ns2.curanet.dk.
 hei.gl.	0	IN	NS	ns1.tgc.de.
@@ -7600,9 +7593,8 @@ hid.gl.	0	IN	NS	ns4.linode.com.
 hid.gl.	0	IN	NS	ns5.linode.com.
 hidem3ga.gl.	0	IN	NS	jonah.ns.cloudflare.com.
 hidem3ga.gl.	0	IN	NS	rihana.ns.cloudflare.com.
-hie.gl.	0	IN	NS	ns-1-a.gandi.net.
-hie.gl.	0	IN	NS	ns-67-c.gandi.net.
-hie.gl.	0	IN	NS	ns-243-b.gandi.net.
+hie.gl.	0	IN	NS	ns4i.nshost2.de.
+hie.gl.	0	IN	NS	ns5i.nshost2.net.
 hiero.gl.	0	IN	NS	ns1.vercel-dns.com.
 hiero.gl.	0	IN	NS	ns2.vercel-dns.com.
 hiking.gl.	0	IN	NS	ns1.omninet.dk.
@@ -9584,9 +9576,6 @@ kalaallitnunaatapolitiivi.gl.	0	IN	NS	udns1.cscdns.net.
 kalaallitnunaatapolitiivi.gl.	0	IN	NS	udns2.cscdns.uk.
 kalak.gl.	0	IN	NS	ns13.hawkhost.com.
 kalak.gl.	0	IN	NS	ns14.hawkhost.com.
-kalberwurst.gl.	0	IN	NS	ns-17-a.gandi.net.
-kalberwurst.gl.	0	IN	NS	ns-124-c.gandi.net.
-kalberwurst.gl.	0	IN	NS	ns-180-b.gandi.net.
 kalif.gl.	0	IN	NS	ns.web-solutions.dk.
 kalif.gl.	0	IN	NS	ns2.web-solutions.dk.
 kalilin.gl.	0	IN	NS	ns1.modulo.gl.
@@ -17430,10 +17419,6 @@ snow.gl.	0	IN	NS	ns1.nunahosting.net.
 snow.gl.	0	IN	NS	ns2.nunahosting.net.
 snow.gl.	0	IN	NS	ns3.nunahosting.net.
 snow.gl.	0	IN	NS	ns4.nunahosting.net.
-snowman.gl.	0	IN	NS	ns1.supercp.com.
-snowman.gl.	0	IN	NS	ns2.supercp.com.
-snowman.gl.	0	IN	NS	ns3.supercp.com.
-snowman.gl.	0	IN	NS	ns4.supercp.com.
 snu.gl.	0	IN	NS	ns1.hyp.net.
 snu.gl.	0	IN	NS	ns2.hyp.net.
 snu.gl.	0	IN	NS	ns3.hyp.net.
@@ -19370,9 +19355,9 @@ udlejning.gl.	0	IN	NS	d.hosting.gl.
 udsalg.gl.	0	IN	NS	ns.dandomain.dk.
 udsalg.gl.	0	IN	NS	ns2.dandomain.dk.
 udsalg.gl.	0	IN	NS	ns3.dandomain.dk.
-ufavr.gl.	0	IN	NS	ns1.hyp.net.
-ufavr.gl.	0	IN	NS	ns2.hyp.net.
-ufavr.gl.	0	IN	NS	ns3.hyp.net.
+ufavr.gl.	0	IN	NS	ns1.expireddomain.hyp.net.
+ufavr.gl.	0	IN	NS	ns2.expireddomain.hyp.net.
+ufavr.gl.	0	IN	NS	ns3.expireddomain.hyp.net.
 ufavr.gl.	0	IN	DS	53098 15 2 56062074954d74c17607b3a2b320430739c3d8a4e3acf702d59a6a31bbb17e22
 ufavr.gl.	0	IN	DS	53098 15 4 820a0c25dc39934c261d61746cf43c59245d2e608f7e4e19d0ff186eaa67c121209667f7c2fc40bf6ec35ce094a06716
 ufb.gl.	0	IN	NS	ns1.aputit.gl.
@@ -20089,8 +20074,8 @@ vuu.gl.	0	IN	NS	ns1.iwantmyname.net.
 vuu.gl.	0	IN	NS	ns2.iwantmyname.net.
 vuu.gl.	0	IN	NS	ns3.iwantmyname.net.
 vuu.gl.	0	IN	NS	ns4.iwantmyname.net.
-vv.gl.	0	IN	NS	ns1.sav.com.
-vv.gl.	0	IN	NS	ns2.sav.com.
+vv.gl.	0	IN	NS	ns1.afternic.com.
+vv.gl.	0	IN	NS	ns2.afternic.com.
 vve.gl.	0	IN	NS	ns1.kimik-it.gl.
 vve.gl.	0	IN	NS	ns2.kimik-it.gl.
 vvs.gl.	0	IN	NS	ns1.hosting.inuit.gl.

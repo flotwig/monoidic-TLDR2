@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746396301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746165901 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -92,6 +92,8 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 511world.mw.	0	IN	NS	ns5.markmonitor.com.
 511world.mw.	0	IN	NS	ns6.markmonitor.com.
 511world.mw.	0	IN	NS	ns7.markmonitor.com.
+521.mw.	0	IN	NS	ns1.netsto.net.
+521.mw.	0	IN	NS	ns2.netsto.net.
 55.mw.	0	IN	NS	ns1.dns.com.
 55.mw.	0	IN	NS	ns2.dns.com.
 5movierulz.mw.	0	IN	NS	ns1.google.com.
@@ -248,6 +250,8 @@ agyw.mw.	0	IN	NS	ns1.mtlonline.mw.
 agyw.mw.	0	IN	NS	ns2.mtlonline.mw.
 ahltobaccosales.mw.	0	IN	NS	ns1.prowebmw.org.
 ahltobaccosales.mw.	0	IN	NS	ns2.prowebmw.org.
+ai.mw.	0	IN	NS	ns1.dyna-ns.net.
+ai.mw.	0	IN	NS	ns2.dyna-ns.net.
 aiccafrica.mw.	0	IN	NS	ns2.globemw.com.
 aiccafrica.mw.	0	IN	NS	ns3.globemw.com.
 aicpa.mw.	0	IN	NS	ns1.markmonitor.com.
@@ -1510,12 +1514,18 @@ edet.mw.	0	IN	NS	melkor.ngninfra.net.
 edet.mw.	0	IN	NS	tilion.ngninfra.net.
 edf.mw.	0	IN	NS	ruben.ns.cloudflare.com.
 edf.mw.	0	IN	NS	savanna.ns.cloudflare.com.
+edf-power.mw.	0	IN	NS	nsa.perf1.fr.
+edf-power.mw.	0	IN	NS	nsb.perf1.com.
+edf-power.mw.	0	IN	NS	nsc.perf1.com.
 edf-power.mw.	0	IN	NS	ns1-a.nadns1.fr.
 edf-power.mw.	0	IN	NS	ns1-b.nadns1.com.
 edf-power.mw.	0	IN	NS	ns1-c.nadns1.com.
 edf-power-solutions.mw.	0	IN	NS	ns1-a.nadns1.fr.
 edf-power-solutions.mw.	0	IN	NS	ns1-b.nadns1.com.
 edf-power-solutions.mw.	0	IN	NS	ns1-c.nadns1.com.
+edf-powersolutions.mw.	0	IN	NS	nsa.perf1.fr.
+edf-powersolutions.mw.	0	IN	NS	nsb.perf1.com.
+edf-powersolutions.mw.	0	IN	NS	nsc.perf1.com.
 edf-powersolutions.mw.	0	IN	NS	ns1-a.nadns1.fr.
 edf-powersolutions.mw.	0	IN	NS	ns1-b.nadns1.com.
 edf-powersolutions.mw.	0	IN	NS	ns1-c.nadns1.com.
@@ -2167,6 +2177,9 @@ hollywoodbet.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbet.mw.	0	IN	NS	ns2.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns2.101domain.com.
+honey.mw.	0	IN	NS	dns1.web-hosting.com.
+honey.mw.	0	IN	NS	dns1.namecheaphosting.com.
+honey.mw.	0	IN	NS	dns2.namecheaphosting.com.
 honey.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 honey.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3276,6 +3289,8 @@ mmj.mw.	0	IN	NS	ns1.medcol.mw.
 mmj.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmklodge.mw.	0	IN	NS	ns1.websitewelcome.com.
 mmklodge.mw.	0	IN	NS	ns2.websitewelcome.com.
+mmklodge.mw.	0	IN	NS	domwe.sdn.mw.
+mmklodge.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmra.mw.	0	IN	NS	ns1.blingmw.com.
 mmra.mw.	0	IN	NS	ns2.blingmw.com.
 mmtaxadvisory.mw.	0	IN	NS	maxdns.globemw.net.
@@ -3741,6 +3756,8 @@ obo.mw.	0	IN	NS	auth04.ns.de.uu.net.
 obo.mw.	0	IN	NS	auth54.ns.de.uu.net.
 ocl.mw.	0	IN	NS	ns1.mtlonline.mw.
 ocl.mw.	0	IN	NS	ns2.mtlonline.mw.
+ocof.mw.	0	IN	NS	ns1.cloud-a8ed1b.managed-vps.net.
+ocof.mw.	0	IN	NS	ns2.cloud-a8ed1b.managed-vps.net.
 octa.mw.	0	IN	NS	ns01.trademarkarea.com.
 octa.mw.	0	IN	NS	ns02.trademarkarea.com.
 octa.mw.	0	IN	NS	ns03.trademarkarea.com.
@@ -4991,6 +5008,8 @@ upfront.mw.	0	IN	NS	ns1.orangehost.com.
 upfront.mw.	0	IN	NS	ns2.orangehost.com.
 ups.mw.	0	IN	NS	dns1.cscdns.net.
 ups.mw.	0	IN	NS	dns2.cscdns.net.
+usdt.mw.	0	IN	NS	ns1.netsto.net.
+usdt.mw.	0	IN	NS	ns2.netsto.net.
 usdt.mw.	0	IN	NS	ns-386.awsdns-48.com.
 usdt.mw.	0	IN	NS	ns-533.awsdns-02.net.
 usf.mw.	0	IN	NS	ns1.bdsmw.com.
