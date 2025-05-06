@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746165901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1746569101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -1045,8 +1045,10 @@ chancofm.mw.	0	IN	NS	ns1.bdsmw.com.
 chancofm.mw.	0	IN	NS	ns2.bdsmw.com.
 chancofm.mw.	0	IN	NS	ns3.bdsmw.com.
 chancofm.mw.	0	IN	NS	ns4.bdsmw.com.
-chancoradio.mw.	0	IN	NS	domwe.sdn.mw.
-chancoradio.mw.	0	IN	NS	nyala.sdnp.org.mw.
+chancoradio.mw.	0	IN	NS	ns1.bdsmw.com.
+chancoradio.mw.	0	IN	NS	ns2.bdsmw.com.
+chancoradio.mw.	0	IN	NS	ns3.bdsmw.com.
+chancoradio.mw.	0	IN	NS	ns4.bdsmw.com.
 chanel.mw.	0	IN	NS	dns1.cscdns.net.
 chanel.mw.	0	IN	NS	dns2.cscdns.net.
 changupageni.mw.	0	IN	NS	ns1.lexsynergy.net.
@@ -1517,27 +1519,21 @@ edf.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 edf-power.mw.	0	IN	NS	nsa.perf1.fr.
 edf-power.mw.	0	IN	NS	nsb.perf1.com.
 edf-power.mw.	0	IN	NS	nsc.perf1.com.
-edf-power.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edf-power.mw.	0	IN	NS	ns1-b.nadns1.com.
-edf-power.mw.	0	IN	NS	ns1-c.nadns1.com.
-edf-power-solutions.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edf-power-solutions.mw.	0	IN	NS	ns1-b.nadns1.com.
-edf-power-solutions.mw.	0	IN	NS	ns1-c.nadns1.com.
+edf-power-solutions.mw.	0	IN	NS	nsa.perf1.fr.
+edf-power-solutions.mw.	0	IN	NS	nsb.perf1.com.
+edf-power-solutions.mw.	0	IN	NS	nsc.perf1.com.
 edf-powersolutions.mw.	0	IN	NS	nsa.perf1.fr.
 edf-powersolutions.mw.	0	IN	NS	nsb.perf1.com.
 edf-powersolutions.mw.	0	IN	NS	nsc.perf1.com.
-edf-powersolutions.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edf-powersolutions.mw.	0	IN	NS	ns1-b.nadns1.com.
-edf-powersolutions.mw.	0	IN	NS	ns1-c.nadns1.com.
-edf-ps.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edf-ps.mw.	0	IN	NS	ns1-b.nadns1.com.
-edf-ps.mw.	0	IN	NS	ns1-c.nadns1.com.
-edfpower.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edfpower.mw.	0	IN	NS	ns1-b.nadns1.com.
-edfpower.mw.	0	IN	NS	ns1-c.nadns1.com.
-edfpowersolutions.mw.	0	IN	NS	ns1-a.nadns1.fr.
-edfpowersolutions.mw.	0	IN	NS	ns1-b.nadns1.com.
-edfpowersolutions.mw.	0	IN	NS	ns1-c.nadns1.com.
+edf-ps.mw.	0	IN	NS	nsa.perf1.fr.
+edf-ps.mw.	0	IN	NS	nsb.perf1.com.
+edf-ps.mw.	0	IN	NS	nsc.perf1.com.
+edfpower.mw.	0	IN	NS	nsa.perf1.fr.
+edfpower.mw.	0	IN	NS	nsb.perf1.com.
+edfpower.mw.	0	IN	NS	nsc.perf1.com.
+edfpowersolutions.mw.	0	IN	NS	nsa.perf1.fr.
+edfpowersolutions.mw.	0	IN	NS	nsb.perf1.com.
+edfpowersolutions.mw.	0	IN	NS	nsc.perf1.com.
 edgetech.mw.	0	IN	NS	dns51.cloudns.net.
 edgetech.mw.	0	IN	NS	dns52.cloudns.net.
 edgetechnologies.mw.	0	IN	NS	dns51.cloudns.net.
@@ -2177,9 +2173,6 @@ hollywoodbet.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbet.mw.	0	IN	NS	ns2.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns1.101domain.com.
 hollywoodbets.mw.	0	IN	NS	ns2.101domain.com.
-honey.mw.	0	IN	NS	dns1.web-hosting.com.
-honey.mw.	0	IN	NS	dns1.namecheaphosting.com.
-honey.mw.	0	IN	NS	dns2.namecheaphosting.com.
 honey.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 honey.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3289,8 +3282,6 @@ mmj.mw.	0	IN	NS	ns1.medcol.mw.
 mmj.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmklodge.mw.	0	IN	NS	ns1.websitewelcome.com.
 mmklodge.mw.	0	IN	NS	ns2.websitewelcome.com.
-mmklodge.mw.	0	IN	NS	domwe.sdn.mw.
-mmklodge.mw.	0	IN	NS	nyala.sdnp.org.mw.
 mmra.mw.	0	IN	NS	ns1.blingmw.com.
 mmra.mw.	0	IN	NS	ns2.blingmw.com.
 mmtaxadvisory.mw.	0	IN	NS	maxdns.globemw.net.
@@ -5008,8 +4999,6 @@ upfront.mw.	0	IN	NS	ns1.orangehost.com.
 upfront.mw.	0	IN	NS	ns2.orangehost.com.
 ups.mw.	0	IN	NS	dns1.cscdns.net.
 ups.mw.	0	IN	NS	dns2.cscdns.net.
-usdt.mw.	0	IN	NS	ns1.netsto.net.
-usdt.mw.	0	IN	NS	ns2.netsto.net.
 usdt.mw.	0	IN	NS	ns-386.awsdns-48.com.
 usdt.mw.	0	IN	NS	ns-533.awsdns-02.net.
 usf.mw.	0	IN	NS	ns1.bdsmw.com.

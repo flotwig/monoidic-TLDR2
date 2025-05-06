@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025050502 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2025050603 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -15,7 +15,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025050502 1 1 eb92a357d83026579e2d2617d0d95f0a957003fdd4b2cfe8205a3614f1e9158021eada29c3dd600958f8ea36bcd81d94
+.	0	IN	ZONEMD	2025050603 1 1 1aacdd0838a6b3513aa3f3da57f519502c14f771125765f7d83887d5fbbda8be71231ed7288f8ac73065e7565d2483c5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7003,8 +7003,8 @@ d.nic.gd.	0	IN	AAAA	2a04:2b00:13ff::88
 gdn.	0	IN	NS	ns1.nic.gdn.
 gdn.	0	IN	NS	ns3.nic.gdn.
 gdn.	0	IN	NS	ns4.nic.gdn.
-gdn.	0	IN	DS	28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
 gdn.	0	IN	DS	31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
+gdn.	0	IN	DS	51961 8 1 560ebea2094d97bb3bab16b77a706d00ec30c203
 ns1.nic.gdn.	0	IN	A	194.0.25.18
 ns1.nic.gdn.	0	IN	AAAA	2001:678:20::18
 ns3.nic.gdn.	0	IN	A	194.0.26.11
@@ -11695,7 +11695,7 @@ my.	0	IN	NS	a1.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
-my.	0	IN	DS	47187 13 2 69cf872e81a6fc820f49b3257fd44af73ef3c8c01fab3b70f992d0dc650fbf57
+my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
 a1.nic.my.	0	IN	A	202.171.47.204

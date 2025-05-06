@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163696 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163753 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -722,6 +722,9 @@ ageras.gl.	0	IN	DS	54800 13 2 50548fd473c4ec07b303cc5e84485b826bbb852b2eef3b48f5
 ageras.gl.	0	IN	DS	54800 13 4 d199291ca691b78fc10a1d8834291874a1255a20aeb91fc4ef7a0f64478793d47cee205393e496b8c72de7af3be27803
 agerskov.gl.	0	IN	NS	ns01.one.com.
 agerskov.gl.	0	IN	NS	ns02.one.com.
+agi.gl.	0	IN	NS	ns1.regery.net.
+agi.gl.	0	IN	NS	ns2.regery.net.
+agi.gl.	0	IN	NS	ns3.regery.net.
 agilenordic.gl.	0	IN	NS	ns01.one.com.
 agilenordic.gl.	0	IN	NS	ns02.one.com.
 agip.gl.	0	IN	NS	ns1.register.it.
@@ -3521,8 +3524,8 @@ cecil.gl.	0	IN	NS	d.hosting.gl.
 cedrico.gl.	0	IN	NS	ns1.hyp.net.
 cedrico.gl.	0	IN	NS	ns2.hyp.net.
 cedrico.gl.	0	IN	NS	ns3.hyp.net.
-cedrico.gl.	0	IN	DS	36341 13 2 c37f644b4ea79c9b1c3cc1a2205d7ef04489d519a0a44350de7656c851026da1
-cedrico.gl.	0	IN	DS	36341 13 4 17032e4fe13ccac31be157eb77e7545eabb592fcc0797d887c8352f0a79e8c8e3701af38ecb46d571400218682d7e932
+cedrico.gl.	0	IN	DS	31525 15 2 65f56ca3c7eba6c39bf508fe3a20b6dd6a34a16594b5ee2a3354ecaf20575505
+cedrico.gl.	0	IN	DS	31525 15 4 29fb1f8795efc9a1e7a7b282a1cd027b7a8c3f104b34b5ccbfe34618a85b77d076aaf7445372c831abb53170ac04c125
 ceh.gl.	0	IN	NS	ns1.simply.com.
 ceh.gl.	0	IN	NS	ns2.simply.com.
 ceh.gl.	0	IN	NS	ns3.simply.com.
@@ -4393,6 +4396,9 @@ dictator.gl.	0	IN	NS	ns1.is-fun.net.
 dictator.gl.	0	IN	NS	ns2.is-fun.net.
 dig.gl.	0	IN	NS	phil.ns.cloudflare.com.
 dig.gl.	0	IN	NS	melody.ns.cloudflare.com.
+digital.gl.	0	IN	NS	ns1.regery.net.
+digital.gl.	0	IN	NS	ns2.regery.net.
+digital.gl.	0	IN	NS	ns3.regery.net.
 digitale-vaerdier.gl.	0	IN	NS	udns1.cscdns.net.
 digitale-vaerdier.gl.	0	IN	NS	udns2.cscdns.uk.
 digitalevaerdier.gl.	0	IN	NS	udns1.cscdns.net.
@@ -7119,6 +7125,9 @@ greenmin.gl.	0	IN	NS	ryan.ns.cloudflare.com.
 greenmin.gl.	0	IN	NS	fatima.ns.cloudflare.com.
 greennet.gl.	0	IN	NS	a.ns.tusass.gl.
 greennet.gl.	0	IN	NS	b.ns.tusass.gl.
+greenpeace.gl.	0	IN	NS	ns-37-c.gandi.net.
+greenpeace.gl.	0	IN	NS	ns-43-b.gandi.net.
+greenpeace.gl.	0	IN	NS	ns-94-a.gandi.net.
 greensparsolution.gl.	0	IN	NS	a.hosting.gl.
 greensparsolution.gl.	0	IN	NS	b.hosting.gl.
 greensparsolution.gl.	0	IN	NS	c.hosting.gl.
@@ -8674,8 +8683,8 @@ intelligent-cycling.gl.	0	IN	DS	9792 13 4 bc7c00b84e70a6b1937b1287c2755396aed9ad
 interestia.gl.	0	IN	NS	ns1.hyp.net.
 interestia.gl.	0	IN	NS	ns2.hyp.net.
 interestia.gl.	0	IN	NS	ns3.hyp.net.
-interestia.gl.	0	IN	DS	47794 13 2 d4f75d9350fde79653bfe5a0aa80d020e4d7cf91dd46ab86b8118d05cb3f82e6
-interestia.gl.	0	IN	DS	47794 13 4 2d0929091b613fedbf32865a2a1112a5510cf5bbcf073c6481c0371fe7986aa77a709ceacd2a50c2df671c85d4995928
+interestia.gl.	0	IN	DS	45087 15 2 516cd212bc83667ded0be07ab512827e178c010e32188e114d2fd38190659ed2
+interestia.gl.	0	IN	DS	45087 15 4 d4078f83f89fedb216a25aee877da37bd5cf947d9e57d60777c21c0d65b43cf93a20ca5f6f75c51f2319e8a05be45939
 interflora.gl.	0	IN	NS	ns1.dlx.dk.
 interflora.gl.	0	IN	NS	ns2.dlx.dk.
 interforce.gl.	0	IN	NS	ns1.brandshelter.com.
@@ -9576,6 +9585,9 @@ kalaallitnunaatapolitiivi.gl.	0	IN	NS	udns1.cscdns.net.
 kalaallitnunaatapolitiivi.gl.	0	IN	NS	udns2.cscdns.uk.
 kalak.gl.	0	IN	NS	ns13.hawkhost.com.
 kalak.gl.	0	IN	NS	ns14.hawkhost.com.
+kalberwurst.gl.	0	IN	NS	ns-17-a.gandi.net.
+kalberwurst.gl.	0	IN	NS	ns-124-c.gandi.net.
+kalberwurst.gl.	0	IN	NS	ns-180-b.gandi.net.
 kalif.gl.	0	IN	NS	ns.web-solutions.dk.
 kalif.gl.	0	IN	NS	ns2.web-solutions.dk.
 kalilin.gl.	0	IN	NS	ns1.modulo.gl.
