@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163753 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163809 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -808,8 +808,6 @@ aircoverplus.gl.	0	IN	NS	ns4.markmonitor.com.
 aircoverplus.gl.	0	IN	NS	ns5.markmonitor.com.
 aircoverplus.gl.	0	IN	NS	ns6.markmonitor.com.
 aircoverplus.gl.	0	IN	NS	ns7.markmonitor.com.
-airdao.gl.	0	IN	NS	eva.ns.cloudflare.com.
-airdao.gl.	0	IN	NS	stan.ns.cloudflare.com.
 airfield.gl.	0	IN	NS	ns1.openprovider.nl.
 airfield.gl.	0	IN	NS	ns2.openprovider.be.
 airfield.gl.	0	IN	NS	ns3.openprovider.eu.
@@ -3132,9 +3130,8 @@ bsme.gl.	0	IN	NS	ns1.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984hosting.com.
 bsme.gl.	0	IN	NS	ns2.1984.is.
 bsme.gl.	0	IN	NS	ns2.1984hosting.com.
-bsp.gl.	0	IN	NS	ns1.webglobe.cz.
-bsp.gl.	0	IN	NS	ns2.webglobe.cz.
-bsp.gl.	0	IN	NS	ns3.webglobe.com.
+bsp.gl.	0	IN	NS	ns.parktons.com.
+bsp.gl.	0	IN	NS	ns2.parktons.com.
 bst.gl.	0	IN	NS	vera.ns.cloudflare.com.
 bst.gl.	0	IN	NS	fonzie.ns.cloudflare.com.
 bt.gl.	0	IN	NS	ns1.huaweicloud-dns.cn.
@@ -14291,8 +14288,6 @@ omgomgshop3.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgomgshop3.gl.	0	IN	NS	diana.ns.cloudflare.com.
 omgomgshop4.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgomgshop4.gl.	0	IN	NS	diana.ns.cloudflare.com.
-omgomgstore.gl.	0	IN	NS	thomas.ns.cloudflare.com.
-omgomgstore.gl.	0	IN	NS	gabriella.ns.cloudflare.com.
 omgomgzzz.gl.	0	IN	NS	eleanor.ns.cloudflare.com.
 omgomgzzz.gl.	0	IN	NS	santino.ns.cloudflare.com.
 omgpwa.gl.	0	IN	NS	eu.atakdomain.com.
@@ -14306,8 +14301,6 @@ omgshop5.gl.	0	IN	NS	ns2.regery.net.
 omgshop5.gl.	0	IN	NS	ns3.regery.net.
 omgshopzzz.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 omgshopzzz.gl.	0	IN	NS	diana.ns.cloudflare.com.
-omgstore.gl.	0	IN	NS	thomas.ns.cloudflare.com.
-omgstore.gl.	0	IN	NS	gabriella.ns.cloudflare.com.
 omgto.gl.	0	IN	NS	art.ns.cloudflare.com.
 omgto.gl.	0	IN	NS	holly.ns.cloudflare.com.
 omgto1.gl.	0	IN	NS	art.ns.cloudflare.com.
@@ -16621,8 +16614,6 @@ sarfaq.gl.	0	IN	DS	49317 13 2 aa22daab90c73d89b21c0739172a99486389bc21d6631962df
 sarfaq.gl.	0	IN	DS	49317 13 4 839dc0a34b62bc3cf69508a01fd23754e1260a131a331b56b4a890b0dbe80fea989ff4135ca9f6a4dea02f5fed51e885
 sarfarissoq.gl.	0	IN	NS	adam.ns.cloudflare.com.
 sarfarissoq.gl.	0	IN	NS	sharon.ns.cloudflare.com.
-sarfarsuit.gl.	0	IN	NS	ns1.hosting.inuit.gl.
-sarfarsuit.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 sarisari.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 sarisari.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 sarliaq.gl.	0	IN	NS	ns01.one.com.
@@ -18157,6 +18148,8 @@ sweetgreenland.gl.	0	IN	NS	d.hosting.gl.
 swerve.gl.	0	IN	NS	1-you.njalla.no.
 swerve.gl.	0	IN	NS	2-can.njalla.in.
 swerve.gl.	0	IN	NS	3-get.njalla.fo.
+swig.gl.	0	IN	NS	sri.ns.cloudflare.com.
+swig.gl.	0	IN	NS	lorna.ns.cloudflare.com.
 swimmingpool.gl.	0	IN	NS	ns.udag.de.
 swimmingpool.gl.	0	IN	NS	ns.udag.net.
 swimmingpool.gl.	0	IN	NS	ns.udag.org.
@@ -20615,6 +20608,8 @@ xpg.gl.	0	IN	NS	a.hosting.gl.
 xpg.gl.	0	IN	NS	b.hosting.gl.
 xpg.gl.	0	IN	NS	c.hosting.gl.
 xpg.gl.	0	IN	NS	d.hosting.gl.
+xq.gl.	0	IN	NS	dee.ns.cloudflare.com.
+xq.gl.	0	IN	NS	rory.ns.cloudflare.com.
 xr.gl.	0	IN	NS	ns1.hyp.net.
 xr.gl.	0	IN	NS	ns2.hyp.net.
 xr.gl.	0	IN	NS	ns3.hyp.net.

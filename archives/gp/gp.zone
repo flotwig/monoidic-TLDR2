@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025050515 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025050712 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -450,8 +450,8 @@ arrow.gp.	0	IN	NS	pdns77.ultradns.net.
 arrow.gp.	0	IN	NS	pdns77.ultradns.org.
 art.gp.	0	IN	NS	ns1.dns-parking.com.
 art.gp.	0	IN	NS	ns2.dns-parking.com.
-arteco.gp.	0	IN	NS	ns106.ovh.net.
-arteco.gp.	0	IN	NS	dns106.ovh.net.
+arteco.gp.	0	IN	NS	ns2.wixdns.net.
+arteco.gp.	0	IN	NS	ns3.wixdns.net.
 artemiscourtage.gp.	0	IN	NS	ns1.bdm.microsoftonline.com.
 artemiscourtage.gp.	0	IN	NS	ns2.bdm.microsoftonline.com.
 artemiscourtage.gp.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -5467,9 +5467,8 @@ wltr.gp.	0	IN	NS	ns1-eu.123ns.eu.
 wltr.gp.	0	IN	NS	ns2-eu.123ns.de.
 wltr.gp.	0	IN	NS	ns3-eu.123ns.eu.
 wltr.gp.	0	IN	NS	ns4-eu.123ns.de.
-wo.gp.	0	IN	NS	a.dnspod.com.
-wo.gp.	0	IN	NS	b.dnspod.com.
-wo.gp.	0	IN	NS	c.dnspod.com.
+wo.gp.	0	IN	NS	ns1-hold.netim.net.
+wo.gp.	0	IN	NS	ns2-hold.netim.net.
 wood.gp.	0	IN	NS	ns1.101domain.com.
 wood.gp.	0	IN	NS	ns2.101domain.com.
 wood.gp.	0	IN	NS	ns5.101domain.com.
