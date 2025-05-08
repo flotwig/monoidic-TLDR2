@@ -1,15 +1,15 @@
-fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025050720 21600 3600 1209600 86400
+fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025050820 21600 3600 1209600 86400
 fj.	0	IN	NS	ns1.fj.
 fj.	0	IN	NS	ns2.fj.
 fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
-fj.	0	IN	TXT	"Generation Time: 1746658214"
+fj.	0	IN	TXT	"Generation Time: 1746744610"
 fj.	0	IN	DNSKEY	256 3 15 QoFvNTfDIJB3/9xvESQtwMhxu2d430eKIXOWI0JgXpY= ;{id = 15933 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025050720 1 1 c5f014d4c3153128836c5d2d737e6de57faa4f8c51286250896d8d2a8153e3f880c1236c6d3c56b99a79b773f7567b76
-ac.fj.	0	IN	TXT	"Generation Time: 1746658216"
+fj.	0	IN	ZONEMD	2025050820 1 1 27f7caaec156319ae352f62ff6c0ed1380d37cbe0ed8100aec40d8aa1aba30a1826535d700f0cd7dd6af68efd6ede920
+ac.fj.	0	IN	TXT	"Generation Time: 1746744611"
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -119,7 +119,7 @@ votualevucollege.ac.fj.	0	IN	NS	ivan.ns.cloudflare.com.
 votualevucollege.ac.fj.	0	IN	NS	aryanna.ns.cloudflare.com.
 whi.ac.fj.	0	IN	NS	drua.tfl.com.fj.
 whi.ac.fj.	0	IN	NS	tabua.tfl.com.fj.
-biz.fj.	0	IN	TXT	"Generation Time: 1746658216"
+biz.fj.	0	IN	TXT	"Generation Time: 1746744611"
 altria.biz.fj.	0	IN	NS	dns1.cscdns.net.
 altria.biz.fj.	0	IN	NS	dns2.cscdns.net.
 brother.biz.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -153,7 +153,7 @@ vodafone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
-com.fj.	0	IN	TXT	"Generation Time: 1746658280"
+com.fj.	0	IN	TXT	"Generation Time: 1746744676"
 101domain.com.fj.	0	IN	NS	houston.ns.cloudflare.com.
 101domain.com.fj.	0	IN	NS	anastasia.ns.cloudflare.com.
 101domains.com.fj.	0	IN	NS	houston.ns.cloudflare.com.
@@ -971,6 +971,8 @@ buy.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 buy.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 bwa.com.fj.	0	IN	NS	ns1.syrahost.com.
 bwa.com.fj.	0	IN	NS	ns2.syrahost.com.
+bwal.com.fj.	0	IN	NS	ns1.syrahost.com.
+bwal.com.fj.	0	IN	NS	ns2.syrahost.com.
 bwholdings.com.fj.	0	IN	NS	ns1.kidanet.com.fj.
 bwholdings.com.fj.	0	IN	NS	ns2.kidanet.com.fj.
 c-sgroup.com.fj.	0	IN	NS	ns1.instradns.com.
@@ -3840,8 +3842,6 @@ naidulawyers.com.fj.	0	IN	NS	ns2.unwired.com.fj.
 naidulawyers.com.fj.	0	IN	NS	ns5.digicelsamoa.ws.
 naidurentals.com.fj.	0	IN	NS	ns1.techteamfiji.com.
 naidurentals.com.fj.	0	IN	NS	ns2.techteamfiji.com.
-naina.com.fj.	0	IN	NS	manu.usp.ac.fj.
-naina.com.fj.	0	IN	NS	teri.usp.ac.fj.
 naisosoislandsales.com.fj.	0	IN	NS	ns1.melbourneit.net.
 naisosoislandsales.com.fj.	0	IN	NS	ns2.melbourneit.net.
 naisosoland.com.fj.	0	IN	NS	ns1.melbourneit.net.
@@ -5002,6 +5002,11 @@ shiseido.com.fj.	0	IN	NS	ns1.webhosting.jp.
 shiseido.com.fj.	0	IN	NS	ns3.webhosting.jp.
 shl.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 shl.com.fj.	0	IN	NS	caching02.usp.ac.fj.
+shop.com.fj.	0	IN	NS	ns1.he.net.
+shop.com.fj.	0	IN	NS	ns2.he.net.
+shop.com.fj.	0	IN	NS	ns3.he.net.
+shop.com.fj.	0	IN	NS	ns4.he.net.
+shop.com.fj.	0	IN	NS	ns5.he.net.
 shopfittings.com.fj.	0	IN	NS	drua.tfl.com.fj.
 shopfittings.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 shopify.com.fj.	0	IN	NS	ns1.markmonitor.com.
@@ -6257,7 +6262,7 @@ domains.fj.	0	IN	A	144.120.141.12
 domains.fj.	0	IN	MX	5 mx0.usp.ac.fj.
 domains.fj.	0	IN	MX	5 mx1.usp.ac.fj.
 www.domains.fj.	0	IN	A	144.120.141.12
-edu.fj.	0	IN	TXT	"Generation Time: 1746658280"
+edu.fj.	0	IN	TXT	"Generation Time: 1746744677"
 navneet.edu.fj.	0	IN	NS	caching01.usp.ac.fj.
 navneet.edu.fj.	0	IN	NS	caching02.usp.ac.fj.
 ns1.sit.ac.fj.fj.	0	IN	A	162.241.241.41
@@ -6277,8 +6282,8 @@ govt.fj.	0	IN	NS	dnssecondary.auth-servers.net.
 gransy-anycast1.fj.	0	IN	A	185.28.194.194
 gransy-anycast1.fj.	0	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast2.fj.	0	IN	A	185.38.108.108
-id.fj.	0	IN	TXT	"Generation Time: 1746658216"
-info.fj.	0	IN	TXT	"Generation Time: 1746658287"
+id.fj.	0	IN	TXT	"Generation Time: 1746744611"
+info.fj.	0	IN	TXT	"Generation Time: 1746744683"
 altria.info.fj.	0	IN	NS	dns1.cscdns.net.
 altria.info.fj.	0	IN	NS	dns2.cscdns.net.
 brother.info.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -6316,7 +6321,7 @@ vodaphone.info.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.info.fj.	0	IN	NS	ns2.vodafone.net.fj.
 master.fj.	0	IN	A	144.120.141.11
 www.master.fj.	0	IN	A	144.120.141.11
-mil.fj.	0	IN	TXT	"Generation Time: 1746658280"
+mil.fj.	0	IN	TXT	"Generation Time: 1746744677"
 fijinavy.mil.fj.	0	IN	NS	drua.tfl.com.fj.
 fijinavy.mil.fj.	0	IN	NS	tabua.tfl.com.fj.
 navneet.mil.fj.	0	IN	NS	ns1.usp.ac.fj.
@@ -6331,7 +6336,7 @@ rfmfdefense.mil.fj.	0	IN	NS	ns11.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns12.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns13.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns14.dnsmadeeasy.com.
-name.fj.	0	IN	TXT	"Generation Time: 1746658288"
+name.fj.	0	IN	TXT	"Generation Time: 1746744684"
 altria.name.fj.	0	IN	NS	dns1.cscdns.net.
 altria.name.fj.	0	IN	NS	dns2.cscdns.net.
 brother.name.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -6359,10 +6364,10 @@ vodafone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
-narcotics.fj.	0	IN	TXT	"Generation Time: 1746658288"
+narcotics.fj.	0	IN	TXT	"Generation Time: 1746744684"
 navneet.narcotics.fj.	0	IN	NS	caching01.usp.ac.fj.
 navneet.narcotics.fj.	0	IN	NS	caching02.usp.ac.fj.
-net.fj.	0	IN	TXT	"Generation Time: 1746658282"
+net.fj.	0	IN	TXT	"Generation Time: 1746744679"
 3m.net.fj.	0	IN	NS	a.ns.3m.com.
 3m.net.fj.	0	IN	NS	b.ns.3m.com.
 aa.net.fj.	0	IN	NS	dns1.cscdns.net.
@@ -6530,7 +6535,7 @@ ns3.fj.	0	IN	A	185.38.108.108
 ns4.fj.	0	IN	A	185.28.194.194
 ns5.fj.	0	IN	A	204.61.216.138
 ns5.fj.	0	IN	AAAA	2001:500:14:6138:ad::1
-org.fj.	0	IN	TXT	"Generation Time: 1746658286"
+org.fj.	0	IN	TXT	"Generation Time: 1746744683"
 10000toes.org.fj.	0	IN	NS	lucy.ns.cloudflare.com.
 10000toes.org.fj.	0	IN	NS	carlos.ns.cloudflare.com.
 3m.org.fj.	0	IN	NS	a.ns.3m.com.
@@ -6905,7 +6910,7 @@ womensfund.org.fj.	0	IN	NS	ns3-06.azure-dns.org.
 womensfund.org.fj.	0	IN	NS	ns4-06.azure-dns.info.
 youthcamp.org.fj.	0	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	0	IN	NS	ns2.justhost.com.
-pro.fj.	0	IN	TXT	"Generation Time: 1746658287"
+pro.fj.	0	IN	TXT	"Generation Time: 1746744683"
 altria.pro.fj.	0	IN	NS	dns1.cscdns.net.
 altria.pro.fj.	0	IN	NS	dns2.cscdns.net.
 brother.pro.fj.	0	IN	NS	ns1.ipmirror.com.

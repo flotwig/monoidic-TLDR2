@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163809 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163866 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -720,8 +720,10 @@ ageras.gl.	0	IN	NS	ns3.simply.com.
 ageras.gl.	0	IN	NS	ns4.simply.com.
 ageras.gl.	0	IN	DS	54800 13 2 50548fd473c4ec07b303cc5e84485b826bbb852b2eef3b48f58b5325514dd2c3
 ageras.gl.	0	IN	DS	54800 13 4 d199291ca691b78fc10a1d8834291874a1255a20aeb91fc4ef7a0f64478793d47cee205393e496b8c72de7af3be27803
-agerskov.gl.	0	IN	NS	ns01.one.com.
-agerskov.gl.	0	IN	NS	ns02.one.com.
+agerskov.gl.	0	IN	NS	a.hosting.gl.
+agerskov.gl.	0	IN	NS	b.hosting.gl.
+agerskov.gl.	0	IN	NS	c.hosting.gl.
+agerskov.gl.	0	IN	NS	d.hosting.gl.
 agi.gl.	0	IN	NS	ns1.regery.net.
 agi.gl.	0	IN	NS	ns2.regery.net.
 agi.gl.	0	IN	NS	ns3.regery.net.
@@ -4968,7 +4970,6 @@ edv.gl.	0	IN	NS	ns.checkdomain.de.
 edv.gl.	0	IN	NS	ns2.checkdomain.de.
 ee.gl.	0	IN	NS	ns1.afternic.com.
 ee.gl.	0	IN	NS	ns2.afternic.com.
-ee.gl.	0	IN	NS	verification-mjzgwbegydtnz5nquch3e2.ns101.verify.hn.
 eee.gl.	0	IN	NS	a5.share-dns.com.
 eee.gl.	0	IN	NS	b5.share-dns.net.
 ef.gl.	0	IN	NS	pam.ns.cloudflare.com.
@@ -6863,11 +6864,6 @@ grace.gl.	0	IN	NS	c.hosting.gl.
 grace.gl.	0	IN	NS	d.hosting.gl.
 grail.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 grail.gl.	0	IN	NS	ns2.hosting.inuit.gl.
-gram.gl.	0	IN	NS	ns1.simply.com.
-gram.gl.	0	IN	NS	ns2.simply.com.
-gram.gl.	0	IN	NS	ns3.simply.com.
-gram.gl.	0	IN	DS	1123 13 2 5efe0e8d8821a38d172f285a81188ed6cfd569eb20a50bc638593a9eaa74c51f
-gram.gl.	0	IN	DS	1123 13 4 4641e88c296d6f071082ba7c0b6f07c09520b138cc2d11e7d3e95bbb0d3708b9707c2f1833d0a232a64ba2522c6ab94a
 granlien.gl.	0	IN	NS	ns1.simply.com.
 granlien.gl.	0	IN	NS	ns2.simply.com.
 granlien.gl.	0	IN	NS	ns3.simply.com.
@@ -8597,8 +8593,8 @@ infoek.gl.	0	IN	NS	d.hosting.gl.
 infonorden.gl.	0	IN	NS	ns1.hyp.net.
 infonorden.gl.	0	IN	NS	ns2.hyp.net.
 infonorden.gl.	0	IN	NS	ns3.hyp.net.
-infonorden.gl.	0	IN	DS	46021 13 2 0f9cb70f8f4536a39a9fa595909cd315bff767c9e87e691193f148447a29c58b
-infonorden.gl.	0	IN	DS	46021 13 4 7a5408cfd6d8d1f5c8444b6f8c11003ee1804a1eb1a0b48ab5e6bc3406d68ca05902d3165c5277dc64114cd2294ee3ca
+infonorden.gl.	0	IN	DS	61427 15 2 6b79ef53ce064e7af2bf6295e694b0bf4aa6a5a12f34421cfab703f212d9b603
+infonorden.gl.	0	IN	DS	61427 15 4 edc0802c90b941b9e3de99078edebcd82afb16c676e71e69369609b165b80a94bc8665e70d714e55da7c4fd77c1bf7c4
 infra.gl.	0	IN	NS	ns-287.awsdns-35.com.
 infra.gl.	0	IN	NS	ns-1100.awsdns-09.org.
 ingemann.gl.	0	IN	NS	ns1.digitalocean.com.
@@ -9470,10 +9466,9 @@ jysk.gl.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
 jysk.gl.	0	IN	NS	dns4.zaccodigitaltrustlabs.se.
 jz.gl.	0	IN	NS	hope.ns.cloudflare.com.
 jz.gl.	0	IN	NS	tanner.ns.cloudflare.com.
-k.gl.	0	IN	NS	ns-119.awsdns-14.com.
-k.gl.	0	IN	NS	ns-610.awsdns-12.net.
-k.gl.	0	IN	NS	ns-1413.awsdns-48.org.
-k.gl.	0	IN	NS	ns-1587.awsdns-06.co.uk.
+k.gl.	0	IN	NS	ns1.netim.net.
+k.gl.	0	IN	NS	ns2.netim.net.
+k.gl.	0	IN	NS	ns3.netim.net.
 k2.gl.	0	IN	NS	chin.ns.cloudflare.com.
 k2.gl.	0	IN	NS	major.ns.cloudflare.com.
 k9.gl.	0	IN	NS	ray.ns.cloudflare.com.
@@ -13722,6 +13717,10 @@ nukappi.gl.	0	IN	NS	ns1.nunahosting.net.
 nukappi.gl.	0	IN	NS	ns2.nunahosting.net.
 nukappi.gl.	0	IN	NS	ns3.nunahosting.net.
 nukappi.gl.	0	IN	NS	ns4.nunahosting.net.
+nukfodbold.gl.	0	IN	NS	a.hosting.gl.
+nukfodbold.gl.	0	IN	NS	b.hosting.gl.
+nukfodbold.gl.	0	IN	NS	c.hosting.gl.
+nukfodbold.gl.	0	IN	NS	d.hosting.gl.
 nukik.gl.	0	IN	NS	ns1.nukik.it.
 nukik.gl.	0	IN	NS	ns2.nukik.it.
 nukik.gl.	0	IN	NS	ns3.nukik.it.
@@ -14398,8 +14397,9 @@ onebox.gl.	0	IN	NS	ns2.j2global.com.
 onebox.gl.	0	IN	NS	ns5.j2global.com.
 onestream.gl.	0	IN	NS	ns1.101domain.com.
 onestream.gl.	0	IN	NS	ns2.101domain.com.
-onewayauto.gl.	0	IN	NS	ns1.curanet.dk.
-onewayauto.gl.	0	IN	NS	ns2.curanet.dk.
+onewayauto.gl.	0	IN	NS	ns1.netim.net.
+onewayauto.gl.	0	IN	NS	ns2.netim.net.
+onewayauto.gl.	0	IN	NS	ns3.netim.net.
 oneweb.gl.	0	IN	NS	a.hosting.gl.
 oneweb.gl.	0	IN	NS	b.hosting.gl.
 oneweb.gl.	0	IN	NS	c.hosting.gl.
@@ -15007,12 +15007,9 @@ piareersarfiit.gl.	0	IN	NS	ns3.modulo.gl.
 piareersarfik.gl.	0	IN	NS	ns1.modulo.gl.
 piareersarfik.gl.	0	IN	NS	ns2.modulo.gl.
 piareersarfik.gl.	0	IN	NS	ns3.modulo.gl.
-pico.gl.	0	IN	NS	ns1.dynu.com.
-pico.gl.	0	IN	NS	ns3.dynu.com.
-pico.gl.	0	IN	NS	ns5.dynu.com.
-pico.gl.	0	IN	NS	ns6.dynu.com.
-pico.gl.	0	IN	NS	ns10.dynu.com.
-pico.gl.	0	IN	NS	ns12.dynu.com.
+pico.gl.	0	IN	NS	ns1.desec.io.
+pico.gl.	0	IN	NS	ns2.desec.org.
+pico.gl.	0	IN	DS	54477 13 2 da49c8c4bc901ae63f90dd17838f6b6a4d027942bff3155b4c3fd79d9356bd9f
 piffik.gl.	0	IN	NS	ns8.wixdns.net.
 piffik.gl.	0	IN	NS	ns9.wixdns.net.
 pikiala.gl.	0	IN	NS	a.hosting.gl.
@@ -18738,8 +18735,13 @@ thybo.gl.	0	IN	DS	15836 13 2 029294dbdd2a4858b4927048298d1ab7bfb0bce08581aecfe91
 thybo.gl.	0	IN	DS	15836 13 4 96c098b7aa4455750d46d190a830f3719d122c4eef8ca6f9ba08dd1b15e2d6c4660aeddc177337f3e69fd9f912817c1d
 ti.gl.	0	IN	NS	ns1.aftermarket.com.
 ti.gl.	0	IN	NS	ns2.aftermarket.com.
-tibco.gl.	0	IN	NS	cloe.ns.cloudflare.com.
-tibco.gl.	0	IN	NS	kenneth.ns.cloudflare.com.
+tibco.gl.	0	IN	NS	ns1.markmonitor.com.
+tibco.gl.	0	IN	NS	ns2.markmonitor.com.
+tibco.gl.	0	IN	NS	ns3.markmonitor.com.
+tibco.gl.	0	IN	NS	ns4.markmonitor.com.
+tibco.gl.	0	IN	NS	ns5.markmonitor.com.
+tibco.gl.	0	IN	NS	ns6.markmonitor.com.
+tibco.gl.	0	IN	NS	ns7.markmonitor.com.
 tic.gl.	0	IN	NS	ca.infolitic.com.
 tic.gl.	0	IN	NS	es.infolitic.com.
 tic.gl.	0	IN	NS	pl.infolitic.com.
