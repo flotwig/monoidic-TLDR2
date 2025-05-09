@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025050909 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025051009 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -187,6 +187,8 @@ xn--94b8a4dc9kna.xn--54b7fta0cc.	0	IN	NS	dns.btcl.net.bd.
 xn--94b8a4dc9kna.xn--54b7fta0cc.	0	IN	NS	slave.btcl.net.bd.
 xn--94b8c5acs2gdb.xn--54b7fta0cc.	0	IN	NS	ns1.bcc.gov.bd.
 xn--94b8c5acs2gdb.xn--54b7fta0cc.	0	IN	NS	ns2.bcc.gov.bd.
+xn--94b8cuaqi6hcb.xn--54b7fta0cc.	0	IN	NS	dns.btcl.net.bd.
+xn--94b8cuaqi6hcb.xn--54b7fta0cc.	0	IN	NS	slave.btcl.net.bd.
 xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	0	IN	NS	vda6100a.trouble-free.net.
 xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	0	IN	NS	vda6100b.trouble-free.net.
 xn--94b8draz8e6c.xn--54b7fta0cc.	0	IN	NS	vda6100a.trouble-free.net.

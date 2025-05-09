@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163866 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163922 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -209,8 +209,6 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 2g.gl.	0	IN	NS	ns3.systemdns.com.
 2kd.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2kd.gl.	0	IN	NS	diana.ns.cloudflare.com.
-2kk.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-2kk.gl.	0	IN	NS	rihana.ns.cloudflare.com.
 2kkm.gl.	0	IN	NS	eoin.ns.cloudflare.com.
 2kkm.gl.	0	IN	NS	diana.ns.cloudflare.com.
 2kn.gl.	0	IN	NS	eoin.ns.cloudflare.com.
@@ -3115,8 +3113,8 @@ bs2shop.gl.	0	IN	NS	fred.ns.cloudflare.com.
 bs2shop.gl.	0	IN	NS	cecelia.ns.cloudflare.com.
 bs2site.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs2site.gl.	0	IN	NS	rihana.ns.cloudflare.com.
-bs2tsite1.gl.	0	IN	NS	fred.ns.cloudflare.com.
-bs2tsite1.gl.	0	IN	NS	cecelia.ns.cloudflare.com.
+bs2tsite1.gl.	0	IN	NS	lola.ns.cloudflare.com.
+bs2tsite1.gl.	0	IN	NS	george.ns.cloudflare.com.
 bs3.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs3.gl.	0	IN	NS	ligia.ns.cloudflare.com.
 bsb.gl.	0	IN	NS	ns.dandomain.dk.
@@ -7211,6 +7209,8 @@ gronlandsposten.gl.	0	IN	NS	ns3.modulo.gl.
 gronsand.gl.	0	IN	NS	ns.udag.de.
 gronsand.gl.	0	IN	NS	ns.udag.net.
 gronsand.gl.	0	IN	NS	ns.udag.org.
+ground.gl.	0	IN	NS	ns1.dnshost.net.
+ground.gl.	0	IN	NS	ns2.dnshost.net.
 group.gl.	0	IN	NS	dns1.yandex.net.
 group.gl.	0	IN	NS	dns2.yandex.net.
 growattinverter.gl.	0	IN	NS	sam.ns.cloudflare.com.
@@ -7593,8 +7593,6 @@ hid.gl.	0	IN	NS	ns2.linode.com.
 hid.gl.	0	IN	NS	ns3.linode.com.
 hid.gl.	0	IN	NS	ns4.linode.com.
 hid.gl.	0	IN	NS	ns5.linode.com.
-hidem3ga.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-hidem3ga.gl.	0	IN	NS	rihana.ns.cloudflare.com.
 hie.gl.	0	IN	NS	ns4i.nshost2.de.
 hie.gl.	0	IN	NS	ns5i.nshost2.net.
 hiero.gl.	0	IN	NS	ns1.vercel-dns.com.
@@ -7690,8 +7688,6 @@ ho.gl.	0	IN	NS	ns2.hyp.net.
 ho.gl.	0	IN	NS	ns3.hyp.net.
 ho.gl.	0	IN	DS	2702 15 2 97a014990b9d827925a23f1d865d8836e2550175838363927ca4f34092bb5ee5
 ho.gl.	0	IN	DS	2702 15 4 bf20d686480ee332940f4faa1bbe4749e3d41ac85cdb1c4f488e9b970af0182e575541162bf7647ec53d94b74fc662b5
-hoba.gl.	0	IN	NS	ns1.hosting.inuit.gl.
-hoba.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 hoe.gl.	0	IN	NS	ns1.start-dns.de.
 hoe.gl.	0	IN	NS	ns2.start-dns.de.
 hoe.gl.	0	IN	NS	ns3.start-dns.de.
@@ -9285,8 +9281,8 @@ jm.gl.	0	IN	NS	ns3.cloudintegral.com.
 jmb.gl.	0	IN	NS	ns01.one.com.
 jmb.gl.	0	IN	NS	ns02.one.com.
 jmb.gl.	0	IN	DS	30476 13 2 de5ce9a250a74bfeb09fb265f314b4af85a0b1cf08952e9a91726813c06d55f7
-jn.gl.	0	IN	NS	mary.ns.cloudflare.com.
-jn.gl.	0	IN	NS	otto.ns.cloudflare.com.
+jn.gl.	0	IN	NS	ns1-expired.sav.com.
+jn.gl.	0	IN	NS	ns2-expired.sav.com.
 jn.gl.	0	IN	DS	2371 13 2 034d67a53fd9493f436218bcf8b28587bd879f5f1fcb007042ac95b406af42a4
 jo.gl.	0	IN	NS	sid.ns.cloudflare.com.
 jo.gl.	0	IN	NS	rose.ns.cloudflare.com.
@@ -9380,8 +9376,8 @@ jrcc.gl.	0	IN	NS	a.hosting.gl.
 jrcc.gl.	0	IN	NS	b.hosting.gl.
 jrcc.gl.	0	IN	NS	c.hosting.gl.
 jrcc.gl.	0	IN	NS	d.hosting.gl.
-js.gl.	0	IN	NS	sloan.ns.cloudflare.com.
-js.gl.	0	IN	NS	peyton.ns.cloudflare.com.
+js.gl.	0	IN	NS	launch1.spaceship.net.
+js.gl.	0	IN	NS	launch2.spaceship.net.
 js.gl.	0	IN	DS	2371 13 2 ce43665a40df33c8c26f51ffc8c184b2f3da78fa007afd48fd3e188ff741562f
 jt.gl.	0	IN	NS	ns-cloud-b1.googledomains.com.
 jt.gl.	0	IN	NS	ns-cloud-b2.googledomains.com.
@@ -10568,6 +10564,11 @@ kvk.gl.	0	IN	NS	a.hosting.gl.
 kvk.gl.	0	IN	NS	b.hosting.gl.
 kvk.gl.	0	IN	NS	c.hosting.gl.
 kvk.gl.	0	IN	NS	d.hosting.gl.
+kw.gl.	0	IN	NS	ns1.site.eu.
+kw.gl.	0	IN	NS	ns2.site.nl.
+kw.gl.	0	IN	NS	ns3.site.be.
+kw.gl.	0	IN	NS	ns4.site.de.
+kw.gl.	0	IN	DS	48892 10 2 e10d5b2ef885fa07ebc303c7a45bacdb34b45d8ade7240b20146bb88ae70f240
 kylling.gl.	0	IN	NS	a.hosting.gl.
 kylling.gl.	0	IN	NS	b.hosting.gl.
 kylling.gl.	0	IN	NS	c.hosting.gl.
@@ -11812,15 +11813,6 @@ mega555kf7lsmb54yd6etzginolhxxi4ytdoma2rf77ngq55fhfcnyid.gl.	0	IN	NS	luke.ns.clo
 mega555kf7lsmb54yd6etzginolhxxi4ytdoma2rf77ngq55fhfcnyid.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 mega555net1.gl.	0	IN	NS	reese.ns.cloudflare.com.
 mega555net1.gl.	0	IN	NS	adaline.ns.cloudflare.com.
-mega555net15.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-mega555net15.gl.	0	IN	NS	rihana.ns.cloudflare.com.
-mega555net16.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-mega555net16.gl.	0	IN	NS	rihana.ns.cloudflare.com.
-mega555net17.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-mega555net17.gl.	0	IN	NS	rihana.ns.cloudflare.com.
-mega555net18.gl.	0	IN	NS	thomas.ns.cloudflare.com.
-mega555net18.gl.	0	IN	NS	gabriella.ns.cloudflare.com.
-mega555net20.gl.	0	IN	NS	rihana.ns.cloudflare.com.
 mega555toweb.gl.	0	IN	NS	coen.ns.cloudflare.com.
 mega555toweb.gl.	0	IN	NS	edna.ns.cloudflare.com.
 mega555web1.gl.	0	IN	NS	reese.ns.cloudflare.com.
@@ -15246,10 +15238,10 @@ polar-tut.gl.	0	IN	NS	ns1.supercp.com.
 polar-tut.gl.	0	IN	NS	ns2.supercp.com.
 polar-tut.gl.	0	IN	NS	ns3.supercp.com.
 polar-tut.gl.	0	IN	NS	ns4.supercp.com.
-polarama.gl.	0	IN	NS	a.hosting.gl.
-polarama.gl.	0	IN	NS	b.hosting.gl.
-polarama.gl.	0	IN	NS	c.hosting.gl.
-polarama.gl.	0	IN	NS	d.hosting.gl.
+polarama.gl.	0	IN	NS	ns1.nunahosting.net.
+polarama.gl.	0	IN	NS	ns2.nunahosting.net.
+polarama.gl.	0	IN	NS	ns3.nunahosting.net.
+polarama.gl.	0	IN	NS	ns4.nunahosting.net.
 polarbear2015.gl.	0	IN	NS	ns1.modulo.gl.
 polarbear2015.gl.	0	IN	NS	ns2.modulo.gl.
 polarbear2015.gl.	0	IN	NS	ns3.modulo.gl.
@@ -18538,6 +18530,8 @@ terapi.gl.	0	IN	NS	a.hosting.gl.
 terapi.gl.	0	IN	NS	b.hosting.gl.
 terapi.gl.	0	IN	NS	c.hosting.gl.
 terapi.gl.	0	IN	NS	d.hosting.gl.
+terclara.gl.	0	IN	NS	ns1.dnshost.net.
+terclara.gl.	0	IN	NS	ns2.dnshost.net.
 teropan.gl.	0	IN	NS	ns1.hyp.net.
 teropan.gl.	0	IN	NS	ns2.hyp.net.
 teropan.gl.	0	IN	NS	ns3.hyp.net.
@@ -18879,8 +18873,6 @@ to.gl.	0	IN	NS	ns2.vercel-dns.com.
 tobiton.gl.	0	IN	NS	ns.udag.de.
 tobiton.gl.	0	IN	NS	ns.udag.net.
 tobiton.gl.	0	IN	NS	ns.udag.org.
-tochka.gl.	0	IN	NS	jonah.ns.cloudflare.com.
-tochka.gl.	0	IN	NS	rihana.ns.cloudflare.com.
 toctino.gl.	0	IN	NS	dns1.cscdns.net.
 toctino.gl.	0	IN	NS	dns2.cscdns.net.
 toft.gl.	0	IN	NS	ns01.one.com.
@@ -20764,6 +20756,8 @@ z1.gl.	0	IN	NS	ns1.netangels.ru.
 z1.gl.	0	IN	NS	ns2.netangels.ru.
 z1.gl.	0	IN	NS	ns3.netangels.ru.
 z1.gl.	0	IN	NS	ns4.netangels.ru.
+z66.gl.	0	IN	NS	a3.share-dns.com.
+z66.gl.	0	IN	NS	b3.share-dns.net.
 za.gl.	0	IN	NS	tony.ns.cloudflare.com.
 za.gl.	0	IN	NS	brianna.ns.cloudflare.com.
 zaa.gl.	0	IN	NS	rajeev.ns.cloudflare.com.
