@@ -1,4 +1,4 @@
-ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025051111 86400 7200 3600000 172800
+ps.	0	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025051207 86400 7200 3600000 172800
 ps.	0	IN	NS	ps.cctld.authdns.ripe.net.
 ps.	0	IN	NS	ns1.pnina.ps.
 ps.	0	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.	0	IN	NS	rip.psg.com.
 ps.	0	IN	NS	fork.sth.dnsnode.net.
 ps.	0	IN	NS	bilal.pnina.ps.
 ps.	0	IN	NS	ps-ns.anycast.pch.net.
-ps.	0	IN	TXT	"Generation Time: 1746993707"
+ps.	0	IN	TXT	"Generation Time: 1747051301"
 01net.ps.	0	IN	NS	ns1.safebrands.fr.
 01net.ps.	0	IN	NS	ns2.safebrands.eu.
 01net.ps.	0	IN	NS	ns3.safebrands.com.
@@ -3123,6 +3123,8 @@ beton.ps.	0	IN	NS	ns179.accountservergroup.com.
 betonline.ps.	0	IN	NS	dns1.idp365.net.
 betonline.ps.	0	IN	NS	dns2.idp365.net.
 betonline.ps.	0	IN	NS	dns3.idp365.net.
+betterburger.ps.	0	IN	NS	ns1.injazatcloud.ps.
+betterburger.ps.	0	IN	NS	ns2.injazatcloud.ps.
 betterlife.ps.	0	IN	NS	ns1.bluetd.com.
 betterlife.ps.	0	IN	NS	ns2.bluetd.com.
 betv.ps.	0	IN	NS	cleo.ns.cloudflare.com.
@@ -4746,6 +4748,10 @@ dasani.ps.	0	IN	NS	ns4-09.azure-dns.info.
 dash.ps.	0	IN	NS	ns-93.awsdns-11.com.
 dash.ps.	0	IN	NS	ns-520.awsdns-01.net.
 dash.ps.	0	IN	NS	ns-1958.awsdns-52.co.uk.
+dasra.ps.	0	IN	NS	ns1.mysecurecloudhost.com.
+dasra.ps.	0	IN	NS	ns2.mysecurecloudhost.com.
+dasra.ps.	0	IN	NS	ns3.mysecurecloudhost.com.
+dasra.ps.	0	IN	NS	ns4.mysecurecloudhost.com.
 dataland.ps.	0	IN	NS	ns1.dreamhost.com.
 dataland.ps.	0	IN	NS	ns2.dreamhost.com.
 dataland.ps.	0	IN	NS	ns3.dreamhost.com.
@@ -5974,6 +5980,8 @@ falcon.ps.	0	IN	NS	ns1.injazatcloud.ps.
 falcon.ps.	0	IN	NS	ns2.injazatcloud.ps.
 fame.ps.	0	IN	NS	cdns1.hadara.ps.
 fame.ps.	0	IN	NS	cdns2.hadara.ps.
+fameux.ps.	0	IN	NS	ns1.ttawor.com.
+fameux.ps.	0	IN	NS	ns2.ttawor.com.
 families-for-occasions.ps.	0	IN	NS	ns1.injazatcloud.ps.
 families-for-occasions.ps.	0	IN	NS	ns2.injazatcloud.ps.
 familycare.ps.	0	IN	NS	dns1.namecheaphosting.com.
@@ -8778,8 +8786,6 @@ jdecoffee.ps.	0	IN	NS	ns1.iptwins.net.
 jdecoffee.ps.	0	IN	NS	ns2.iptwins.net.
 jdecoffee.ps.	0	IN	NS	ns3.iptwins.com.
 jdecoffee.ps.	0	IN	NS	ns4.iptwins.com.
-jeeda.ps.	0	IN	NS	ns1.orangehost.com.
-jeeda.ps.	0	IN	NS	ns2.orangehost.com.
 jeel.ps.	0	IN	NS	ns1.dotblock.com.
 jeel.ps.	0	IN	NS	ns2.dotblock.com.
 jeep.ps.	0	IN	NS	ns1.provision-servers.com.
@@ -10135,8 +10141,6 @@ mariscos.ps.	0	IN	NS	kurt.ns.cloudflare.com.
 mariscos.ps.	0	IN	NS	melissa.ns.cloudflare.com.
 mariscos-co.ps.	0	IN	NS	kurt.ns.cloudflare.com.
 mariscos-co.ps.	0	IN	NS	melissa.ns.cloudflare.com.
-mark-six.ps.	0	IN	NS	ns1.dnscu.com.
-mark-six.ps.	0	IN	NS	ns2.dnscu.com.
 marka.ps.	0	IN	NS	ns1.vultr.com.
 marka.ps.	0	IN	NS	ns2.vultr.com.
 markahome.ps.	0	IN	NS	ns1-lion.dl-cms.com.
@@ -15208,8 +15212,6 @@ samsung.ps.	0	IN	NS	ns1.injazatcloud.ps.
 samsung.ps.	0	IN	NS	ns2.injazatcloud.ps.
 sanad.ps.	0	IN	NS	ines.ns.cloudflare.com.
 sanad.ps.	0	IN	NS	norm.ns.cloudflare.com.
-sanasys.ps.	0	IN	NS	ns8639.hostgator.com.
-sanasys.ps.	0	IN	NS	ns8640.hostgator.com.
 sanaya.ps.	0	IN	NS	ruth.ns.cloudflare.com.
 sanaya.ps.	0	IN	NS	will.ns.cloudflare.com.
 sancopal.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -16187,8 +16189,6 @@ sparkai.ps.	0	IN	NS	ns1.injazatcloud.ps.
 sparkai.ps.	0	IN	NS	ns2.injazatcloud.ps.
 speakers.ps.	0	IN	NS	ns1.bluetd.com.
 speakers.ps.	0	IN	NS	ns2.bluetd.com.
-spears.ps.	0	IN	NS	ns1.ttawor.com.
-spears.ps.	0	IN	NS	ns2.ttawor.com.
 special.ps.	0	IN	NS	ns1.sederhost.com.
 special.ps.	0	IN	NS	ns2.sederhost.com.
 specter.ps.	0	IN	NS	ns1.gandi.net.
@@ -16406,6 +16406,8 @@ stealth.ps.	0	IN	NS	ns1.injazatcloud.ps.
 stealth.ps.	0	IN	NS	ns2.injazatcloud.ps.
 steameast.ps.	0	IN	NS	ns1.abovedomains.com.
 steameast.ps.	0	IN	NS	ns2.abovedomains.com.
+stec.ps.	0	IN	NS	hosting01.mada.ps.
+stec.ps.	0	IN	NS	hosting02.mada.ps.
 steel.ps.	0	IN	NS	craig.ns.cloudflare.com.
 steel.ps.	0	IN	NS	brenna.ns.cloudflare.com.
 steelwood.ps.	0	IN	NS	ns1.bluehost.com.
@@ -17249,6 +17251,10 @@ tiktok.ps.	0	IN	NS	ns2.vultr.com.
 timesofpalestine.ps.	0	IN	NS	ns1.netim.net.
 timesofpalestine.ps.	0	IN	NS	ns2.netim.net.
 timesofpalestine.ps.	0	IN	NS	ns3.netim.net.
+timetech.ps.	0	IN	NS	ns1045.ui-dns.de.
+timetech.ps.	0	IN	NS	ns1045.ui-dns.biz.
+timetech.ps.	0	IN	NS	ns1045.ui-dns.com.
+timetech.ps.	0	IN	NS	ns1045.ui-dns.org.
 timhortons.ps.	0	IN	NS	dns1.cscdns.net.
 timhortons.ps.	0	IN	NS	dns2.cscdns.net.
 timo.ps.	0	IN	NS	ns1.digitalocean.com.
