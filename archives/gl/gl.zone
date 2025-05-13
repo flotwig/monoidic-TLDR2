@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164093 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164149 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -7551,6 +7551,9 @@ heyvet.gl.	0	IN	NS	emea.excedodns.eu.
 heyvet.gl.	0	IN	NS	world.excedodns.org.
 heyvet.gl.	0	IN	NS	global.excedodns.com.
 heyvet.gl.	0	IN	NS	nordic.excedodns.net.
+hf.gl.	0	IN	NS	ns1.netim.net.
+hf.gl.	0	IN	NS	ns2.netim.net.
+hf.gl.	0	IN	NS	ns3.netim.net.
 hg.gl.	0	IN	NS	jill.ns.cloudflare.com.
 hg.gl.	0	IN	NS	tony.ns.cloudflare.com.
 hgkkk.gl.	0	IN	NS	ns1.aputit.gl.
@@ -11024,8 +11027,8 @@ lnk.gl.	0	IN	NS	henrik.ns.cloudflare.com.
 lns.gl.	0	IN	NS	ns1.hyp.net.
 lns.gl.	0	IN	NS	ns2.hyp.net.
 lns.gl.	0	IN	NS	ns3.hyp.net.
-lns.gl.	0	IN	DS	59897 15 2 770f8d7cccae8f1be1243702ca11a4456bb5017fff51b2a6d3b2312e84882ec4
-lns.gl.	0	IN	DS	59897 15 4 8502090e6e9a8d6a18943689e35070f1dbe63dcfe784f8ffbad3b0645d8eb5094a1ee37d3253e115baf9d876618d2eb6
+lns.gl.	0	IN	DS	10962 15 2 bbfe6308ed493f4dfc6ad7f58191f25fa0f5f5d59f647ff1120e9f3263fb9ca2
+lns.gl.	0	IN	DS	10962 15 4 54c5f1101bccb5c2ee227ba1a40d0b8d41c330175453090d5dca784c0ceff1338c442c338c9cbb52a3696cf3bd1820ea
 lnsg.gl.	0	IN	NS	ns1.hyp.net.
 lnsg.gl.	0	IN	NS	ns2.hyp.net.
 lnsg.gl.	0	IN	NS	ns3.hyp.net.
@@ -11362,8 +11365,8 @@ m3qa.gl.	0	IN	NS	luke.ns.cloudflare.com.
 m3qa.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 m7ga.gl.	0	IN	NS	chad.ns.cloudflare.com.
 m7ga.gl.	0	IN	NS	imani.ns.cloudflare.com.
-ma.gl.	0	IN	NS	ns1.afternic.com.
-ma.gl.	0	IN	NS	ns2.afternic.com.
+ma.gl.	0	IN	NS	ns1.sedoparking.com.
+ma.gl.	0	IN	NS	ns2.sedoparking.com.
 maalaarut.gl.	0	IN	NS	ns01.one.com.
 maalaarut.gl.	0	IN	NS	ns02.one.com.
 maceira.gl.	0	IN	NS	ns.dinahosting.com.
@@ -20600,8 +20603,8 @@ xq.gl.	0	IN	NS	rory.ns.cloudflare.com.
 xr.gl.	0	IN	NS	ns1.hyp.net.
 xr.gl.	0	IN	NS	ns2.hyp.net.
 xr.gl.	0	IN	NS	ns3.hyp.net.
-xr.gl.	0	IN	DS	50760 13 2 0d1032aad5fa8fed71ba7eefac47cd769ea1c1c670eed73edd7a01008368d592
-xr.gl.	0	IN	DS	50760 13 4 e8460941dd0235860c3edd7d912ad5440f9352cce01a57bdd2748bbd05086cd95923614dbec0139db19fdc5830f5b5ad
+xr.gl.	0	IN	DS	26938 15 2 0a954aaab0bfd00e20390be280f587a7657ed1bfe2185c7a99e9424f0eb07e74
+xr.gl.	0	IN	DS	26938 15 4 a20fa1bcb81ff13a090dd360d63cedf5efb9bb908a1562710cb1bdd89be5791dcb5fa57f81e8c21bb7c7662b0a94afe3
 xrp.gl.	0	IN	NS	imani.ns.cloudflare.com.
 xrp.gl.	0	IN	NS	randy.ns.cloudflare.com.
 xs.gl.	0	IN	NS	ns1.wannafind.dk.
