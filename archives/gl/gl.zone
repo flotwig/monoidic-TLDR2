@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164149 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164205 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -225,8 +225,6 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 2plus-greenland.gl.	0	IN	NS	ns2.nunahosting.net.
 2plus-greenland.gl.	0	IN	NS	ns3.nunahosting.net.
 2plus-greenland.gl.	0	IN	NS	ns4.nunahosting.net.
-2shop.gl.	0	IN	NS	ns1.expired.reg.ru.
-2shop.gl.	0	IN	NS	ns2.expired.reg.ru.
 2th.gl.	0	IN	NS	ns3.nsentry.de.
 2th.gl.	0	IN	NS	ns4.nsentry.de.
 3.gl.	0	IN	NS	ns1.netim.net.
@@ -375,9 +373,6 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 777.gl.	0	IN	NS	ns3.xserver.jp.
 777.gl.	0	IN	NS	ns4.xserver.jp.
 777.gl.	0	IN	NS	ns5.xserver.jp.
-7777.gl.	0	IN	NS	ns-100-a.gandi.net.
-7777.gl.	0	IN	NS	ns-153-b.gandi.net.
-7777.gl.	0	IN	NS	ns-248-c.gandi.net.
 78.gl.	0	IN	NS	ns1210.ispapi.net.
 78.gl.	0	IN	NS	ns2180.ispapi.net.
 78.gl.	0	IN	NS	ns3194.ispapi.net.
@@ -1540,10 +1535,6 @@ arctichospitalitycorporation.gl.	0	IN	NS	ns3.eurodns.com.
 arctichospitalitycorporation.gl.	0	IN	NS	ns4.eurodns.com.
 arctichub.gl.	0	IN	NS	ns1.curanet.dk.
 arctichub.gl.	0	IN	NS	ns2.curanet.dk.
-arcticice.gl.	0	IN	NS	a.hosting.gl.
-arcticice.gl.	0	IN	NS	b.hosting.gl.
-arcticice.gl.	0	IN	NS	c.hosting.gl.
-arcticice.gl.	0	IN	NS	d.hosting.gl.
 arcticimport.gl.	0	IN	NS	yevgen.ns.cloudflare.com.
 arcticimport.gl.	0	IN	NS	raphaela.ns.cloudflare.com.
 arcticimport.gl.	0	IN	DS	2371 13 2 4f2492ebff3ee2aa75579438e841925e44bd0ce7a00fe80e8d108856bf2bac5c
@@ -11415,6 +11406,8 @@ maga.gl.	0	IN	NS	venus.ns.cloudflare.com.
 magaland.gl.	0	IN	NS	ns1.netim.net.
 magaland.gl.	0	IN	NS	ns2.netim.net.
 magaland.gl.	0	IN	NS	ns3.netim.net.
+magasin.gl.	0	IN	NS	ns.scannet2.dk.
+magasin.gl.	0	IN	NS	ns2.scannet2.dk.
 magasindunord.gl.	0	IN	NS	ns.scannet2.dk.
 magasindunord.gl.	0	IN	NS	ns2.scannet2.dk.
 magazine.gl.	0	IN	NS	ns1.directories.org.
@@ -12460,6 +12453,11 @@ mumik.gl.	0	IN	NS	ns1.nunahosting.net.
 mumik.gl.	0	IN	NS	ns2.nunahosting.net.
 mumik.gl.	0	IN	NS	ns3.nunahosting.net.
 mumik.gl.	0	IN	NS	ns4.nunahosting.net.
+munch.gl.	0	IN	NS	ns1.hyp.net.
+munch.gl.	0	IN	NS	ns2.hyp.net.
+munch.gl.	0	IN	NS	ns3.hyp.net.
+munch.gl.	0	IN	DS	30928 15 2 72d4deb79f66bd480986cbe7c49e15934634b1baf54d8373c68e2c92e06c9497
+munch.gl.	0	IN	DS	30928 15 4 5eb33ee6269376ea5d442853493863c6bc000a0165e479128e9d51d249b1b4fb8b799a50a666237d0fd9a7d96efb761d
 munters.gl.	0	IN	NS	dns1.zaccodigitaltrustlabs.com.
 munters.gl.	0	IN	NS	dns2.zaccodigitaltrustlabs.net.
 munters.gl.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
@@ -14671,8 +14669,6 @@ pa.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 pa.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 pa.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
 pa.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
-paamiut.gl.	0	IN	NS	ns1.bodis.com.
-paamiut.gl.	0	IN	NS	ns2.bodis.com.
 paamiuttrading.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 paamiuttrading.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 paarisa.gl.	0	IN	NS	ns1.modulo.gl.
@@ -14985,6 +14981,8 @@ photo.gl.	0	IN	NS	a.hosting.gl.
 photo.gl.	0	IN	NS	b.hosting.gl.
 photo.gl.	0	IN	NS	c.hosting.gl.
 photo.gl.	0	IN	NS	d.hosting.gl.
+photon.gl.	0	IN	NS	lou.ns.cloudflare.com.
+photon.gl.	0	IN	NS	laylah.ns.cloudflare.com.
 phylocanvas.gl.	0	IN	NS	nico.ns.cloudflare.com.
 phylocanvas.gl.	0	IN	NS	nucum.ns.cloudflare.com.
 pi.gl.	0	IN	NS	ns1.modulo.gl.
@@ -15546,6 +15544,8 @@ pts.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
 pts.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 pu.gl.	0	IN	NS	ns1.messagingengine.com.
 pu.gl.	0	IN	NS	ns2.messagingengine.com.
+pub.gl.	0	IN	NS	eric.ns.cloudflare.com.
+pub.gl.	0	IN	NS	isla.ns.cloudflare.com.
 puertocoruna.gl.	0	IN	NS	ns.dinahosting.com.
 puertocoruna.gl.	0	IN	NS	ns2.dinahosting.com.
 puertocoruna.gl.	0	IN	NS	ns3.dinahosting.com.
@@ -15767,6 +15767,8 @@ qhd.gl.	0	IN	NS	ns2.netim.net.
 qhd.gl.	0	IN	NS	ns3.netim.net.
 qi.gl.	0	IN	NS	jobs.ns.cloudflare.com.
 qi.gl.	0	IN	NS	april.ns.cloudflare.com.
+qiffik.gl.	0	IN	NS	ns.web-solutions.dk.
+qiffik.gl.	0	IN	NS	ns2.web-solutions.dk.
 qilanngaq.gl.	0	IN	NS	ns1.dreamhost.com.
 qilanngaq.gl.	0	IN	NS	ns2.dreamhost.com.
 qilanngaq.gl.	0	IN	NS	ns3.dreamhost.com.
@@ -17789,12 +17791,16 @@ startv.gl.	0	IN	NS	dns1.cscdns.net.
 startv.gl.	0	IN	NS	dns2.cscdns.net.
 stash-patrick.gl.	0	IN	NS	rose.ns.cloudflare.com.
 stash-patrick.gl.	0	IN	NS	agustin.ns.cloudflare.com.
+stashhpatrick.gl.	0	IN	NS	ns3.my-ndns.com.
+stashhpatrick.gl.	0	IN	NS	ns4.my-ndns.com.
 stashpartick.gl.	0	IN	NS	ns1.bluehost.in.
 stashpartick.gl.	0	IN	NS	ns2.bluehost.in.
 stashpatric.gl.	0	IN	NS	ns1.timeweb.ru.
 stashpatric.gl.	0	IN	NS	ns2.timeweb.ru.
 stashpatric.gl.	0	IN	NS	ns3.timeweb.org.
 stashpatric.gl.	0	IN	NS	ns4.timeweb.org.
+stashpatrick.gl.	0	IN	NS	uma.ns.cloudflare.com.
+stashpatrick.gl.	0	IN	NS	nash.ns.cloudflare.com.
 stashpatricks.gl.	0	IN	NS	ns3.my-ndns.com.
 stashpatricks.gl.	0	IN	NS	ns4.my-ndns.com.
 stashpatrik.gl.	0	IN	NS	ns1.bluehost.in.

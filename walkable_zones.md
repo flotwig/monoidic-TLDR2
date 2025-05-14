@@ -47,7 +47,6 @@
 * `shell.`
 * `swatch.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`

@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747173901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747260301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -250,8 +250,8 @@ agyw.mw.	0	IN	NS	ns1.mtlonline.mw.
 agyw.mw.	0	IN	NS	ns2.mtlonline.mw.
 ahltobaccosales.mw.	0	IN	NS	ns1.prowebmw.org.
 ahltobaccosales.mw.	0	IN	NS	ns2.prowebmw.org.
-ai.mw.	0	IN	NS	ns1.dyna-ns.net.
-ai.mw.	0	IN	NS	ns2.dyna-ns.net.
+ai.mw.	0	IN	NS	ray.ns.cloudflare.com.
+ai.mw.	0	IN	NS	lola.ns.cloudflare.com.
 aiccafrica.mw.	0	IN	NS	ns2.globemw.com.
 aiccafrica.mw.	0	IN	NS	ns3.globemw.com.
 aicpa.mw.	0	IN	NS	ns1.markmonitor.com.
@@ -605,8 +605,6 @@ bembekefm.mw.	0	IN	NS	ns4.bdsmw.com.
 bemore.mw.	0	IN	NS	ns1.lexsynergy.net.
 bemore.mw.	0	IN	NS	ns2.lexsynergy.us.
 bemore.mw.	0	IN	NS	ns3.lexsynergy.info.
-benankhoma.mw.	0	IN	NS	ns3011.mochahost.com.
-benankhoma.mw.	0	IN	NS	ns4011.mochahost.com.
 bengolnet.mw.	0	IN	NS	domwe.sdn.mw.
 bengolnet.mw.	0	IN	NS	nyala.sdnp.org.mw.
 bensonandhedges.mw.	0	IN	NS	nsgbr.comlaude.co.uk.
@@ -2457,9 +2455,6 @@ itap.mw.	0	IN	NS	ns1.bdsmw.com.
 itap.mw.	0	IN	NS	ns2.bdsmw.com.
 itap.mw.	0	IN	NS	ns3.bdsmw.com.
 itap.mw.	0	IN	NS	ns4.bdsmw.com.
-itcanbe.mw.	0	IN	NS	ns1.lexsynergy.net.
-itcanbe.mw.	0	IN	NS	ns2.lexsynergy.us.
-itcanbe.mw.	0	IN	NS	ns3.lexsynergy.info.
 itcentre.mw.	0	IN	NS	ns.inmotionhosting.com.
 itcentre.mw.	0	IN	NS	ns2.inmotionhosting.com.
 itecherp.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
@@ -5256,6 +5251,8 @@ xboxone.mw.	0	IN	NS	ns1-09.azure-dns.com.
 xboxone.mw.	0	IN	NS	ns2-09.azure-dns.net.
 xboxone.mw.	0	IN	NS	ns3-09.azure-dns.org.
 xboxone.mw.	0	IN	NS	ns4-09.azure-dns.info.
+xchange.mw.	0	IN	NS	edna.ns.cloudflare.com.
+xchange.mw.	0	IN	NS	arvind.ns.cloudflare.com.
 xl.mw.	0	IN	NS	ns1.agxl.name.
 xl.mw.	0	IN	NS	ns2.agxl.name.
 xl.mw.	0	IN	NS	ns3.agxl.name.
