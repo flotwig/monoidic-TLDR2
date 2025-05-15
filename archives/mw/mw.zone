@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747260301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747346701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -138,6 +138,8 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 888bet.mw.	0	IN	NS	chris.ns.cloudflare.com.
 888bets.mw.	0	IN	NS	vida.ns.cloudflare.com.
 888bets.mw.	0	IN	NS	chris.ns.cloudflare.com.
+888betsaviator.mw.	0	IN	NS	sarah.ns.cloudflare.com.
+888betsaviator.mw.	0	IN	NS	darwin.ns.cloudflare.com.
 888casino.mw.	0	IN	NS	pdns1.ultradns.net.
 888casino.mw.	0	IN	NS	pdns2.ultradns.net.
 888casino.mw.	0	IN	NS	pdns3.ultradns.org.
@@ -489,8 +491,12 @@ aviator.mw.	0	IN	NS	kirk.ns.cloudflare.com.
 aviator.mw.	0	IN	NS	vita.ns.cloudflare.com.
 aviator-bet.mw.	0	IN	NS	chelsea.ns.cloudflare.com.
 aviator-bet.mw.	0	IN	NS	abdullah.ns.cloudflare.com.
+aviator-bet-malawi.mw.	0	IN	NS	lou.ns.cloudflare.com.
+aviator-bet-malawi.mw.	0	IN	NS	kate.ns.cloudflare.com.
 aviator-game.mw.	0	IN	NS	sky.ns.cloudflare.com.
 aviator-game.mw.	0	IN	NS	mitchell.ns.cloudflare.com.
+aviator-malawi.mw.	0	IN	NS	sid.ns.cloudflare.com.
+aviator-malawi.mw.	0	IN	NS	bethany.ns.cloudflare.com.
 aviator1.mw.	0	IN	NS	brad.ns.cloudflare.com.
 aviator1.mw.	0	IN	NS	stella.ns.cloudflare.com.
 aviatorbet.mw.	0	IN	NS	ns1.dns-parking.com.
@@ -4534,6 +4540,8 @@ sparcsystems.mw.	0	IN	NS	domwe.sdn.mw.
 sparcsystems.mw.	0	IN	NS	nyala.sdnp.org.mw.
 spareroom.mw.	0	IN	NS	ns1.instradns.com.
 spareroom.mw.	0	IN	NS	ns2.instradns.com.
+sparrowsnest.mw.	0	IN	NS	ns1.inmotionhosting.com.
+sparrowsnest.mw.	0	IN	NS	ns2.inmotionhosting.com.
 specsavers.mw.	0	IN	NS	dns1.cscdns.net.
 specsavers.mw.	0	IN	NS	dns2.cscdns.net.
 speedfitmentcentre.mw.	0	IN	NS	ns1.sitebunker.net.

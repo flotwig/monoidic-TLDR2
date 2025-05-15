@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164205 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164262 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1535,6 +1535,10 @@ arctichospitalitycorporation.gl.	0	IN	NS	ns3.eurodns.com.
 arctichospitalitycorporation.gl.	0	IN	NS	ns4.eurodns.com.
 arctichub.gl.	0	IN	NS	ns1.curanet.dk.
 arctichub.gl.	0	IN	NS	ns2.curanet.dk.
+arcticice.gl.	0	IN	NS	a.hosting.gl.
+arcticice.gl.	0	IN	NS	b.hosting.gl.
+arcticice.gl.	0	IN	NS	c.hosting.gl.
+arcticice.gl.	0	IN	NS	d.hosting.gl.
 arcticimport.gl.	0	IN	NS	yevgen.ns.cloudflare.com.
 arcticimport.gl.	0	IN	NS	raphaela.ns.cloudflare.com.
 arcticimport.gl.	0	IN	DS	2371 13 2 4f2492ebff3ee2aa75579438e841925e44bd0ce7a00fe80e8d108856bf2bac5c
@@ -2355,6 +2359,9 @@ bclubs.gl.	0	IN	NS	keira.ns.cloudflare.com.
 bclubs.gl.	0	IN	NS	matias.ns.cloudflare.com.
 bcluub.gl.	0	IN	NS	peter.ns.cloudflare.com.
 bcluub.gl.	0	IN	NS	eleanor.ns.cloudflare.com.
+bd.gl.	0	IN	NS	ns1210.ispapi.net.
+bd.gl.	0	IN	NS	ns2180.ispapi.net.
+bd.gl.	0	IN	NS	ns3194.ispapi.net.
 bdalton.gl.	0	IN	NS	ns2.barnesandnoble.com.
 bdalton.gl.	0	IN	NS	ns3.barnesandnoble.com.
 bdalton.gl.	0	IN	NS	ns4.barnesandnoble.com.
@@ -2969,6 +2976,8 @@ bp.gl.	0	IN	NS	ns1.vercel-dns.com.
 bp.gl.	0	IN	NS	ns2.vercel-dns.com.
 bpc.gl.	0	IN	NS	ns01.one.com.
 bpc.gl.	0	IN	NS	ns02.one.com.
+br.gl.	0	IN	NS	ns1.dan.com.
+br.gl.	0	IN	NS	ns2.dan.com.
 br-leg.gl.	0	IN	NS	ns.dandomain.dk.
 br-leg.gl.	0	IN	NS	ns2.dandomain.dk.
 brand.gl.	0	IN	NS	clay.ns.cloudflare.com.
@@ -6088,6 +6097,8 @@ fp.gl.	0	IN	NS	ns-cloud-e3.googledomains.com.
 fp.gl.	0	IN	NS	ns-cloud-e4.googledomains.com.
 fpu.gl.	0	IN	NS	art.ns.cloudflare.com.
 fpu.gl.	0	IN	NS	ainsley.ns.cloudflare.com.
+fr.gl.	0	IN	NS	ns1.dan.com.
+fr.gl.	0	IN	NS	ns2.dan.com.
 frame.gl.	0	IN	NS	ns1.netim.net.
 frame.gl.	0	IN	NS	ns2.netim.net.
 frame.gl.	0	IN	NS	ns3.netim.net.
@@ -6555,6 +6566,8 @@ giochipreziosi.gl.	0	IN	NS	ns1.register.it.
 giochipreziosi.gl.	0	IN	NS	ns2.register.it.
 gip.gl.	0	IN	NS	dns.gipuzkoa.net.
 gip.gl.	0	IN	NS	dns2.gipuzkoa.net.
+girl.gl.	0	IN	NS	ns1.dan.com.
+girl.gl.	0	IN	NS	ns2.dan.com.
 git.gl.	0	IN	NS	1-you.njalla.no.
 git.gl.	0	IN	NS	2-can.njalla.in.
 git.gl.	0	IN	NS	3-get.njalla.fo.
@@ -9049,6 +9062,10 @@ itc.gl.	0	IN	NS	ns3.simply.com.
 itc.gl.	0	IN	NS	ns4.simply.com.
 itc.gl.	0	IN	DS	12710 13 2 a87ca176f7ea0c731729f474d9fce014f47f711ba69ff94328de3cd7d6ef8434
 itc.gl.	0	IN	DS	12710 13 4 f9c1df446135e723a5cecff1557361d34a3275e27dcbe4bd5f6d387c9793ca85b78149f7900a163ca60f342f144ec625
+itours.gl.	0	IN	NS	a.hosting.gl.
+itours.gl.	0	IN	NS	b.hosting.gl.
+itours.gl.	0	IN	NS	c.hosting.gl.
+itours.gl.	0	IN	NS	d.hosting.gl.
 its.gl.	0	IN	NS	a.hosting.gl.
 its.gl.	0	IN	NS	b.hosting.gl.
 its.gl.	0	IN	NS	c.hosting.gl.
@@ -10551,11 +10568,8 @@ kvk.gl.	0	IN	NS	a.hosting.gl.
 kvk.gl.	0	IN	NS	b.hosting.gl.
 kvk.gl.	0	IN	NS	c.hosting.gl.
 kvk.gl.	0	IN	NS	d.hosting.gl.
-kw.gl.	0	IN	NS	ns1.site.eu.
-kw.gl.	0	IN	NS	ns2.site.nl.
-kw.gl.	0	IN	NS	ns3.site.be.
-kw.gl.	0	IN	NS	ns4.site.de.
-kw.gl.	0	IN	DS	48892 10 2 e10d5b2ef885fa07ebc303c7a45bacdb34b45d8ade7240b20146bb88ae70f240
+kw.gl.	0	IN	NS	margot.ns.cloudflare.com.
+kw.gl.	0	IN	NS	quinton.ns.cloudflare.com.
 kylling.gl.	0	IN	NS	a.hosting.gl.
 kylling.gl.	0	IN	NS	b.hosting.gl.
 kylling.gl.	0	IN	NS	c.hosting.gl.
@@ -13439,6 +13453,8 @@ nnk.gl.	0	IN	NS	a.hosting.gl.
 nnk.gl.	0	IN	NS	b.hosting.gl.
 nnk.gl.	0	IN	NS	c.hosting.gl.
 nnk.gl.	0	IN	NS	d.hosting.gl.
+no.gl.	0	IN	NS	ns1.dan.com.
+no.gl.	0	IN	NS	ns2.dan.com.
 nobis.gl.	0	IN	NS	ns1.simply.com.
 nobis.gl.	0	IN	NS	ns2.simply.com.
 nobis.gl.	0	IN	NS	ns3.simply.com.
@@ -16378,6 +16394,8 @@ rt.gl.	0	IN	NS	ns1.aftermarket.com.
 rt.gl.	0	IN	NS	ns2.aftermarket.com.
 rtfm.gl.	0	IN	NS	ns3007.mochahost.com.
 rtfm.gl.	0	IN	NS	ns4007.mochahost.com.
+ru.gl.	0	IN	NS	ns1.dan.com.
+ru.gl.	0	IN	NS	ns2.dan.com.
 rubycloud.gl.	0	IN	NS	ns1.hyp.net.
 rubycloud.gl.	0	IN	NS	ns2.hyp.net.
 rubycloud.gl.	0	IN	NS	ns3.hyp.net.
@@ -17855,6 +17873,9 @@ steuerberatung.gl.	0	IN	NS	ns2.espectrum.de.
 steuerberatung.gl.	0	IN	NS	ns3.espectrum.de.
 steuern.gl.	0	IN	NS	ns91.tophost.ch.
 steuern.gl.	0	IN	NS	ns92.tophost.ch.
+stickers.gl.	0	IN	NS	ns-56-b.gandi.net.
+stickers.gl.	0	IN	NS	ns-68-c.gandi.net.
+stickers.gl.	0	IN	NS	ns-220-a.gandi.net.
 stie.gl.	0	IN	NS	ns1.netzpionier.at.
 stie.gl.	0	IN	NS	ns2.netzpionier.at.
 stie.gl.	0	IN	NS	ns3.netzpionier.at.
@@ -19729,6 +19750,10 @@ veteran.gl.	0	IN	NS	ns3.simply.com.
 veteran.gl.	0	IN	NS	ns4.simply.com.
 veteran.gl.	0	IN	DS	39435 13 2 ef77e673ad88478d924bae5d2320b5f59f9eb9c6119c01fd8fe627b1ecd75674
 veteran.gl.	0	IN	DS	39435 13 4 3f82f4ad8085ed02c3ed0f43fb10208539fa8882b8569626d80699c31933d5d898e9716bd6626826113e974ae205cad7
+vetterlain.gl.	0	IN	NS	a.hosting.gl.
+vetterlain.gl.	0	IN	NS	b.hosting.gl.
+vetterlain.gl.	0	IN	NS	c.hosting.gl.
+vetterlain.gl.	0	IN	NS	d.hosting.gl.
 vfmg.gl.	0	IN	NS	ns1.modulo.gl.
 vfmg.gl.	0	IN	NS	ns2.modulo.gl.
 vfmg.gl.	0	IN	NS	ns3.modulo.gl.
@@ -19859,6 +19884,8 @@ visiobox.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 visiondirect.gl.	0	IN	NS	ns1.101domain.com.
 visiondirect.gl.	0	IN	NS	ns2.101domain.com.
 visiondirect.gl.	0	IN	NS	ns5.101domain.com.
+visit.gl.	0	IN	NS	ns1.dan.com.
+visit.gl.	0	IN	NS	ns2.dan.com.
 visiteastgreenland.gl.	0	IN	NS	ns01.trademarkarea.com.
 visiteastgreenland.gl.	0	IN	NS	ns02.trademarkarea.com.
 visiteastgreenland.gl.	0	IN	NS	ns03.trademarkarea.com.
@@ -20722,6 +20749,8 @@ youtube.gl.	0	IN	NS	ns1.google.com.
 youtube.gl.	0	IN	NS	ns2.google.com.
 youtube.gl.	0	IN	NS	ns3.google.com.
 youtube.gl.	0	IN	NS	ns4.google.com.
+yr.gl.	0	IN	NS	ns1.dan.com.
+yr.gl.	0	IN	NS	ns2.dan.com.
 ys.gl.	0	IN	NS	ns1.regery.net.
 ys.gl.	0	IN	NS	ns2.regery.net.
 ys.gl.	0	IN	NS	ns3.regery.net.
