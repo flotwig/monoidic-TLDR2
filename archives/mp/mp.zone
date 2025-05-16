@@ -695,8 +695,9 @@ cvcshop.mp.	0	IN	NS	jen.ns.cloudflare.com.
 cvcshop.mp.	0	IN	NS	lochlan.ns.cloudflare.com.
 cvshop.mp.	0	IN	NS	isla.ns.cloudflare.com.
 cvshop.mp.	0	IN	NS	craig.ns.cloudflare.com.
-cvvcards.mp.	0	IN	NS	jen.ns.cloudflare.com.
-cvvcards.mp.	0	IN	NS	lochlan.ns.cloudflare.com.
+cvvcards.mp.	0	IN	NS	ns01.trademarkarea.com.
+cvvcards.mp.	0	IN	NS	ns02.trademarkarea.com.
+cvvcards.mp.	0	IN	NS	ns03.trademarkarea.com.
 cvvfullzshop.mp.	0	IN	NS	ns1.cloudoon.com.
 cvvfullzshop.mp.	0	IN	NS	ns2.cloudoon.net.
 cvvfullzshop.mp.	0	IN	NS	ns3.cloudoon.org.
@@ -1837,6 +1838,10 @@ pursuit.mp.	0	IN	NS	lamar.ns.cloudflare.com.
 pursuit.mp.	0	IN	NS	adaline.ns.cloudflare.com.
 pursuits.mp.	0	IN	NS	mira.ns.cloudflare.com.
 pursuits.mp.	0	IN	NS	ernest.ns.cloudflare.com.
+pwcc.mp.	0	IN	NS	ns-233.awsdns-29.com.
+pwcc.mp.	0	IN	NS	ns-663.awsdns-18.net.
+pwcc.mp.	0	IN	NS	ns-1394.awsdns-46.org.
+pwcc.mp.	0	IN	NS	ns-1735.awsdns-24.co.uk.
 qrca.mp.	0	IN	NS	dns1.namecheaphosting.com.
 qrca.mp.	0	IN	NS	dns2.namecheaphosting.com.
 qualitycha.mp.	0	IN	NS	dns.rebel.com.

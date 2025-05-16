@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164262 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164319 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -3123,8 +3123,8 @@ bsg.gl.	0	IN	NS	ns-429.awsdns-53.com.
 bsg.gl.	0	IN	NS	ns-997.awsdns-60.net.
 bsg.gl.	0	IN	NS	ns-1153.awsdns-16.org.
 bsg.gl.	0	IN	NS	ns-2026.awsdns-61.co.uk.
-bsgl.gl.	0	IN	NS	nero.ns.cloudflare.com.
-bsgl.gl.	0	IN	NS	ophelia.ns.cloudflare.com.
+bsgl.gl.	0	IN	NS	luke.ns.cloudflare.com.
+bsgl.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 bsme.gl.	0	IN	NS	ns0.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984hosting.com.
@@ -3838,6 +3838,8 @@ comlaude.gl.	0	IN	NS	nssui.comlaude.ch.
 comlaude.gl.	0	IN	NS	nsusa.comlaude.net.
 comm.gl.	0	IN	NS	ns1.mediatemple.net.
 comm.gl.	0	IN	NS	ns2.mediatemple.net.
+community.gl.	0	IN	NS	eve.ns.cloudflare.com.
+community.gl.	0	IN	NS	morgan.ns.cloudflare.com.
 comp.gl.	0	IN	NS	ns-394.awsdns-49.com.
 comp.gl.	0	IN	NS	ns-806.awsdns-36.net.
 comp.gl.	0	IN	NS	ns-1072.awsdns-06.org.
@@ -4256,6 +4258,9 @@ deep.gl.	0	IN	NS	dell.ns.cloudflare.com.
 deepseek.gl.	0	IN	NS	ns-38-a.gandi.net.
 deepseek.gl.	0	IN	NS	ns-57-b.gandi.net.
 deepseek.gl.	0	IN	NS	ns-224-c.gandi.net.
+defendgreenland.gl.	0	IN	NS	ns-45-b.gandi.net.
+defendgreenland.gl.	0	IN	NS	ns-77-a.gandi.net.
+defendgreenland.gl.	0	IN	NS	ns-93-c.gandi.net.
 degen.gl.	0	IN	NS	1-you.njalla.no.
 degen.gl.	0	IN	NS	2-can.njalla.in.
 degen.gl.	0	IN	NS	3-get.njalla.fo.
@@ -4584,6 +4589,8 @@ dollarstore.gl.	0	IN	NS	c.hosting.gl.
 dollarstore.gl.	0	IN	NS	d.hosting.gl.
 dolphin.gl.	0	IN	NS	ns1.dns.ne.jp.
 dolphin.gl.	0	IN	NS	ns2.dns.ne.jp.
+domain.gl.	0	IN	NS	ns1-virt.catched.com.
+domain.gl.	0	IN	NS	ns2-virt.catched.com.
 domainname.gl.	0	IN	NS	ns1.register.be.
 domainname.gl.	0	IN	NS	ns2.register.be.
 domainname.gl.	0	IN	NS	ns3.register.be.
@@ -14080,8 +14087,8 @@ o-o.gl.	0	IN	NS	ns2.naamservert.nl.
 o0.gl.	0	IN	NS	ns1.hyp.net.
 o0.gl.	0	IN	NS	ns2.hyp.net.
 o0.gl.	0	IN	NS	ns3.hyp.net.
-o0.gl.	0	IN	DS	28581 15 2 5169fe26bb3b6c2233b112e17f85e445295eec72cdb625b95121f20fa72f46ab
-o0.gl.	0	IN	DS	28581 15 4 a0e9642db929f1129dfa2bb97f0f1e30be257c465d4060f0227a5c73317969f6636abf7d16f84084ca287226a7cbe555
+o0.gl.	0	IN	DS	59519 15 2 c25f19a54e5b2462b2097034aaf93b31de486f5ae837f23e1b473f9e48748d27
+o0.gl.	0	IN	DS	59519 15 4 93e5ef0b59fccc9b95a78802cb86093f02362db5f2ac1de36d4adceecce2b5651ca6c7c5fc94e3abec226ea924e3cc08
 o2.gl.	0	IN	NS	ns1.hyp.net.
 o2.gl.	0	IN	NS	ns2.hyp.net.
 o2.gl.	0	IN	NS	ns3.hyp.net.
@@ -15805,11 +15812,6 @@ qk.gl.	0	IN	NS	ns3.wyvern.org.
 qk.gl.	0	IN	NS	ns2b.wyvern.org.
 ql.gl.	0	IN	NS	noah.ns.cloudflare.com.
 ql.gl.	0	IN	NS	sandy.ns.cloudflare.com.
-qm.gl.	0	IN	NS	ns1.simply.com.
-qm.gl.	0	IN	NS	ns2.simply.com.
-qm.gl.	0	IN	NS	ns3.simply.com.
-qm.gl.	0	IN	DS	62068 13 2 1c4c1f86ddc9c336269513e9ed2e47af379a8f7d8a15eaa223b2306a46049272
-qm.gl.	0	IN	DS	62068 13 4 8da9d49c764081af287de7d1ec3a3973e0dfe789327568a6b7182f89434a049c2f2ec58a71b57fe4396200a714e5b095
 qn.gl.	0	IN	NS	ns1.iwantmyname.net.
 qn.gl.	0	IN	NS	ns2.iwantmyname.net.
 qn.gl.	0	IN	NS	ns3.iwantmyname.net.
