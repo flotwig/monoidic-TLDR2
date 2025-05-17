@@ -1,10 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025051626 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025051725 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1747432858"
-bw.	0	IN	DNSKEY	256 3 13 YHT/9aYzS02s3oiFmY4qGmqcHiuMIEUBa3OqJtrbKscng0+DG86dloWrDY52eG6mPpwRgjwg75FIOjk+iY3fFw== ;{id = 53981 (zsk), size = 256b}
+bw.	0	IN	TXT	"Generation Time: 1747522807"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -405,8 +404,8 @@ pioneeracademy.ac.bw.	0	IN	NS	ns1.in4.fcomet.com.
 pioneeracademy.ac.bw.	0	IN	NS	ns2.in4.fcomet.com.
 polelotradingacademy.ac.bw.	0	IN	NS	ns1.supercp.com.
 polelotradingacademy.ac.bw.	0	IN	NS	ns2.supercp.com.
-policecollege.ac.bw.	0	IN	NS	dara.ns.cloudflare.com.
-policecollege.ac.bw.	0	IN	NS	rocco.ns.cloudflare.com.
+policecollege.ac.bw.	0	IN	NS	alexis.ns.cloudflare.com.
+policecollege.ac.bw.	0	IN	NS	marissa.ns.cloudflare.com.
 posu.ac.bw.	0	IN	NS	ns1.mark123.website.
 posu.ac.bw.	0	IN	NS	ns2.mark123.website.
 ppmcollege.ac.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
@@ -23339,6 +23338,10 @@ primetimetraining.co.bw.	0	IN	NS	ns1.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns2.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns3.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns4.jasmintechbw.com.
+primetrades.co.bw.	0	IN	NS	dns1.webmart.co.bw.
+primetrades.co.bw.	0	IN	NS	dns2.webmart.co.bw.
+primetrades.co.bw.	0	IN	NS	dns3.webmart.co.bw.
+primetrades.co.bw.	0	IN	NS	dns4.webmart.co.bw.
 primevideo.co.bw.	0	IN	NS	ns-128.awsdns-16.com.
 primevideo.co.bw.	0	IN	NS	ns-895.awsdns-47.net.
 primevideo.co.bw.	0	IN	NS	ns-1392.awsdns-46.org.
@@ -23970,8 +23973,8 @@ r.co.bw.	0	IN	NS	gator4001.hostgator.com.
 r.co.bw.	0	IN	NS	gator4002.hostgator.com.
 ra.co.bw.	0	IN	NS	ns8001.hostgator.com.
 ra.co.bw.	0	IN	NS	ns8002.hostgator.com.
-rabailey.co.bw.	0	IN	NS	ns1.godaddy.com.
-rabailey.co.bw.	0	IN	NS	ns2.godaddy.com.
+rabailey.co.bw.	0	IN	NS	ns01.domaincontrol.com.
+rabailey.co.bw.	0	IN	NS	ns02.domaincontrol.com.
 rabashaglawyers.co.bw.	0	IN	NS	ns1.dns-h.com.
 rabashaglawyers.co.bw.	0	IN	NS	ns1.host-h.net.
 rabashaglawyers.co.bw.	0	IN	NS	ns2.dns-h.com.
@@ -33907,7 +33910,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1747432898"
+ote.bw.	0	IN	TXT	"Generation Time: 1747522848"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

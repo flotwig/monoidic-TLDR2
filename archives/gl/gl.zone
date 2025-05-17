@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164319 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164376 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -40,8 +40,6 @@ gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8
 101domains.gl.	0	IN	NS	nelly.ns.cloudflare.com.
 10kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 10kra.gl.	0	IN	NS	ns3.disabled.ispapi.net.
-11.gl.	0	IN	NS	junade.ns.cloudflare.com.
-11.gl.	0	IN	NS	serenity.ns.cloudflare.com.
 113.gl.	0	IN	NS	ns1.wannafind.dk.
 113.gl.	0	IN	NS	ns2.wannafind.dk.
 11kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
@@ -1993,10 +1991,6 @@ av.gl.	0	IN	NS	ivy.ns.cloudflare.com.
 av.gl.	0	IN	NS	grant.ns.cloudflare.com.
 ava.gl.	0	IN	NS	ns1.curanet.dk.
 ava.gl.	0	IN	NS	ns2.curanet.dk.
-avaatu.gl.	0	IN	NS	a.hosting.gl.
-avaatu.gl.	0	IN	NS	b.hosting.gl.
-avaatu.gl.	0	IN	NS	c.hosting.gl.
-avaatu.gl.	0	IN	NS	d.hosting.gl.
 avafish.gl.	0	IN	NS	ns1.curanet.dk.
 avafish.gl.	0	IN	NS	ns2.curanet.dk.
 avalequt.gl.	0	IN	NS	ns1.netim.net.
@@ -20135,8 +20129,8 @@ wa.gl.	0	IN	NS	ns74.dnszi.com.
 wa8.gl.	0	IN	NS	ns1.hyp.net.
 wa8.gl.	0	IN	NS	ns2.hyp.net.
 wa8.gl.	0	IN	NS	ns3.hyp.net.
-wa8.gl.	0	IN	DS	57927 13 2 300d9b1e0fe106b3acc233d99e876dda52c7806316b9f2d034a1391c7c1cc9f1
-wa8.gl.	0	IN	DS	57927 13 4 5b2b26d11310c4c76ac1ea585f2e92004664437af2377a6f4ace3055237404eb65adba8c6a5a9e85b891ec1d532bbfd5
+wa8.gl.	0	IN	DS	26935 15 2 eec72c9caa7971eeac833ad87113d518888ce199313683b61739f7c41802f592
+wa8.gl.	0	IN	DS	26935 15 4 a925d63ea3377a76391355f9d1e19890d6e2b1d5ccb40f213234caeec37d28572e5422a430e042367330465267398ae7
 waays.gl.	0	IN	NS	ns1.daevel.net.
 waays.gl.	0	IN	NS	ns2.daevel.fr.
 waays.gl.	0	IN	NS	ns3.daevel.net.
