@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025051725 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025051823 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1747522807"
+bw.	0	IN	TXT	"Generation Time: 1747609513"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -12959,6 +12959,8 @@ hdp.co.bw.	0	IN	NS	badhi.nconnect.co.bw.
 headandshoulders.co.bw.	0	IN	NS	ns1-03.azure-dns.com.
 headandshoulders.co.bw.	0	IN	NS	ns2-03.azure-dns.net.
 headandshoulders.co.bw.	0	IN	NS	ns3-03.azure-dns.org.
+headon.co.bw.	0	IN	NS	ns1.subnet.co.bw.
+headon.co.bw.	0	IN	NS	ns2.subnet.co.bw.
 headstart.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 headstart.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 headstart.co.bw.	0	IN	NS	dns3.webmart.co.bw.
@@ -16692,6 +16694,8 @@ libertylife.co.bw.	0	IN	NS	pdns104.ultradns.biz.
 libertylife.co.bw.	0	IN	NS	pdns104.ultradns.com.
 libertylife.co.bw.	0	IN	NS	pdns104.ultradns.net.
 libertylife.co.bw.	0	IN	NS	pdns104.ultradns.org.
+libertyoccupationalhealthservices.co.bw.	0	IN	NS	jack.ns.cloudflare.com.
+libertyoccupationalhealthservices.co.bw.	0	IN	NS	hattie.ns.cloudflare.com.
 lidgerwood.co.bw.	0	IN	NS	ns1.md-uk-1.webhostbox.net.
 lidgerwood.co.bw.	0	IN	NS	ns2.md-uk-1.webhostbox.net.
 lidomahr.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
@@ -23338,10 +23342,10 @@ primetimetraining.co.bw.	0	IN	NS	ns1.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns2.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns3.jasmintechbw.com.
 primetimetraining.co.bw.	0	IN	NS	ns4.jasmintechbw.com.
-primetrades.co.bw.	0	IN	NS	dns1.webmart.co.bw.
-primetrades.co.bw.	0	IN	NS	dns2.webmart.co.bw.
-primetrades.co.bw.	0	IN	NS	dns3.webmart.co.bw.
-primetrades.co.bw.	0	IN	NS	dns4.webmart.co.bw.
+primetrades.co.bw.	0	IN	NS	dns1.p06.nsone.net.
+primetrades.co.bw.	0	IN	NS	dns2.p06.nsone.net.
+primetrades.co.bw.	0	IN	NS	dns3.p06.nsone.net.
+primetrades.co.bw.	0	IN	NS	dns4.p06.nsone.net.
 primevideo.co.bw.	0	IN	NS	ns-128.awsdns-16.com.
 primevideo.co.bw.	0	IN	NS	ns-895.awsdns-47.net.
 primevideo.co.bw.	0	IN	NS	ns-1392.awsdns-46.org.
@@ -33910,7 +33914,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1747522848"
+ote.bw.	0	IN	TXT	"Generation Time: 1747609553"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.
