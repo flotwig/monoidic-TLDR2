@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747605901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747692301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -789,8 +789,6 @@ bmwgroup.mw.	0	IN	NS	dns1.cscdns.net.
 bmwgroup.mw.	0	IN	NS	dns2.cscdns.net.
 bng.mw.	0	IN	NS	ns1.bh-ht-17.webhostbox.net.
 bng.mw.	0	IN	NS	ns2.bh-ht-17.webhostbox.net.
-bnginvestments.mw.	0	IN	NS	dns1.supremepanel.com.
-bnginvestments.mw.	0	IN	NS	dns2.supremepanel.com.
 boa.mw.	0	IN	NS	mrozia.mtds.com.
 boa.mw.	0	IN	NS	rfissa.mtds.com.
 bofa.mw.	0	IN	NS	ns1.netnames.net.
@@ -1967,6 +1965,8 @@ godaddy.mw.	0	IN	NS	cns1.secureserver.net.
 godaddy.mw.	0	IN	NS	cns2.secureserver.net.
 gogo.mw.	0	IN	NS	ns1.dns-parking.com.
 gogo.mw.	0	IN	NS	ns2.dns-parking.com.
+goldenlaw.mw.	0	IN	NS	dns1.namecheaphosting.com.
+goldenlaw.mw.	0	IN	NS	dns2.namecheaphosting.com.
 goldman-sachs.mw.	0	IN	NS	dns1.cscdns.net.
 goldman-sachs.mw.	0	IN	NS	dns2.cscdns.net.
 goldmansachs.mw.	0	IN	NS	dns1.cscdns.net.
@@ -2382,8 +2382,8 @@ insight.mw.	0	IN	NS	ns1.mysecurecloudhost.com.
 insight.mw.	0	IN	NS	ns2.mysecurecloudhost.com.
 insight.mw.	0	IN	NS	ns3.mysecurecloudhost.com.
 insight.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
-inspiremarketing.mw.	0	IN	NS	ns1.inmotionhosting.com.
-inspiremarketing.mw.	0	IN	NS	ns2.inmotionhosting.com.
+inspiremarketing.mw.	0	IN	NS	ns1.servconfig.com.
+inspiremarketing.mw.	0	IN	NS	ns2.servconfig.com.
 instagram.mw.	0	IN	NS	a.ns.facebook.com.
 instagram.mw.	0	IN	NS	b.ns.facebook.com.
 instagram.mw.	0	IN	NS	c.ns.facebook.com.
@@ -2446,8 +2446,8 @@ isla.mw.	0	IN	NS	ns0.dnsmadeeasy.com.
 isla.mw.	0	IN	NS	ns1.dnsmadeeasy.com.
 isla.mw.	0	IN	NS	ns2.dnsmadeeasy.com.
 isla.mw.	0	IN	NS	ns3.dnsmadeeasy.com.
-islandbeverages.mw.	0	IN	NS	ns1.inmotionhosting.com.
-islandbeverages.mw.	0	IN	NS	ns2.inmotionhosting.com.
+islandbeverages.mw.	0	IN	NS	ns1.servconfig.com.
+islandbeverages.mw.	0	IN	NS	ns2.servconfig.com.
 isoc.mw.	0	IN	NS	dns1.namecheaphosting.com.
 isoc.mw.	0	IN	NS	dns2.namecheaphosting.com.
 isover.mw.	0	IN	NS	ns2.observatoiredesmarques.fr.
@@ -2603,8 +2603,8 @@ kcr.mw.	0	IN	NS	ns1.md-85.webhostbox.net.
 kcr.mw.	0	IN	NS	ns2.md-85.webhostbox.net.
 kcs.mw.	0	IN	NS	ns1.cloud-a8ed1b.managed-vps.net.
 kcs.mw.	0	IN	NS	ns2.cloud-a8ed1b.managed-vps.net.
-kenac.mw.	0	IN	NS	ns1.inmotionhosting.com.
-kenac.mw.	0	IN	NS	ns2.inmotionhosting.com.
+kenac.mw.	0	IN	NS	ns1.servconfig.com.
+kenac.mw.	0	IN	NS	ns2.servconfig.com.
 keys.mw.	0	IN	NS	ns1.bb-online.net.
 keys.mw.	0	IN	NS	ns2.bb-online.org.
 keys.mw.	0	IN	NS	ns3.bb-online.info.
@@ -2777,8 +2777,8 @@ likomafm.mw.	0	IN	NS	ns1.bdsmw.com.
 likomafm.mw.	0	IN	NS	ns2.bdsmw.com.
 likomafm.mw.	0	IN	NS	ns3.bdsmw.com.
 likomafm.mw.	0	IN	NS	ns4.bdsmw.com.
-likomaisland.mw.	0	IN	NS	ns1.inmotionhosting.com.
-likomaisland.mw.	0	IN	NS	ns2.inmotionhosting.com.
+likomaisland.mw.	0	IN	NS	ns1.servconfig.com.
+likomaisland.mw.	0	IN	NS	ns2.servconfig.com.
 likongwelaw.mw.	0	IN	NS	ns1.bdsmw.com.
 likongwelaw.mw.	0	IN	NS	ns2.bdsmw.com.
 lilangukafm.mw.	0	IN	NS	ns1.bdsmw.com.
@@ -2923,8 +2923,8 @@ maiic.mw.	0	IN	NS	ruben.ns.cloudflare.com.
 maiic.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 mail.mw.	0	IN	NS	brodie.ns.cloudflare.com.
 mail.mw.	0	IN	NS	violet.ns.cloudflare.com.
-makafoods.mw.	0	IN	NS	ns1.inmotionhosting.com.
-makafoods.mw.	0	IN	NS	ns2.inmotionhosting.com.
+makafoods.mw.	0	IN	NS	ns1.servconfig.com.
+makafoods.mw.	0	IN	NS	ns2.servconfig.com.
 maktech.mw.	0	IN	NS	maxdns.globemw.net.
 maktech.mw.	0	IN	NS	araliya.globemw.net.
 malautour.mw.	0	IN	NS	proxy2.africa-online.net.
@@ -3256,8 +3256,9 @@ mlw.mw.	0	IN	NS	ns1-37.azure-dns.com.
 mlw.mw.	0	IN	NS	ns2-37.azure-dns.net.
 mlw.mw.	0	IN	NS	ns3-37.azure-dns.org.
 mlw.mw.	0	IN	NS	ns4-37.azure-dns.info.
-mm.mw.	0	IN	NS	andre.dnspod.net.
-mm.mw.	0	IN	NS	definition.dnspod.net.
+mm.mw.	0	IN	NS	ns1.netim.net.
+mm.mw.	0	IN	NS	ns2.netim.net.
+mm.mw.	0	IN	NS	ns3.netim.net.
 mmandco.mw.	0	IN	NS	ns1.bdsmw.com.
 mmandco.mw.	0	IN	NS	ns2.bdsmw.com.
 mmandco.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -3338,8 +3339,8 @@ morecast.mw.	0	IN	NS	ns6.markmonitor.com.
 morecast.mw.	0	IN	NS	ns7.markmonitor.com.
 morespace.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 morespace.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
-moringaacres.mw.	0	IN	NS	ns1.inmotionhosting.com.
-moringaacres.mw.	0	IN	NS	ns2.inmotionhosting.com.
+moringaacres.mw.	0	IN	NS	ns1.servconfig.com.
+moringaacres.mw.	0	IN	NS	ns2.servconfig.com.
 mot-mobility.mw.	0	IN	NS	ns1.motorolamobility.com.
 mot-mobility.mw.	0	IN	NS	ns3.motorolamobility.com.
 mota-engil.mw.	0	IN	NS	ns2.mota-engil.pt.
@@ -3596,8 +3597,8 @@ newagesolutions.mw.	0	IN	NS	ns1.newagesolutions.africa.
 newagesolutions.mw.	0	IN	NS	ns2.newagesolutions.africa.
 news.mw.	0	IN	NS	ns1.dyna-ns.net.
 news.mw.	0	IN	NS	ns2.dyna-ns.net.
-newwave.mw.	0	IN	NS	ns1.inmotionhosting.com.
-newwave.mw.	0	IN	NS	ns2.inmotionhosting.com.
+newwave.mw.	0	IN	NS	ns1.servconfig.com.
+newwave.mw.	0	IN	NS	ns2.servconfig.com.
 next.mw.	0	IN	NS	dns1.cscdns.net.
 next.mw.	0	IN	NS	dns2.cscdns.net.
 nft.mw.	0	IN	NS	ns1.sedoparking.com.
@@ -3779,8 +3780,8 @@ on.mw.	0	IN	NS	ns3.nik.io.
 on.mw.	0	IN	NS	ns4.nik.io.
 onenico-online.mw.	0	IN	NS	maxdns.globemw.net.
 onenico-online.mw.	0	IN	NS	araliya.globemw.net.
-onestopsupply.mw.	0	IN	NS	ns1.inmotionhosting.com.
-onestopsupply.mw.	0	IN	NS	ns2.inmotionhosting.com.
+onestopsupply.mw.	0	IN	NS	ns1.servconfig.com.
+onestopsupply.mw.	0	IN	NS	ns2.servconfig.com.
 online.mw.	0	IN	NS	maxdns.globemw.net.
 online.mw.	0	IN	NS	araliya.globemw.net.
 onlineshop.mw.	0	IN	NS	ns.gransy.com.
@@ -3834,8 +3835,8 @@ oriflame.mw.	0	IN	NS	ns3-06.azure-dns.org.
 oriflame.mw.	0	IN	NS	ns4-06.azure-dns.info.
 originstory.mw.	0	IN	NS	lex.ns.cloudflare.com.
 originstory.mw.	0	IN	NS	gene.ns.cloudflare.com.
-osquaredmarketing.mw.	0	IN	NS	ns1.inmotionhosting.com.
-osquaredmarketing.mw.	0	IN	NS	ns2.inmotionhosting.com.
+osquaredmarketing.mw.	0	IN	NS	ns1.servconfig.com.
+osquaredmarketing.mw.	0	IN	NS	ns2.servconfig.com.
 othakarhakafoundation.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
 othakarhakafoundation.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
 oto.mw.	0	IN	NS	domwe.sdn.mw.
@@ -3939,8 +3940,6 @@ piggscasino.mw.	0	IN	NS	ns1.instradns.com.
 piggscasino.mw.	0	IN	NS	ns2.instradns.com.
 pilmalawi.mw.	0	IN	NS	proxy2.africa-online.net.
 pilmalawi.mw.	0	IN	NS	proxy3.africa-online.net.
-pin.mw.	0	IN	NS	mack.ns.cloudflare.com.
-pin.mw.	0	IN	NS	elisa.ns.cloudflare.com.
 pinstitute.mw.	0	IN	NS	ns1-litespeed.vivawebhost.com.
 pinstitute.mw.	0	IN	NS	ns2-litespeed.vivawebhost.com.
 pinterest.mw.	0	IN	NS	ns1.markmonitor.com.
@@ -4089,8 +4088,8 @@ qrc.mw.	0	IN	NS	dns.seeweb.it.
 qrc.mw.	0	IN	NS	dns2.seeweb.it.
 quantconsult.mw.	0	IN	NS	ns2.globemw.com.
 quantconsult.mw.	0	IN	NS	ns3.globemw.com.
-quantumshipping.mw.	0	IN	NS	ns1.inmotionhosting.com.
-quantumshipping.mw.	0	IN	NS	ns2.inmotionhosting.com.
+quantumshipping.mw.	0	IN	NS	ns1.servconfig.com.
+quantumshipping.mw.	0	IN	NS	ns2.servconfig.com.
 quickash.mw.	0	IN	NS	ns1.lexsynergy.net.
 quickash.mw.	0	IN	NS	ns2.lexsynergy.us.
 quickash.mw.	0	IN	NS	ns3.lexsynergy.info.
@@ -4284,8 +4283,8 @@ s.mw.	0	IN	NS	ns3.netim.net.
 sachi.mw.	0	IN	NS	ns1.websiteserverbox.com.
 sachi.mw.	0	IN	NS	ns2.websiteserverbox.com.
 sachi.mw.	0	IN	NS	ns3.websiteserverbox.com.
-sadm.mw.	0	IN	NS	ns1.inmotionhosting.com.
-sadm.mw.	0	IN	NS	ns2.inmotionhosting.com.
+sadm.mw.	0	IN	NS	ns1.servconfig.com.
+sadm.mw.	0	IN	NS	ns2.servconfig.com.
 saeedinvestments.mw.	0	IN	NS	maxdns.globemw.net.
 saeedinvestments.mw.	0	IN	NS	araliya.globemw.net.
 safe.mw.	0	IN	NS	ns1.host-ww.net.
@@ -4540,8 +4539,8 @@ sparcsystems.mw.	0	IN	NS	domwe.sdn.mw.
 sparcsystems.mw.	0	IN	NS	nyala.sdnp.org.mw.
 spareroom.mw.	0	IN	NS	ns1.instradns.com.
 spareroom.mw.	0	IN	NS	ns2.instradns.com.
-sparrowsnest.mw.	0	IN	NS	ns1.inmotionhosting.com.
-sparrowsnest.mw.	0	IN	NS	ns2.inmotionhosting.com.
+sparrowsnest.mw.	0	IN	NS	ns1.servconfig.com.
+sparrowsnest.mw.	0	IN	NS	ns2.servconfig.com.
 specsavers.mw.	0	IN	NS	dns1.cscdns.net.
 specsavers.mw.	0	IN	NS	dns2.cscdns.net.
 speedfitmentcentre.mw.	0	IN	NS	ns1.sitebunker.net.
@@ -5025,12 +5024,6 @@ uvgv.mw.	0	IN	NS	ns3.universalleaf.com.
 v.mw.	0	IN	NS	ns1.netim.net.
 v.mw.	0	IN	NS	ns2.netim.net.
 v.mw.	0	IN	NS	ns3.netim.net.
-vale.mw.	0	IN	NS	ns5.afriregister.co.ke.
-vale.mw.	0	IN	NS	ns6.afriregister.co.ke.
-valeinternational.mw.	0	IN	NS	ns5.afriregister.co.ke.
-valeinternational.mw.	0	IN	NS	ns6.afriregister.co.ke.
-valemalawi.mw.	0	IN	NS	ns5.afriregister.co.ke.
-valemalawi.mw.	0	IN	NS	ns6.afriregister.co.ke.
 valuationsafrica.mw.	0	IN	NS	ns-494.awsdns-61.com.
 valuationsafrica.mw.	0	IN	NS	ns-948.awsdns-54.net.
 valuationsafrica.mw.	0	IN	NS	ns-1366.awsdns-42.org.
@@ -5047,8 +5040,8 @@ vbet.mw.	0	IN	NS	hank.ns.cloudflare.com.
 vbet.mw.	0	IN	NS	lily.ns.cloudflare.com.
 vcs.mw.	0	IN	NS	proxy2.africa-online.net.
 vcs.mw.	0	IN	NS	proxy3.africa-online.net.
-venatsmart.mw.	0	IN	NS	ns1.inmotionhosting.com.
-venatsmart.mw.	0	IN	NS	ns2.inmotionhosting.com.
+venatsmart.mw.	0	IN	NS	ns1.servconfig.com.
+venatsmart.mw.	0	IN	NS	ns2.servconfig.com.
 verizon.mw.	0	IN	NS	ns-scrm.verizon.com.
 verizon.mw.	0	IN	NS	ns-tmtr.verizon.com.
 verizonenterprise.mw.	0	IN	NS	dns2.verizon.com.
@@ -5285,8 +5278,6 @@ yathuyathu.mw.	0	IN	NS	ns1.bdsmw.com.
 yathuyathu.mw.	0	IN	NS	ns2.bdsmw.com.
 yathuyathu.mw.	0	IN	NS	ns3.bdsmw.com.
 yathuyathu.mw.	0	IN	NS	ns4.bdsmw.com.
-yebo.mw.	0	IN	NS	pdns07.domaincontrol.com.
-yebo.mw.	0	IN	NS	pdns08.domaincontrol.com.
 yellowpages.mw.	0	IN	NS	maxdns.globemw.net.
 yellowpages.mw.	0	IN	NS	araliya.globemw.net.
 yetufm.mw.	0	IN	NS	ns1.bdsmw.com.
