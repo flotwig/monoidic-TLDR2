@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164489 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164546 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -734,9 +734,6 @@ ahc.gl.	0	IN	NS	ns3.eurodns.com.
 ahc.gl.	0	IN	NS	ns4.eurodns.com.
 ahmadiyya.gl.	0	IN	NS	ns1-lion.vivawebhost.com.
 ahmadiyya.gl.	0	IN	NS	ns2-lion.vivawebhost.com.
-ahumada.gl.	0	IN	NS	ns1.cdmon.net.
-ahumada.gl.	0	IN	NS	ns2.cdmon.net.
-ahumada.gl.	0	IN	NS	ns3.cdmon.net.
 ai.gl.	0	IN	NS	ns1.mysecurecloudhost.com.
 ai.gl.	0	IN	NS	ns2.mysecurecloudhost.com.
 ai-quantum.gl.	0	IN	NS	sam.ns.cloudflare.com.
@@ -3613,12 +3610,6 @@ chirp.gl.	0	IN	NS	hal.ns.cloudflare.com.
 chirp.gl.	0	IN	NS	donna.ns.cloudflare.com.
 chocolate.gl.	0	IN	NS	coco.bunny.net.
 chocolate.gl.	0	IN	NS	kiki.bunny.net.
-christel.gl.	0	IN	NS	ns1.simply.com.
-christel.gl.	0	IN	NS	ns2.simply.com.
-christel.gl.	0	IN	NS	ns3.simply.com.
-christel.gl.	0	IN	NS	ns4.simply.com.
-christel.gl.	0	IN	DS	38082 13 2 3a50da6b5ab21630b5b3357ac54c16a0d3cc89e51a6c4fc4dc19b246a57eba5c
-christel.gl.	0	IN	DS	38082 13 4 152dd3d63de93f6a0fac384e2b2c85e1d4e8479bbfb6f2cfbdbf4736b737df013acdf31a76340a318d68eec008964724
 christensen.gl.	0	IN	NS	ns.dandomain.dk.
 christensen.gl.	0	IN	NS	ns2.dandomain.dk.
 christensen.gl.	0	IN	NS	ns3.dandomain.dk.
@@ -9943,6 +9934,9 @@ kisii.gl.	0	IN	NS	a.hosting.gl.
 kisii.gl.	0	IN	NS	b.hosting.gl.
 kisii.gl.	0	IN	NS	c.hosting.gl.
 kisii.gl.	0	IN	NS	d.hosting.gl.
+kisik.gl.	0	IN	NS	ns1.modulo.gl.
+kisik.gl.	0	IN	NS	ns2.modulo.gl.
+kisik.gl.	0	IN	NS	ns3.modulo.gl.
 kiss.gl.	0	IN	NS	ns1.curanet.dk.
 kiss.gl.	0	IN	NS	ns2.curanet.dk.
 kissa.gl.	0	IN	NS	ns1.nunahosting.net.
@@ -15414,6 +15408,10 @@ politikerit.gl.	0	IN	NS	ns3.simply.com.
 politikerit.gl.	0	IN	NS	ns4.simply.com.
 politikerit.gl.	0	IN	DS	47757 13 2 29742d6659606e76e777e5edc67045599e549c18aa648635ad2d8c7d4f9ab15b
 politikerit.gl.	0	IN	DS	47757 13 4 0000602aad1490c3487d3174572110ed506b6d97e501414625317f41016870b1b505896916223a7b02c6a6b8b098bcfc
+politilog.gl.	0	IN	NS	udns1.cscdns.net.
+politilog.gl.	0	IN	NS	udns2.cscdns.uk.
+politiloggen.gl.	0	IN	NS	udns1.cscdns.net.
+politiloggen.gl.	0	IN	NS	udns2.cscdns.uk.
 politiskolen.gl.	0	IN	NS	udns1.cscdns.net.
 politiskolen.gl.	0	IN	NS	udns2.cscdns.uk.
 pomeyer.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
@@ -15776,10 +15774,6 @@ qaqortoqdigital.gl.	0	IN	NS	ns2.modulo.gl.
 qaqortoqdigital.gl.	0	IN	NS	ns3.modulo.gl.
 qaqortoqel.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 qaqortoqel.gl.	0	IN	NS	ns2.hosting.inuit.gl.
-qaqortuptimersortarfia.gl.	0	IN	NS	a.hosting.gl.
-qaqortuptimersortarfia.gl.	0	IN	NS	b.hosting.gl.
-qaqortuptimersortarfia.gl.	0	IN	NS	c.hosting.gl.
-qaqortuptimersortarfia.gl.	0	IN	NS	d.hosting.gl.
 qaqunnak.gl.	0	IN	NS	ns1.curanet.dk.
 qaqunnak.gl.	0	IN	NS	ns2.curanet.dk.
 qarsoq.gl.	0	IN	NS	ns1.modulo.gl.
@@ -16104,6 +16098,12 @@ reddit.gl.	0	IN	NS	ns4.markmonitor.com.
 reddit.gl.	0	IN	NS	ns5.markmonitor.com.
 reddit.gl.	0	IN	NS	ns6.markmonitor.com.
 reddit.gl.	0	IN	NS	ns7.markmonitor.com.
+redecanais.gl.	0	IN	NS	1-you.njalla.no.
+redecanais.gl.	0	IN	NS	2-can.njalla.in.
+redecanais.gl.	0	IN	NS	3-get.njalla.fo.
+redecanaistv.gl.	0	IN	NS	1-you.njalla.no.
+redecanaistv.gl.	0	IN	NS	2-can.njalla.in.
+redecanaistv.gl.	0	IN	NS	3-get.njalla.fo.
 redhat.gl.	0	IN	NS	dns1.p01.nsone.net.
 redhat.gl.	0	IN	NS	dns2.p01.nsone.net.
 redhat.gl.	0	IN	NS	dns3.p01.nsone.net.
@@ -16174,8 +16174,9 @@ releasenow.gl.	0	IN	NS	ns5.unoeuro.com.
 rema.gl.	0	IN	NS	yevgen.ns.cloudflare.com.
 rema.gl.	0	IN	NS	raphaela.ns.cloudflare.com.
 rema.gl.	0	IN	DS	2371 13 2 346c9645be46ad860c560291bf1dabc7012162b8cda3c9557252cd955f1cc076
-remixdev.gl.	0	IN	NS	drake.ns.cloudflare.com.
-remixdev.gl.	0	IN	NS	paislee.ns.cloudflare.com.
+remixdev.gl.	0	IN	NS	3-pas.njalla.in.
+remixdev.gl.	0	IN	NS	1-ceci.njalla.do.
+remixdev.gl.	0	IN	NS	2-nest.pipe.ma.
 remixeth.gl.	0	IN	NS	clay.ns.cloudflare.com.
 remixeth.gl.	0	IN	NS	aleena.ns.cloudflare.com.
 renedesign.gl.	0	IN	NS	ns1.gigahost.dk.
@@ -17048,8 +17049,8 @@ sexologiskolen.gl.	0	IN	NS	a.hosting.gl.
 sexologiskolen.gl.	0	IN	NS	b.hosting.gl.
 sexologiskolen.gl.	0	IN	NS	c.hosting.gl.
 sexologiskolen.gl.	0	IN	NS	d.hosting.gl.
-sexy.gl.	0	IN	NS	ns1-virt.catched.com.
-sexy.gl.	0	IN	NS	ns2-virt.catched.com.
+sexy.gl.	0	IN	NS	ns1.bodis.com.
+sexy.gl.	0	IN	NS	ns2.bodis.com.
 sf.gl.	0	IN	NS	dan.ns.cloudflare.com.
 sf.gl.	0	IN	NS	zita.ns.cloudflare.com.
 sfai-greenland.gl.	0	IN	NS	ns1.nunahosting.net.
@@ -17769,8 +17770,9 @@ sps-sisimiut.gl.	0	IN	NS	ns3.nunahosting.net.
 sps-sisimiut.gl.	0	IN	NS	ns4.nunahosting.net.
 sputnik.gl.	0	IN	NS	dns1.epag.net.
 sputnik.gl.	0	IN	NS	dns2.epag.net.
-sq.gl.	0	IN	NS	ns1.bodis.com.
-sq.gl.	0	IN	NS	ns2.bodis.com.
+sq.gl.	0	IN	NS	ns1.regery.net.
+sq.gl.	0	IN	NS	ns2.regery.net.
+sq.gl.	0	IN	NS	ns3.regery.net.
 sqrk.gl.	0	IN	NS	a.hosting.gl.
 sqrk.gl.	0	IN	NS	b.hosting.gl.
 sqrk.gl.	0	IN	NS	c.hosting.gl.
@@ -18239,6 +18241,9 @@ svendsen.gl.	0	IN	NS	a.hosting.gl.
 svendsen.gl.	0	IN	NS	b.hosting.gl.
 svendsen.gl.	0	IN	NS	c.hosting.gl.
 svendsen.gl.	0	IN	NS	d.hosting.gl.
+svp.gl.	0	IN	NS	ns.udag.de.
+svp.gl.	0	IN	NS	ns.udag.net.
+svp.gl.	0	IN	NS	ns.udag.org.
 swagelok.gl.	0	IN	NS	ns1.eurodns.com.
 swagelok.gl.	0	IN	NS	ns2.eurodns.com.
 swagelok.gl.	0	IN	NS	ns3.eurodns.com.

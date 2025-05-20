@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025051914 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025052023 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -437,8 +437,10 @@ aristanetworks.gp.	0	IN	NS	eleanor.ns.cloudflare.com.
 arkeaonlife.gp.	0	IN	NS	ns1.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns2.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns3.arkea.com.
-armos.gp.	0	IN	NS	ns106.ovh.net.
-armos.gp.	0	IN	NS	dns106.ovh.net.
+armos.gp.	0	IN	NS	ns1.armos.gp.
+armos.gp.	0	IN	NS	ns2.armos.gp.
+ns1.armos.gp.	0	IN	A	82.112.242.149
+ns2.armos.gp.	0	IN	A	82.112.242.149
 aroma-zone.gp.	0	IN	NS	ns1.safebrands.fr.
 aroma-zone.gp.	0	IN	NS	ns2.safebrands.eu.
 aroma-zone.gp.	0	IN	NS	ns3.safebrands.com.

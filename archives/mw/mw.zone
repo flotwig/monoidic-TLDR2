@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747692301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747778701 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -3224,6 +3224,8 @@ mip1dashboard.mw.	0	IN	NS	ns-1365.awsdns-42.org.
 mip1dashboard.mw.	0	IN	NS	ns-1562.awsdns-03.co.uk.
 mips.mw.	0	IN	NS	ns1.mtlonline.mw.
 mips.mw.	0	IN	NS	ns2.mtlonline.mw.
+miraclesc.mw.	0	IN	NS	ns71.domaincontrol.com.
+miraclesc.mw.	0	IN	NS	ns72.domaincontrol.com.
 mit.mw.	0	IN	NS	ns1.cp-23.webhostbox.net.
 mit.mw.	0	IN	NS	ns2.cp-23.webhostbox.net.
 mitc.mw.	0	IN	NS	ns1.inmotionhosting.com.
