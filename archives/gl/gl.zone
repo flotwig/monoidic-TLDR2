@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164546 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164603 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1706,6 +1706,10 @@ arsukfjorden.gl.	0	IN	NS	ns3-04.azure-dns.org.
 arsukfjorden.gl.	0	IN	NS	ns4-04.azure-dns.info.
 arsukfood.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 arsukfood.gl.	0	IN	NS	ns2.hosting.inuit.gl.
+arteliagroup.gl.	0	IN	NS	ns1.simply.com.
+arteliagroup.gl.	0	IN	NS	ns2.simply.com.
+arteliagroup.gl.	0	IN	NS	ns3.simply.com.
+arteliagroup.gl.	0	IN	DS	39877 13 2 c4632e0f09599f0899375d82583a0ef382f8fb8c231093356c62c74ef6f9c9cc
 artenika.gl.	0	IN	NS	ns1.netim.net.
 artenika.gl.	0	IN	NS	ns2.netim.net.
 artenika.gl.	0	IN	NS	ns3.netim.net.
@@ -1952,6 +1956,8 @@ aus-g4s.gl.	0	IN	NS	ns1.101domain.com.
 aus-g4s.gl.	0	IN	NS	ns2.101domain.com.
 ausecurity.gl.	0	IN	NS	ns1.101domain.com.
 ausecurity.gl.	0	IN	NS	ns2.101domain.com.
+austin.gl.	0	IN	NS	rosa.ns.cloudflare.com.
+austin.gl.	0	IN	NS	casey.ns.cloudflare.com.
 autisme.gl.	0	IN	NS	ns1.unoeuro.com.
 autisme.gl.	0	IN	NS	ns2.unoeuro.com.
 autisme.gl.	0	IN	NS	ns3.unoeuro.com.
@@ -3091,6 +3097,8 @@ bs.gl.	0	IN	NS	kaiser.ns.cloudflare.com.
 bs.gl.	0	IN	NS	crystal.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	ligia.ns.cloudflare.com.
+bs2.gl.	0	IN	NS	ns1.catched.com.
+bs2.gl.	0	IN	NS	ns2.catched.com.
 bs2best.gl.	0	IN	NS	3-pas.njalla.in.
 bs2best.gl.	0	IN	NS	1-ceci.njalla.do.
 bs2best.gl.	0	IN	NS	2-nest.pipe.ma.
@@ -6684,8 +6692,6 @@ glo.gl.	0	IN	NS	ns3.blacknight.com.
 glo.gl.	0	IN	NS	ns4.blacknight.com.
 global.gl.	0	IN	NS	ns1.gofruits.co.
 global.gl.	0	IN	NS	ns2.gofruits.co.
-globalexpansion.gl.	0	IN	NS	sloan.ns.cloudflare.com.
-globalexpansion.gl.	0	IN	NS	alexis.ns.cloudflare.com.
 globe.gl.	0	IN	NS	dell.ns.cloudflare.com.
 globe.gl.	0	IN	NS	terry.ns.cloudflare.com.
 gloss.gl.	0	IN	NS	ns1.ilait.se.
@@ -9916,6 +9922,9 @@ kinderphysio.gl.	0	IN	NS	ns02.hostfactory.ch.
 kindle.gl.	0	IN	NS	nsgbr.comlaude.co.uk.
 kindle.gl.	0	IN	NS	nssui.comlaude.ch.
 kindle.gl.	0	IN	NS	nsusa.comlaude.net.
+king.gl.	0	IN	NS	ns1.netim.net.
+king.gl.	0	IN	NS	ns2.netim.net.
+king.gl.	0	IN	NS	ns3.netim.net.
 kingo.gl.	0	IN	NS	ns1.curanet.dk.
 kingo.gl.	0	IN	NS	ns2.curanet.dk.
 kinogo.gl.	0	IN	NS	kia.ns.cloudflare.com.
@@ -10504,6 +10513,9 @@ kryger.gl.	0	IN	NS	ns2.simply.com.
 kryger.gl.	0	IN	NS	ns3.simply.com.
 kryger.gl.	0	IN	DS	44530 13 2 63411f47c23d930d017a1d39665607b91c66606c0f7604f14729e6719078fc7c
 kryger.gl.	0	IN	DS	44530 13 4 753c603b085a0e15710fd69d61ecf2cd981fcaac3dd009371ed626ecb8c9ab691a51a3c1fef7f12fb35ede697fe96c35
+krypton.gl.	0	IN	NS	1-you.njalla.no.
+krypton.gl.	0	IN	NS	2-can.njalla.in.
+krypton.gl.	0	IN	NS	3-get.njalla.fo.
 ks.gl.	0	IN	NS	ns1.ifastnet5.org.
 ks.gl.	0	IN	NS	ns2.ifastnet5.org.
 ksaps.gl.	0	IN	NS	ns1.simply.com.
@@ -15761,6 +15773,10 @@ qappik.gl.	0	IN	NS	ns2.simply.com.
 qappik.gl.	0	IN	NS	ns3.simply.com.
 qappik.gl.	0	IN	DS	10573 13 2 3a39bdd9279d98fa2cca642b15bb136137b8008ad663a991fdbd3a1bb0301388
 qappik.gl.	0	IN	DS	10573 13 4 bb5a3c2b3952255e495e2970d75c55747a3ea3d74a24c9e698029a6a6b07b8452c21786da7449b97a6d104d9e9531deb
+qapu.gl.	0	IN	NS	a.hosting.gl.
+qapu.gl.	0	IN	NS	b.hosting.gl.
+qapu.gl.	0	IN	NS	c.hosting.gl.
+qapu.gl.	0	IN	NS	d.hosting.gl.
 qaq.gl.	0	IN	NS	ns1.simply.com.
 qaq.gl.	0	IN	NS	ns2.simply.com.
 qaq.gl.	0	IN	NS	ns3.simply.com.
@@ -16112,14 +16128,14 @@ redtracker.gl.	0	IN	NS	aria.ns.cloudflare.com.
 redtracker.gl.	0	IN	NS	felipe.ns.cloudflare.com.
 redtracker1.gl.	0	IN	NS	aria.ns.cloudflare.com.
 redtracker1.gl.	0	IN	NS	felipe.ns.cloudflare.com.
-redtube.gl.	0	IN	NS	ns11.digicertdns.com.
-redtube.gl.	0	IN	NS	ns12.digicertdns.com.
-redtube.gl.	0	IN	NS	ns13.digicertdns.net.
-redtube.gl.	0	IN	NS	ns14.digicertdns.net.
+redtube.gl.	0	IN	NS	ns-92.awsdns-11.com.
 redtube.gl.	0	IN	NS	sdns3.ultradns.biz.
 redtube.gl.	0	IN	NS	sdns3.ultradns.com.
 redtube.gl.	0	IN	NS	sdns3.ultradns.net.
 redtube.gl.	0	IN	NS	sdns3.ultradns.org.
+redtube.gl.	0	IN	NS	ns-531.awsdns-02.net.
+redtube.gl.	0	IN	NS	ns-1499.awsdns-59.org.
+redtube.gl.	0	IN	NS	ns-1567.awsdns-03.co.uk.
 refinitiv.gl.	0	IN	NS	ns1.markmonitor.com.
 refinitiv.gl.	0	IN	NS	ns2.markmonitor.com.
 refinitiv.gl.	0	IN	NS	ns3.markmonitor.com.
@@ -18922,9 +18938,6 @@ timmisartoq.gl.	0	IN	NS	ns2.dreamhost.com.
 timmisartoq.gl.	0	IN	NS	ns3.dreamhost.com.
 timur.gl.	0	IN	NS	ns1.vercel-dns.com.
 timur.gl.	0	IN	NS	ns2.vercel-dns.com.
-tin.gl.	0	IN	NS	ns1.netim.net.
-tin.gl.	0	IN	NS	ns2.netim.net.
-tin.gl.	0	IN	NS	ns3.netim.net.
 tinderplaces.gl.	0	IN	NS	ns1.markmonitor.com.
 tinderplaces.gl.	0	IN	NS	ns3.markmonitor.com.
 tinderselect.gl.	0	IN	NS	ns1.markmonitor.com.

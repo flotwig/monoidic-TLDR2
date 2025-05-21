@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747778701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747865102 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -487,8 +487,6 @@ avaya.mw.	0	IN	NS	ns4.markmonitor.com.
 avaya.mw.	0	IN	NS	ns5.markmonitor.com.
 avaya.mw.	0	IN	NS	ns6.markmonitor.com.
 avaya.mw.	0	IN	NS	ns7.markmonitor.com.
-aviator.mw.	0	IN	NS	kirk.ns.cloudflare.com.
-aviator.mw.	0	IN	NS	vita.ns.cloudflare.com.
 aviator-bet.mw.	0	IN	NS	chelsea.ns.cloudflare.com.
 aviator-bet.mw.	0	IN	NS	abdullah.ns.cloudflare.com.
 aviator-bet-malawi.mw.	0	IN	NS	lou.ns.cloudflare.com.
@@ -3780,8 +3778,8 @@ on.mw.	0	IN	NS	ns1.nik.io.
 on.mw.	0	IN	NS	ns2.nik.io.
 on.mw.	0	IN	NS	ns3.nik.io.
 on.mw.	0	IN	NS	ns4.nik.io.
-onenico-online.mw.	0	IN	NS	maxdns.globemw.net.
-onenico-online.mw.	0	IN	NS	araliya.globemw.net.
+onenico-online.mw.	0	IN	NS	adi.ns.cloudflare.com.
+onenico-online.mw.	0	IN	NS	alaric.ns.cloudflare.com.
 onestopsupply.mw.	0	IN	NS	ns1.servconfig.com.
 onestopsupply.mw.	0	IN	NS	ns2.servconfig.com.
 online.mw.	0	IN	NS	maxdns.globemw.net.
