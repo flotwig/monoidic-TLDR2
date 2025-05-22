@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747865102 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1747951501 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -2089,6 +2089,8 @@ hccd.mw.	0	IN	NS	vda8100a.trouble-free.net.
 hccd.mw.	0	IN	NS	vda8100b.trouble-free.net.
 hcl.mw.	0	IN	NS	sns9.hostgator.in.
 hcl.mw.	0	IN	NS	sns10.hostgator.in.
+headlines.mw.	0	IN	NS	ns1.linthipe3.com.
+headlines.mw.	0	IN	NS	ns2.linthipe3.com.
 heag.mw.	0	IN	NS	ns1.yourdomain.co.za.
 heag.mw.	0	IN	NS	ns2.yourdomain.co.za.
 heag.mw.	0	IN	NS	ns3.yourdomain.co.za.
@@ -2179,6 +2181,8 @@ hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
 hopeedu.mw.	0	IN	NS	nyala.sdnp.org.mw.
 hopetv.mw.	0	IN	NS	domwe.sdn.mw.
 hopetv.mw.	0	IN	NS	nyala.sdnp.org.mw.
+hortinetfoods.mw.	0	IN	NS	ns1.linthipe4.com.
+hortinetfoods.mw.	0	IN	NS	ns2.linthipe4.com.
 hosannaradio.mw.	0	IN	NS	ns1.bdsmw.com.
 hosannaradio.mw.	0	IN	NS	ns2.bdsmw.com.
 hosannaradio.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -2561,10 +2565,8 @@ juulvapor.mw.	0	IN	NS	ns-70.awsdns-08.com.
 juulvapor.mw.	0	IN	NS	ns-524.awsdns-01.net.
 juulvapor.mw.	0	IN	NS	ns-1029.awsdns-00.org.
 juulvapor.mw.	0	IN	NS	ns-1576.awsdns-05.co.uk.
-jw.mw.	0	IN	NS	ns-288.awsdns-36.com.
-jw.mw.	0	IN	NS	ns-601.awsdns-11.net.
-jw.mw.	0	IN	NS	ns-1233.awsdns-26.org.
-jw.mw.	0	IN	NS	ns-1567.awsdns-03.co.uk.
+jw.mw.	0	IN	NS	ns1.101domain.com.
+jw.mw.	0	IN	NS	ns2.101domain.com.
 k.mw.	0	IN	NS	ns1.netim.net.
 k.mw.	0	IN	NS	ns2.netim.net.
 k.mw.	0	IN	NS	ns3.netim.net.
@@ -4843,8 +4845,8 @@ totalenergies.mw.	0	IN	NS	ns4.totalenergies.info.
 tourism.mw.	0	IN	NS	dns1.web-hosting.com.
 tourism.mw.	0	IN	NS	dns1.namecheaphosting.com.
 tourism.mw.	0	IN	NS	dns2.namecheaphosting.com.
-tpoadventures.mw.	0	IN	NS	ns1.cp-3.webhostbox.net.
-tpoadventures.mw.	0	IN	NS	ns2.cp-3.webhostbox.net.
+tpoadventures.mw.	0	IN	NS	ns1.md-92.webhostbox.net.
+tpoadventures.mw.	0	IN	NS	ns2.md-92.webhostbox.net.
 tracks.mw.	0	IN	NS	dns1.namecheaphosting.com.
 tracks.mw.	0	IN	NS	dns2.namecheaphosting.com.
 tractorprovider.mw.	0	IN	NS	ajay.ns.cloudflare.com.

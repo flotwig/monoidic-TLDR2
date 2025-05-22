@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164603 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164660 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1254,6 +1254,9 @@ anori.gl.	0	IN	DS	24168 13 4 896801f9e00f455a1df0cd446b5d7c074f9005ef9e10a7d56f2
 anoriart.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 anoriart.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 anoriart.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
+anorthosite.gl.	0	IN	NS	ns1.netim.net.
+anorthosite.gl.	0	IN	NS	ns2.netim.net.
+anorthosite.gl.	0	IN	NS	ns3.netim.net.
 ant.gl.	0	IN	NS	ns1.serverstack.com.
 ant.gl.	0	IN	NS	ns2.serverstack.com.
 ant.gl.	0	IN	NS	ns3.serverstack.com.
@@ -3406,8 +3409,8 @@ captcha-kra6.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra6.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 captcha-kra7.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra7.gl.	0	IN	NS	ns3.disabled.ispapi.net.
-car.gl.	0	IN	NS	ns1.domaineasy.com.
-car.gl.	0	IN	NS	ns2.domaineasy.com.
+car.gl.	0	IN	NS	launch1.spaceship.net.
+car.gl.	0	IN	NS	launch2.spaceship.net.
 caravan.gl.	0	IN	NS	ns1.brandshelter.com.
 caravan.gl.	0	IN	NS	ns2.brandshelter.de.
 caravan.gl.	0	IN	NS	ns3.brandshelter.info.
@@ -12286,9 +12289,8 @@ mn.gl.	0	IN	NS	ns3-01.azure-dns.org.
 mn.gl.	0	IN	NS	ns4-01.azure-dns.info.
 mnm.gl.	0	IN	NS	ns1.curanet.dk.
 mnm.gl.	0	IN	NS	ns2.curanet.dk.
-mo.gl.	0	IN	NS	ns1.afternic.com.
-mo.gl.	0	IN	NS	ns2.afternic.com.
-mo.gl.	0	IN	NS	verification-szgvuutgsao3wqoscp6ji3.ns101.verify.hn.
+mo.gl.	0	IN	NS	ns1.atom.com.
+mo.gl.	0	IN	NS	ns2.atom.com.
 mobi.gl.	0	IN	NS	ns1.dreamhost.com.
 mobi.gl.	0	IN	NS	ns2.dreamhost.com.
 mobi.gl.	0	IN	NS	ns3.dreamhost.com.
@@ -12458,6 +12460,10 @@ movietransit.gl.	0	IN	NS	ns2.hyp.net.
 movietransit.gl.	0	IN	NS	ns3.hyp.net.
 movietransit.gl.	0	IN	DS	34510 15 2 5a4c02506c9f09e6769ac8c6007cd7cac5075c4c4d2f4d9f347dd0a949464116
 movietransit.gl.	0	IN	DS	34510 15 4 99cd7539e39deb2b6cd874fee86d775c4b8817e30730c0ed9fd79f4d832bb689c7f2252ff482082dc767cc17bea5e3a4
+mowl.gl.	0	IN	NS	ns1.simply.com.
+mowl.gl.	0	IN	NS	ns2.simply.com.
+mowl.gl.	0	IN	NS	ns3.simply.com.
+mowl.gl.	0	IN	DS	58237 13 2 5b0ddeb54cc5e84834b6a1264ba145e085a53edf9de6d05a978167ffeb253d6b
 mp.gl.	0	IN	NS	ns01.trademarkarea.com.
 mp.gl.	0	IN	NS	ns02.trademarkarea.com.
 mp.gl.	0	IN	NS	ns03.trademarkarea.com.
@@ -15422,8 +15428,12 @@ politikerit.gl.	0	IN	DS	47757 13 2 29742d6659606e76e777e5edc67045599e549c18aa648
 politikerit.gl.	0	IN	DS	47757 13 4 0000602aad1490c3487d3174572110ed506b6d97e501414625317f41016870b1b505896916223a7b02c6a6b8b098bcfc
 politilog.gl.	0	IN	NS	udns1.cscdns.net.
 politilog.gl.	0	IN	NS	udns2.cscdns.uk.
+politilog.gl.	0	IN	DS	2186 13 1 0ac7b18cb94dcb42f6c873853c98f679554792ad
+politilog.gl.	0	IN	DS	2186 13 2 a398f2f56bd1b38d128a7f2a182001aa3cc79b1dd32e967d133c1b05f844d9df
 politiloggen.gl.	0	IN	NS	udns1.cscdns.net.
 politiloggen.gl.	0	IN	NS	udns2.cscdns.uk.
+politiloggen.gl.	0	IN	DS	61792 13 1 07da7219ed2d8ddaa6fbed22f5eb31bac57e2115
+politiloggen.gl.	0	IN	DS	61792 13 2 f603074a6e122272d99a325d68e1c08f27b1cc38441647c3c60154a55799093f
 politiskolen.gl.	0	IN	NS	udns1.cscdns.net.
 politiskolen.gl.	0	IN	NS	udns2.cscdns.uk.
 pomeyer.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
@@ -20643,8 +20653,9 @@ wwf.gl.	0	IN	DS	30533 13 2 5f8578d88b174fabacb269cb892dbded677a0d9912d397bf50b20
 wwf.gl.	0	IN	DS	30533 13 4 67dc9723354839a2062663203714df98945577d96b2fc8b320f4d03e994ee4b8c57affd2d1b45bb2bae715d7d709cb4c
 www.gl.	0	IN	NS	ns1.cybernetpro.com.
 www.gl.	0	IN	NS	ns2.cybernetpro.com.
-wy.gl.	0	IN	NS	ns1.easyname.eu.
-wy.gl.	0	IN	NS	ns2.easyname.eu.
+wy.gl.	0	IN	NS	ns.udag.de.
+wy.gl.	0	IN	NS	ns.udag.net.
+wy.gl.	0	IN	NS	ns.udag.org.
 wyn.gl.	0	IN	NS	ns1.blacknight.com.
 wyn.gl.	0	IN	NS	ns2.blacknight.com.
 wyn.gl.	0	IN	NS	ns3.blacknight.com.
