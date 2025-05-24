@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164718 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164774 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1396,9 +1396,6 @@ aqqutissiuussineq.gl.	0	IN	NS	ns2.scannet2.dk.
 aqqutit.gl.	0	IN	NS	ns1.simply.com.
 aqqutit.gl.	0	IN	NS	ns2.simply.com.
 aqqutit.gl.	0	IN	NS	ns3.simply.com.
-aqutsisut.gl.	0	IN	NS	ns-321.awsdns-40.com.
-aqutsisut.gl.	0	IN	NS	ns-1391.awsdns-45.org.
-aqutsisut.gl.	0	IN	NS	ns-1896.awsdns-45.co.uk.
 ar.gl.	0	IN	NS	a.hosting.gl.
 ar.gl.	0	IN	NS	b.hosting.gl.
 ar.gl.	0	IN	NS	c.hosting.gl.
@@ -5665,6 +5662,9 @@ favrit.gl.	0	IN	DS	3729 15 2 0dc6d985e3a531859576b36e690ddb24db6afc475c4e1ddac0f
 favrit.gl.	0	IN	DS	3729 15 4 7b5b9e045ffd5757ea7c6a32613ae58b05795731d8c7cf5189919d5f0753794d2fa8d5d767fe6aba85c0a0c21a4ac21b
 faxe.gl.	0	IN	NS	dns1.cscdns.net.
 faxe.gl.	0	IN	NS	dns2.cscdns.net.
+fb.gl.	0	IN	NS	ns1.netim.net.
+fb.gl.	0	IN	NS	ns2.netim.net.
+fb.gl.	0	IN	NS	ns3.netim.net.
 fbb.gl.	0	IN	NS	ns1.digitalocean.com.
 fbb.gl.	0	IN	NS	ns2.digitalocean.com.
 fbb.gl.	0	IN	NS	ns3.digitalocean.com.
@@ -11438,9 +11438,9 @@ magnusson.gl.	0	IN	NS	ns2.inleed.net.
 magnusson.gl.	0	IN	NS	ns3.inleed.net.
 magnusson.gl.	0	IN	NS	ns4.inleed.net.
 magnusson.gl.	0	IN	NS	ns5.inleed.net.
-magseis.gl.	0	IN	NS	ns1.hyp.net.
-magseis.gl.	0	IN	NS	ns2.hyp.net.
-magseis.gl.	0	IN	NS	ns3.hyp.net.
+magseis.gl.	0	IN	NS	ns1.expireddomain.hyp.net.
+magseis.gl.	0	IN	NS	ns2.expireddomain.hyp.net.
+magseis.gl.	0	IN	NS	ns3.expireddomain.hyp.net.
 magseis.gl.	0	IN	DS	49036 13 2 562f558ea5f403d154d470875606166928cc9471f4551f31d92e28eefa06336f
 magseis.gl.	0	IN	DS	49036 13 4 1e1c28f86e72903ac5ea27a8fe08d6a3c940cdbe967fa122e78b282f6ba0aaf2876404cf90ecb0ac3dbc93f33db73c0d
 maik.gl.	0	IN	NS	ns1.simply.com.
@@ -14057,8 +14057,6 @@ nx.gl.	0	IN	NS	ns-496.awsdns-62.com.
 nx.gl.	0	IN	NS	ns-812.awsdns-37.net.
 nx.gl.	0	IN	NS	ns-1088.awsdns-08.org.
 nx.gl.	0	IN	NS	ns-1843.awsdns-38.co.uk.
-ny.gl.	0	IN	NS	parked.g1-dns.com.
-ny.gl.	0	IN	NS	parked.g1-dns.one.
 nyborg.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 nyborg.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 nyborg.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -20672,8 +20670,6 @@ xvideos.gl.	0	IN	NS	ns1.serverstack.com.
 xvideos.gl.	0	IN	NS	ns2.serverstack.com.
 xvideos.gl.	0	IN	NS	ns3.serverstack.com.
 xvideos.gl.	0	IN	NS	ns4.serverstack.com.
-xx.gl.	0	IN	NS	ns1.dan.com.
-xx.gl.	0	IN	NS	ns2.dan.com.
 xxx.gl.	0	IN	NS	ns1.dan.com.
 xxx.gl.	0	IN	NS	ns2.dan.com.
 xy.gl.	0	IN	NS	ns1.ispapi.net.

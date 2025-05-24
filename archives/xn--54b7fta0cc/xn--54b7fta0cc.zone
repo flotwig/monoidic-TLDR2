@@ -1,4 +1,4 @@
-xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025052410 120 3600 604800 10800
+xn--54b7fta0cc.	0	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025052510 120 3600 604800 10800
 xn--54b7fta0cc.	0	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.	0	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.	0	IN	NS	ekushey.btcl.net.bd.
@@ -385,6 +385,8 @@ xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc.	0	IN	NS	ns1.bangladesh.gov.bd.
 xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc.	0	IN	NS	ns2.bangladesh.gov.bd.
 xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc.	0	IN	NS	ns1.nothi.org.bd.
 xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc.	0	IN	NS	ns2.nothi.org.bd.
+xn--j5ba7cyb8c0b.xn--54b7fta0cc.	0	IN	NS	ns1.arnimit.org.
+xn--j5ba7cyb8c0b.xn--54b7fta0cc.	0	IN	NS	ns2.arnimit.org.
 xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc.	0	IN	NS	ns1.bcc.gov.bd.
 xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc.	0	IN	NS	ns2.bcc.gov.bd.
 xn--j5baa6e3bd2g5bg.xn--54b7fta0cc.	0	IN	NS	ns1.bluehost.com.
@@ -418,6 +420,8 @@ xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc.	0	IN	NS	dns.btcl.net.bd.
 xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc.	0	IN	NS	slave.btcl.net.bd.
 xn--n5bi4cb1a3d1bl.xn--54b7fta0cc.	0	IN	NS	dns.btcl.net.bd.
 xn--n5bi4cb1a3d1bl.xn--54b7fta0cc.	0	IN	NS	slave.btcl.net.bd.
+xn--n5bi8b0bwb0b.xn--54b7fta0cc.	0	IN	NS	ns1.kawsargroup.com.
+xn--n5bi8b0bwb0b.xn--54b7fta0cc.	0	IN	NS	ns2.kawsargroup.com.
 xn--n5by1a0ap3do.xn--54b7fta0cc.	0	IN	NS	ns1.mail6bd.net.
 xn--n5by1a0ap3do.xn--54b7fta0cc.	0	IN	NS	ns2.mail6bd.net.
 xn--p5b1bfsr6e5e.xn--54b7fta0cc.	0	IN	NS	ns1.a2iservices.gov.bd.
