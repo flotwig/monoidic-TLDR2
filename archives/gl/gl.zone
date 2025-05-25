@@ -1,12 +1,13 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164774 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164832 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
 gl.	0	IN	NS	ns1.anycastdns.cz.
 gl.	0	IN	NS	ns2.anycastdns.cz.
 gl.	0	IN	DNSKEY	256 3 8 AwEAAZQoEjyIZnLTg1KjLl8AakwY8ir6sF5DBTPqDCu0JBBVoPc8ba413y3uEeS6xqbsVjBGHJcVAXyeOBQ/LH1mStO4hRS7topgSV0nzukSOsf87Ue2fwmJmryQQvjeSSt9EO9RnPrt/Pvkt5XkyMQBMCDqBaOa+x4BoDnU3hzGJTzFFsjBbjk65TN+Xp6x0stFuf4i1O9ogshCTRgy+5Jw5OcBKwNj8+hNEghUoQGy26ElgqgX2kiMCF8cTANEliq3v35P8shABJcyEyLsIrzz+dC8Q11Yb2zpY6g2y64so4VEWdyfddTHZx0sTB3gBiMKPYum5NRLHcdGn7fuoClOq3k= ;{id = 57390 (zsk), size = 2048b}
+gl.	0	IN	DNSKEY	256 3 8 AwEAAa9A2dS02nv1E/20rVhnV4JhZhfspG3ypFvoTns+IV1Qla62o554ZctdWrTEcZpp6ROxLZKxI4XEQpRHmsPrcYpCvOAzZxN8Ku89T96zRCyT1lVoLQZ0wPYh0WsgBIBJkMPIzlzzc+VMQTzk939WhICDKsfn3yV1z2KgPP2d0fcMa4+JOlrdhERkh8juw7h4fWTFODkp85ov+mw9+QVXAUdEyXNmtQEB3NuDkN2RwXpSez250yekEFAjnpky3ZrzrqWdzD9BdEOCXcj4Ps9M+TitOW3lybKhevvtBsJl4vrkCWycGlGXEnPbC9M8pqE2BOYO2EqS+ycGIUWbdSzZqsE= ;{id = 54789 (zsk), size = 2048b}
 gl.	0	IN	DNSKEY	257 3 8 AwEAAfYm4+zwxY7gxb4XaVDGuNUKfR2Zcd9wYXI+JeL6NutecP8/5yejpYvyYrS9EoZKi1I/Zxy5T0bhke0TfCwtX+1fjLqZYXhnqPbqRrFjRsMLEMx4BXnI4+jRKOx/Fq1RQHKJqnw+3k9peImXyxSs79OzNKIbZHvYh/BYLjzGX2GUqRngvxjzfsPYpqV4vI3tpqTx5UpetxNLzMSPwZSI/rfDuRDZjP44V1UjLkcZ2AmqSva6q92kb7zruhn6C0JocyPTOPPK1J08tSp/ur+AYLYLyxL8+v28i1i9c1UhtatXpnCHn8OGFmg2pC/Vv2Q8sTXjKs6DFQ4IGODOQdU2HqM= ;{id = 11560 (ksk), size = 2048b}
-gl.	0	IN	NSEC3PARAM	1 0 0 2d5c06e8 
+gl.	0	IN	NSEC3PARAM	1 0 0 658a61dc 
 0.gl.	0	IN	NS	ns1.sudos.co.
 0.gl.	0	IN	NS	ns2.sudos.co.
 00.gl.	0	IN	NS	ns1.registry-server.com.
@@ -617,8 +618,6 @@ ado.gl.	0	IN	NS	ns1.dnsmadeeasy.com.
 adobe.gl.	0	IN	NS	ns1.netim.net.
 adobe.gl.	0	IN	NS	ns2.netim.net.
 adobe.gl.	0	IN	NS	ns3.netim.net.
-adobeconnect.gl.	0	IN	NS	parked.g1-dns.com.
-adobeconnect.gl.	0	IN	NS	parked.g1-dns.one.
 adolia.gl.	0	IN	NS	ns1.webhouse.sk.
 adolia.gl.	0	IN	NS	ns2.webhouse.sk.
 adolia.gl.	0	IN	NS	ns3.webhouse.sk.
@@ -1498,6 +1497,10 @@ arcticdrone.gl.	0	IN	NS	ns2.simply.com.
 arcticdrone.gl.	0	IN	NS	ns3.simply.com.
 arcticdrone.gl.	0	IN	DS	16046 13 2 81164993c2b7b97a34bea62aa7a7bc48a72d93ccffba4b3ef15793ab78f556bc
 arcticdrone.gl.	0	IN	DS	16046 13 4 bf3c30643f66bf68450816743ffcdbf182da5704991ccb65250f450ff26bd81431caab228f545fa9259c61f8d9582bd2
+arcticdrops.gl.	0	IN	NS	ns1.simply.com.
+arcticdrops.gl.	0	IN	NS	ns2.simply.com.
+arcticdrops.gl.	0	IN	NS	ns3.simply.com.
+arcticdrops.gl.	0	IN	DS	46695 13 2 6de3dd8e49c60cc6a93574d455e25f29debb3193b08bbccbc289234713e38df4
 arcticexcursions.gl.	0	IN	NS	ns1.simply.com.
 arcticexcursions.gl.	0	IN	NS	ns2.simply.com.
 arcticexcursions.gl.	0	IN	NS	ns3.simply.com.
@@ -3241,6 +3244,8 @@ buy.gl.	0	IN	NS	ns1.sedoparking.com.
 buy.gl.	0	IN	NS	ns2.sedoparking.com.
 buygreenland.gl.	0	IN	NS	lars.ns.cloudflare.com.
 buygreenland.gl.	0	IN	NS	grace.ns.cloudflare.com.
+buyom.gl.	0	IN	NS	aria.ns.cloudflare.com.
+buyom.gl.	0	IN	NS	felipe.ns.cloudflare.com.
 buz.gl.	0	IN	NS	ns1.google.com.
 buz.gl.	0	IN	NS	ns2.google.com.
 buz.gl.	0	IN	NS	ns3.google.com.
@@ -12996,8 +13001,8 @@ ndosupply.gl.	0	IN	NS	ns02.one.com.
 ne.gl.	0	IN	NS	ns1.hyp.net.
 ne.gl.	0	IN	NS	ns2.hyp.net.
 ne.gl.	0	IN	NS	ns3.hyp.net.
-ne.gl.	0	IN	DS	46270 13 2 ab432bee94997c38ff1a651d793cd4c6b82a7e2448857fdb531540057f9305a2
-ne.gl.	0	IN	DS	46270 13 4 8d2277915e2858a7c23abc6e097fa6f68537a8352711a8833afdf595c7ee46dbe191cc809cdaaf967cb5686bf9bbccbe
+ne.gl.	0	IN	DS	54280 15 2 639ce0dfc9aca6686318935b7ffbb805ae8e08aad2cf65bf2682d1c693e8eebb
+ne.gl.	0	IN	DS	54280 15 4 befb5ad0a07639e5a7c51abdb82be6dc33899a50f8e3d915efc14d4012979915e7f02e1ccdaf7b9ffe3312d3517933f9
 neas.gl.	0	IN	NS	ns1.netim.net.
 neas.gl.	0	IN	NS	ns2.netim.net.
 neas.gl.	0	IN	NS	ns3.netim.net.
@@ -13809,8 +13814,8 @@ nunapinui.gl.	0	IN	NS	ns4.nunahosting.net.
 nunapisuanut.gl.	0	IN	NS	ns1.hyp.net.
 nunapisuanut.gl.	0	IN	NS	ns2.hyp.net.
 nunapisuanut.gl.	0	IN	NS	ns3.hyp.net.
-nunapisuanut.gl.	0	IN	DS	53639 15 2 c433d6160204a8c10da57a48a5a4f1191a4987b9051b0ab92cd069f6ae1d90e4
-nunapisuanut.gl.	0	IN	DS	53639 15 4 1f275024a5c97158ba0dba50dfaf78cd21d86a83a03881f261367e465e9cc82bb00be5028db3901972c74ebec4d6db30
+nunapisuanut.gl.	0	IN	DS	55915 15 2 198ccae0d102001166602a223780b28ee93c55af9fec817bc2c5b36bb907d484
+nunapisuanut.gl.	0	IN	DS	55915 15 4 8cddab8a866807f555bb3db1b57186cb83ddda802b9b73cc88dd8d211b40b6860eadab0fa5d766a868c7439d70d86801
 nunarput.gl.	0	IN	NS	ns1.wordpress.com.
 nunarput.gl.	0	IN	NS	ns2.wordpress.com.
 nunarput.gl.	0	IN	NS	ns3.wordpress.com.
@@ -16375,6 +16380,9 @@ royalarcticline.gl.	0	IN	DS	41350 13 2 5e51d69e221a6947aeaa1a344116019e856db48d0
 royalgreenland.gl.	0	IN	NS	a.ns.netic.dk.
 royalgreenland.gl.	0	IN	NS	b.ns.netic.dk.
 royalgreenland.gl.	0	IN	NS	c.ns.netic.dk.
+rp.gl.	0	IN	NS	ns1.netim.net.
+rp.gl.	0	IN	NS	ns2.netim.net.
+rp.gl.	0	IN	NS	ns3.netim.net.
 rpu.gl.	0	IN	NS	sirio.tno.it.
 rpu.gl.	0	IN	NS	turing.tno.it.
 rr.gl.	0	IN	NS	ns1.atom.com.
@@ -17683,9 +17691,8 @@ sps-sisimiut.gl.	0	IN	NS	ns3.nunahosting.net.
 sps-sisimiut.gl.	0	IN	NS	ns4.nunahosting.net.
 sputnik.gl.	0	IN	NS	dns1.epag.net.
 sputnik.gl.	0	IN	NS	dns2.epag.net.
-sq.gl.	0	IN	NS	ns1.regery.net.
-sq.gl.	0	IN	NS	ns2.regery.net.
-sq.gl.	0	IN	NS	ns3.regery.net.
+sq.gl.	0	IN	NS	ns1.bodis.com.
+sq.gl.	0	IN	NS	ns2.bodis.com.
 sqrk.gl.	0	IN	NS	a.hosting.gl.
 sqrk.gl.	0	IN	NS	b.hosting.gl.
 sqrk.gl.	0	IN	NS	c.hosting.gl.
@@ -19458,10 +19465,6 @@ uni.gl.	0	IN	NS	jake.ns.cloudflare.com.
 uni.gl.	0	IN	NS	kristin.ns.cloudflare.com.
 unicef.gl.	0	IN	NS	yew.ns.cloudflare.com.
 unicef.gl.	0	IN	NS	mariah.ns.cloudflare.com.
-unicorn.gl.	0	IN	NS	ns-451.awsdns-56.com.
-unicorn.gl.	0	IN	NS	ns-740.awsdns-28.net.
-unicorn.gl.	0	IN	NS	ns-1347.awsdns-40.org.
-unicorn.gl.	0	IN	NS	ns-1985.awsdns-56.co.uk.
 unieuro.gl.	0	IN	NS	ns1.register.it.
 unieuro.gl.	0	IN	NS	ns2.register.it.
 unig.gl.	0	IN	NS	ns01.one.com.
@@ -19907,8 +19910,8 @@ visitkulusuk.gl.	0	IN	NS	ns4.gratisdns.dk.
 visitnunapisua.gl.	0	IN	NS	ns1.hyp.net.
 visitnunapisua.gl.	0	IN	NS	ns2.hyp.net.
 visitnunapisua.gl.	0	IN	NS	ns3.hyp.net.
-visitnunapisua.gl.	0	IN	DS	27035 15 2 a6a1d29e8e2ca81969b3e3f10d423b6494d15bc7d2e38c4eedfc88d6d24b643f
-visitnunapisua.gl.	0	IN	DS	27035 15 4 2a4b229947b00abebba3a1e839757c5a18194de630b6ad5e8bf5cbcae49844d10b05a571b24c0f500e12f13df871de68
+visitnunapisua.gl.	0	IN	DS	49897 15 2 10350a94e40e5ffd5c3ddfc6624201e2b9d2eba52ea3dc40758091f5347f4073
+visitnunapisua.gl.	0	IN	DS	49897 15 4 7a94591eb8e4c26cf30faa2227a5d6da3571d1222ae258b0bf9a0ba6bd57bb9b3e09086ba8da582276db0fe4d346893f
 visitnuuk.gl.	0	IN	NS	a.hosting.gl.
 visitnuuk.gl.	0	IN	NS	b.hosting.gl.
 visitnuuk.gl.	0	IN	NS	c.hosting.gl.

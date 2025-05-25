@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025052423 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025052524 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1748124045"
+bw.	0	IN	TXT	"Generation Time: 1748214013"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -10390,6 +10390,8 @@ faithanchor.co.bw.	0	IN	NS	bwadomains.venus.orderbox-dns.com.
 faithanchor.co.bw.	0	IN	NS	bwadomains.mercury.orderbox-dns.com.
 faithspring.co.bw.	0	IN	NS	ns1.bluehost.com.
 faithspring.co.bw.	0	IN	NS	ns2.bluehost.com.
+faitmaison.co.bw.	0	IN	NS	dns3.divineconcepts.net.bw.
+faitmaison.co.bw.	0	IN	NS	dns4.divineconcepts.net.bw.
 falconcarrentals.co.bw.	0	IN	NS	irena.ns.cloudflare.com.
 falconcarrentals.co.bw.	0	IN	NS	george.ns.cloudflare.com.
 falconcrest.co.bw.	0	IN	NS	ns1.opq.net.bw.
@@ -17376,6 +17378,8 @@ maanicaz.co.bw.	0	IN	NS	ns-cloud-b1.googledomains.com.
 maanicaz.co.bw.	0	IN	NS	ns-cloud-b2.googledomains.com.
 maanicaz.co.bw.	0	IN	NS	ns-cloud-b3.googledomains.com.
 maanicaz.co.bw.	0	IN	NS	ns-cloud-b4.googledomains.com.
+maanodigitals.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
+maanodigitals.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 maanogroup.co.bw.	0	IN	NS	dns2047a.trouble-free.net.
 maanogroup.co.bw.	0	IN	NS	dns2047b.trouble-free.net.
 maarifa.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
@@ -23678,6 +23682,8 @@ propez.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 prophalt.co.bw.	0	IN	NS	ns2.mega.bw.
 prophalt.co.bw.	0	IN	NS	ns3.mega.bw.
 prophalt.co.bw.	0	IN	NS	ns4.mega.bw.
+propsearch.co.bw.	0	IN	NS	colin.ns.cloudflare.com.
+propsearch.co.bw.	0	IN	NS	monroe.ns.cloudflare.com.
 propshaft.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 propshaft.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
 prorefill.co.bw.	0	IN	NS	ns1.md-87.webhostbox.net.
@@ -34017,7 +34023,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1748124086"
+ote.bw.	0	IN	TXT	"Generation Time: 1748214053"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.
