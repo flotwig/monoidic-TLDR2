@@ -13,6 +13,7 @@
 * `cars.`
 * `ch.`
 * `christmas.`
+* `ci.`
 * `cw.`
 * `desi.`
 * `diet.`

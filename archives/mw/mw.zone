@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748210701 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748297101 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -214,9 +214,6 @@ adziwa.mw.	0	IN	NS	ben.ns.cloudflare.com.
 adziwa.mw.	0	IN	NS	tori.ns.cloudflare.com.
 aeg.mw.	0	IN	NS	udns1.cscdns.net.
 aeg.mw.	0	IN	NS	udns2.cscdns.uk.
-afilias.mw.	0	IN	NS	ns1.101domain.com.
-afilias.mw.	0	IN	NS	ns2.101domain.com.
-afilias.mw.	0	IN	NS	ns5.101domain.com.
 africamagic.mw.	0	IN	NS	ns1.mweb.co.za.
 africamagic.mw.	0	IN	NS	ns2.mweb.co.za.
 africanheritage.mw.	0	IN	NS	ns35.csv-networks.nl.
@@ -282,8 +279,8 @@ akqa.mw.	0	IN	NS	ns1.netnames.net.
 akqa.mw.	0	IN	NS	ns2.netnames.net.
 akqa.mw.	0	IN	NS	ns5.netnames.net.
 akqa.mw.	0	IN	NS	ns6.netnames.net.
-akshar.mw.	0	IN	NS	ns6229.hostgator.com.
-akshar.mw.	0	IN	NS	ns6230.hostgator.com.
+akshar.mw.	0	IN	NS	dns1.namecheaphosting.com.
+akshar.mw.	0	IN	NS	dns2.namecheaphosting.com.
 akzonobel.mw.	0	IN	NS	ns1.akzonobel.com.
 akzonobel.mw.	0	IN	NS	ns2.akzonobel.com.
 akzonobel.mw.	0	IN	NS	ns3.akzonobel.com.
@@ -907,9 +904,6 @@ californiapsychics.mw.	0	IN	NS	ns02.trademarkarea.com.
 californiapsychics.mw.	0	IN	NS	ns03.trademarkarea.com.
 camp.mw.	0	IN	NS	elijah.ns.cloudflare.com.
 camp.mw.	0	IN	NS	carrera.ns.cloudflare.com.
-canbat.mw.	0	IN	NS	ns1.101domain.com.
-canbat.mw.	0	IN	NS	ns2.101domain.com.
-canbat.mw.	0	IN	NS	ns5.101domain.com.
 canmedia.mw.	0	IN	NS	domwe.sdn.mw.
 canmedia.mw.	0	IN	NS	nyala.sdnp.org.mw.
 canon.mw.	0	IN	NS	ns1.jp.canon.com.
@@ -1562,8 +1556,8 @@ electronics4u.mw.	0	IN	NS	sns39.hostgator.in.
 electronics4u.mw.	0	IN	NS	sns40.hostgator.in.
 elephantbet.mw.	0	IN	NS	sid.ns.cloudflare.com.
 elephantbet.mw.	0	IN	NS	heidi.ns.cloudflare.com.
-eliterealestate.mw.	0	IN	NS	vda7900a.trouble-free.net.
-eliterealestate.mw.	0	IN	NS	vda7900b.trouble-free.net.
+embiemlavie.mw.	0	IN	NS	domwe.sdn.mw.
+embiemlavie.mw.	0	IN	NS	nyala.sdnp.org.mw.
 emirates.mw.	0	IN	NS	ns3.emirates.com.
 emirates.mw.	0	IN	NS	pdns124.ultradns.biz.
 emirates.mw.	0	IN	NS	pdns124.ultradns.com.
@@ -2181,6 +2175,8 @@ hopeedu.mw.	0	IN	NS	domwe.sdn.mw.
 hopeedu.mw.	0	IN	NS	nyala.sdnp.org.mw.
 hopetv.mw.	0	IN	NS	domwe.sdn.mw.
 hopetv.mw.	0	IN	NS	nyala.sdnp.org.mw.
+horizondesigns.mw.	0	IN	NS	ns1.rohiplatforms.com.
+horizondesigns.mw.	0	IN	NS	ns2.rohiplatforms.com.
 hortinetfoods.mw.	0	IN	NS	ns1.linthipe4.com.
 hortinetfoods.mw.	0	IN	NS	ns2.linthipe4.com.
 hosannaradio.mw.	0	IN	NS	ns1.bdsmw.com.
@@ -3078,8 +3074,6 @@ medisurge.mw.	0	IN	NS	ns1.stackdns.com.
 medisurge.mw.	0	IN	NS	ns2.stackdns.com.
 medisurge.mw.	0	IN	NS	ns3.stackdns.com.
 medisurge.mw.	0	IN	NS	ns4.stackdns.com.
-medquip.mw.	0	IN	NS	maxdns.globemw.net.
-medquip.mw.	0	IN	NS	araliya.globemw.net.
 medu.mw.	0	IN	NS	ns1.bdsmw.com.
 medu.mw.	0	IN	NS	ns2.bdsmw.com.
 medu.mw.	0	IN	NS	ns3.bdsmw.com.
@@ -3645,8 +3639,8 @@ nissan.mw.	0	IN	NS	ns5.markmonitor.com.
 nissan.mw.	0	IN	NS	ns6.markmonitor.com.
 nitel.mw.	0	IN	NS	pluto.malswitch.com.
 nitel.mw.	0	IN	NS	venus.malswitch.com.
-nk.mw.	0	IN	NS	ns1.dyna-ns.net.
-nk.mw.	0	IN	NS	ns2.dyna-ns.net.
+nk.mw.	0	IN	NS	beau.ns.cloudflare.com.
+nk.mw.	0	IN	NS	meilani.ns.cloudflare.com.
 nkhomaradio.mw.	0	IN	NS	dns1.supremepanel.com.
 nkhomaradio.mw.	0	IN	NS	dns2.supremepanel.com.
 nkhomaradio.mw.	0	IN	NS	dns3.supremepanel.com.
@@ -3839,8 +3833,10 @@ originstory.mw.	0	IN	NS	lex.ns.cloudflare.com.
 originstory.mw.	0	IN	NS	gene.ns.cloudflare.com.
 osquaredmarketing.mw.	0	IN	NS	ns1.servconfig.com.
 osquaredmarketing.mw.	0	IN	NS	ns2.servconfig.com.
-othakarhakafoundation.mw.	0	IN	NS	ns1.cloud-35538c.managed-vps.net.
-othakarhakafoundation.mw.	0	IN	NS	ns2.cloud-35538c.managed-vps.net.
+othakarhakafoundation.mw.	0	IN	NS	dns1.supremedns.com.
+othakarhakafoundation.mw.	0	IN	NS	dns2.supremedns.com.
+othakarhakafoundation.mw.	0	IN	NS	dns3.supremedns.com.
+othakarhakafoundation.mw.	0	IN	NS	dns4.supremedns.com.
 oto.mw.	0	IN	NS	domwe.sdn.mw.
 oto.mw.	0	IN	NS	nyala.sdnp.org.mw.
 otterbox.mw.	0	IN	NS	ns1.lexsynergy.net.
@@ -4405,8 +4401,8 @@ seb.mw.	0	IN	NS	pdns1.cscdns.net.
 seb.mw.	0	IN	NS	pdns2.cscdns.net.
 secom.mw.	0	IN	NS	ns03.domaincontrol.com.
 secom.mw.	0	IN	NS	ns04.domaincontrol.com.
-select.mw.	0	IN	NS	ns6229.hostgator.com.
-select.mw.	0	IN	NS	ns6230.hostgator.com.
+select.mw.	0	IN	NS	dns1.namecheaphosting.com.
+select.mw.	0	IN	NS	dns2.namecheaphosting.com.
 selectafrica.mw.	0	IN	NS	ns1-01.azure-dns.com.
 selectafrica.mw.	0	IN	NS	ns2-01.azure-dns.net.
 selectafrica.mw.	0	IN	NS	ns3-01.azure-dns.org.
@@ -4904,8 +4900,6 @@ true.mw.	0	IN	NS	ns4.mysecurecloudhost.com.
 truniagen.mw.	0	IN	NS	ns01.trademarkarea.com.
 truniagen.mw.	0	IN	NS	ns02.trademarkarea.com.
 truniagen.mw.	0	IN	NS	ns03.trademarkarea.com.
-ttv.mw.	0	IN	NS	ruben.ns.cloudflare.com.
-ttv.mw.	0	IN	NS	savanna.ns.cloudflare.com.
 tuborg.mw.	0	IN	NS	ns1.brandshelter.com.
 tuborg.mw.	0	IN	NS	ns2.brandshelter.de.
 tuborg.mw.	0	IN	NS	ns3.brandshelter.info.
