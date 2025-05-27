@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164889 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164945 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -3150,9 +3150,6 @@ bsme.gl.	0	IN	NS	ns1.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984hosting.com.
 bsme.gl.	0	IN	NS	ns2.1984.is.
 bsme.gl.	0	IN	NS	ns2.1984hosting.com.
-bsp.gl.	0	IN	NS	ns1.webglobe.cz.
-bsp.gl.	0	IN	NS	ns2.webglobe.cz.
-bsp.gl.	0	IN	NS	ns3.webglobe.com.
 bst.gl.	0	IN	NS	vera.ns.cloudflare.com.
 bst.gl.	0	IN	NS	fonzie.ns.cloudflare.com.
 bt.gl.	0	IN	NS	ns1.huaweicloud-dns.cn.
@@ -3408,8 +3405,9 @@ capital.gl.	0	IN	NS	ns2.simply.com.
 capital.gl.	0	IN	NS	ns3.simply.com.
 capital.gl.	0	IN	DS	17576 13 2 7aea40a9165d2dff01e2a17eae1dd6fec7eec59229a8117daf19a9b59a3db3db
 capital.gl.	0	IN	DS	17576 13 4 01a74b6a651071138f8838a1a3bcf9d70b02842cd8c80a824121c1b00749cb7e7430767dde05f97818f55b3eb8eeca5e
-capitalexchange.gl.	0	IN	NS	blackhole-1.iana.org.
-capitalexchange.gl.	0	IN	NS	blackhole-2.iana.org.
+capitalexchange.gl.	0	IN	NS	ns1.capitalexchange.lu.
+capitalexchange.gl.	0	IN	NS	ns2.capitalexchange.at.
+capitalexchange.gl.	0	IN	NS	ns3.capitalexchange.one.
 capitolview.gl.	0	IN	NS	ns1.simply.com.
 capitolview.gl.	0	IN	NS	ns2.simply.com.
 capitolview.gl.	0	IN	NS	ns3.simply.com.
@@ -4596,8 +4594,8 @@ dollarstore.gl.	0	IN	NS	c.hosting.gl.
 dollarstore.gl.	0	IN	NS	d.hosting.gl.
 dolphin.gl.	0	IN	NS	ns1.dns.ne.jp.
 dolphin.gl.	0	IN	NS	ns2.dns.ne.jp.
-domain.gl.	0	IN	NS	ns1-virt.catched.com.
-domain.gl.	0	IN	NS	ns2-virt.catched.com.
+domain.gl.	0	IN	NS	ns1.sedoparking.com.
+domain.gl.	0	IN	NS	ns2.sedoparking.com.
 domainname.gl.	0	IN	NS	ns1.register.be.
 domainname.gl.	0	IN	NS	ns2.register.be.
 domainname.gl.	0	IN	NS	ns3.register.be.
@@ -11808,10 +11806,6 @@ meeting.gl.	0	IN	NS	jake.ns.cloudflare.com.
 meeting.gl.	0	IN	NS	kristin.ns.cloudflare.com.
 meg.gl.	0	IN	NS	liz.ns.cloudflare.com.
 meg.gl.	0	IN	NS	dean.ns.cloudflare.com.
-mega.gl.	0	IN	NS	ns1.bb-online.net.
-mega.gl.	0	IN	NS	ns2.bb-online.org.
-mega.gl.	0	IN	NS	ns3.bb-online.info.
-mega.gl.	0	IN	NS	ns4.bb-online.biz.
 mega-gl.gl.	0	IN	NS	luke.ns.cloudflare.com.
 mega-gl.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 mega-mp.gl.	0	IN	NS	ns1.disabled.ispapi.net.
@@ -11909,9 +11903,6 @@ menu.gl.	0	IN	NS	ns2.reg.ru.
 menzi.gl.	0	IN	NS	ns.hostpoint.ch.
 menzi.gl.	0	IN	NS	ns2.hostpoint.ch.
 menzi.gl.	0	IN	NS	ns3.hostpoint.ch.
-meqa.gl.	0	IN	NS	ns1.disabled.ispapi.net.
-meqa.gl.	0	IN	NS	ns2.disabled.ispapi.net.
-meqa.gl.	0	IN	NS	ns3.disabled.ispapi.net.
 meqqusaalik.gl.	0	IN	NS	ns1.simply.com.
 meqqusaalik.gl.	0	IN	NS	ns2.simply.com.
 meqqusaalik.gl.	0	IN	NS	ns3.simply.com.
