@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022164945 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165001 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -3405,9 +3405,8 @@ capital.gl.	0	IN	NS	ns2.simply.com.
 capital.gl.	0	IN	NS	ns3.simply.com.
 capital.gl.	0	IN	DS	17576 13 2 7aea40a9165d2dff01e2a17eae1dd6fec7eec59229a8117daf19a9b59a3db3db
 capital.gl.	0	IN	DS	17576 13 4 01a74b6a651071138f8838a1a3bcf9d70b02842cd8c80a824121c1b00749cb7e7430767dde05f97818f55b3eb8eeca5e
-capitalexchange.gl.	0	IN	NS	ns1.capitalexchange.lu.
-capitalexchange.gl.	0	IN	NS	ns2.capitalexchange.at.
-capitalexchange.gl.	0	IN	NS	ns3.capitalexchange.one.
+capitalexchange.gl.	0	IN	NS	ns1.capitalexchange.to.
+capitalexchange.gl.	0	IN	NS	ns2.capitalexchange.one.
 capitolview.gl.	0	IN	NS	ns1.simply.com.
 capitolview.gl.	0	IN	NS	ns2.simply.com.
 capitolview.gl.	0	IN	NS	ns3.simply.com.
@@ -8570,6 +8569,8 @@ indeklima.gl.	0	IN	NS	a.hosting.gl.
 indeklima.gl.	0	IN	NS	b.hosting.gl.
 indeklima.gl.	0	IN	NS	c.hosting.gl.
 indeklima.gl.	0	IN	NS	d.hosting.gl.
+india.gl.	0	IN	NS	val.ns.cloudflare.com.
+india.gl.	0	IN	NS	ajay.ns.cloudflare.com.
 indoor.gl.	0	IN	NS	a.hosting.gl.
 indoor.gl.	0	IN	NS	b.hosting.gl.
 indoor.gl.	0	IN	NS	c.hosting.gl.
@@ -13362,14 +13363,6 @@ nissan.gl.	0	IN	NS	a4.nstld.com.
 nissan.gl.	0	IN	NS	f4.nstld.com.
 nissan.gl.	0	IN	NS	g4.nstld.com.
 nissan.gl.	0	IN	NS	l4.nstld.com.
-nita.gl.	0	IN	NS	a.hosting.gl.
-nita.gl.	0	IN	NS	b.hosting.gl.
-nita.gl.	0	IN	NS	c.hosting.gl.
-nita.gl.	0	IN	NS	d.hosting.gl.
-nitta.gl.	0	IN	NS	a.hosting.gl.
-nitta.gl.	0	IN	NS	b.hosting.gl.
-nitta.gl.	0	IN	NS	c.hosting.gl.
-nitta.gl.	0	IN	NS	d.hosting.gl.
 nittaqineruk.gl.	0	IN	NS	a.hosting.gl.
 nittaqineruk.gl.	0	IN	NS	b.hosting.gl.
 nittaqineruk.gl.	0	IN	NS	c.hosting.gl.
@@ -17468,9 +17461,9 @@ socialsummit.gl.	0	IN	NS	a.hosting.gl.
 socialsummit.gl.	0	IN	NS	b.hosting.gl.
 socialsummit.gl.	0	IN	NS	c.hosting.gl.
 socialsummit.gl.	0	IN	NS	d.hosting.gl.
-soemandshjem.gl.	0	IN	NS	ns1.solutio.dk.
-soemandshjem.gl.	0	IN	NS	ns2.solutio.dk.
-soemandshjem.gl.	0	IN	NS	ns3.solutio.dk.
+soemandshjem.gl.	0	IN	NS	ns1.simply.com.
+soemandshjem.gl.	0	IN	NS	ns2.simply.com.
+soemandshjem.gl.	0	IN	NS	ns3.simply.com.
 sof.gl.	0	IN	NS	ns1.simply.com.
 sof.gl.	0	IN	NS	ns2.simply.com.
 sof.gl.	0	IN	NS	ns3.simply.com.
@@ -17875,8 +17868,8 @@ stephenrin.gl.	0	IN	NS	ns2.netim.net.
 stephenrin.gl.	0	IN	NS	ns3.netim.net.
 stepstone.gl.	0	IN	NS	ns.domainnetwork.se.
 stepstone.gl.	0	IN	NS	ns2.domainnetwork.se.
-steshpatrick.gl.	0	IN	NS	nina.ns.cloudflare.com.
-steshpatrick.gl.	0	IN	NS	quinton.ns.cloudflare.com.
+steshpatrick.gl.	0	IN	NS	ns1.hostingdart.com.
+steshpatrick.gl.	0	IN	NS	ns2.hostingdart.com.
 steuerberater.gl.	0	IN	NS	ns.checkdomain.de.
 steuerberater.gl.	0	IN	NS	ns2.checkdomain.de.
 steuerberatung.gl.	0	IN	NS	ns1.espectrum.de.
