@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025052823 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025052924 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1748473514"
+bw.	0	IN	TXT	"Generation Time: 1748556059"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -28643,8 +28643,6 @@ templuxbw.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 templuxbw.co.bw.	0	IN	NS	suspened2.nic.net.bw.
 temtumservices.co.bw.	0	IN	NS	ns1.vercel-dns.com.
 temtumservices.co.bw.	0	IN	NS	ns2.vercel-dns.com.
-temtumservices.co.bw.	0	IN	NS	piers.ns.cloudflare.com.
-temtumservices.co.bw.	0	IN	NS	rosalie.ns.cloudflare.com.
 temu.co.bw.	0	IN	NS	ns1.netim.net.
 temu.co.bw.	0	IN	NS	ns2.netim.net.
 temu.co.bw.	0	IN	NS	ns3.netim.net.
@@ -34110,7 +34108,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1748473555"
+ote.bw.	0	IN	TXT	"Generation Time: 1748556100"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

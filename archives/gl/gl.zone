@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165001 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165057 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -3115,8 +3115,8 @@ bs.gl.	0	IN	NS	kaiser.ns.cloudflare.com.
 bs.gl.	0	IN	NS	crystal.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	ligia.ns.cloudflare.com.
-bs2.gl.	0	IN	NS	ns1.catched.com.
-bs2.gl.	0	IN	NS	ns2.catched.com.
+bs2.gl.	0	IN	NS	camilo.ns.cloudflare.com.
+bs2.gl.	0	IN	NS	cheryl.ns.cloudflare.com.
 bs2best.gl.	0	IN	NS	3-pas.njalla.in.
 bs2best.gl.	0	IN	NS	1-ceci.njalla.do.
 bs2best.gl.	0	IN	NS	2-nest.pipe.ma.
@@ -13163,6 +13163,8 @@ nf.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 nf.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 nfs.gl.	0	IN	NS	ns.dandomain.dk.
 nfs.gl.	0	IN	NS	ns2.dandomain.dk.
+nft.gl.	0	IN	NS	contact-us-at.edoms.biz.
+nft.gl.	0	IN	NS	domain-may-be-for-sale-at.edoms.biz.
 ng.gl.	0	IN	NS	nova.ns.cloudflare.com.
 ng.gl.	0	IN	NS	patrick.ns.cloudflare.com.
 ngm.gl.	0	IN	NS	helium.ns.hetzner.de.
