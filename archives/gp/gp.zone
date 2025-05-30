@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025052710 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025053018 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -2370,8 +2370,6 @@ hdrglobaltrading.gp.	0	IN	NS	ns1.markmonitor.com.
 hdrglobaltrading.gp.	0	IN	NS	ns2.markmonitor.com.
 hdrglobaltradingltd.gp.	0	IN	NS	ns1.markmonitor.com.
 hdrglobaltradingltd.gp.	0	IN	NS	ns2.markmonitor.com.
-heinekendutch.gp.	0	IN	NS	tmp.nscluster.eu.
-heinekendutch.gp.	0	IN	NS	tmp.nscluster.us.
 help.gp.	0	IN	NS	ns2.gigaparts.net.
 help.gp.	0	IN	NS	raq44.gigaparts.net.
 hermes.gp.	0	IN	NS	dns1.cscdns.net.
@@ -4274,8 +4272,6 @@ rdveco.gp.	0	IN	NS	ns1.wedohosting.fr.
 rdveco.gp.	0	IN	NS	ns2.wedohosting.fr.
 rechargezclaro.gp.	0	IN	NS	dns01.amigokit.com.
 rechargezclaro.gp.	0	IN	NS	dns1i.itelcel.com.
-recyclermonauto.gp.	0	IN	NS	dns1.cscdns.net.
-recyclermonauto.gp.	0	IN	NS	dns2.cscdns.net.
 red.gp.	0	IN	NS	ns1.bdm.microsoftonline.com.
 red.gp.	0	IN	NS	ns2.bdm.microsoftonline.com.
 red.gp.	0	IN	NS	ns3.bdm.microsoftonline.com.

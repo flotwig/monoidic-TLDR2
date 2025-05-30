@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025052924 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025053024 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1748556059"
+bw.	0	IN	TXT	"Generation Time: 1748646012"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -616,8 +616,8 @@ bnpc.bw.	0	IN	NS	ns2.botsnet.bw.
 bnpc.bw.	0	IN	NS	ns3.botsnet.bw.
 bob.bw.	0	IN	NS	ns1.mtnbusiness.net.
 bob.bw.	0	IN	NS	ns2.mtnbusiness.net.
-bobstandards.bw.	0	IN	NS	ns0.abaricom.co.bw.
 bobstandards.bw.	0	IN	NS	ns1.abaricom.co.bw.
+bobstandards.bw.	0	IN	NS	ns2.abaricom.co.bw.
 bolux.bw.	0	IN	NS	ns1.opq.net.bw.
 bolux.bw.	0	IN	NS	ns2.opq.net.bw.
 bolux.bw.	0	IN	NS	ns3.opq.net.bw.
@@ -1625,6 +1625,8 @@ agnesbattorneys.co.bw.	0	IN	NS	ns2.contabo.net.
 agnesbattorneys.co.bw.	0	IN	NS	ns3.contabo.net.
 agnutrition.co.bw.	0	IN	NS	ns1.mark123.website.
 agnutrition.co.bw.	0	IN	NS	ns2.mark123.website.
+agora.co.bw.	0	IN	NS	ns1.orangehost.com.
+agora.co.bw.	0	IN	NS	ns2.orangehost.com.
 agorawear.co.bw.	0	IN	NS	ns1.servconfig.com.
 agorawear.co.bw.	0	IN	NS	ns2.servconfig.com.
 agpump.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
@@ -5762,6 +5764,8 @@ camelthorn.co.bw.	0	IN	NS	ns1045.ui-dns.de.
 camelthorn.co.bw.	0	IN	NS	ns1045.ui-dns.biz.
 camelthorn.co.bw.	0	IN	NS	ns1045.ui-dns.com.
 camelthorn.co.bw.	0	IN	NS	ns1045.ui-dns.org.
+campfireinvestments.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
+campfireinvestments.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 camplogic.co.bw.	0	IN	NS	ns2.wixdns.net.
 camplogic.co.bw.	0	IN	NS	ns3.wixdns.net.
 campusfocus.co.bw.	0	IN	NS	ns1.yourwebhosting.com.
@@ -10602,6 +10606,8 @@ fezeducation.co.bw.	0	IN	NS	ns1-35.azure-dns.com.
 fezeducation.co.bw.	0	IN	NS	ns2-35.azure-dns.net.
 fezeducation.co.bw.	0	IN	NS	ns3-35.azure-dns.org.
 fezeducation.co.bw.	0	IN	NS	ns4-35.azure-dns.info.
+fgb.co.bw.	0	IN	NS	ns1.cp-42.webhostbox.net.
+fgb.co.bw.	0	IN	NS	ns2.cp-42.webhostbox.net.
 fgh.co.bw.	0	IN	NS	ns1.mtnbusiness.net.
 fgh.co.bw.	0	IN	NS	ns2.mtnbusiness.net.
 fgreen.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
@@ -11534,10 +11540,10 @@ fullmoonhub.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
 fullmoonhub.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 fun-teez.co.bw.	0	IN	NS	ns1.mark123.website.
 fun-teez.co.bw.	0	IN	NS	ns2.mark123.website.
-funads.co.bw.	0	IN	NS	ns1.amplifiedtrends.com.
-funads.co.bw.	0	IN	NS	ns2.amplifiedtrends.com.
-funads.co.bw.	0	IN	NS	ns8.wixdns.net.
-funads.co.bw.	0	IN	NS	ns9.wixdns.net.
+funads.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
+funads.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
+funads.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
+funads.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
 fund.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 fund.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 fundinggate.co.bw.	0	IN	NS	ns1.botshosting.co.za.
@@ -11871,6 +11877,8 @@ gencon.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
 gencon.co.bw.	0	IN	NS	dns2.zebranet.co.bw.
 gencope.co.bw.	0	IN	NS	ns1.cp-40.webhostbox.net.
 gencope.co.bw.	0	IN	NS	ns2.cp-40.webhostbox.net.
+generalmilling.co.bw.	0	IN	NS	ns1.maranyane.digital.
+generalmilling.co.bw.	0	IN	NS	ns2.maranyane.digital.
 generaltrade.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 generaltrade.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 generaltrade.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -12985,6 +12993,10 @@ hastalavista.co.bw.	0	IN	NS	ns2.botsnet.bw.
 hastalavista.co.bw.	0	IN	NS	ns3.botsnet.bw.
 hatabannualconference.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
 hatabannualconference.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
+hatshelentle.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
+hatshelentle.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
+hatshelentle.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
+hatshelentle.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 haulaback.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 haulaback.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 haulaback.co.bw.	0	IN	NS	dns3.webmart.co.bw.
@@ -21346,8 +21358,8 @@ oatly.co.bw.	0	IN	NS	a.portsdns.se.
 oatly.co.bw.	0	IN	NS	b.portsdns.net.
 obc.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 obc.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
-obd.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
-obd.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
+obd.co.bw.	0	IN	NS	ns4.wixdns.net.
+obd.co.bw.	0	IN	NS	ns5.wixdns.net.
 obletsenterprise.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 obletsenterprise.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 obletsenterprise.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -21629,6 +21641,8 @@ omoda.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 omoda.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 omoda.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 omoda.co.bw.	0	IN	NS	dns4.webmart.co.bw.
+omri.co.bw.	0	IN	NS	ns1.botshosting.co.za.
+omri.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 omshealth.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
 omshealth.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
 omt.co.bw.	0	IN	NS	ns1.bdm.microsoftonline.com.
@@ -33499,6 +33513,10 @@ hale.org.bw.	0	IN	NS	suspened1.nic.net.bw.
 hale.org.bw.	0	IN	NS	suspened2.nic.net.bw.
 harvestchurch.org.bw.	0	IN	NS	ns1.siteground367.com.
 harvestchurch.org.bw.	0	IN	NS	ns2.siteground367.com.
+hatshelentle.org.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
+hatshelentle.org.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
+hatshelentle.org.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
+hatshelentle.org.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 hci.org.bw.	0	IN	NS	ole.nconnect.co.bw.
 hci.org.bw.	0	IN	NS	badhi.nconnect.co.bw.
 hcigaborone.org.bw.	0	IN	NS	ns1.bluehost.com.
@@ -34108,7 +34126,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1748556100"
+ote.bw.	0	IN	TXT	"Generation Time: 1748646053"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

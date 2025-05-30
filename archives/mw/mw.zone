@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748556301 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748642702 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -27,9 +27,6 @@ mw.	0	IN	NS	chambo.sdnp.org.mw.
 11.mw.	0	IN	NS	ns2.dyna-ns.net.
 13.mw.	0	IN	NS	n1.xundns.com.
 13.mw.	0	IN	NS	n2.xundns.com.
-14trees.mw.	0	IN	NS	ns01ch.holcim.com.
-14trees.mw.	0	IN	NS	ns01us.holcim.com.
-14trees.mw.	0	IN	NS	ns02ch.holcim.com.
 188bet.mw.	0	IN	NS	ns1.instradns.com.
 188bet.mw.	0	IN	NS	ns2.instradns.com.
 1963.mw.	0	IN	NS	ns1.netsto.net.
@@ -2520,6 +2517,8 @@ jobcentre.mw.	0	IN	NS	ns2.nkhatahosting.com.
 join.mw.	0	IN	NS	ns1.onlydomains.com.
 join.mw.	0	IN	NS	ns2.onlydomains.com.
 join.mw.	0	IN	NS	ns3.onlydomains.com.
+jp.mw.	0	IN	NS	josh.ns.cloudflare.com.
+jp.mw.	0	IN	NS	tess.ns.cloudflare.com.
 jrt.mw.	0	IN	NS	lewis.ns.cloudflare.com.
 jrt.mw.	0	IN	NS	priscilla.ns.cloudflare.com.
 judiciary.mw.	0	IN	NS	ns1.bdsmw.com.
@@ -3772,8 +3771,8 @@ on.mw.	0	IN	NS	ns1.nik.io.
 on.mw.	0	IN	NS	ns2.nik.io.
 on.mw.	0	IN	NS	ns3.nik.io.
 on.mw.	0	IN	NS	ns4.nik.io.
-onenico-online.mw.	0	IN	NS	adi.ns.cloudflare.com.
-onenico-online.mw.	0	IN	NS	alaric.ns.cloudflare.com.
+onenico-online.mw.	0	IN	NS	maxdns.globemw.net.
+onenico-online.mw.	0	IN	NS	araliya.globemw.net.
 onestopsupply.mw.	0	IN	NS	ns1.servconfig.com.
 onestopsupply.mw.	0	IN	NS	ns2.servconfig.com.
 online.mw.	0	IN	NS	maxdns.globemw.net.
