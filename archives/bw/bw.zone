@@ -1,9 +1,9 @@
-bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025053124 21600 3600 604800 7200
+bw.	0	IN	SOA	pch.nic.net.bw. registry.nic.net.bw. 2025060123 21600 3600 604800 7200
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	TXT	"Generation Time: 1748732405"
+bw.	0	IN	TXT	"Generation Time: 1748819102"
 bw.	0	IN	DNSKEY	256 3 13 xCdYX8M7UdutQzkwa9s/CF2Rdt9R/DmuvKFSjb54uVersNeiIJY1npvJeCIEISsPLCL3/2Vx7WSAJhy0QUJsmg== ;{id = 35953 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 e0add15d6dff0a2c 
@@ -4935,8 +4935,10 @@ botswanex.co.bw.	0	IN	NS	cdns1.webmart.co.bw.
 botswanex.co.bw.	0	IN	NS	cdns2.webmart.co.bw.
 botsweb.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 botsweb.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
-botswebhost.co.bw.	0	IN	NS	dahlia.ns.cloudflare.com.
-botswebhost.co.bw.	0	IN	NS	vasilii.ns.cloudflare.com.
+botswebhost.co.bw.	0	IN	NS	ns-485.awsdns-60.com.
+botswebhost.co.bw.	0	IN	NS	ns-636.awsdns-15.net.
+botswebhost.co.bw.	0	IN	NS	ns-1138.awsdns-14.org.
+botswebhost.co.bw.	0	IN	NS	ns-1704.awsdns-21.co.uk.
 botsweekly.co.bw.	0	IN	NS	liz.ns.cloudflare.com.
 botsweekly.co.bw.	0	IN	NS	carl.ns.cloudflare.com.
 botswitch.co.bw.	0	IN	NS	ns1.cp-21.webhostbox.net.
@@ -34132,7 +34134,7 @@ yun.org.bw.	0	IN	NS	ns2.bluehost.com.
 zambezicommission.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 zambezicommission.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 zimbots.org.bw.	0	IN	NS	ns1.drpl.co.bw.
-ote.bw.	0	IN	TXT	"Generation Time: 1748732446"
+ote.bw.	0	IN	TXT	"Generation Time: 1748819143"
 activate100.ote.bw.	0	IN	NS	ns1.nic.com.
 activate100.ote.bw.	0	IN	NS	ns2.nic.net.
 active.ote.bw.	0	IN	NS	ns1.inmotionhosting.com.

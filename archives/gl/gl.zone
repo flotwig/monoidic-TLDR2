@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165170 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165225 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -637,6 +637,9 @@ adsgoogle.gl.	0	IN	NS	ns1.markmonitor.com.
 adsgoogle.gl.	0	IN	NS	ns3.markmonitor.com.
 adsl.gl.	0	IN	NS	a.ns.tusass.gl.
 adsl.gl.	0	IN	NS	b.ns.tusass.gl.
+adsl.gl.	0	IN	NS	blue.foundationdns.com.
+adsl.gl.	0	IN	NS	blue.foundationdns.net.
+adsl.gl.	0	IN	NS	blue.foundationdns.org.
 adultswim.gl.	0	IN	NS	ns-100.awsdns-12.com.
 adultswim.gl.	0	IN	NS	ns-927.awsdns-51.net.
 adultswim.gl.	0	IN	NS	ns-1074.awsdns-06.org.
@@ -821,8 +824,6 @@ airicelandconnect.gl.	0	IN	NS	miles.ns.cloudflare.com.
 airport.gl.	0	IN	NS	ns1.modulo.gl.
 airport.gl.	0	IN	NS	ns2.modulo.gl.
 airport.gl.	0	IN	NS	ns3.modulo.gl.
-airporthotels.gl.	0	IN	NS	ns1.dondominio.com.
-airporthotels.gl.	0	IN	NS	ns2.dondominio.com.
 airports.gl.	0	IN	NS	ns1.modulo.gl.
 airports.gl.	0	IN	NS	ns2.modulo.gl.
 airports.gl.	0	IN	NS	ns3.modulo.gl.
@@ -3105,6 +3106,8 @@ bs.gl.	0	IN	NS	kaiser.ns.cloudflare.com.
 bs.gl.	0	IN	NS	crystal.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.	0	IN	NS	ligia.ns.cloudflare.com.
+bs02shop.gl.	0	IN	NS	ns3.my-ndns.com.
+bs02shop.gl.	0	IN	NS	ns4.my-ndns.com.
 bs2.gl.	0	IN	NS	camilo.ns.cloudflare.com.
 bs2.gl.	0	IN	NS	cheryl.ns.cloudflare.com.
 bs2best.gl.	0	IN	NS	3-pas.njalla.in.
@@ -7594,8 +7597,6 @@ hhl.gl.	0	IN	NS	pns31.cloudns.net.
 hhl.gl.	0	IN	NS	pns32.cloudns.net.
 hhl.gl.	0	IN	NS	pns33.cloudns.net.
 hhl.gl.	0	IN	NS	pns34.cloudns.net.
-hi.gl.	0	IN	NS	sue.ns.cloudflare.com.
-hi.gl.	0	IN	NS	jake.ns.cloudflare.com.
 hid.gl.	0	IN	NS	ns1.linode.com.
 hid.gl.	0	IN	NS	ns2.linode.com.
 hid.gl.	0	IN	NS	ns3.linode.com.
@@ -8862,8 +8863,6 @@ investwithconfidence.gl.	0	IN	NS	edns1.ultradns.biz.
 investwithconfidence.gl.	0	IN	NS	edns1.ultradns.com.
 investwithconfidence.gl.	0	IN	NS	edns1.ultradns.net.
 investwithconfidence.gl.	0	IN	NS	edns1.ultradns.org.
-io.gl.	0	IN	NS	jill.ns.cloudflare.com.
-io.gl.	0	IN	NS	noah.ns.cloudflare.com.
 iot.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 iot.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 ip.gl.	0	IN	NS	bella.ns.cloudflare.com.
@@ -14098,8 +14097,8 @@ o0.gl.	0	IN	DS	59519 15 4 93e5ef0b59fccc9b95a78802cb86093f02362db5f2ac1de36d4adc
 o2.gl.	0	IN	NS	ns1.hyp.net.
 o2.gl.	0	IN	NS	ns2.hyp.net.
 o2.gl.	0	IN	NS	ns3.hyp.net.
-o2.gl.	0	IN	DS	40825 13 2 600e34810bec7081a1873cac1daa916391f28ee0ad49b6b2fbe85535499183f1
-o2.gl.	0	IN	DS	40825 13 4 afad7734cd9e7cd0d6d2bc8d3361521265fc3acccdc652b333407ba5702eacbfe5ed148e396b3e4d879434e71a316bed
+o2.gl.	0	IN	DS	64380 15 2 0dc07477be89f4d40a82c09223a7000b40eb7cacbef425b6b4969f014d4f2437
+o2.gl.	0	IN	DS	64380 15 4 f105a5eedbbe396ad3478d2769a4909cd4506fe6d9944345317b0c2f683eb406a64007d0db853728990ae0dc40437caf
 oa.gl.	0	IN	NS	ns1.netim.net.
 oa.gl.	0	IN	NS	ns2.netim.net.
 oa.gl.	0	IN	NS	ns3.netim.net.
