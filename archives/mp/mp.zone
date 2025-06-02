@@ -685,8 +685,6 @@ crocodile.mp.	0	IN	NS	ns4.markmonitor.com.
 crocodile.mp.	0	IN	NS	ns5.markmonitor.com.
 crocodile.mp.	0	IN	NS	ns6.markmonitor.com.
 crocodile.mp.	0	IN	NS	ns7.markmonitor.com.
-cru.mp.	0	IN	NS	ben.ns.cloudflare.com.
-cru.mp.	0	IN	NS	nelly.ns.cloudflare.com.
 crypto.mp.	0	IN	NS	ns1.dan.com.
 crypto.mp.	0	IN	NS	ns2.dan.com.
 cumdu.mp.	0	IN	NS	ns1.vultr.com.
@@ -1095,8 +1093,6 @@ huobi.mp.	0	IN	NS	ns-233.awsdns-29.com.
 huobi.mp.	0	IN	NS	ns-956.awsdns-55.net.
 huobi.mp.	0	IN	NS	ns-1489.awsdns-58.org.
 huobi.mp.	0	IN	NS	ns-1615.awsdns-09.co.uk.
-hytale.mp.	0	IN	NS	jamie.ns.cloudflare.com.
-hytale.mp.	0	IN	NS	lloyd.ns.cloudflare.com.
 i.mp.	0	IN	NS	nia.ns.cloudflare.com.
 i.mp.	0	IN	NS	anton.ns.cloudflare.com.
 iamm.mp.	0	IN	NS	lucy.ns.cloudflare.com.
@@ -1417,6 +1413,9 @@ luka.mp.	0	IN	NS	ns13.nameserveit.com.
 luka.mp.	0	IN	NS	ns14.nameserveit.com.
 m.mp.	0	IN	NS	bonnie.ns.cloudflare.com.
 m.mp.	0	IN	NS	elliott.ns.cloudflare.com.
+macha.mp.	0	IN	NS	ns1.wordpress.com.
+macha.mp.	0	IN	NS	ns2.wordpress.com.
+macha.mp.	0	IN	NS	ns3.wordpress.com.
 mail.mp.	0	IN	NS	ns1.dan.com.
 mail.mp.	0	IN	NS	ns2.dan.com.
 mailchi.mp.	0	IN	NS	a4-65.akam.net.
