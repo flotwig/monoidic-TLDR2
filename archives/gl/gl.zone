@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165282 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165341 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -831,6 +831,10 @@ airport.gl.	0	IN	NS	ns3.modulo.gl.
 airports.gl.	0	IN	NS	ns1.modulo.gl.
 airports.gl.	0	IN	NS	ns2.modulo.gl.
 airports.gl.	0	IN	NS	ns3.modulo.gl.
+airsafari.gl.	0	IN	NS	ns1.simply.com.
+airsafari.gl.	0	IN	NS	ns2.simply.com.
+airsafari.gl.	0	IN	NS	ns3.simply.com.
+airsafari.gl.	0	IN	NS	ns4.simply.com.
 airshoppen.gl.	0	IN	NS	ns.dandomain.dk.
 airshoppen.gl.	0	IN	NS	ns2.dandomain.dk.
 airtac.gl.	0	IN	NS	ns01.trademarkarea.com.
@@ -1925,6 +1929,8 @@ atuarfik-inussuk.gl.	0	IN	NS	ns1.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns2.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns3.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns4.nunahosting.net.
+atuartutnipaat.gl.	0	IN	NS	ns1.curanet.dk.
+atuartutnipaat.gl.	0	IN	NS	ns2.curanet.dk.
 atuffat.gl.	0	IN	NS	parked.g1-dns.com.
 atuffat.gl.	0	IN	NS	parked.g1-dns.one.
 atuisoq.gl.	0	IN	NS	ns01.one.com.
@@ -2849,6 +2855,10 @@ board.gl.	0	IN	NS	a.hosting.gl.
 board.gl.	0	IN	NS	b.hosting.gl.
 board.gl.	0	IN	NS	c.hosting.gl.
 board.gl.	0	IN	NS	d.hosting.gl.
+boatsafari.gl.	0	IN	NS	a.hosting.gl.
+boatsafari.gl.	0	IN	NS	b.hosting.gl.
+boatsafari.gl.	0	IN	NS	c.hosting.gl.
+boatsafari.gl.	0	IN	NS	d.hosting.gl.
 bob.gl.	0	IN	NS	ns1.simply.com.
 bob.gl.	0	IN	NS	ns2.simply.com.
 bob.gl.	0	IN	NS	ns3.simply.com.
@@ -3132,8 +3142,6 @@ bsg.gl.	0	IN	NS	ns-429.awsdns-53.com.
 bsg.gl.	0	IN	NS	ns-997.awsdns-60.net.
 bsg.gl.	0	IN	NS	ns-1153.awsdns-16.org.
 bsg.gl.	0	IN	NS	ns-2026.awsdns-61.co.uk.
-bsgl.gl.	0	IN	NS	luke.ns.cloudflare.com.
-bsgl.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 bsme.gl.	0	IN	NS	ns0.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984hosting.com.
@@ -3617,6 +3625,11 @@ chewy.gl.	0	IN	NS	dns1.p01.nsone.net.
 chewy.gl.	0	IN	NS	dns2.p01.nsone.net.
 chewy.gl.	0	IN	NS	dns3.p01.nsone.net.
 chewy.gl.	0	IN	NS	dns4.p01.nsone.net.
+chg.gl.	0	IN	NS	ns1.hyp.net.
+chg.gl.	0	IN	NS	ns2.hyp.net.
+chg.gl.	0	IN	NS	ns3.hyp.net.
+chg.gl.	0	IN	DS	32693 15 2 a3af28933159f8ff222f4ecb4a9747515333938dd9c7fddf82d46559a9413b32
+chg.gl.	0	IN	DS	32693 15 4 1c75b940c4ee703f171866c7d232ff4fc8208ec5de9a4ea6df1b9c0f7fa6a74aaf1a4d261ba5c80e96d2a13eb16fb4f3
 chime.gl.	0	IN	NS	dns1.cscdns.net.
 chime.gl.	0	IN	NS	dns2.cscdns.net.
 china.gl.	0	IN	NS	khloe.ns.cloudflare.com.
@@ -4515,8 +4528,6 @@ dms.gl.	0	IN	NS	ns1.supercp.com.
 dms.gl.	0	IN	NS	ns2.supercp.com.
 dms.gl.	0	IN	NS	ns3.supercp.com.
 dms.gl.	0	IN	NS	ns4.supercp.com.
-dn.gl.	0	IN	NS	jill.ns.cloudflare.com.
-dn.gl.	0	IN	NS	noah.ns.cloudflare.com.
 dnb.gl.	0	IN	NS	ns1.markmonitor.com.
 dnb.gl.	0	IN	NS	ns2.markmonitor.com.
 dnb.gl.	0	IN	NS	ns3.markmonitor.com.
@@ -6424,6 +6435,8 @@ ge.gl.	0	IN	DS	40284 15 4 0fa813ff3d2616aafee05d2a485d35e37c9976fdd8d17d2b44b79d
 gear4music.gl.	0	IN	NS	ns1.101domain.com.
 gear4music.gl.	0	IN	NS	ns2.101domain.com.
 gear4music.gl.	0	IN	NS	ns5.101domain.com.
+gebit.gl.	0	IN	NS	ns4.dynu.com.
+gebit.gl.	0	IN	NS	ns5.dynu.com.
 gedionsen.gl.	0	IN	NS	a.hosting.gl.
 gedionsen.gl.	0	IN	NS	b.hosting.gl.
 gedionsen.gl.	0	IN	NS	c.hosting.gl.
@@ -6754,8 +6767,8 @@ golden.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 goldwing.gl.	0	IN	NS	ns1.hyp.net.
 goldwing.gl.	0	IN	NS	ns2.hyp.net.
 goldwing.gl.	0	IN	NS	ns3.hyp.net.
-goldwing.gl.	0	IN	DS	53728 15 2 d02f278cb01ceadab005c269b030241ca634e2d98db0e5cc75b813878e0fc6c9
-goldwing.gl.	0	IN	DS	53728 15 4 4262728c5b97e1f5d48a35d3e53e68b5e5d44be3de6ddcf5e00a8548badd19649c585a3144ae1c8306cc7eec099dae1a
+goldwing.gl.	0	IN	DS	3568 15 2 792effc3b292d7a97bb6464b3450bad1c631da24e149d235913a10a6660ac263
+goldwing.gl.	0	IN	DS	3568 15 4 6ee9fd56333ddf6da0d9123ad5fbf1bb6582ab1240c0d8620187b24c177df5dd42d266233f28dc77f831a8840961863d
 golf.gl.	0	IN	NS	ns1.simply.com.
 golf.gl.	0	IN	NS	ns2.simply.com.
 golf.gl.	0	IN	NS	ns3.simply.com.
@@ -6870,6 +6883,7 @@ grb.gl.	0	IN	NS	ns1.eurodns.com.
 grb.gl.	0	IN	NS	ns2.eurodns.com.
 grb.gl.	0	IN	NS	ns3.eurodns.com.
 grb.gl.	0	IN	NS	ns4.eurodns.com.
+grb.gl.	0	IN	DS	39872 13 2 b0d554ccd3aa4ae19d7a400405452534b53ee7e12421586db4c2f4e9e8e38964
 great-greenland.gl.	0	IN	NS	ns.scannet2.dk.
 great-greenland.gl.	0	IN	NS	ns2.scannet2.dk.
 greatgreenland.gl.	0	IN	NS	ns.scannet2.dk.
@@ -6934,6 +6948,7 @@ greenland-travel.gl.	0	IN	NS	ns1.eurodns.com.
 greenland-travel.gl.	0	IN	NS	ns2.eurodns.com.
 greenland-travel.gl.	0	IN	NS	ns3.eurodns.com.
 greenland-travel.gl.	0	IN	NS	ns4.eurodns.com.
+greenland-travel.gl.	0	IN	DS	28020 13 2 9c333b3093b247931ec3a033032fe09f5c221c8405ac5d128943cf6d67a1c559
 greenlandadventure.gl.	0	IN	NS	a.hosting.gl.
 greenlandadventure.gl.	0	IN	NS	b.hosting.gl.
 greenlandadventure.gl.	0	IN	NS	c.hosting.gl.
@@ -7146,6 +7161,8 @@ grimoire.gl.	0	IN	NS	ns-cloud-c1.googledomains.com.
 grimoire.gl.	0	IN	NS	ns-cloud-c2.googledomains.com.
 grimoire.gl.	0	IN	NS	ns-cloud-c3.googledomains.com.
 grimoire.gl.	0	IN	NS	ns-cloud-c4.googledomains.com.
+grk.gl.	0	IN	NS	ns.wannafind.dk.
+grk.gl.	0	IN	NS	ns2.wannafind.dk.
 grl.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 grl.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
 grl.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -8393,6 +8410,10 @@ ilulissathotel.gl.	0	IN	NS	a.hosting.gl.
 ilulissathotel.gl.	0	IN	NS	b.hosting.gl.
 ilulissathotel.gl.	0	IN	NS	c.hosting.gl.
 ilulissathotel.gl.	0	IN	NS	d.hosting.gl.
+ilulissatmuseums.gl.	0	IN	NS	a.hosting.gl.
+ilulissatmuseums.gl.	0	IN	NS	b.hosting.gl.
+ilulissatmuseums.gl.	0	IN	NS	c.hosting.gl.
+ilulissatmuseums.gl.	0	IN	NS	d.hosting.gl.
 ilulissatseafood.gl.	0	IN	NS	a.hosting.gl.
 ilulissatseafood.gl.	0	IN	NS	b.hosting.gl.
 ilulissatseafood.gl.	0	IN	NS	c.hosting.gl.
@@ -8548,13 +8569,12 @@ industry.gl.	0	IN	NS	a.hosting.gl.
 industry.gl.	0	IN	NS	b.hosting.gl.
 industry.gl.	0	IN	NS	c.hosting.gl.
 industry.gl.	0	IN	NS	d.hosting.gl.
+inequnaq.gl.	0	IN	NS	ns1.surf-town.net.
+inequnaq.gl.	0	IN	NS	ns2.surf-town.net.
+inequnaq.gl.	0	IN	NS	ns3.surf-town.net.
 inerisaavik.gl.	0	IN	NS	ns1.modulo.gl.
 inerisaavik.gl.	0	IN	NS	ns2.modulo.gl.
 inerisaavik.gl.	0	IN	NS	ns3.modulo.gl.
-infashion.gl.	0	IN	NS	ns1.gigahost.dk.
-infashion.gl.	0	IN	NS	ns2.gigahost.dk.
-infashion.gl.	0	IN	NS	ns3.gigahost.dk.
-infashion.gl.	0	IN	NS	ns4.gigahost.dk.
 infinium.gl.	0	IN	NS	ns1.101domain.com.
 infinium.gl.	0	IN	NS	ns2.101domain.com.
 info.gl.	0	IN	NS	ns1.bodis.com.
@@ -9645,6 +9665,8 @@ kaspersky.gl.	0	IN	NS	ns7.markmonitor.com.
 kasperskylab.gl.	0	IN	NS	ns1.kasperskylabs.net.
 kasperskylab.gl.	0	IN	NS	ns2.kasperskylabs.net.
 kasperskylab.gl.	0	IN	NS	ns3.kasperskylabs.net.
+kassoq.gl.	0	IN	NS	margot.ns.cloudflare.com.
+kassoq.gl.	0	IN	NS	augustus.ns.cloudflare.com.
 katak.gl.	0	IN	NS	ns1-36.azure-dns.com.
 katak.gl.	0	IN	NS	ns2-36.azure-dns.net.
 katak.gl.	0	IN	NS	ns3-36.azure-dns.org.
@@ -10618,8 +10640,6 @@ landsret.gl.	0	IN	DS	45366 13 4 def53fbee24ad7664325460b2a7b27d7c52913083e1ba9f3
 landsretten.gl.	0	IN	NS	ns.scannet2.dk.
 landsretten.gl.	0	IN	NS	ns2.scannet2.dk.
 landsretten.gl.	0	IN	DS	9834 13 4 d0819597c285227c5b760e3dc67e6e41ae7be40d57dfe842aa1c1fb184b8bbb0bd0292ef559775ae2ec9c78f6495524c
-landstinget.gl.	0	IN	NS	ns01.one.com.
-landstinget.gl.	0	IN	NS	ns02.one.com.
 lange.gl.	0	IN	NS	ns1.nunahosting.net.
 lange.gl.	0	IN	NS	ns2.nunahosting.net.
 lange.gl.	0	IN	NS	ns3.nunahosting.net.
@@ -14158,9 +14178,6 @@ ombudsmanden.gl.	0	IN	NS	a.hosting.gl.
 ombudsmanden.gl.	0	IN	NS	b.hosting.gl.
 ombudsmanden.gl.	0	IN	NS	c.hosting.gl.
 ombudsmanden.gl.	0	IN	NS	d.hosting.gl.
-ombudsmandi.gl.	0	IN	NS	ns1.nukik.it.
-ombudsmandi.gl.	0	IN	NS	ns2.nukik.it.
-ombudsmandi.gl.	0	IN	NS	ns3.nukik.it.
 ome.gl.	0	IN	NS	dion.ns.cloudflare.com.
 ome.gl.	0	IN	NS	zariyah.ns.cloudflare.com.
 omega.gl.	0	IN	NS	ns1a.dodns.net.
@@ -14351,9 +14368,10 @@ onebox.gl.	0	IN	NS	ns2.j2global.com.
 onebox.gl.	0	IN	NS	ns5.j2global.com.
 onestream.gl.	0	IN	NS	ns1.101domain.com.
 onestream.gl.	0	IN	NS	ns2.101domain.com.
-onewayauto.gl.	0	IN	NS	ns1.netim.net.
-onewayauto.gl.	0	IN	NS	ns2.netim.net.
-onewayauto.gl.	0	IN	NS	ns3.netim.net.
+onewayauto.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
+onewayauto.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
+onewayauto.gl.	0	IN	NS	ns3.bdm.microsoftonline.com.
+onewayauto.gl.	0	IN	NS	ns4.bdm.microsoftonline.com.
 oneweb.gl.	0	IN	NS	a.hosting.gl.
 oneweb.gl.	0	IN	NS	b.hosting.gl.
 oneweb.gl.	0	IN	NS	c.hosting.gl.
@@ -15001,6 +15019,8 @@ pilu.gl.	0	IN	NS	b.hosting.gl.
 pilu.gl.	0	IN	NS	c.hosting.gl.
 pilu.gl.	0	IN	NS	d.hosting.gl.
 pilu.gl.	0	IN	DS	7958 13 2 1eb2acfb91fb1f2e736c50d2a3c46b346e3dee008e10b3b2b9a300a18bcbe992
+pilusport.gl.	0	IN	NS	ns10.wixdns.net.
+pilusport.gl.	0	IN	NS	ns11.wixdns.net.
 pilutaq.gl.	0	IN	NS	ns1.nunahosting.net.
 pilutaq.gl.	0	IN	NS	ns2.nunahosting.net.
 pilutaq.gl.	0	IN	NS	ns3.nunahosting.net.
@@ -16750,10 +16770,6 @@ securecode.gl.	0	IN	NS	a9-64.akam.net.
 securecode.gl.	0	IN	NS	a18-64.akam.net.
 securecode.gl.	0	IN	NS	a22-65.akam.net.
 securecode.gl.	0	IN	NS	a26-66.akam.net.
-securitas.gl.	0	IN	NS	a.hosting.gl.
-securitas.gl.	0	IN	NS	b.hosting.gl.
-securitas.gl.	0	IN	NS	c.hosting.gl.
-securitas.gl.	0	IN	NS	d.hosting.gl.
 securitasdirect.gl.	0	IN	NS	a.portsdns.se.
 securitasdirect.gl.	0	IN	NS	b.portsdns.net.
 security.gl.	0	IN	NS	ns1.hosting.inuit.gl.
@@ -17216,6 +17232,10 @@ siuarsaavik-inuk.gl.	0	IN	DS	42668 13 4 3c4c1d9c4367a85480c8fa894e93788dca1b83d1
 siulliit.gl.	0	IN	NS	ns1.regery.net.
 siulliit.gl.	0	IN	NS	ns2.regery.net.
 siulliit.gl.	0	IN	NS	ns3.regery.net.
+siumut.gl.	0	IN	NS	a.hosting.gl.
+siumut.gl.	0	IN	NS	b.hosting.gl.
+siumut.gl.	0	IN	NS	c.hosting.gl.
+siumut.gl.	0	IN	NS	d.hosting.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns1.modulo.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns2.modulo.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns3.modulo.gl.
@@ -17375,11 +17395,10 @@ snug.gl.	0	IN	NS	ns3.afraid.org.
 snug.gl.	0	IN	NS	ns4.afraid.org.
 so.gl.	0	IN	NS	sue.ns.cloudflare.com.
 so.gl.	0	IN	NS	jake.ns.cloudflare.com.
-soccerway.gl.	0	IN	NS	ns.gransy.com.
-soccerway.gl.	0	IN	NS	ns2.gransy.com.
-soccerway.gl.	0	IN	NS	ns3.gransy.com.
-soccerway.gl.	0	IN	NS	ns4.gransy.com.
-soccerway.gl.	0	IN	NS	ns5.gransy.com.
+soccerway.gl.	0	IN	NS	ns-cloud-b1.googledomains.com.
+soccerway.gl.	0	IN	NS	ns-cloud-b2.googledomains.com.
+soccerway.gl.	0	IN	NS	ns-cloud-b3.googledomains.com.
+soccerway.gl.	0	IN	NS	ns-cloud-b4.googledomains.com.
 social.gl.	0	IN	NS	ns1.sedoparking.com.
 social.gl.	0	IN	NS	ns2.sedoparking.com.
 socialstyrelsen.gl.	0	IN	NS	ns1.modulo.gl.
@@ -17676,8 +17695,8 @@ stadtfest.gl.	0	IN	NS	ns2.checkdomain.de.
 staff.gl.	0	IN	NS	ns1.hyp.net.
 staff.gl.	0	IN	NS	ns2.hyp.net.
 staff.gl.	0	IN	NS	ns3.hyp.net.
-staff.gl.	0	IN	DS	6063 13 2 a0c7797b6d8a48d887cade07b3d2a2067c280bc7e437f0ad058d3e066ccaf6a4
-staff.gl.	0	IN	DS	6063 13 4 6613f0012dfb4b75ddafbd06f8eedfde29789d42a4db2a93b0fb6b8d727af9dda182cc6d49e881412017b6ef2ae2d4aa
+staff.gl.	0	IN	DS	40527 15 2 efc031077ecba9a1b45c1364b13344e6cd7c50f1daf15364250ad365c6dcd0d2
+staff.gl.	0	IN	DS	40527 15 4 0de950c38a4ed1a8ed881692ed8ad5aa2d27cca9dbccc8caf669261cbb7639f6be77786716cce53e64b4f2f2cf38bc1c
 stake.gl.	0	IN	NS	ns1.reg.ru.
 stake.gl.	0	IN	NS	ns2.reg.ru.
 stamps.gl.	0	IN	NS	a.ns.tusass.gl.
@@ -18845,10 +18864,13 @@ togetherinsma.gl.	0	IN	NS	dns2.cscdns.net.
 token.gl.	0	IN	NS	ns1.regery.net.
 token.gl.	0	IN	NS	ns2.regery.net.
 token.gl.	0	IN	NS	ns3.regery.net.
-tokenization.gl.	0	IN	NS	pranab.ns.cloudflare.com.
-tokenization.gl.	0	IN	NS	harmony.ns.cloudflare.com.
+tokenization.gl.	0	IN	NS	ns.parktons.com.
+tokenization.gl.	0	IN	NS	ns2.parktons.com.
 tom.gl.	0	IN	NS	ns01.hostnet.nl.
 tom.gl.	0	IN	NS	ns02.hostnet.nl.
+tomcat.gl.	0	IN	NS	ns1.surf-town.net.
+tomcat.gl.	0	IN	NS	ns2.surf-town.net.
+tomcat.gl.	0	IN	NS	ns3.surf-town.net.
 tonline.gl.	0	IN	NS	ns1.lovellsnames.org.
 tonline.gl.	0	IN	NS	ns3.lovellsnames.org.
 toogoodtogo.gl.	0	IN	NS	vick.ns.cloudflare.com.

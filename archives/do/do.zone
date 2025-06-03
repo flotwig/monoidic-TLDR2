@@ -1,4 +1,4 @@
-do.	0	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060222 3600 3600 604800 3600
+do.	0	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025060322 3600 3600 604800 3600
 do.	0	IN	NS	a.lactld.org.
 do.	0	IN	NS	ns.nic.do.
 do.	0	IN	NS	ns1.nic.do.
@@ -6,7 +6,7 @@ do.	0	IN	NS	ns2.nic.do.
 do.	0	IN	NS	ns4.nic.do.
 do.	0	IN	NS	ns5.nic.do.
 do.	0	IN	NS	phloem.uoregon.edu.
-do.	0	IN	TXT	"Generation Time: 1748901605"
+do.	0	IN	TXT	"Generation Time: 1748988301"
 00.do.	0	IN	NS	ian.ns.cloudflare.com.
 00.do.	0	IN	NS	maria.ns.cloudflare.com.
 007.do.	0	IN	NS	ns1.arvixeshared.com.
@@ -175,6 +175,10 @@ do.	0	IN	TXT	"Generation Time: 1748901605"
 247.do.	0	IN	NS	dns4.midominio.do.
 24horasenlinea.do.	0	IN	NS	lily.ns.cloudflare.com.
 24horasenlinea.do.	0	IN	NS	algin.ns.cloudflare.com.
+252.do.	0	IN	NS	dns1.midominio.do.
+252.do.	0	IN	NS	dns2.midominio.do.
+252.do.	0	IN	NS	dns3.midominio.do.
+252.do.	0	IN	NS	dns4.midominio.do.
 28.do.	0	IN	NS	pns41.cloudns.net.
 28.do.	0	IN	NS	pns42.cloudns.net.
 28.do.	0	IN	NS	pns43.cloudns.net.
@@ -350,6 +354,10 @@ do.	0	IN	TXT	"Generation Time: 1748901605"
 77.do.	0	IN	NS	ns2.park.404.name.
 777.do.	0	IN	NS	ns1.dan.com.
 777.do.	0	IN	NS	ns2.dan.com.
+7dones.do.	0	IN	NS	dns1.midominio.do.
+7dones.do.	0	IN	NS	dns2.midominio.do.
+7dones.do.	0	IN	NS	dns3.midominio.do.
+7dones.do.	0	IN	NS	dns4.midominio.do.
 7games.do.	0	IN	NS	ns01.trademarkarea.com.
 7games.do.	0	IN	NS	ns02.trademarkarea.com.
 7games.do.	0	IN	NS	ns03.trademarkarea.com.
@@ -790,6 +798,10 @@ acreditaciones.do.	0	IN	NS	dns1.midominio.do.
 acreditaciones.do.	0	IN	NS	dns2.midominio.do.
 acreditaciones.do.	0	IN	NS	dns3.midominio.do.
 acreditaciones.do.	0	IN	NS	dns4.midominio.do.
+acro.do.	0	IN	NS	dns1.midominio.do.
+acro.do.	0	IN	NS	dns2.midominio.do.
+acro.do.	0	IN	NS	dns3.midominio.do.
+acro.do.	0	IN	NS	dns4.midominio.do.
 acropolis.do.	0	IN	NS	dns1.midominio.do.
 acropolis.do.	0	IN	NS	dns2.midominio.do.
 acropolis.do.	0	IN	NS	dns3.midominio.do.
@@ -1453,6 +1465,10 @@ agrobiotek.do.	0	IN	NS	dns1.midominio.do.
 agrobiotek.do.	0	IN	NS	dns2.midominio.do.
 agrobiotek.do.	0	IN	NS	dns3.midominio.do.
 agrobiotek.do.	0	IN	NS	dns4.midominio.do.
+agrocentro.do.	0	IN	NS	dns1.midominio.do.
+agrocentro.do.	0	IN	NS	dns2.midominio.do.
+agrocentro.do.	0	IN	NS	dns3.midominio.do.
+agrocentro.do.	0	IN	NS	dns4.midominio.do.
 agrocity.do.	0	IN	NS	dns1.midominio.do.
 agrocity.do.	0	IN	NS	dns2.midominio.do.
 agrocity.do.	0	IN	NS	dns3.midominio.do.
@@ -3141,6 +3157,8 @@ apunta.do.	0	IN	NS	dns4.midominio.do.
 aqtitud.do.	0	IN	NS	ns01.trademarkarea.com.
 aqtitud.do.	0	IN	NS	ns02.trademarkarea.com.
 aqtitud.do.	0	IN	NS	ns03.trademarkarea.com.
+aquamaster.do.	0	IN	NS	ns1.dns-parking.com.
+aquamaster.do.	0	IN	NS	ns2.dns-parking.com.
 aquarium.do.	0	IN	NS	ns1.onlydomains.com.
 aquarium.do.	0	IN	NS	ns2.onlydomains.com.
 aquarium.do.	0	IN	NS	ns3.onlydomains.com.
@@ -6158,6 +6176,10 @@ boo.do.	0	IN	NS	ns3.lovellsnames.org.
 boo.do.	0	IN	NS	ns4.lovellsnames.org.
 book.do.	0	IN	NS	jill.ns.cloudflare.com.
 book.do.	0	IN	NS	noah.ns.cloudflare.com.
+bookease.do.	0	IN	NS	dns1.midominio.do.
+bookease.do.	0	IN	NS	dns2.midominio.do.
+bookease.do.	0	IN	NS	dns3.midominio.do.
+bookease.do.	0	IN	NS	dns4.midominio.do.
 booking.do.	0	IN	NS	ns0.bkngs.com.
 booking.do.	0	IN	NS	ns1.bkngs.com.
 bookingrd.do.	0	IN	NS	dns1.midominio.do.
@@ -7025,10 +7047,8 @@ callcenters.do.	0	IN	NS	dns1.midominio.do.
 callcenters.do.	0	IN	NS	dns2.midominio.do.
 callcenters.do.	0	IN	NS	dns3.midominio.do.
 callcenters.do.	0	IN	NS	dns4.midominio.do.
-callesconhistoria.do.	0	IN	NS	dns1.midominio.do.
-callesconhistoria.do.	0	IN	NS	dns2.midominio.do.
-callesconhistoria.do.	0	IN	NS	dns3.midominio.do.
-callesconhistoria.do.	0	IN	NS	dns4.midominio.do.
+callesconhistoria.do.	0	IN	NS	andy.ns.cloudflare.com.
+callesconhistoria.do.	0	IN	NS	marlowe.ns.cloudflare.com.
 callitspring.do.	0	IN	NS	ns1.markmonitor.com.
 callitspring.do.	0	IN	NS	ns2.markmonitor.com.
 callitspring.do.	0	IN	NS	ns3.markmonitor.com.
@@ -8527,6 +8547,8 @@ chatr.do.	0	IN	NS	everton.ns.cloudflare.com.
 chatr.do.	0	IN	NS	julissa.ns.cloudflare.com.
 chatsworth.do.	0	IN	NS	ken.ns.cloudflare.com.
 chatsworth.do.	0	IN	NS	brynne.ns.cloudflare.com.
+chatwoot.do.	0	IN	NS	titan1.oficinadigital.do.
+chatwoot.do.	0	IN	NS	titan2.oficinadigital.do.
 chc.do.	0	IN	NS	ns1.exclusivehosting.net.
 chc.do.	0	IN	NS	ns2.exclusivehosting.net.
 chc.do.	0	IN	NS	ns3.exclusivehosting.net.
@@ -10754,8 +10776,9 @@ coremi.do.	0	IN	NS	nolan.ns.cloudflare.com.
 coremi.do.	0	IN	NS	gloria.ns.cloudflare.com.
 coretech.do.	0	IN	NS	woz.ns.cloudflare.com.
 coretech.do.	0	IN	NS	jamie.ns.cloudflare.com.
-cori.do.	0	IN	NS	ns200.anycast.me.
-cori.do.	0	IN	NS	dns200.anycast.me.
+cori.do.	0	IN	NS	helium.ns.hetzner.de.
+cori.do.	0	IN	NS	oxygen.ns.hetzner.com.
+cori.do.	0	IN	NS	hydrogen.ns.hetzner.com.
 corito.do.	0	IN	NS	dns1.midominio.do.
 corito.do.	0	IN	NS	dns2.midominio.do.
 corito.do.	0	IN	NS	dns3.midominio.do.
@@ -12148,8 +12171,8 @@ dentistsantiago.do.	0	IN	NS	dns3.midominio.do.
 dentistsantiago.do.	0	IN	NS	dns4.midominio.do.
 dentlab.do.	0	IN	NS	isla.ns.cloudflare.com.
 dentlab.do.	0	IN	NS	armando.ns.cloudflare.com.
-dentomedia.do.	0	IN	NS	ns122.hostgator.mx.
-dentomedia.do.	0	IN	NS	ns123.hostgator.mx.
+dentomedia.do.	0	IN	NS	ns70.hostgator.mx.
+dentomedia.do.	0	IN	NS	ns71.hostgator.mx.
 dentons.do.	0	IN	NS	dns1.p07.nsone.net.
 dentons.do.	0	IN	NS	dns2.p07.nsone.net.
 dentons.do.	0	IN	NS	dns3.p07.nsone.net.
@@ -12573,10 +12596,6 @@ digitan.do.	0	IN	NS	ns1.bluehost.com.
 digitan.do.	0	IN	NS	ns2.bluehost.com.
 digitechsystems.do.	0	IN	NS	ns01.trademarkarea.com.
 digitechsystems.do.	0	IN	NS	ns02.trademarkarea.com.
-digitel.do.	0	IN	NS	dns1.midominio.do.
-digitel.do.	0	IN	NS	dns2.midominio.do.
-digitel.do.	0	IN	NS	dns3.midominio.do.
-digitel.do.	0	IN	NS	dns4.midominio.do.
 digitize.do.	0	IN	NS	dns1.midominio.do.
 digitize.do.	0	IN	NS	dns2.midominio.do.
 digitize.do.	0	IN	NS	dns3.midominio.do.
@@ -14814,10 +14833,6 @@ eltaller.do.	0	IN	NS	dell.ns.cloudflare.com.
 eltaller.do.	0	IN	NS	norman.ns.cloudflare.com.
 eltestigo.do.	0	IN	NS	ns1.dns-parking.com.
 eltestigo.do.	0	IN	NS	ns2.dns-parking.com.
-eltiempo.do.	0	IN	NS	ns1045.ui-dns.de.
-eltiempo.do.	0	IN	NS	ns1045.ui-dns.biz.
-eltiempo.do.	0	IN	NS	ns1045.ui-dns.com.
-eltiempo.do.	0	IN	NS	ns1045.ui-dns.org.
 eltitular.do.	0	IN	NS	ns1.eltitular.do.
 eltitular.do.	0	IN	NS	ns2.eltitular.do.
 ns1.eltitular.do.	0	IN	A	162.214.72.224
@@ -17044,10 +17059,6 @@ fjord.do.	0	IN	NS	ns2.netim.net.
 fjord.do.	0	IN	NS	ns3.netim.net.
 fl.do.	0	IN	NS	jill.ns.cloudflare.com.
 fl.do.	0	IN	NS	noah.ns.cloudflare.com.
-flai.do.	0	IN	NS	dns1.midominio.do.
-flai.do.	0	IN	NS	dns2.midominio.do.
-flai.do.	0	IN	NS	dns3.midominio.do.
-flai.do.	0	IN	NS	dns4.midominio.do.
 flamenco.do.	0	IN	NS	ns1.bluehost.com.
 flamenco.do.	0	IN	NS	ns2.bluehost.com.
 flaru.do.	0	IN	NS	ns6601.hostgator.com.
@@ -21746,6 +21757,8 @@ incommendam.do.	0	IN	NS	ns15.domaincontrol.com.
 incommendam.do.	0	IN	NS	ns16.domaincontrol.com.
 incon.do.	0	IN	NS	ns1.subnet4.com.
 incon.do.	0	IN	NS	ns2.subnet4.com.
+inconet.do.	0	IN	NS	ns8932.banahosting.com.
+inconet.do.	0	IN	NS	ns8933.banahosting.com.
 incontro.do.	0	IN	NS	dns1.midominio.do.
 incontro.do.	0	IN	NS	dns2.midominio.do.
 incontro.do.	0	IN	NS	dns3.midominio.do.
@@ -22054,8 +22067,6 @@ inlumina.do.	0	IN	NS	dns3.midominio.do.
 inlumina.do.	0	IN	NS	dns4.midominio.do.
 inmarketing.do.	0	IN	NS	ns1.dns-parking.com.
 inmarketing.do.	0	IN	NS	ns2.dns-parking.com.
-inmarketing.do.	0	IN	NS	ns3.dns-parking.com.
-inmarketing.do.	0	IN	NS	ns4.dns-parking.com.
 inmo.do.	0	IN	NS	dns1.midominio.do.
 inmo.do.	0	IN	NS	dns2.midominio.do.
 inmo.do.	0	IN	NS	dns3.midominio.do.
@@ -22751,6 +22762,10 @@ itek.do.	0	IN	NS	dns3.midominio.do.
 itek.do.	0	IN	NS	dns4.midominio.do.
 iterativo.do.	0	IN	NS	lady.ns.cloudflare.com.
 iterativo.do.	0	IN	NS	seth.ns.cloudflare.com.
+itgdominicana.do.	0	IN	NS	dns1.midominio.do.
+itgdominicana.do.	0	IN	NS	dns2.midominio.do.
+itgdominicana.do.	0	IN	NS	dns3.midominio.do.
+itgdominicana.do.	0	IN	NS	dns4.midominio.do.
 itges.do.	0	IN	NS	ns11.domaincontrol.com.
 itges.do.	0	IN	NS	ns12.domaincontrol.com.
 itm.do.	0	IN	NS	dave.ns.cloudflare.com.
@@ -23274,8 +23289,6 @@ jorgeluispolanco.do.	0	IN	NS	dns1.midominio.do.
 jorgeluispolanco.do.	0	IN	NS	dns2.midominio.do.
 jorgeluispolanco.do.	0	IN	NS	dns3.midominio.do.
 jorgeluispolanco.do.	0	IN	NS	dns4.midominio.do.
-jose.do.	0	IN	NS	ns1.dns-parking.com.
-jose.do.	0	IN	NS	ns2.dns-parking.com.
 joseado.do.	0	IN	NS	dns1.midominio.do.
 joseado.do.	0	IN	NS	dns2.midominio.do.
 joseado.do.	0	IN	NS	dns3.midominio.do.
@@ -25048,6 +25061,9 @@ learn2.do.	0	IN	NS	ns2.instradns.com.
 learn2.do.	0	IN	NS	ns3.instradns.com.
 learningby.do.	0	IN	NS	desi.ns.cloudflare.com.
 learningby.do.	0	IN	NS	jake.ns.cloudflare.com.
+learnto.do.	0	IN	NS	1-you.njalla.no.
+learnto.do.	0	IN	NS	2-can.njalla.in.
+learnto.do.	0	IN	NS	3-get.njalla.fo.
 leaseweb.do.	0	IN	NS	ns1.leaseweb.nl.
 leaseweb.do.	0	IN	NS	ns4.leaseweb.net.
 leaseweb.do.	0	IN	NS	ns5.leaseweb.nl.
@@ -25224,6 +25240,10 @@ lets.do.	0	IN	NS	dns4.midominio.do.
 letsgo.do.	0	IN	NS	pns13.cloudns.net.
 letsgo.do.	0	IN	NS	pns14.cloudns.net.
 letsgo.do.	0	IN	NS	pns16.cloudns.net.
+letsparty.do.	0	IN	NS	dns1.midominio.do.
+letsparty.do.	0	IN	NS	dns2.midominio.do.
+letsparty.do.	0	IN	NS	dns3.midominio.do.
+letsparty.do.	0	IN	NS	dns4.midominio.do.
 letswinup.do.	0	IN	NS	dns1.nominalia.com.
 letswinup.do.	0	IN	NS	dns2.nominalia.com.
 leukoplast.do.	0	IN	NS	melkor.ngninfra.net.
@@ -27134,6 +27154,10 @@ materco.do.	0	IN	NS	dns4.midominio.do.
 materialbank.do.	0	IN	NS	ns01.trademarkarea.com.
 materialbank.do.	0	IN	NS	ns02.trademarkarea.com.
 materialbank.do.	0	IN	NS	ns03.trademarkarea.com.
+maternofetal.do.	0	IN	NS	dns1.midominio.do.
+maternofetal.do.	0	IN	NS	dns2.midominio.do.
+maternofetal.do.	0	IN	NS	dns3.midominio.do.
+maternofetal.do.	0	IN	NS	dns4.midominio.do.
 matevos.do.	0	IN	NS	1-you.njalla.no.
 matevos.do.	0	IN	NS	2-can.njalla.in.
 matevos.do.	0	IN	NS	3-get.njalla.fo.
@@ -29193,9 +29217,8 @@ movies.do.	0	IN	NS	mona.ns.cloudflare.com.
 movies.do.	0	IN	NS	rudy.ns.cloudflare.com.
 movies2.do.	0	IN	NS	sasha.ns.cloudflare.com.
 movies2.do.	0	IN	NS	justin.ns.cloudflare.com.
-movies4u.do.	0	IN	NS	1-you.njalla.no.
-movies4u.do.	0	IN	NS	2-can.njalla.in.
-movies4u.do.	0	IN	NS	3-get.njalla.fo.
+movies4u.do.	0	IN	NS	skip.ns.cloudflare.com.
+movies4u.do.	0	IN	NS	monika.ns.cloudflare.com.
 moviesonheels.do.	0	IN	NS	pdns71.ultradns.com.
 moviesonheels.do.	0	IN	NS	pdns71.ultradns.net.
 moviesshop.do.	0	IN	NS	ns1.onlydomains.com.
@@ -30715,8 +30738,14 @@ novias.do.	0	IN	NS	liz.ns.cloudflare.com.
 novias.do.	0	IN	NS	igor.ns.cloudflare.com.
 novitatescaribaea.do.	0	IN	NS	ns1.openjournalsystems.com.
 novitatescaribaea.do.	0	IN	NS	ns2.openjournalsystems.com.
+novus.do.	0	IN	NS	dns1.midominio.do.
+novus.do.	0	IN	NS	dns2.midominio.do.
+novus.do.	0	IN	NS	dns3.midominio.do.
+novus.do.	0	IN	NS	dns4.midominio.do.
 novusmagazine.do.	0	IN	NS	ns1.s26.intodomain.net.
 novusmagazine.do.	0	IN	NS	ns2.s26.intodomain.net.
+novusrealis.do.	0	IN	NS	jasper.ns.cloudflare.com.
+novusrealis.do.	0	IN	NS	annabel.ns.cloudflare.com.
 novutec.do.	0	IN	NS	ns1045.ui-dns.de.
 novutec.do.	0	IN	NS	ns1045.ui-dns.biz.
 novutec.do.	0	IN	NS	ns1045.ui-dns.com.
@@ -31059,6 +31088,14 @@ oceanspray.do.	0	IN	NS	ns1-05.azure-dns.com.
 oceanspray.do.	0	IN	NS	ns2-05.azure-dns.net.
 oceanspray.do.	0	IN	NS	ns3-05.azure-dns.org.
 oceanspray.do.	0	IN	NS	ns4-05.azure-dns.info.
+oceanveu.do.	0	IN	NS	dns1.midominio.do.
+oceanveu.do.	0	IN	NS	dns2.midominio.do.
+oceanveu.do.	0	IN	NS	dns3.midominio.do.
+oceanveu.do.	0	IN	NS	dns4.midominio.do.
+oceanveudevelopment.do.	0	IN	NS	dns1.midominio.do.
+oceanveudevelopment.do.	0	IN	NS	dns2.midominio.do.
+oceanveudevelopment.do.	0	IN	NS	dns3.midominio.do.
+oceanveudevelopment.do.	0	IN	NS	dns4.midominio.do.
 ochentaveinte.do.	0	IN	NS	ns1.justhost.com.
 ochentaveinte.do.	0	IN	NS	ns2.justhost.com.
 ocho.do.	0	IN	NS	dns1.midominio.do.
@@ -31216,6 +31253,8 @@ officepaper.do.	0	IN	NS	ns1.vodadns.com.
 officepaper.do.	0	IN	NS	ns2.vodadns.com.
 officetarget.do.	0	IN	NS	ns05.domaincontrol.com.
 officetarget.do.	0	IN	NS	ns06.domaincontrol.com.
+ofichat.do.	0	IN	NS	titan1.oficinadigital.do.
+ofichat.do.	0	IN	NS	titan2.oficinadigital.do.
 oficia.do.	0	IN	NS	dns1.midominio.do.
 oficia.do.	0	IN	NS	dns2.midominio.do.
 oficia.do.	0	IN	NS	dns3.midominio.do.
@@ -34328,10 +34367,6 @@ product.do.	0	IN	NS	dns1.midominio.do.
 product.do.	0	IN	NS	dns2.midominio.do.
 product.do.	0	IN	NS	dns3.midominio.do.
 product.do.	0	IN	NS	dns4.midominio.do.
-productdeck.do.	0	IN	NS	ns1045.ui-dns.de.
-productdeck.do.	0	IN	NS	ns1045.ui-dns.biz.
-productdeck.do.	0	IN	NS	ns1045.ui-dns.com.
-productdeck.do.	0	IN	NS	ns1045.ui-dns.org.
 productosdeltropico.do.	0	IN	NS	dns1.midominio.do.
 productosdeltropico.do.	0	IN	NS	dns2.midominio.do.
 productosdeltropico.do.	0	IN	NS	dns3.midominio.do.
@@ -34344,8 +34379,6 @@ products.do.	0	IN	NS	gina.ns.cloudflare.com.
 products.do.	0	IN	NS	ernest.ns.cloudflare.com.
 proempleo.do.	0	IN	NS	ns5.globalhostla.com.
 proempleo.do.	0	IN	NS	ns6.globalhostla.com.
-proempresa.do.	0	IN	NS	ns1.hostyzoom.com.
-proempresa.do.	0	IN	NS	ns2.hostyzoom.com.
 proenergeticos.do.	0	IN	NS	ns1.dnsrubycom.com.
 proenergeticos.do.	0	IN	NS	ns2.dnsrubycom.com.
 proenergeticos.do.	0	IN	NS	ns3.dnsrubycom.com.
@@ -40067,8 +40100,6 @@ spy.do.	0	IN	NS	dns1.midominio.do.
 spy.do.	0	IN	NS	dns2.midominio.do.
 spy.do.	0	IN	NS	dns3.midominio.do.
 spy.do.	0	IN	NS	dns4.midominio.do.
-spyder.do.	0	IN	NS	ns0.wixdns.net.
-spyder.do.	0	IN	NS	ns1.wixdns.net.
 sq.do.	0	IN	NS	edna.ns.cloudflare.com.
 sq.do.	0	IN	NS	donald.ns.cloudflare.com.
 squirrel.do.	0	IN	NS	ns.checkdomain.de.
@@ -41157,8 +41188,6 @@ tali.do.	0	IN	NS	dns1.midominio.do.
 tali.do.	0	IN	NS	dns2.midominio.do.
 tali.do.	0	IN	NS	dns3.midominio.do.
 tali.do.	0	IN	NS	dns4.midominio.do.
-talk.do.	0	IN	NS	ns1.domain.io.
-talk.do.	0	IN	NS	ns2.domain.io.
 tallerburet.do.	0	IN	NS	dns1.midominio.do.
 tallerburet.do.	0	IN	NS	dns2.midominio.do.
 tallerburet.do.	0	IN	NS	dns3.midominio.do.
@@ -41685,6 +41714,10 @@ televisiondominicana.do.	0	IN	NS	dns1.midominio.do.
 televisiondominicana.do.	0	IN	NS	dns2.midominio.do.
 televisiondominicana.do.	0	IN	NS	dns3.midominio.do.
 televisiondominicana.do.	0	IN	NS	dns4.midominio.do.
+telocourier.do.	0	IN	NS	dns1.midominio.do.
+telocourier.do.	0	IN	NS	dns2.midominio.do.
+telocourier.do.	0	IN	NS	dns3.midominio.do.
+telocourier.do.	0	IN	NS	dns4.midominio.do.
 telor.do.	0	IN	NS	ns53.domaincontrol.com.
 telor.do.	0	IN	NS	ns54.domaincontrol.com.
 telus.do.	0	IN	NS	ns1.markmonitor.com.
@@ -41795,6 +41828,10 @@ terrasa.do.	0	IN	NS	ns1.dnsrubycom.com.
 terrasa.do.	0	IN	NS	ns2.dnsrubycom.com.
 terrasa.do.	0	IN	NS	ns3.dnsrubycom.com.
 terrasa.do.	0	IN	NS	ns4.dnsrubycom.com.
+terratrips.do.	0	IN	NS	dns3.midominio.do.
+terratrips.do.	0	IN	NS	dns4.midominio.do.
+terratrips.do.	0	IN	NS	hgns1.hostgator.com.
+terratrips.do.	0	IN	NS	hgns2.hostgator.com.
 terraurbana.do.	0	IN	NS	ns1.siteground.net.
 terraurbana.do.	0	IN	NS	ns2.siteground.net.
 terraverde.do.	0	IN	NS	ns1.justhost.com.
@@ -43610,6 +43647,10 @@ ubal.do.	0	IN	NS	greg.ns.cloudflare.com.
 ubal.do.	0	IN	NS	isla.ns.cloudflare.com.
 ubedube.do.	0	IN	NS	ns1.dondominio.com.
 ubedube.do.	0	IN	NS	ns2.dondominio.com.
+ubertaxi.do.	0	IN	NS	dns1.midominio.do.
+ubertaxi.do.	0	IN	NS	dns2.midominio.do.
+ubertaxi.do.	0	IN	NS	dns3.midominio.do.
+ubertaxi.do.	0	IN	NS	dns4.midominio.do.
 ubicate.do.	0	IN	NS	dns1.midominio.do.
 ubicate.do.	0	IN	NS	dns2.midominio.do.
 ubicate.do.	0	IN	NS	dns3.midominio.do.
@@ -44151,9 +44192,6 @@ usdocs.do.	0	IN	NS	ns2.technosysies.com.
 usdocs.do.	0	IN	NS	ns3.technosysies.com.
 usdocs.do.	0	IN	NS	ns4.technosysies.com.
 usdocs.do.	0	IN	NS	ns5.technosysies.com.
-usdt.do.	0	IN	NS	ns401.controldns.mx.
-usdt.do.	0	IN	NS	ns402.controldns.mx.
-usdt.do.	0	IN	NS	ns403.controldns.mx.
 use.do.	0	IN	NS	jeff.ns.cloudflare.com.
 use.do.	0	IN	NS	leah.ns.cloudflare.com.
 useflow.do.	0	IN	NS	dns1.midominio.do.
@@ -44198,6 +44236,8 @@ uunidad.do.	0	IN	NS	ns02.trademarkarea.com.
 uunidad.do.	0	IN	NS	ns03.trademarkarea.com.
 uv.do.	0	IN	NS	newt.ns.cloudflare.com.
 uv.do.	0	IN	NS	harleigh.ns.cloudflare.com.
+uvis.do.	0	IN	NS	ns14.wixdns.net.
+uvis.do.	0	IN	NS	ns15.wixdns.net.
 uvva.do.	0	IN	NS	dns1.sered.net.
 uvva.do.	0	IN	NS	dns2.sered.net.
 uwatchfree.do.	0	IN	NS	ns1.abovedomains.com.
@@ -44972,6 +45012,9 @@ villasirena.do.	0	IN	NS	dns3.midominio.do.
 villatartaruga.do.	0	IN	NS	ns01.trademarkarea.com.
 villatartaruga.do.	0	IN	NS	ns02.trademarkarea.com.
 villatartaruga.do.	0	IN	NS	ns03.trademarkarea.com.
+villavida.do.	0	IN	NS	ns1.netim.net.
+villavida.do.	0	IN	NS	ns2.netim.net.
+villavida.do.	0	IN	NS	ns3.netim.net.
 vimenca.do.	0	IN	NS	ns1.dan.com.
 vimenca.do.	0	IN	NS	ns2.dan.com.
 vimenca.do.	0	IN	NS	verification-g73vexlu.ns3.dan.hosting.
@@ -45696,8 +45739,8 @@ webhooks.do.	0	IN	NS	sean.ns.cloudflare.com.
 webhooks.do.	0	IN	NS	dayana.ns.cloudflare.com.
 webhosting.do.	0	IN	NS	ns1.webhosting.do.
 webhosting.do.	0	IN	NS	ns2.webhosting.do.
-ns1.webhosting.do.	0	IN	A	209.133.194.85
-ns2.webhosting.do.	0	IN	A	209.133.194.86
+ns1.webhosting.do.	0	IN	A	173.249.46.58
+ns2.webhosting.do.	0	IN	A	173.249.46.58
 webinar.do.	0	IN	NS	pdns09.domaincontrol.com.
 webinar.do.	0	IN	NS	pdns10.domaincontrol.com.
 webmoney.do.	0	IN	NS	ns1.molot.eu.

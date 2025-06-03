@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025060215 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025060315 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1663,6 +1663,8 @@ emirates.gp.	0	IN	NS	pdns124.ultradns.biz.
 emirates.gp.	0	IN	NS	pdns124.ultradns.com.
 emirates.gp.	0	IN	NS	pdns124.ultradns.net.
 emirates.gp.	0	IN	NS	pdns124.ultradns.org.
+en.gp.	0	IN	NS	ns1.lhebergeur.fr.
+en.gp.	0	IN	NS	ns2.lhebergeur.fr.
 en-vision.gp.	0	IN	NS	dns1.cscdns.net.
 en-vision.gp.	0	IN	NS	dns2.cscdns.net.
 endermologie.gp.	0	IN	NS	ha1.markmonitor.zone.

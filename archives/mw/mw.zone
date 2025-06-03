@@ -1,4 +1,4 @@
-mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748901901 1800 600 604800 1800
+mw.	0	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1748988301 1800 600 604800 1800
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -491,8 +491,6 @@ aviator-malawi.mw.	0	IN	NS	sid.ns.cloudflare.com.
 aviator-malawi.mw.	0	IN	NS	bethany.ns.cloudflare.com.
 aviator1.mw.	0	IN	NS	brad.ns.cloudflare.com.
 aviator1.mw.	0	IN	NS	stella.ns.cloudflare.com.
-aviatorbet.mw.	0	IN	NS	ns1.dns-parking.com.
-aviatorbet.mw.	0	IN	NS	ns2.dns-parking.com.
 aviatorbets.mw.	0	IN	NS	rex.ns.cloudflare.com.
 aviatorbets.mw.	0	IN	NS	maleah.ns.cloudflare.com.
 aviators.mw.	0	IN	NS	vera.ns.cloudflare.com.
@@ -624,6 +622,14 @@ betani.mw.	0	IN	NS	ns2.101domain.com.
 betfox.mw.	0	IN	NS	ns01.trademarkarea.com.
 betfox.mw.	0	IN	NS	ns02.trademarkarea.com.
 betfox.mw.	0	IN	NS	ns03.trademarkarea.com.
+betgr8.mw.	0	IN	NS	ns-cloud-e1.googledomains.com.
+betgr8.mw.	0	IN	NS	ns-cloud-e2.googledomains.com.
+betgr8.mw.	0	IN	NS	ns-cloud-e3.googledomains.com.
+betgr8.mw.	0	IN	NS	ns-cloud-e4.googledomains.com.
+betgreat.mw.	0	IN	NS	ns-cloud-e1.googledomains.com.
+betgreat.mw.	0	IN	NS	ns-cloud-e2.googledomains.com.
+betgreat.mw.	0	IN	NS	ns-cloud-e3.googledomains.com.
+betgreat.mw.	0	IN	NS	ns-cloud-e4.googledomains.com.
 betking.mw.	0	IN	NS	dns1.safenames.com.
 betking.mw.	0	IN	NS	dns2.safenames.net.
 betking.mw.	0	IN	NS	dns3.safenames.org.
@@ -1626,8 +1632,8 @@ esso.mw.	0	IN	NS	a10-67.akam.net.
 esso.mw.	0	IN	NS	a13-67.akam.net.
 esso.mw.	0	IN	NS	a14-65.akam.net.
 esso.mw.	0	IN	NS	a18-64.akam.net.
-eth.mw.	0	IN	NS	ns1.sedoparking.com.
-eth.mw.	0	IN	NS	ns2.sedoparking.com.
+eth.mw.	0	IN	NS	ns5.afternic.com.
+eth.mw.	0	IN	NS	ns6.afternic.com.
 etrade.mw.	0	IN	NS	dns1.cscdns.net.
 etrade.mw.	0	IN	NS	dns2.cscdns.net.
 eu.mw.	0	IN	NS	dns1.safenames.com.
@@ -3807,6 +3813,12 @@ oracle.mw.	0	IN	NS	a13-65.akam.net.
 oracle.mw.	0	IN	NS	a18-67.akam.net.
 orange.mw.	0	IN	NS	dns1.cscdns.net.
 orange.mw.	0	IN	NS	dns2.cscdns.net.
+orbis-foundation.mw.	0	IN	NS	dns1.safenames.com.
+orbis-foundation.mw.	0	IN	NS	dns2.safenames.net.
+orbis-foundation.mw.	0	IN	NS	dns3.safenames.org.
+orbisfoundation.mw.	0	IN	NS	dns1.safenames.com.
+orbisfoundation.mw.	0	IN	NS	dns2.safenames.net.
+orbisfoundation.mw.	0	IN	NS	dns3.safenames.org.
 org.mw.	0	IN	NS	d.ext.nic.cz.
 org.mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 org.mw.	0	IN	NS	ns4.apnic.net.
