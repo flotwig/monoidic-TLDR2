@@ -1,4 +1,4 @@
-gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165341 900 1800 6048000 3600
+gl.	0	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165396 900 1800 6048000 3600
 gl.	0	IN	NS	a.nic.gl.
 gl.	0	IN	NS	b.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
@@ -1137,9 +1137,8 @@ amka.gl.	0	IN	NS	ns1.absaconit.dk.
 amka.gl.	0	IN	NS	ns2.absaconit.dk.
 amka.gl.	0	IN	NS	ns3.absaconit.dk.
 amka.gl.	0	IN	NS	ns4.absaconit.dk.
-aml.gl.	0	IN	NS	ns1.regery.net.
-aml.gl.	0	IN	NS	ns2.regery.net.
-aml.gl.	0	IN	NS	ns3.regery.net.
+aml.gl.	0	IN	NS	logan.ns.cloudflare.com.
+aml.gl.	0	IN	NS	cheryl.ns.cloudflare.com.
 amma.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 amma.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 amo.gl.	0	IN	NS	ns1.iwantmyname.net.
@@ -1929,8 +1928,10 @@ atuarfik-inussuk.gl.	0	IN	NS	ns1.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns2.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns3.nunahosting.net.
 atuarfik-inussuk.gl.	0	IN	NS	ns4.nunahosting.net.
-atuartutnipaat.gl.	0	IN	NS	ns1.curanet.dk.
-atuartutnipaat.gl.	0	IN	NS	ns2.curanet.dk.
+atuartutnipaat.gl.	0	IN	NS	ns1.nunahosting.net.
+atuartutnipaat.gl.	0	IN	NS	ns2.nunahosting.net.
+atuartutnipaat.gl.	0	IN	NS	ns3.nunahosting.net.
+atuartutnipaat.gl.	0	IN	NS	ns4.nunahosting.net.
 atuffat.gl.	0	IN	NS	parked.g1-dns.com.
 atuffat.gl.	0	IN	NS	parked.g1-dns.one.
 atuisoq.gl.	0	IN	NS	ns01.one.com.
@@ -2844,6 +2845,9 @@ bmp.gl.	0	IN	NS	ns02.one.com.
 bmp.gl.	0	IN	DS	10833 13 2 c90cad96945ceebf084a1982c592e69406cc2350f1aa4354880ca0d8c03d7942
 bmw.gl.	0	IN	NS	dns1.cscdns.net.
 bmw.gl.	0	IN	NS	dns2.cscdns.net.
+bmwspezialist.gl.	0	IN	NS	ns.hostpoint.ch.
+bmwspezialist.gl.	0	IN	NS	ns2.hostpoint.ch.
+bmwspezialist.gl.	0	IN	NS	ns3.hostpoint.ch.
 bn.gl.	0	IN	NS	ns1.dnsimple.com.
 bn.gl.	0	IN	NS	ns2.dnsimple.com.
 bn.gl.	0	IN	NS	ns3.dnsimple.com.
@@ -3142,6 +3146,8 @@ bsg.gl.	0	IN	NS	ns-429.awsdns-53.com.
 bsg.gl.	0	IN	NS	ns-997.awsdns-60.net.
 bsg.gl.	0	IN	NS	ns-1153.awsdns-16.org.
 bsg.gl.	0	IN	NS	ns-2026.awsdns-61.co.uk.
+bsgl.gl.	0	IN	NS	luke.ns.cloudflare.com.
+bsgl.gl.	0	IN	NS	rosalie.ns.cloudflare.com.
 bsme.gl.	0	IN	NS	ns0.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984.is.
 bsme.gl.	0	IN	NS	ns1.1984hosting.com.
@@ -9154,6 +9160,8 @@ japan.gl.	0	IN	NS	ns2.xserver.jp.
 japan.gl.	0	IN	NS	ns3.xserver.jp.
 japan.gl.	0	IN	NS	ns4.xserver.jp.
 japan.gl.	0	IN	NS	ns5.xserver.jp.
+jav.gl.	0	IN	NS	tegan.ns.cloudflare.com.
+jav.gl.	0	IN	NS	rodney.ns.cloudflare.com.
 jazz.gl.	0	IN	NS	ns.hostpoint.ch.
 jazz.gl.	0	IN	NS	ns2.hostpoint.ch.
 jazz.gl.	0	IN	NS	ns3.hostpoint.ch.
@@ -10842,9 +10850,9 @@ lfs.gl.	0	IN	NS	ns1.hoststar.hosting.
 lfs.gl.	0	IN	NS	ns2.hoststar.hosting.
 lg.gl.	0	IN	NS	buck.dnspod.net.
 lg.gl.	0	IN	NS	duet.dnspod.net.
-lgtm.gl.	0	IN	NS	ns-42-a.gandi.net.
-lgtm.gl.	0	IN	NS	ns-57-b.gandi.net.
-lgtm.gl.	0	IN	NS	ns-238-c.gandi.net.
+lgtm.gl.	0	IN	NS	ns1.netim.net.
+lgtm.gl.	0	IN	NS	ns2.netim.net.
+lgtm.gl.	0	IN	NS	ns3.netim.net.
 lh.gl.	0	IN	NS	ns1.simply.com.
 lh.gl.	0	IN	NS	ns2.simply.com.
 lh.gl.	0	IN	NS	ns3.simply.com.
@@ -11788,8 +11796,6 @@ mega10.gl.	0	IN	NS	liz.ns.cloudflare.com.
 mega10.gl.	0	IN	NS	dean.ns.cloudflare.com.
 mega1web.gl.	0	IN	NS	reese.ns.cloudflare.com.
 mega1web.gl.	0	IN	NS	adaline.ns.cloudflare.com.
-mega24.gl.	0	IN	NS	ines.ns.cloudflare.com.
-mega24.gl.	0	IN	NS	emerson.ns.cloudflare.com.
 mega4.gl.	0	IN	NS	liz.ns.cloudflare.com.
 mega4.gl.	0	IN	NS	dean.ns.cloudflare.com.
 mega555.gl.	0	IN	NS	coen.ns.cloudflare.com.
@@ -12536,10 +12542,6 @@ myivcevidensia.gl.	0	IN	NS	emea.excedodns.eu.
 myivcevidensia.gl.	0	IN	NS	world.excedodns.org.
 myivcevidensia.gl.	0	IN	NS	global.excedodns.com.
 myivcevidensia.gl.	0	IN	NS	nordic.excedodns.net.
-mymail.gl.	0	IN	NS	ns1.iwantmyname.net.
-mymail.gl.	0	IN	NS	ns2.iwantmyname.net.
-mymail.gl.	0	IN	NS	ns3.iwantmyname.net.
-mymail.gl.	0	IN	NS	ns4.iwantmyname.net.
 myname.gl.	0	IN	NS	ns1.hyp.net.
 myname.gl.	0	IN	NS	ns2.hyp.net.
 myname.gl.	0	IN	NS	ns3.hyp.net.
@@ -14361,6 +14363,9 @@ oncpolar.gl.	0	IN	NS	ns1.eurodns.com.
 oncpolar.gl.	0	IN	NS	ns2.eurodns.com.
 oncpolar.gl.	0	IN	NS	ns3.eurodns.com.
 oncpolar.gl.	0	IN	NS	ns4.eurodns.com.
+one.gl.	0	IN	NS	1-you.njalla.no.
+one.gl.	0	IN	NS	2-can.njalla.in.
+one.gl.	0	IN	NS	3-get.njalla.fo.
 oneandone.gl.	0	IN	NS	ns55.1und1.de.
 oneandone.gl.	0	IN	NS	ns56.1und1.de.
 onebox.gl.	0	IN	NS	ns1.j2global.com.
@@ -16587,6 +16592,8 @@ sarfarissoq.gl.	0	IN	NS	adam.ns.cloudflare.com.
 sarfarissoq.gl.	0	IN	NS	sharon.ns.cloudflare.com.
 sarisari.gl.	0	IN	NS	ns1.bdm.microsoftonline.com.
 sarisari.gl.	0	IN	NS	ns2.bdm.microsoftonline.com.
+sarliaq.gl.	0	IN	NS	ns01.one.com.
+sarliaq.gl.	0	IN	NS	ns02.one.com.
 sarpiksupply.gl.	0	IN	NS	ns1.modulo.gl.
 sarpiksupply.gl.	0	IN	NS	ns2.modulo.gl.
 sarpiksupply.gl.	0	IN	NS	ns3.modulo.gl.
